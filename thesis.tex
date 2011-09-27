@@ -46,16 +46,40 @@
 \DeclareMathSymbol{\strictif}{\mathrel}{symbolsC}{74}
 \DeclareMathSymbol{\boxright}{\mathrel}{symbolsC}{128}
 
-\title{My Final College Paper}
-\author{Your R. Name}
+\newenvironment{squote}{\begin{quote}\begin{singlespace}}{\end{singlespace}\end{quote}}
+
+\newcommand{\stager}[4]%
+{%
+	\begin{spacing}{1}%
+	\vspace{0pt}
+		\begin{description}[style=nextline, noitemsep, parsep=0pt, topsep=0pt, leftmargin=15mm, itemindent=-10mm, font=\mdseries]
+			\item[\textsc{#1} \emph{#2}] #3
+			\item[]%
+			\begin{flushright}#4\end{flushright}
+		\end{description}%
+	\end{spacing}%
+}
+
+\newcommand{\stage}[3]%
+{%
+	\begin{spacing}{1}%
+	\vspace{0pt}
+		\begin{description}[style=nextline, parsep=0pt, leftmargin=15mm, itemindent=-10mm, font=\mdseries]
+			\item[\textsc{#1} \emph{#2}] #3
+		\end{description}%
+	\end{spacing}%
+}
+
+\title{Everything Unger Says is Wrong}
+\author{Alexander A. Dunn}
 % The month and year that you submit your FINAL draft TO THE LIBRARY (May or December)
-\date{May 200x}
-\division{Mathematics and Natural Sciences}
-\advisor{Advisor F. Name}
+\date{May 2012}
+\division{Philosophy and Other Things}
+\advisor{Paul Hovda}
 %If you have two advisors for some reason, you can use the following
 %\altadvisor{Your Other Advisor}
 %%% Remember to use the correct department!
-\department{Mathematics}
+\department{Philosophy}
 % if you're writing a thesis in an interdisciplinary major,
 % uncomment the line below and change the text as appropriate.
 % check the Senior Handbook if unsure.
@@ -124,45 +148,7 @@
 
 Anyone who needs to use math, tables, a lot of figures, complex cross-references, IPA or who just cares about the final appearance of their document should use \LaTeX. At Reed, math majors are required to use it, most physics majors will want to use it, and many other science majors may want it also.
 	
-    \chapter{The First}
-    	This is the first page of the first chapter. You may delete the contents of this chapter so you can add your own text; it's just here to show you some examples. 
-	
-\section{References, Labels, Custom Commands and Footnotes}
-It is easy to refer to anything within your document using the \texttt{label} and \texttt{ref} tags.  Labels must be unique and shouldn't use any odd characters; generally sticking to letters and numbers (no spaces) should be fine. Put the label on whatever you want to refer to, and put the reference where you want the reference. \LaTeX\ will keep track of the chapter, section, and figure or table numbers for you. 
-
-\subsection{References and Labels}
-Sometimes you'd like to refer to a table or figure, e.g. you can see in Figure \ref{subd2} that you can rotate figures . Start by labeling your figure or table with the label command (\verb=\label{labelvariable}=) below the caption (see the chapter on graphics and tables for examples). Then when you would like to refer to the table or figure, use the ref command (\verb=\ref{labelvariable}=). Make sure your label variables are unique; you can't have two elements named ``default." Also, since the reference command only puts the figure or table number, you will have to put  ``Table" or ``Figure" as appropriate, as seen in the following examples:
-
- As I showed in Table \ref{inheritance} many factors can be assumed to follow from inheritance. Also see the Figure \ref{subd} for an illustration.
- 
-\subsection{Custom Commands}\label{commands}
-Are you sick of writing the same complex equation or phrase over and over? 
-
-The custom commands should be placed in the preamble, or at least prior to the first usage of the command. The structure of the \verb=\newcommand= consists of the name of the new command in curly braces, the number of arguments to be made in square brackets and then, inside a new set of curly braces, the command(s) that make up the new command. The whole thing is sandwiched inside a larger set of curly braces. 
-
-% Note: you cannot use numbers in your commands!
-\newcommand{\hydro}{H$_2$SO$_4$}
-
-In other words, if you want to make a shorthand for H$_2$SO$_4$, which doesn't include an argument, you would write: \verb=\newcommand{\hydro}{H$_2$SO$_4$}= and then when you needed  to use the command you would type \verb=\hydro=. (sans verb and the equals sign brackets, if you're looking at the .tex version). For example: \hydro
-
-\subsection{Footnotes and Endnotes}
-	You might want to footnote something.\footnote{footnote text} Be sure to leave no spaces between the word immediately preceding the footnote command and the command itself. The footnote will be in a smaller font and placed appropriately. Endnotes work in much the same way. More information can be found about both on the CUS site.
-	
-\section{Bibliographies}
-	Of course you will need to cite things, and you will probably accumulate an armful of sources. This is why BibTeX was created. For more information about BibTeX and bibliographies, see our CUS site (\url{web.reed.edu/cis/help/latex/index.html})\footnote{\cite{reedweb:2007}}. There are three pages on this topic: {\it bibtex} (which talks about using BibTeX, at \url{/latex/bibtex.html}), {\it bibtexstyles} (about how to find and use the bibliography style that best suits your needs, at \url{/latex/bibtexstyles.html}) and {\it bibman} (which covers how to make and maintain a bibliography by hand, without BibTeX, at at \url{/latex/bibman.html}). The last page will not be useful unless you have only a few sources. There used to be APA stuff here, but we don't need it since I've fixed this with my apa-ben natbib style file \citep{noble:2002}.
-	
-\subsection{Tips for Bibliographies}
-\begin{enumerate}
-\item Like with thesis formatting, the sooner you start compiling your bibliography for something as large as thesis, the better. Typing in source after source is mind-numbing enough; do you really want to do it for hours on end in late April? Think of it as procrastination.
-\item The cite key (a citation's label) needs to be unique from the other entries.
-\item When you have more than one author or editor, you need to separate each author's name by the word ``and'' e.g.\\ \verb+Author = {Noble, Sam and Youngberg, Jessica},+.
-\item Bibliographies made using BibTeX (whether manually or using a manager) accept LaTeX markup, so you can italicize and add symbols as necessary.
-\item To force capitalization in an article title or where all lowercase is generally used, bracket the capital letter in curly braces.
-\item You can add a Reed Thesis citation\footnote{\citep{noble:2002}} option. The best way to do this is to use the phdthesis type of citation, and use the optional ``type'' field to enter ``Reed thesis'' or ``Undergraduate thesis''.
-\end{enumerate}
-\section{Anything else?}
-If you'd like to see examples of other things in this template, please contact CUS (email cus@reed.edu) with your suggestions. We love to see people using \LaTeX\ for their theses, and are happy to help.
-
+\include{unger}
 
 \chapter{Mathematics and Science}	
 \section{Math}
@@ -396,55 +382,55 @@ If you want to make a table that is longer than a page, you will want to use the
 	Below we have put a few examples of figures. For more help using graphics and the float environment, see our online documentation.
 	
 	And this is how you add a figure with a graphic:
-	\begin{figure}[h]
-	% the options are h = here, t = top, b = bottom, p = page of figures.
-	% you can add an exclamation mark to make it try harder, and multiple
-	% options if you have an order of preference, e.g.
-	% \begin{figure}[h!tbp]
-	   
-	       \centering
-	    % DO NOT ADD A FILENAME EXTENSION TO THE GRAPHIC FILE
-	    \includegraphics{subdivision}
-	     \caption{A Figure}
-	 \label{subd}
-	\end{figure}
+%	\begin{figure}[h]
+%	% the options are h = here, t = top, b = bottom, p = page of figures.
+%	% you can add an exclamation mark to make it try harder, and multiple
+%	% options if you have an order of preference, e.g.
+%	% \begin{figure}[h!tbp]
+%	   
+%	       \centering
+%	    % DO NOT ADD A FILENAME EXTENSION TO THE GRAPHIC FILE
+%	    \includegraphics{subdivision}
+%	     \caption{A Figure}
+%	 \label{subd}
+%	\end{figure}
 
 \clearpage %% starts a new page and stops trying to place floats such as tables and figures
 
-\section{More Figure Stuff}
-You can also scale and rotate figures.
- 	\begin{figure}[h!]
-	   
-	       \centering
-	    % DO NOT ADD A FILENAME EXTENSION TO THE GRAPHIC FILE
-	    \includegraphics[scale=0.5,angle=180]{subdivision}
-	    % if your figure shows up not where you want it, it may just be too big to fit. You can use the scale argument to shrink it, e.g. scale=0.85 is 85 percent of the original size. 
-	     \caption{A Smaller Figure, Flipped Upside Down}
-	 \label{subd2}
-	\end{figure}
+%\section{More Figure Stuff}
+%You can also scale and rotate figures.
+% 	\begin{figure}[h!]
+%	   
+%	       \centering
+%	    % DO NOT ADD A FILENAME EXTENSION TO THE GRAPHIC FILE
+%	    \includegraphics[scale=0.5,angle=180]{subdivision}
+%	    % if your figure shows up not where you want it, it may just be too big to fit. You can use the scale argument to shrink it, e.g. scale=0.85 is 85 percent of the original size. 
+%	     \caption{A Smaller Figure, Flipped Upside Down}
+%	 \label{subd2}
+%	\end{figure}
 
 \section{Even More Figure Stuff}
 With some clever work you can crop a figure, which is handy if (for instance) your EPS or PDF is a little graphic on a whole sheet of paper. The viewport arguments are the lower-left and upper-right coordinates for the area you want to crop.
-
- 	\begin{figure}[h!]
-	    	       \centering
-	    % DO NOT ADD A FILENAME EXTENSION TO THE GRAPHIC FILE
-	   \includegraphics[clip=true, viewport=.0in .0in 1in 1in]{subdivision}
-	    \caption{A Cropped Figure}
-	 \label{subd3}
-	\end{figure}
-	
-      \subsection{Common Modifications}
-      The following figure features the more popular changes thesis students want to their figures. This information is also on the web at \url{web.reed.edu/cis/help/latex/graphics.html}.
-           \renewcommand{\thefigure}{0.\arabic{figure}} %Renumbers the figure to the type 0.x
-    \addtocounter{figure}{4} %starts the figure numbering at 4
-    \begin{figure}[htbp]
-    \begin{center}
-   \includegraphics[scale=0.5]{subdivision}
-    \caption[Flower type and percent specialization]{\footnotesize{Interaction bar plot showing the degree of specialization for each flower type.}} %the special ToC caption is in square brackets. The \footnotesize makes the figure caption smaller
-    \label{barplot}
-    \end{center}
-    \end{figure} 
+%
+% 	\begin{figure}[h!]
+%	    	       \centering
+%	    % DO NOT ADD A FILENAME EXTENSION TO THE GRAPHIC FILE
+%	   \includegraphics[clip=true, viewport=.0in .0in 1in 1in]{subdivision}
+%	    \caption{A Cropped Figure}
+%	 \label{subd3}
+%	\end{figure}
+%	
+%      \subsection{Common Modifications}
+%      The following figure features the more popular changes thesis students want to their figures. This information is also on the web at \url{web.reed.edu/cis/help/latex/graphics.html}.
+%           \renewcommand{\thefigure}{0.\arabic{figure}} %Renumbers the figure to the type 0.x
+%    \addtocounter{figure}{4} %starts the figure numbering at 4
+%    \begin{figure}[htbp]
+%    \begin{center}
+%   \includegraphics[scale=0.5]{subdivision}
+%    \caption[Flower type and percent specialization]{\footnotesize{Interaction bar plot showing the degree of specialization for each flower type.}} %the special ToC caption is in square brackets. The \footnotesize makes the figure caption smaller
+%    \label{barplot}
+%    \end{center}
+%    \end{figure} 
 
 \chapter*{Conclusion}
          \addcontentsline{toc}{chapter}{Conclusion}
@@ -474,7 +460,7 @@ And here's some other random info: the first paragraph after a chapter title or 
 
 % Make my bibliography be called "Bibliography" and not "References" (or "Works Cited" or...):
 % \renewcommand{\bibname}{Works Cited}
-    \bibliographystyle{bsts/mla-good} % there are a variety of styles available; 
+    \bibliographystyle{ChicagoReedweb} % there are a variety of styles available; 
 % replace ``plainnat'' with the style of choice. You can refer to files in the bsts or APA 
 % subfolder, e.g. 
 % \bibliographystyle{APA/apa-good}  % or
@@ -482,8 +468,8 @@ And here's some other random info: the first paragraph after a chapter title or 
 
 % if you're using bibtex, the next line forces every entry in the bibtex file to be included
 % in your bibliography, regardless of whether or not you've cited it in the thesis.
-    \nocite{*}
-    \bibliography{thesis}
+    %\nocite{*}
+    \bibliography{everything}
 
 % Finally, an index would go here... but it is also optional.
 \end{document}
