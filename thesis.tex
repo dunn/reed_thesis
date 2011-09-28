@@ -6,7 +6,7 @@
 % them to cus@reed.edu
 %
 
-\documentclass[12pt,twoside]{reedthesis}
+\documentclass[12pt,twoside]{reedfancy}
 \usepackage{graphicx,latexsym} 
 \usepackage{amssymb,amsthm,amsmath}
 \usepackage{longtable,booktabs,setspace} 
@@ -47,6 +47,12 @@
 	\end{spacing}%
 }
 
+%\newcommand{\chapterpig}[1]{%
+% \rightmark{#1}{}}
+\def\thetitle{oink}
+\renewcommand{\firstmark}{\thetitle}
+\newcommand{\chapterpig}[1]{\def\thetitle{#1}}
+
 \title{A World Without Us}
 \author{Alexander A. Dunn}
 % The month and year that you submit your FINAL draft TO THE LIBRARY (May or December)
@@ -65,6 +71,9 @@
   \frontmatter % this stuff will be roman-numbered
   \pagestyle{empty} % this removes page numbers from the frontmatter
 
+% is this a good idea:?
+%\begin{spacing}{1.35}
+
 % Acknowledgements (Acceptable American spelling) are optional
 % So are Acknowledgments (proper English spelling)
     \chapter*{Acknowledgements}
@@ -77,9 +86,9 @@
 
     \tableofcontents
 % if you want a list of tables, optional
-    \listoftables
+   % \listoftables
 % if you want a list of figures, also optional
-    \listoffigures
+   % \listoffigures
 
 % The abstract is not required if you're writing a creative thesis (but aren't they all?)
 % If your abstract is longer than a page, there may be a formatting issue.
@@ -116,81 +125,6 @@ Anyone who needs to use math, tables, a lot of figures, complex cross-references
 	
 \include{unger}
 
-\chapter{Mathematics and Science}	
-\section{Math}
-	\TeX\ is the best way to typeset mathematics. Donald Knuth designed \TeX\ when he got frustrated at how long it was taking the typesetters to finish his book, which contained a lot of mathematics. 
-	
-	If you are doing a thesis that will involve lots of math, you will want to read the following section which has been commented out. If you're not going to use math, skip over this next big red section. (It's red in the .tex file but does not show up in the .pdf.)
-
-\section{Chemistry 101: Symbols}
-Chemical formulas will look best if they are not italicized. Get around math mode's automatic italicizing by using the argument \verb=$\mathrm{formula here}$=, with your formula inside the curly brackets.
-
-So, $\mathrm{Fe_2^{2+}Cr_2O_4}$ is written \verb=$\mathrm{Fe_2^{2+}Cr_2O_4}$=\\
-Exponent or Superscript: O$^{-}$\\
-Subscript: CH$_{4}$\\
-
-To stack numbers or letters as in $\mathrm{Fe_2^{2+}}$, the subscript is defined first, and then the superscript is defined.\\
-Angstrom: {\AA}\\
-Bullet: CuCl $\bullet$ 7H${_2}$O\\
-Double Dagger: \ddag \/\\
-Delta: $\Delta$\\
-Reaction Arrows: $\longrightarrow$ or  $\xrightarrow{solution}$\\
-Resonance Arrows: $\leftrightarrow$\\
-Reversible Reaction Arrows: $\rightleftharpoons$ or $\xrightleftharpoons[ ]{solution}$ (the latter requires the chemarr package)\\
-
-
-\subsection{Typesetting reactions}
-You may wish to put your reaction in a figure environment, which means that LaTeX will place the reaction where it fits and you can have a figure legend if desired:
-\begin{figure}[htbp]
-\begin{center}
-$\mathrm{C_6H_{12}O_6  + 6O_2} \longrightarrow \mathrm{6CO_2 + 6H_2O}$
-\caption{Combustion of glucose}
-\label{combustion of glucose}
-\end{center}
-\end{figure}
-
-\subsection{Other examples of reactions}
-$\mathrm{NH_4Cl_{(s)}} \rightleftharpoons \mathrm{NH_{3(g)}+HCl_{(g)}}$\\
-$\mathrm{MeCH_2Br + Mg} \xrightarrow[below]{above} \mathrm{MeCH_2\bullet Mg \bullet Br}$
-
-\section{Physics}
-
-Many of the symbols you will need can be found on the math page (\url{http://web.reed.edu/cis/help/latex/math.html}) and the Comprehensive \LaTeX\ Symbol Guide (enclosed in this template download).  You may wish to create custom commands for commonly used symbols, phrases or equations, as described in Chapter \ref{commands}.
-
-\section{Biology}
-You will probably find the resources at \url{http://www.lecb.ncifcrf.gov/~toms/latex.html} helpful, particularly the links to bsts for various journals. You may also be interested in TeXShade for nucleotide typesetting (\url{http://homepages.uni-tuebingen.de/beitz/txe.html}).  Be sure to read the proceeding chapter on graphics and tables, and remember that the thesis template has versions of Ecology and Science bsts which support webpage citation formats. 
-
-\chapter{Tables and Graphics}
-
-\section{Tables}
-	The following section contains examples of tables, most of which have been commented out for brevity. (They will show up in the .tex document in red, but not at all in the .pdf). For more help in constructing a table (or anything else in this document), please see the LaTeX pages on the CUS site. 
-
-\begin{table}[htdp] % begins the table floating environment. This enables LaTeX to fit the table where it works best and lets you add a caption.
-\caption[Basic Table 1]{A Basic Table: Correlation of Factors between Parents and Child, Showing Inheritance} 
-% The words in square brackets of the caption command end up in the Table of Tables. The words in curly braces are the caption directly over the table.
-\begin{center} 
-% makes the table centered
-\begin{tabular}{c c c c} 
-% the tabular environment is used to make the table itself. The {c c c c} specify that the table will have four columns and they will all be center-aligned. You can make the cell contents left aligned by replacing the Cs with Ls or right aligned by using Rs instead. Add more letters for more columns, and pipes (the vertical line above the backslash) for vertical lines. Another useful type of column is the p{width} column, which forces text to wrap within whatever width you specify e.g. p{1in}. Text will wrap badly in narrow columns though, so beware.
-\toprule % a horizontal line, slightly thicker than \hline, depends on the booktabs package
-  Factors &  Correlation between Parents \& Child & Inherited \\ % the first row of the table. Separate columns with ampersands and end the line with two backslashes. An environment begun in one cell will not carry over to adjacent rows.
-  \midrule % another horizontal line
-Education & -0.49 & Yes \\ % another row
-Socio-Economic Status & 0.28 & Slight \\
-Income & 0.08 & No\\
-Family Size & 0.19 & Slight \\
-Occupational Prestige &0.21 & Slight \\
-\bottomrule % yet another horizontal line
-\end{tabular}
-\end{center}
-\label{inheritance} % labels are useful when you have more than one table or figure in your document. See our online documentation for more on this.
-\end{table}
-
-	\clearpage 
-%% \clearpage ends the page, and also dumps out all floats. 
-%% Floats are things like tables and figures.
-   
-
 \chapter*{Conclusion}
          \addcontentsline{toc}{chapter}{Conclusion}
 	\chaptermark{Conclusion}
@@ -200,7 +134,7 @@ Occupational Prestige &0.21 & Slight \\
 	
 Here's a conclusion, demonstrating the use of all that manual incrementing and table of contents adding that has to happen if you use the starred form of the chapter command. The deal is, the chapter command in \LaTeX\ does a lot of things: it increments the chapter counter, it resets the section counter to zero, it puts the name of the chapter into the table of contents and the running headers, and probably some other stuff. 
 
-So, if you remove all that stuff because you don't like it to say ``Chapter 4: Conclusion'', then you have to manually add all the things \LaTeX\ would normall do for you. Maybe someday we'll write a new chapter macro that doesn't add ``Chapter X'' to the beginning of every chapter title.
+So, if you remove all that stuff because you don't like it to say ``Chapter 4: Conclusion'', then you have to manually add all the things \LaTeX\ would normally do for you. Maybe someday we'll write a new chapter macro that doesn't add ``Chapter X'' to the beginning of every chapter title.
 
 \section{More info}
 And here's some other random info: the first paragraph after a chapter title or section head \emph{shouldn't be} indented, because indents are to tell the reader that you're starting a new paragraph. Since that's obvious after a chapter or section title, proper typesetting doesn't add an indent there. 
@@ -229,5 +163,6 @@ And here's some other random info: the first paragraph after a chapter title or 
     %\nocite{*}
     \bibliography{everything}
 
+%\end{spacing}
 % Finally, an index would go here... but it is also optional.
 \end{document}
