@@ -47,11 +47,10 @@
 	\end{spacing}%
 }
 
-%\newcommand{\chapterpig}[1]{%
-% \rightmark{#1}{}}
-\def\thetitle{oink}
-\renewcommand{\firstmark}{\thetitle}
-\newcommand{\chaptername}[1]{\def\thetitle{#1}}
+% moved to reedfancy.cls:
+%\def\thetitle{oink}
+%\renewcommand{\firstmark}{\thetitle}
+%\newcommand{\chapterpig}[1]{\def\thetitle{#1}}
 
 \title{A World Without Us}
 \author{Alexander A. Dunn}
@@ -106,12 +105,6 @@
 	\chaptermark{Introduction}
 	\markboth{Introduction}{Introduction}
 	% The three lines above are to make sure that the headers are right, that the intro gets included in the table of contents, and that it doesn't get numbered 1 so that chapter one is 1.
-
-% Double spacing: if you want to double space, or one and a half 
-% space, uncomment one of the following lines. You can go back to 
-% single spacing with the \singlespacing command.
-% \onehalfspacing
-% \doublespacing
 	
 	Welcome to the \LaTeX\ thesis template. If you've never used \TeX\ or \LaTeX\ before, you'll have an initial learning period to go through, but the results of a nicely formatted thesis are worth it for more than the aesthetic benefit: markup like \LaTeX\ is more consistent than the output of a word processor, much less prone to corruption or crashing and the resulting file is smaller than a Word file. While you may have never had problems using Word in the past, your thesis is going to be about twice as large and complex as anything you've written before, taxing Word's capabilities. If you're still on the fence about  using \LaTeX, read the Introduction to LaTeX on the CUS site as well as skim the following template and give it a few weeks. Pretty soon all the markup gibberish will become second nature.
 
@@ -122,6 +115,8 @@
 \section{Who should use it?}
 
 Anyone who needs to use math, tables, a lot of figures, complex cross-references, IPA or who just cares about the final appearance of their document should use \LaTeX. At Reed, math majors are required to use it, most physics majors will want to use it, and many other science majors may want it also.
+
+\include{aliens}
 	
 \include{unger}
 
