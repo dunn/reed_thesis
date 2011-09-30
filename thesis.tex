@@ -7,6 +7,7 @@
 %
 
 \documentclass[12pt,twoside]{reedfancy}
+\usepackage{standalone}
 \usepackage{graphicx,latexsym} 
 \usepackage{amssymb,amsthm,amsmath}
 \usepackage{longtable,booktabs,setspace} 
@@ -116,9 +117,13 @@
 
 Anyone who needs to use math, tables, a lot of figures, complex cross-references, IPA or who just cares about the final appearance of their document should use \LaTeX. At Reed, math majors are required to use it, most physics majors will want to use it, and many other science majors may want it also.
 
-\include{aliens}
+\chapter{A story about things}
+\chapterpig{A Story About Things}
+\input{aliens}
 	
-\include{unger}
+\chapter{Brute facts and arbitrary objects}
+\chapterpig{Brute Facts}
+\input{unger}
 
 \chapter*{Conclusion}
          \addcontentsline{toc}{chapter}{Conclusion}
