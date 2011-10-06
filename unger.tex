@@ -1,4 +1,5 @@
 \documentclass[11pt]{article}
+\usepackage{standalone} \newif\ifstandlone \standalonetrue
 %\documentclass[11pt]{article}
 \usepackage[left=1.75in, right=1.75in, top=1.25in, bottom=1.25in]{geometry}
 \geometry{letterpaper}
@@ -48,8 +49,10 @@
 \author{Alex Dunn}
 \begin{document}
 %\standaloneignore{%
+\ifstandalone
 \maketitle
 \begin{spacing}{1.5}
+\fi
 %}
 
 % MOVED TO REEDFANCY.CLS
@@ -77,19 +80,21 @@ is true.%
 There are several prominent answers to the Special Composition Question, including the following:\footnote{These formulations are from~\citet{markosian1998a}.}
 \begin{description}
 	\item[Nihilism] Necessarily, for any $x$s, there is an object composed of the $x$s iff there is only one of the $x$s, i.e., the only objects that exist are simples.~(\citeyear[219]{markosian1998a})%
-		\footnote{Of course, it may be that the world is not fundamentally particulate, and is filled not with simples but with `gunk'; see \citet{schaffer2003}. Nihilism (and van Inwagen's second condition below) can be formulated to take this possibility into account: ``for any quantity of gunk, there is nothing composed of it.''}%
+	%
+		\footnote{\label{gunk} Of course, it may be that the world is not fundamentally particulate, and is filled not with simples but with `gunk'; see \citet{schaffer2003}. Nihilism (and van Inwagen's second condition below) can be formulated to take this possibility into account: ``for any quantity of gunk, there is nothing composed of it.''}%
+	%
 	\item[Van Inwagenism] Necessarily, for any $x$s, there is an object composed of the $x$s iff either (i) the activity of the $x$s constitutes a life or (ii) there is only one of the $x$s.~(\citeyear[221]{markosian1998a})
 	\item[Universalism] Necessarily, for any $x$s, there is an object composed of the $x$s iff no two of the $x$s overlap.~(\citeyear[227]{markosian1998a})
 \end{description}
 
-Markosian argues that, from among these and all other possibilities, no satisfactory answer to the Special Composition Question can be found. He concludes that cases of composition are simply brute facts with no explanation connecting them to other cases of composition.
+Markosian argues that, from among these and all other possibilities, no satisfactory answer to the Special Composition Question can be found. He concludes that cases of composition are simply brute facts with no explanation.% connecting them to other cases of composition.
 
 I think that Markosian does show that, {\em for a realist},%
 \footnote{At least for a realist who believes that things that exist would exist in a world without us. [The question ``what would there be in a world without us?'' will be raised before this chapter.]}%
 %
 \ there is no good answer to the SCQ. If Markosian is a realist, he must admit that the fact that my desk exists is just a brute fact. It will likewise be a brute fact that there is not a desk missing a leg that exists in the exact location as my real desk (minus the missing leg).
 
-This position accords well with common sense, but it smacks of arbitrariness. Below I will [probably try to] argue that facts about what things do and do not exist is not arbitrary in this way. I think facts about what is in the world are not arbitrary in a way that a standard realist view of existence cannot account for. First, however, we ought to look at the answers to the SCQ that Markosian rejects.
+This position accords well with common sense, but it smacks of arbitrariness. Below I will [probably try to] argue that facts about what things do and do not exist are not arbitrary in this way. I think facts about what is in the world are not arbitrary in a way that a standard realist view of existence cannot account for. First, however, we ought to look at the answers to the SCQ that Markosian rejects.
 
 Markosian tosses Nihilism with a refreshing lack of ado: ``according to Nihilism, there are no physical objects composed of many parts. So Nihilism seems to entail that you and I do not exist. And we can't have that''~(\citeyear[220]{markosian1998a}).
 
@@ -100,6 +105,7 @@ This will satisfy most of us, but Peter Unger won't take kindly to such a dismis
 \ which allows for living things to exist. (Spoiler: Nihilism is actually incoherent.)
 
 \section{Nihilism (and why it's wrong)}
+\label{nihilism}
 As explained above, Nihilism is the theory that no composite objects exist. If the universe is fundamentally particulate, then Nihilism claims that only simples (things with no proper parts) exist; if the universe is constituted of infinitely divisible gunk, then Nihilism claims either that only gunk exists, or perhaps nothing at all (because there are no simples; gunk is composed of more gunk).
 
 Van Inwagen thinks that Nihilism is almost correct; other than simples (or gunk), nothing exists except for living organisms.%
@@ -190,10 +196,12 @@ But seeing as we have not {\em one} plausible relation between objects that is n
 \section{Arbitrariness}
 Where does this leave us? [stuff about realism]
 
+\ifstandalone
 %\csname standaloneignore\endcsname
 \bibliography{everything}%\endcsname
 \bibliographystyle{ChicagoReedweb}%\endcsname
 \end{spacing}%\endcsname
+\fi
 \end{document}%\endcsname
 
 %\onlyifstandalone{\end{spacing} \end{document}}
