@@ -49,6 +49,25 @@
 	\end{spacing}%
 }
 
+%squeezing intro quotes
+\newenvironment{inq}{%
+%	\begin{quote}
+	\begin{center}
+	\begin{spacing}{1}
+%	\linewidth3in
+	\list{}{%
+	%\textwidth2in
+	\leftmargin1in   % this is the adjusting screw
+    \rightmargin\leftmargin
+	\item\relax}
+	}{%
+	\endlist
+	\end{spacing}
+	\end{center}
+	%\end{quote}
+	%\vspace{10pt}
+	}
+
 % moved to reedfancy.cls:
 %\def\thetitle{oink}
 %\renewcommand{\firstmark}{\thetitle}
@@ -72,8 +91,7 @@
   \frontmatter % this stuff will be roman-numbered
   \pagestyle{empty} % this removes page numbers from the frontmatter
 
-% is this a good idea:?
-%\begin{spacing}{1.35}
+\begin{spacing}{1.25}
 
 % Acknowledgements (Acceptable American spelling) are optional
 % So are Acknowledgments (proper English spelling)
@@ -102,13 +120,15 @@
 %The \introduction command is provided as a convenience.
 %if you want special chapter formatting, you'll probably want to avoid using it altogether
 
-    \chapter*{Introduction}
-         \addcontentsline{toc}{chapter}{Introduction}
-	\chaptermark{Introduction}
-	\markboth{Introduction}{Introduction}
+    \chapter{Introduction}
+    \chapterpig{Introduction}
+         %\addcontentsline{toc}{chapter}{Introduction}
+	%\chaptermark{Introduction}
+	%\markboth{Introduction}{Introduction}
 	% The three lines above are to make sure that the headers are right, that the intro gets included in the table of contents, and that it doesn't get numbered 1 so that chapter one is 1.
 	
 	Welcome to the \LaTeX\ thesis template. If you've never used \TeX\ or \LaTeX\ before, you'll have an initial learning period to go through, but the results of a nicely formatted thesis are worth it for more than the aesthetic benefit: markup like \LaTeX\ is more consistent than the output of a word processor, much less prone to corruption or crashing and the resulting file is smaller than a Word file. While you may have never had problems using Word in the past, your thesis is going to be about twice as large and complex as anything you've written before, taxing Word's capabilities. If you're still on the fence about  using \LaTeX, read the Introduction to LaTeX on the CUS site as well as skim the following template and give it a few weeks. Pretty soon all the markup gibberish will become second nature.
+
 
 \section{Why use it?}
 	
@@ -122,12 +142,12 @@ Anyone who needs to use math, tables, a lot of figures, complex cross-references
 %\chapterpig{A Story About Things}
 %\input{aliens}
 
-\chapter{Denials}
+\chapter{Denying the ordinary}
 \label{deny}
-\chapterpig{Denials}
+\chapterpig{Denying the Ordinary}
 \input{stroud}
 	
-\chapter{Brute Facts}
+\chapter{Brute facts}
 \label{brute}
 \chapterpig{Brute Facts}
 \input{unger}
@@ -170,6 +190,6 @@ And here's some other random info: the first paragraph after a chapter title or 
     %\nocite{*}
     \bibliography{everything}
 
-%\end{spacing}
+\end{spacing}
 % Finally, an index would go here... but it is also optional.
 \end{document}

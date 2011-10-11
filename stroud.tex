@@ -22,6 +22,25 @@
 
 \newenvironment{squote}{\begin{quote}\begin{singlespace}}{\end{singlespace}\end{quote}}
 
+%squeezing intro quotes
+\newenvironment{inq}{%
+%	\begin{quote}
+	\begin{center}
+	\begin{spacing}{1}
+%	\linewidth3in
+	\list{}{%
+	%\linewidth3in
+	\leftmargin0.75in   % this is the adjusting screw
+    \rightmargin\leftmargin
+	\item\relax}
+	}{%
+	\endlist
+	\end{spacing}
+	\end{center}
+	%\end{quote}
+	%\vspace{10pt}
+	}
+
 \title{Denying the Ordinary}
 \author{Alexander A. Dunn}
 \begin{document}
@@ -34,19 +53,21 @@
 %The philosophical quest must start somewhere. It needs a set of beliefs about what the world is like. Without some attitudes, perceptions, beliefs, or theories to start with, it would have nothing to reflect on.~\citep[16]{stroud2000a}
 %\end{squote}
 
-\begin{center}
-%\begin{description}[labelindent=10pt]
-	\textbf{quine}, v. To deny resolutely the existence or importance of something real or significant.\footnote{This is of course from the {\em Philosophical Lexicon}~\citep{dennett2008}.}
-%\end{description}
-\end{center}\vspace{5pt}
+%\begin{inq}
+%%\begin{description}[labelindent=10pt]
+%	\textbf{quine}, v. To deny resolutely the existence or importance of something real or significant.%\footnotemark
+%	\footnote{This is of course from the {\em Philosophical Lexicon}~\citep{dennett2008}.}
+%%\end{description}
+%\end{inq}%\vspace{5pt}
+%%\footnotetext{This is of course from the {\em Philosophical Lexicon}~\citep{dennett2008}.}
 
-\section{How to defy common sense}
-\label{denials}
+%\section{How to defy common sense}
+%\label{denials}
 Every so often a philosopher will claim that some aspect of what we take to be our world is somehow illusory, bogus, or simply nonexistent. This sort of denial will take various forms. One might claim that a certain phenomenon does indeed find expression in the world, but that it is somehow subjective; without humans to experience it, there would be no such phenomena. Or one might deny that some ordinary object of experience is actually non-existent. Peter van Inwagen claims that tables do not exist. He recognizes, of course, that people talk and have beliefs about (what they take to be) tables, so he must find a way to explain our beliefs in tables in terms of those things that he does believe to exist. Finally, one might claim that some things are non-existent, and that we in fact {\em don't} really talk and have beliefs about them. This is the sort of denial we make of the existence of ghosts. Unlike the philosopher who denies the existence of tables, we who deny the existence of ghosts don't have to explain people's beliefs in ghosts---people simply don't {\em have} coherent beliefs about them, because they are entirely unreal. Few philosophers make denials of this sort about ``real or significant'' things, because such things (tables, chairs, people, custard) are the putative objects of many beliefs, and to say that these beliefs are utterly incoherent is to cross the line into nonsense.%\footnote{A line Peter Unger has never been shy about crossing, as we will see below.}
 
 In this section I will briefly look at each of these types of denial and how the philosophers making them manage to explain the beliefs that people have about the objects of the denials.
 
-\subsection{The relegation}
+\section{The relegation}
 \label{relegate}
 Among the various phenomena we observe in the world, it can be tempting to draw a distinction between those that we somehow imprint upon the world and those that are independent of any human experience. The former are `subjective' while the latter are `objective' or absolute:
 \begin{squote}
@@ -76,9 +97,13 @@ So the philosopher who is denying the objective reality of color must ``recogniz
 %
 \ So the philosopher relegating colors---or anything else---to subjective reality must have a clear idea of what is left in objective reality.)%
 
-\subsection{The paraphrase}
+\section{The paraphrase}
 \label{paraphrase}
-The second sort of denial goes further in denying any kind of reality at all to the subject of inquiry. The philosopher above denied that colors were `objectively real', but not that they were `subjectively real'; she did not deny that we do at least perceive colors. But there are some things that are taken by some philosophers to be neither objectively or subjectively real; they simply do not exist. Peter van Inwagen, for example, denies the existence of tables, chairs, apples, and every other (inanimate) `composite' object.%
+The second sort of denial goes further in denying any kind of reality at all to the subject of inquiry. The philosopher above denied that colors were `objectively real', but not that they were `subjectively real'; she did not deny that we do at least perceive colors. But there are some things that are taken by some philosophers to be neither objectively or subjectively real; they simply do not exist. A philosopher in a cynical mood might deny that love exists. Depending on how recently she was jilted, however, she might not deny that an utterance of ``there is love in the world'' is true. What she would do is paraphrase it as ``there are people in the world who are in symmetrical or asymmetrical relations with other people that can be described as `loving relationships'\,''. If it seems plausible that the original speaker meant something along these lines, then our philosopher has performed `the paraphrase' on love.%
+\ (The philosopher may or may not go on to claim that the loving relationship would not exist without humans to instantiate it.)
+%\ (The original speaker might reject this paraphrase, of course. She might insist that $\exists x(x=Love)$. In this situation we might perform a resolute denial of the sort described in section~\ref{resolute} below and say that there is no existing object that is love.)
+
+Peter van Inwagen attempts to perform the paraphrase on tables, chairs, apples, and every other (inanimate) `composite' object.%
 %
 \footnote{Just what is meant by a composite objects will be examined later.}
 %
@@ -91,20 +116,22 @@ Van Inwagen asserts, quite seriously, that ``the number of trees is 1 or more an
 \footnote{Van Inwagen assumes, without defense, ``that matter is ultimately particulate\,\ldots\,every material thing is composed of things that have no proper parts: `elementary particles' or `mereological atoms' or `metaphysical simples'\,''~(\citeyear[5]{inwagen1995}). Ted Sider takes him to task for this assumption~(\citeyear{sider1993}), claiming that the possibility of `gunk'---the possibility that the matter of the world is not fundamentally particulate but infinitely divisible---falsifies van Inwagen's thesis. I think it may be possible for van Inwagen to adapt to a gunky world (see Section~\ref{brute}, note~\ref{gunk}), but I think van Inwagen's thesis is false either way.}
 %
 
-Van Inwagen recognizes the necessity of giving such an explanation. Indeed, he admits that ``when people say things in the ordinary business of life by uttering sentences that start `There are chairs\,\ldots ' or `There are stars\,\ldots ', they very often say things that are literally true''~(\citeyear[102]{inwagen1995}). Van Inwagen himself has argued that ``there is an $x$'', if true, entails the existence of at least one $x$~(\citeyear[237--241]{inwagen1998}). What van Inwagen has to say (I don't see what else he {\em could} say) is that {\em we}, when saying things like ``Some chairs are heavier than some tables'', {\em actually mean} this instead: ``There are $x$s [simple particles] that are arranged chairwise and there are $y$ that are arranged tablewise and the $x$s are heavier than the $y$s''~(\citeyear[109]{inwagen1995}). This seems to be a highly dubious hypothesis about the speech practices of other people, and van Inwagen expects resistance. He himself mentions a quote of Kripke's that indicates what form the resistance might take:
+Van Inwagen recognizes the necessity of giving such an explanation. Indeed, he admits that ``when people say things in the ordinary business of life by uttering sentences that start `There are chairs\,\ldots ' or `There are stars\,\ldots ', they very often say things that are literally true''~(\citeyear[102]{inwagen1995}). Van Inwagen himself has argued that ``there is an $x$'', if true, entails the existence of at least one $x$~(\citeyear[237--241]{inwagen1998}). What van Inwagen has to say (I don't see what else he {\em could} say) is that {\em we}, when saying things like ``Some chairs are heavier than some tables'', {\em actually mean} this instead: ``There are $x$s [simple particles] that are arranged chairwise and there are $y$s that are arranged tablewise and the $x$s are heavier than the $y$s''~(\citeyear[109]{inwagen1995}). This seems to be a highly dubious hypothesis about the speech practices of other people, and van Inwagen expects resistance. He himself mentions a quote of Kripke's that indicates what form the resistance might take:
 \begin{squote}
 The philosopher advocates a view apparently in patent contradiction to common sense. Rather than repudiating common sense, he asserts that the conflict comes from a philosophical misinterpretation of common language---sometimes he adds that the misinterpretation is encouraged  by the `superficial form' of ordinary speech. He offers his own analysis of the relevant common assertions, one that shows that they do not really say what they seem to say\,\ldots\,I think such philosophical claims are almost invariably suspect. What the claimant calls a `misleading philosophical construal' of the ordinary statement is probably the natural and correct understanding. The real misconstrual comes when the claimant continues, ``All the ordinary man really means is\,\ldots '' and gives a sophisticated analysis compatible with his own philosophy~(\citeyear[65]{kripke1982}).
 \end{squote}
 
-I do not think van Inwagen's defense is ultimately successful (see Section~\ref{pigletwise}), but it is precisely the sort of defense required when denying the existence of ordinary things like tables and chairs. He cannot claim, without courting absurdity, that we {\em don't} believe there to be tables and chairs in the world. We do believe so. Of course we might be wrong about the existence of tables and chairs; ``from the fact that we believe a certain thing it does not follow that it is true''~\citep[21]{stroud2000a}. Nevertheless it is true that we believe there to be such things; van Inwagen needs to explain the source of this belief. If there are no tables and chairs, then we must be able to understand the beliefs that we thought to be about the furniture to be about something else instead, and we need a story about what that something else is: ``you cannot hope to explain something unless you grant that there is such a thing and you have at least some idea of what it is''~\citep[97]{stroud2000a}. As I will explain below, I don't think van Inwagen offers a good explanation of what our beliefs are about, if not about tables and chairs.
+I do not think van Inwagen's defense is ultimately successful (see Section~\ref{pigletwise}), but it is precisely the sort of defense required when denying the existence of ordinary things like tables and chairs. He cannot claim, without courting absurdity, that we {\em don't} believe there to be tables and chairs in the world. We do believe so. Of course we might be wrong about the existence of tables and chairs; ``from the fact that we believe a certain thing it does not follow that it is true''~\citep[21]{stroud2000a}. Nevertheless it is true that we believe there to be such things; van Inwagen needs to explain the source of this belief. If there are no tables and chairs, then we must be able to understand the beliefs that we thought to be about the furniture to be about something else instead, and we need a story about what that something else is.
+% ``you cannot hope to explain something unless you grant that there is such a thing and you have at least some idea of what it is''~\citep[97]{stroud2000a}.
+\ As I will explain below, I don't think van Inwagen offers a good explanation of what our beliefs are about, if not about tables and chairs.
 
-\subsection{The resolute denial}
+\section{The resolute denial}
 \label{resolute}
 The third kind of denial is that which I likened to a denial of ghosts. When I deny the existence of ghosts, I don't feel the need to explain what people are really talking and thinking about when they appear to be talking and thinking about ghosts. I can simply say that there is {\em nothing} in particular that they are talking about. There are no ghosts, and never have been.
 
-Of course I cannot deny that some people believe that ghosts exist. Some people do believe this. But my resolute denial of the existence of ghosts is compatible with my giving an explanation of why someone thinks there are ghosts. Someone, for example, might tell me that they saw a ghost on the landing. I walk out and see a light from a high window flickering strangely on the wall. (If I squint, the pattern of the light looks almost humanoid.) So I tell her that what she thought was a ghost was really just a curious play of the light. I am not here conceding that she had a belief {\em about} a ghost. On the contrary, I have tried to show her that her belief was about something else entirely. There was in fact no ghost that she could have formed a belief about; ``if we show that what a frightened person saw in the attic on a particular occasion was a rippling reflection of the moon through the window, we implicitly deny the presence of a ghost in giving the explanation of the person's belief and fear''~\citep[76]{stroud2000a}. We do not deny that people have beliefs about what they take to be ghosts; what we deny is that they are correct in taking their beliefs to be about ghosts.
+Of course I cannot deny that some people believe that ghosts exist. Some people do believe this. But my resolute denial of the existence of ghosts is compatible with my giving an explanation of why someone thinks there are ghosts. Someone, for example, might tell me that they saw a ghost on the landing. I walk out and see a light from a high window flickering strangely on the wall. (If I squint, the pattern of the light looks almost humanoid.) So I tell her that what she thought was a ghost was really just a curious play of the light. I am not here conceding that she had a belief {\em about} a ghost. On the contrary, I have tried to show her that her belief was about anything but a ghost. There was in fact no ghost that she could have formed a belief about; ``if we show that what a frightened person saw in the attic on a particular occasion was a rippling reflection of the moon through the window, we implicitly deny the presence of a ghost in giving the explanation of the person's belief and fear''~\citep[76]{stroud2000a}. We do not deny that people have beliefs about what they take to be ghosts; what we deny is that they are correct in taking their beliefs to be about ghosts.
 
-What {\em are} their beliefs about? It might be said that, in Stroud's example, the frightened person is frightened of the reflection of the moon. This is similar to how we might talk about a child's night terrors: ``she was afraid of the chair in her room.'' Looking at things this way, the person's beliefs is {\em about} something, but it is something very different from what they took it to be about. I think, however, that this is not a fully accurate characterization of the objects of the person's belief. It may be true that the reflection of the moon {\em caused} her belief (which caused her fright), but it would be at least a little misleading to say that Mrs --------- is frightened of the reflection of the moon. This is misleading because, if we succeed in showing her that there {\em is} no ghost in the attic, only a reflection of the moon, she will not still be afraid. When she understands that her belief in the ghost was mistaken, she will see that there is nothing to be afraid of. The belief that caused her fright, that there was a ghost in the attic, was in fact a belief {\em about} nothing at all.
+What {\em are} their beliefs about? It might be said that, in Stroud's example, the frightened person is frightened of the reflection of the moon. This is similar to how we might talk about a child's night terrors: ``she was afraid of the chair in her room (she thought it was a monster).'' Looking at things this way, the person's beliefs is {\em about} something, but it is something very different from what they took it to be about. I think, however, that this is not a fully accurate characterization of the object of the person's belief. It may be true that the reflection of the moon {\em caused} her belief (which caused her fright), but it would be at least a little misleading to say that Mrs --------- is frightened of the reflection of the moon. This is misleading because, if we succeed in showing her that there {\em is} no ghost in the attic, only a reflection of the moon, she will not still be afraid. When she understands that her belief in the ghost was mistaken, she will see that there is nothing to be afraid of. The belief that caused her fright, that there was a ghost in the attic, was in fact a belief {\em about} nothing at all.
 
 \subsection{Unger's nihilism}
 \label{unger}
@@ -116,7 +143,7 @@ be some atoms\,\ldots\,I suggest that any adequate response to this contradictio
 
 Having made this denial, Unger must either explain how our beliefs about stones should be understood (van Inwagen has his paraphrasing strategy) or he must deny that we really {\em do} have any beliefs about stones. It appears that he selects the latter option: Unger seems to claim that, like the person who thought they had a belief about a ghost, we are wrong to think that we have any coherent beliefs about stones or any other ordinary things. Unger says that, like `ghost', our ``terms for ordinary things are incoherent [and] cannot apply to anything real''~\citep[147]{unger1979}. A consequence of this is that our language and thought concerning all such things is directed toward {\em nothing at all}: ``it may well be that I have never {\em thought of} any stones at all, or tables, or even human hands. If that is so, then it would seem that {\em a fortiori} I do not {\em know} anything {\em about these entities}, however commonly I might otherwise suppose''~(\citeyear[458]{unger1980a}).
 
-This all seems very strange. Concerning ghosts, ``it is difficult even to find a fully coherent belief that might be exposed as false; we discover, at best, obscurity or perhaps confusion\,\ldots\,do we really understand what sort of thing a ghost is supposed to be''~\citep[76]{stroud2000a}? If someone tries to tell me about the ghost that visited him the previous night, it does not seem unjust to say that he doesn't actually know what he is talking about. But can this be extended to some of the most common objects of experience?
+This all seems very strange. Concerning ghosts, ``it is difficult even to find a fully coherent belief that might be exposed as false; we discover, at best, obscurity or perhaps confusion\,\ldots\,do we really understand what sort of thing a ghost is supposed to be''~\citep[76]{stroud2000a}? If someone tries to tell me about the ghost that visited him the previous night, it does not seem unjust to say that he really doesn't know what he is talking about. But can this be extended to some of the most common objects of experience?
 
 When we denied the existence of ghosts, we denied also others' beliefs in them. We did not, however, deny that people have beliefs which they take to be about ghosts. But we were able to show that these beliefs were not {\em about} ghosts; in most cases they were about nothing at all. Likewise, Unger cannot deny that we have beliefs that we take to be about tables, chairs, and all the other things that he denies exist. If our beliefs about tables and chairs are really beliefs about nothing at all, there are two questions that must be answered: first, what causes us to form these beliefs? and second, if the utterances containing these empty terms are about nothing at all, how do we manage to communicate so effectively using them?
 
