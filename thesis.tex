@@ -4,7 +4,6 @@
 % restructuring and APA support by Jess Youngberg (JY).
 % Your comments and suggestions are more than welcome; please email
 % them to cus@reed.edu
-%
 
 \documentclass[12pt,twoside]{reedfancy}
 \usepackage{standalone}
@@ -12,10 +11,8 @@
 \usepackage{graphicx,latexsym} 
 \usepackage{amssymb,amsthm,amsmath}
 \usepackage{longtable,booktabs,setspace} 
-\usepackage{chemarr} %% Useful for one reaction arrow, useless if you're not a chem major
 \usepackage{url}
 \usepackage{natbib}
-% \usepackage{times} % other fonts are available like times, bookman, charter, palatino
 
 \usepackage{enumitem}
 \setcitestyle{aysep={}}
@@ -49,23 +46,18 @@
 	\end{spacing}%
 }
 
-%squeezing intro quotes
-\newenvironment{inq}{%
-%	\begin{quote}
-	\begin{center}
+\newenvironment{inq}{\vspace{0pt}%
+	\begin{list}{}%
+	{\setlength\labelwidth{0pt}%
+	\setlength\leftmargin{2.5\oddsidemargin}%
+	\setlength\rightmargin{\leftmargin}}
 	\begin{spacing}{1}
-%	\linewidth3in
-	\list{}{%
-	%\textwidth2in
-	\leftmargin1in   % this is the adjusting screw
-    \rightmargin\leftmargin
-	\item\relax}
-	}{%
-	\endlist
+	\item[]%
+	}{
 	\end{spacing}
-	\end{center}
-	%\end{quote}
-	%\vspace{10pt}
+	\end{list}
+	\vspace{10pt}
+	%\noindent%
 	}
 
 % moved to reedfancy.cls:

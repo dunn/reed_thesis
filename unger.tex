@@ -48,13 +48,18 @@
 	\end{spacing}%
 }
 
-%squeezing intro quotes
-\newenvironment{inq}{%
-	\begin{center}
-	\newgeometry{margin=3in}
-	}{%
-	\restoregeometry
-	\end{center}
+\newenvironment{inq}{\vspace{0pt}%
+	\begin{list}{}%
+	{\setlength\labelwidth{0pt}%
+	\setlength\leftmargin{2.5\oddsidemargin}%
+	\setlength\rightmargin{\leftmargin}}
+	\begin{spacing}{1}
+	\item[]%
+	}{
+	\end{spacing}
+	\end{list}
+	\vspace{10pt}
+	%\noindent%
 	}
 
 \title{Brute facts and arbitrary objects}

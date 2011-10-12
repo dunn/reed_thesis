@@ -22,23 +22,18 @@
 
 \newenvironment{squote}{\begin{quote}\begin{singlespace}}{\end{singlespace}\end{quote}}
 
-%squeezing intro quotes
-\newenvironment{inq}{%
-%	\begin{quote}
-	\begin{center}
+\newenvironment{inq}{\vspace{0pt}%
+	\begin{list}{}%
+	{\setlength\labelwidth{0pt}%
+	\setlength\leftmargin{2.5\oddsidemargin}%
+	\setlength\rightmargin{\leftmargin}}
 	\begin{spacing}{1}
-%	\linewidth3in
-	\list{}{%
-	%\linewidth3in
-	\leftmargin0.75in   % this is the adjusting screw
-    \rightmargin\leftmargin
-	\item\relax}
-	}{%
-	\endlist
+	\item[]%
+	}{
 	\end{spacing}
-	\end{center}
-	%\end{quote}
-	%\vspace{10pt}
+	\end{list}
+	\vspace{10pt}
+	%\noindent%
 	}
 
 \title{Denying the Ordinary}
@@ -53,17 +48,13 @@
 %The philosophical quest must start somewhere. It needs a set of beliefs about what the world is like. Without some attitudes, perceptions, beliefs, or theories to start with, it would have nothing to reflect on.~\citep[16]{stroud2000a}
 %\end{squote}
 
-%\begin{inq}
-%%\begin{description}[labelindent=10pt]
-%	\textbf{quine}, v. To deny resolutely the existence or importance of something real or significant.%\footnotemark
-%	\footnote{This is of course from the {\em Philosophical Lexicon}~\citep{dennett2008}.}
-%%\end{description}
-%\end{inq}%\vspace{5pt}
-%%\footnotetext{This is of course from the {\em Philosophical Lexicon}~\citep{dennett2008}.}
+%	\begin{inq}\textbf{quine}, v. To deny resolutely the existence or importance of something real or significant.
+%	\footnote{This is of course from the {\em Philosophical Lexicon}~\citep{dennett2008}.}%}
+%	\end{inq}%
 
 %\section{How to defy common sense}
 %\label{denials}
-Every so often a philosopher will claim that some aspect of what we take to be our world is somehow illusory, bogus, or simply nonexistent. This sort of denial will take various forms. One might claim that a certain phenomenon does indeed find expression in the world, but that it is somehow subjective; without humans to experience it, there would be no such phenomena. Or one might deny that some ordinary object of experience is actually non-existent. Peter van Inwagen claims that tables do not exist. He recognizes, of course, that people talk and have beliefs about (what they take to be) tables, so he must find a way to explain our beliefs in tables in terms of those things that he does believe to exist. Finally, one might claim that some things are non-existent, and that we in fact {\em don't} really talk and have beliefs about them. This is the sort of denial we make of the existence of ghosts. Unlike the philosopher who denies the existence of tables, we who deny the existence of ghosts don't have to explain people's beliefs in ghosts---people simply don't {\em have} coherent beliefs about them, because they are entirely unreal. Few philosophers make denials of this sort about ``real or significant'' things, because such things (tables, chairs, people, custard) are the putative objects of many beliefs, and to say that these beliefs are utterly incoherent is to cross the line into nonsense.%\footnote{A line Peter Unger has never been shy about crossing, as we will see below.}
+\noindent Every so often a philosopher will claim that some aspect of what we take to be our world is somehow illusory, bogus, or simply nonexistent. This sort of denial will take various forms. One might claim that a certain phenomenon does indeed find expression in the world, but that it is somehow subjective; without humans to experience it, there would be no such phenomena. Or one might deny that some ordinary object of experience is actually non-existent. Peter van Inwagen claims that tables do not exist. He recognizes, of course, that people talk and have beliefs about (what they take to be) tables, so he must find a way to explain our beliefs in tables in terms of those things that he does believe to exist. Finally, one might claim that some things are non-existent, and that we in fact {\em don't} really talk and have beliefs about them. This is the sort of denial we make of the existence of ghosts. Unlike the philosopher who denies the existence of tables, we who deny the existence of ghosts don't have to explain people's beliefs in ghosts---people simply don't {\em have} coherent beliefs about them, because they are entirely unreal. Few philosophers make denials of this sort about ``real or significant'' things, because such things (tables, chairs, people, custard) are the putative objects of many beliefs, and to say that these beliefs are utterly incoherent is to cross the line into nonsense.%\footnote{A line Peter Unger has never been shy about crossing, as we will see below.}
 
 In this section I will briefly look at each of these types of denial and how the philosophers making them manage to explain the beliefs that people have about the objects of the denials.
 
