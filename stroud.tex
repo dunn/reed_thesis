@@ -20,6 +20,28 @@
 \DeclareMathSymbol{\strictif}{\mathrel}{symbolsC}{74}
 \DeclareMathSymbol{\boxright}{\mathrel}{symbolsC}{128}
 
+\newcommand{\stager}[4]%
+{%
+	\begin{spacing}{1}%
+	\vspace{0pt}
+		\begin{description}[style=nextline, noitemsep, parsep=0pt, topsep=0pt, leftmargin=15mm, itemindent=-10mm, font=\mdseries]
+			\item[\textsc{#1} \emph{#2}] #3
+			\item[]%
+			\begin{flushright}#4\end{flushright}
+		\end{description}%
+	\end{spacing}%
+}
+
+\newcommand{\stage}[3]%
+{%
+	\begin{spacing}{1}%
+	\vspace{0pt}
+		\begin{description}[style=nextline, parsep=0pt, leftmargin=15mm, itemindent=-10mm, font=\mdseries]
+			\item[\textsc{#1} \emph{#2}] #3
+		\end{description}%
+	\end{spacing}%
+}
+
 \newenvironment{squote}{\begin{quote}\begin{singlespace}}{\end{singlespace}\end{quote}}
 
 \newenvironment{inq}{\vspace{0pt}%
@@ -135,7 +157,7 @@ When we denied the existence of ghosts, we denied also others' beliefs in them. 
 
 \subsubsection{Causes of belief}
 \label{unger-cause}
-People who believe in ghosts probably do so because they have unreflectively embraced the superstitions of their culture. They may initially come to believe that ghosts exist on the testimony of other people---older siblings, perhaps---or by reading too many ghost stories. Much as the Catherine of Jane Austen's {\em Northanger Abbey} jumps to the most macabre conclusions as a result of having absorbed too many gothic novels, so might our gullible reader of ghost stories interpret such innocent phenomena as reflections of the moon as ghostly assailants. Those of us who have not taken our cues from fiction would be more likely to recognize such phenomena as tricks of the light. Even if we were to see something that was definitely {\em not} a trick of the light, we would sooner attribute it to an hallucination than countenance the possibility of ghosts:
+People who believe in ghosts probably do so because they have unreflectively embraced the superstitions of their culture. They may initially come to believe that ghosts exist on the testimony of other people---older siblings, perhaps---or by reading too many ghost stories. Much as Catherine in Jane Austen's {\em Northanger Abbey} jumps to the most macabre conclusions as a result of having absorbed too many gothic novels, so might our gullible reader of ghost stories interpret such innocent phenomena as reflections of the moon as ghostly assailants. Those of us who have not taken our cues from fiction would be more likely to recognize such phenomena as tricks of the light. Even if we were to see something that was definitely {\em not} a trick of the light, we would sooner attribute it to an hallucination than countenance the possibility of ghosts:
 %
 \begin{squote}
 She rose, not as if she had heard me, but with an indescribable grand melancholy of indifference and detachment, and, within a dozen feet of me, stood there as my vile predecessor. Dishonored and tragic, she was all before me; but even as I fixed, and, for memory, secured it, the awful image passed away~\citep[58]{james1991}.
@@ -143,19 +165,51 @@ She rose, not as if she had heard me, but with an indescribable grand melancholy
 %
 Most of us would still, even if presented with such a vision, {\em refuse to believe in ghosts}. This is because we know that the probability of there being such spirits is far less than the probability of us experiencing cracks in our sanity. Undermining my belief that ghosts don't exist would require a great deal---for example, my friend and I both seeing the {\em same} apparent ghost at the same time, and knowing that we were each experiencing the same vision. (Even then, we would want further confirmed sightings to convince us that we weren't, in fact, crazy.)
 
-If this is an accurate characterization of our beliefs concerning ghosts, it is a very different characterization than one we might give of how we learn about and come to believe in chairs. Chairs are not something that children learn about from stories. A child learns what a chair is as an answer to the question, ``What is {\em that?}\,'' Let us suppose that the child is pointing at a chair in the center of a well-lit room containing no other furniture. The chair is clearly visible. If someone were to believe they were pointing at a ghost in a similarly well-lit situation, we could safely assume that they would be experiencing a hallucination. Hallucinations are not shared experiences; if one person is hallucinating a cat, nobody else can see that cat, not even if they were {\em also} hallucinating a cat (they can't both hallucinate the same cat). Such a ghost sighting, therefore, would necessarily be experienced by a single person. A chair, on the other hand, can be sighted by multiple people simultaneously. This is what allows a parent to answer the child's question: ``That's a chair.'' If we supposed that the parent was making demonstrative reference to a figment of their own imagination, we should have to find it miraculous that the child understands what the parent is talking about. (As we will see below, Unger's thesis cannot account for the phenomenon of communication.)
+If this is an accurate characterization of our beliefs concerning ghosts, it is a very different characterization than one we might give of how we learn about and come to believe in chairs. Chairs are not something that children learn about from stories. A child learns what a chair is as an answer to the question, ``What is {\em that?}\,'' Let us suppose that the child is pointing at a chair in the center of a well-lit room containing no other furniture. The chair is clearly visible. If someone were to believe they were pointing at a ghost in a similarly well-lit situation, we could safely assume that they would be experiencing a hallucination. Hallucinations are not shared experiences; if one person is hallucinating a cat, nobody else can see that cat, not even if they were {\em also} hallucinating a cat (they can't both hallucinate the same cat). Such a ghost sighting, therefore, would necessarily be experienced by a single person. A chair, on the other hand, can be sighted by multiple people simultaneously. This is what allows a parent to answer the child's question: ``That's a chair.'' If we supposed that the child was making demonstrative reference to a figment of her own imagination, we should have to find it miraculous that the parent understands what the child is talking about. (As we will see below, Unger's thesis cannot account for the phenomenon of communication.)
 %
 %The reader sympathetic to Unger may feel that this is all beside the point.
 
 \subsubsection{Communication and incoherence}
 \label{unger-comm}
-A consequence of Peter Unger's thesis is that most of our communication is empty of content, if not entirely incoherent. For me to warn my friend of a low-hanging tree branch, I must refer her to it. For her to heed my warning, she must recognize my intention to refer to the branch in question, and, as a result of that intention, herself come to think of branch. But according to Unger, ``when we are under the impression that we are thinking about an object in the world\,\ldots\,our impression is mistaken''~(\citeyear[149]{unger1979}). Unger is denying that I can ever possibly warn my friend about a low-hanging branch.
+A consequence of Peter Unger's thesis is that most of our communication is empty of content, if not entirely incoherent. For me to warn my friend of a low-hanging tree branch, I must refer her to it. For her to heed my warning, she must recognize my intention to refer to the branch in question, and, as a result of that intention, herself come to think of the branch (and then duck). But according to Unger, ``when we are under the impression that we are thinking about an object in the world\,\ldots\,our impression is mistaken''~(\citeyear[149]{unger1979}). Unger is denying that I can ever possibly warn my friend about a low-hanging branch.
 
-This seems plainly false. For after all, my friend ducked. She heard my warning and avoided the low-hanging branch. Unless we are to suppose that it was sheer luck that she moved her head in time to dodge the branch, we must conclude that I did, in fact, warn my friend.
+This seems plainly false. For after all, my friend ducked. She heard my warning and avoided the low-hanging branch. Unless we are to suppose that it was sheer luck that she moved her head in time to dodge the branch, we must conclude that I did, in fact, warn my friend. It doesn't really matter what the content of Unger's argument is, for the impossibility of such communication; it {\em did} succeed.% (I want to set it down as an axiom that \textsc{communication occurs}.)
 
+Let's return to our well-lit room. There is, we may recall, a chair in the center of it. A child and her parent enter.
+
+\stage{Child}{(pointing at the chair)}{What's that?}
+
+Now, if the parent is going to be in a position to understand the question, she must recognize the intention of the child to refer to the chair; recognizing this intention, she comes herself to think of the chair. Only if this process occurs can the parent know what the child means by ``that''. Having performed this feat, the parent can then tell the child ``That's a chair''. If the child was hallucinating the chair (if the room was really empty), then the parent could not recognize the referential intention of the child. The parent could surely not be brought to think of the child's hallucination. Rather she will look at an empty room and say
+
+\stage{Parent}{}{What's what?}
+
+But if the room is not empty, and the child is not hallucinating, then the parent {\em will} recognize the child's referential intention. If the child is referring to a chair, then the parent will say ``That's a chair''.
+
+And yet somehow Unger maintains that the kind of object picked out by `chair' is ``never instanced''~(\citeyear[147]{unger1979}). That is, the word ``chair'' necessarily has no application in the world. But suppose that this happens instead: 
+
+\stage{Child}{}{I love the color of this chair!}
+
+\stage{Parent}{}{I painted it just for you.}
+How is Unger supposed to explain their communication? The child, according to Unger, has no determinate thought; she is certainly not thinking of a {\em chair}. Nor is the parent thinking of a chair. Unger might say that, just as people see things (reflections of the moon) that they mistakenly take to be of a ghost, so the child and parent are seeing something that each mistakenly takes to be a chair.
+
+But now what are they seeing? This is a well-lit, sparsely furnished room. There is no chance of curious plays of the light or visual tricks that might deceieve the child and her parent. If the child claimed to be seeing a ghost in such a room, then (as above) we should have to say that she is hallucinating. Is the child then hallucinating a chair? If this were the case, then (as above) we should not expect the parent to understand the referential intention. Yet she does; the parent evidently sees the chair as well. Are {\em both} of them hallucinating? That would allow us to say that communication appears to succeed when in fact it does not. But for the parent and child to have such similar hallucinations is incredibly unlikely. It may happen on rare occasions, but to say that such a coincidence is actually a daily occurance is absurd.
+
+\subsection{The moral}
+There are, apparently, limits to what one can resolutely deny the existence of. For certain things, like ghosts, we can deny that they exist {\em and} deny that people have beliefs in them. We can do this because in each situation where a person has a belief about what they take to be a ghost, we can show that their belief is about something else, or nothing at all. If someone sees a reflection of the moon, and thinks she is seeing a ghost, we can say that she is afraid of nothing at all. If she claims to be seeing a ghost in an otherwise empty, well-lit room, then we can say she is hallucinating, and believes of her vision that it is a ghost. Under no circumstances must we say that her belief is really about a ghost. Moreover, we can explain how people come to believe in ghosts---they read too many ghost stories, or believe the lies of others.
+
+This is not something we can do with tables and chairs, let alone all ``ordinary things''. For one, Unger has no explanation of how we come to form our beliefs in these things, if not by {\em seeing them}. Secondly, to deny that our thought and talk about such things are really about nothing at all is to deny that communication regularly occurs. Bizarrely, this is a consequence Unger appears willing to accept:
 \begin{squote}
-we who inhabit the world can understand someone in that world as believing something or as perceiving something only if we can somehow connect the possession of the psychological states we attribute to the person with facts and events in the surrounding world that we take the beliefs and perceptions to be about. We understand one another to be parts of, and engaged in, a common world we all share. If we ourselves had no beliefs at all about what is happening in the environment or what another person is most likely to be paying attention to, we would be in no position to attribute any beliefs or perceptions to that person at all~\citep[150--151]{stroud2000a}.
+Now, it must of course be admitted that these arguments [for nihilism] undermine the possibility of any endeavor I should try to propose, or even the putative thought that I should propose anything, just as all of my putative essay is undermined. But even so, I shall (incoherently) propose that what we have now to do is invent new expressions which are not inconsistent ones, and by means of which we may, to some significant extent, think coherently about concrete reality~(\citeyear[544]{unger1980b}).
 \end{squote}
+If Unger seriously believes this, then he could not expect us even to understand his essay. But I think it is safe to say that Unger does {\em not} actually believe that there are no people or ordinary things.
+
+% ETHICS QUOTE
+
+%Moreover, if we had any reason to believe that we hallucinated on a regular basis, not only would communication break down, but we would be incapable of even ascribing beliefs to other people.
+%
+%\begin{squote}
+%we who inhabit the world can understand someone in that world as believing something or as perceiving something only if we can somehow connect the possession of the psychological states we attribute to the person with facts and events in the surrounding world that we take the beliefs and perceptions to be about. We understand one another to be parts of, and engaged in, a common world we all share. If we ourselves had no beliefs at all about what is happening in the environment or what another person is most likely to be paying attention to, we would be in no position to attribute any beliefs or perceptions to that person at all~\citep[150--151]{stroud2000a}.
+%\end{squote}
 
 \ifstandalone
 \end{spacing}
