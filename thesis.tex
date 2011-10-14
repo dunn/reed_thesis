@@ -6,6 +6,7 @@
 % them to cus@reed.edu
 
 \documentclass[12pt,twoside]{reedfancy}
+\usepackage{geometry}
 \usepackage{standalone}
 \usepackage{anyfontsize}
 \usepackage{graphicx,latexsym} 
@@ -59,13 +60,28 @@
 	\vspace{10pt}
 	%\noindent%
 	}
+	
+\newenvironment{epigram}{%
+	\newgeometry{top=3.5in}
+	\begin{spacing}{1}
+	\begin{list}{}{%
+	\setlength\labelwidth{0pt}
+	\setlength\leftmargin{1.75in}
+	\setlength\rightmargin{1.5in}
+	}
+	\item[]
+	}{%
+	\end{list}
+	\end{spacing}
+	\restoregeometry
+	}
 
 % moved to reedfancy.cls:
 %\def\thetitle{oink}
 %\renewcommand{\firstmark}{\thetitle}
 %\newcommand{\chapterpig}[1]{\def\thetitle{#1}}
 
-\title{A World Without Us}
+\title{Real Things}
 \author{Alexander A. Dunn}
 % The month and year that you submit your FINAL draft TO THE LIBRARY (May or December)
 \date{May 2012}
@@ -82,6 +98,12 @@
   \maketitle
   \frontmatter % this stuff will be roman-numbered
   \pagestyle{empty} % this removes page numbers from the frontmatter
+
+\begin{epigram}
+When I was a child, I spake as a child, I understood as a child, I thought as a child: but when I became a man, I put away childish things. \\
+\\
+\textsc{1 Corinthians 13:11}
+\end{epigram}
 
 \begin{spacing}{1.25}
 
@@ -144,12 +166,14 @@ Anyone who needs to use math, tables, a lot of figures, complex cross-references
 \chapterpig{Brute Facts}
 \input{unger}
 
-\chapter*{Conclusion}
-         \addcontentsline{toc}{chapter}{Conclusion}
-	\chaptermark{Conclusion}
-	\markboth{Conclusion}{Conclusion}
-	\setcounter{chapter}{4}
-	\setcounter{section}{0}
+\chapter{Conclusion}
+\label{concl}
+\chapterpig{Conclusion}
+%         \addcontentsline{toc}{chapter}{Conclusion}
+%	\chaptermark{Conclusion}
+%	\markboth{Conclusion}{Conclusion}
+%	\setcounter{chapter}{4}
+%	\setcounter{section}{0}
 	
 Here's a conclusion, demonstrating the use of all that manual incrementing and table of contents adding that has to happen if you use the starred form of the chapter command. The deal is, the chapter command in \LaTeX\ does a lot of things: it increments the chapter counter, it resets the section counter to zero, it puts the name of the chapter into the table of contents and the running headers, and probably some other stuff. 
 
