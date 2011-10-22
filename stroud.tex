@@ -42,7 +42,18 @@
 	\end{spacing}%
 }
 
-\newenvironment{squote}{\begin{quote}\begin{singlespace}}{\end{singlespace}\end{quote}}
+\newenvironment{squote}{%
+	\begin{list}{}{%
+	\setlength{\labelwidth}{0pt}%
+	\addtolength\leftmargin{10pt}
+	\setlength\rightmargin{\leftmargin}%
+	}
+	%\begin{singlespace}%
+	\item[] %
+	}{%
+	%\end{singlespace}%
+	\end{list}%
+	}
 
 \newenvironment{inq}{\vspace{0pt}%
 	\begin{list}{}%
@@ -238,6 +249,45 @@ There are only two possibilities: either Unger does believe that people (at leas
 
 As far as other ordinary things go, Unger claims to ``often now believe that there really are no tables or rocks, and never so firmly believe that there are such things as I once did''~(\citeyear[543]{unger1980b}). All I can say is that I don't believe him. (To show that he does believe in these things, we would need to spend some time with him, observing his behavior. We could invite him for a walk along a trail with lots of low-hanging branches, then warn him about them.)
 
+\section{The Problem of the Many}
+\label{many}
+In section~\ref{unger} we looked at a version of metaphysical nihilism. Peter Unger attempted to deny that any of the `ordinary things' in the world (tables, chairs, apples, people, \&c.) actually exist. His motivation for this claim was drawn from an apparent paradox involving the terms for ordinary things. If we have a stone, then removing one atom of matter will not destroy the stone. Nor will removing another atom. But if we remove enough atoms, there will not be a stone. One solution to this puzzle is to deny that there ever is a stone. But this, we have seen, is not workable.
+
+Another solution is to claim that there are {\em many} stones where we once thought there was only one. The motivation for this claim sometimes comes from what Unger calls ``the problem of the many''. There are a number of different formulations of this problem. Van Inwagen nicely summarizes one:
+\begin{squote}
+Assume I exist. Then certain simples compose me. Call them `M'. Now, a single simple is a negligible item indeed. Let $x$ be one of these negligible parts of me---one that is somewhere in my right arm, say. Now consider the simples that compose me {\em other than} $x$ (`M -- $x$'). Since $x$ is so very negligible, M -- $x$ {\em could} [my emphasis] compose a human being just as well as M could. We may say that M and M -- $x$ are ``equally well suited'' to compose human beings. And, of course, for {\em any} simple $y$, ``M -- $y$ will be as well suited to compose a human being as M are. Moreover, it would be surprising indeed if there were not a simple $z$ such that ``M + $z$'' were as well suited to compose a human being as M are. It would, in fact (if I may once more use this phrase), be intolerably arbitrary to say that M composed a human being although M -- $x$ {\em didn't} [my emphasis] and M -- $y$ {\em didn't} [my emphasis] and M + $z$ {\em didn't} [my emphasis]. Suppose, therefore, that M -- $x$ et al.\ {\em do} [my emphasis] compose human beings~(\citeyear[215]{inwagen1995}).
+\end{squote}
+
+I think this formulation is problematic. We are supposing that M does compose a human being. But it does not immediately follow from this that M -- $x$ also composes a human being. As I have pointed out with italics, there is a slide from the claim that M -- $x$ {\em could} compose a human being to the claim that M -- $x$ {\em does} compose a human being. As an analogy, take a house of blocks. Suppose that the blocks do compose the house. Is there also something composed by the blocks minus one? There {\em could} be; but intuitively, there would be only if that one block were removed. Then we would have a house with a missing roof. But we do not obviously have that second thing already, without having removed the block.
+
+Van Inwagen takes there to be a number of additional premises required for this argument. He formulates them thus:
+\begin{enumerate}
+	\item In every situation of which we should ordinarily say that it contained just one man, there are many sets of simples whose members are as suitably arranged to compose men as any simples could be. \label{many1}
+	\item The members of each of these sets compose something. \label{many2}
+	\item Each of these ``somethings'' is a man, provided there are any men at all. \label{many3}
+	\item If I exist, there is a man~(\citeyear[216]{inwagen1995}). \label{many4}
+\end{enumerate}
+I think only~\ref{many4} is uncontroversially true. There are many difficult questions raised by~\ref{many2}, and I'm not sure how to answer them. I'm quite sure, however, that the first and third premises are false. These two are closely related, so we'll examine them together.
+
+\subsection{Problems with the first and third premises}
+\label{many13p}
+Unger begins his presentation of the problem of the many by directing our attention to a cloud; looking at the edge of the cloud, ``all that is there to be seen is a {\em gradual transition} from the more dense [concentration of water molecules] to the less so\,\ldots\,there is no natural break, or boundary, or stopping place, for any would-be cloud to have''~(\citeyear[415]{unger1980a}). Therefore any boundary we choose for the cloud will be somewhat arbitrary. A minutely larger or smaller boundary would be just as `suitable' for bounding a cloud; ``if our alleged typical item [the cloud] is indeed a typical cloud, then many of these candidates, millions at least, do not fail to be clouds altogether but are clouds of some sort''~(\citeyear[421]{unger1980a}). Unger draws the conclusion that either there are millions of such things there, or none. This argument can be generalized to chairs, stones, and people. Regarding chairs, at least, we have already shown that the conlcusion that there are none is false; perhaps then, there are millions of chairs in our well-lit room. But there are two problems with this argument.
+
+\paragraph{An objection regarding communication.}
+First, the idea of there being millions of objects where we supposed there was only one poses a problem for referential communication. In fact, it is quite the same problem that Unger's nihilism faced above: how is referential communication possible under this hypothesis? When we supposed that there was nothing being referred to by `chair', we were at a loss to explain how people nonetheless managed to communicate using that term. Now we are supposing there to be millions of chairs, each eligible to be referred to by ``that chair''. What needs explaining now is how, if there are millions of chairs that might be referred to, how two speakers can be sure that they are talking about the {\em same} chair. When the child points and says ``What's that?'', the parent knows that the child is pointing at {\em a} chair, but how is she to determine {\em which} chair the child is referring to? The child did {\em not} say ``What are those?'' because she took herself to be referring to {\em one} chair, and expressed her referential intention accordingly.
+
+Even if the parent and child got lucky and happened to think of the same chair, how would they know it? If there really were millions of chairs in the center of the room, it seems implausible to suggest that anyone could distinguish between each of them. There would be nothing the parent or child could do to make it clear to the other which of the millions of chairs they meant to refer to. Indeed, they could not make it clear to themselves. If I am holding a rock in my hand, ``there are millions of ``overlapping stones'' before me\,\ldots\,how am I to think of a single one of them, while not then equally thinking of so many others''~\citep[456]{unger1980a}? Unger's brand of universalism, like his nihlilism, precludes successful communication, and so must be rejected.
+
+\paragraph{An objection regarding boundaries.}
+Second, it seems to be simply false that all boundaries drawn about a cloud are equally arbitrary. If a cloud is a concentration of water molecules in the air, then the boundaries of the cloud are where the amount of water in the air is normal. There are not millions of clouds with millions of different boundaries; any stipulated boundary that falls inside or outside the actual boundary is arbitrary because it does not track the concentration of water molecules. For simples to be `suitably arranged' so as to compose a cloud, they must be bounded by less moist air. I'm not sure, but it may be possible to extend this argument to cover most `ordinary things'---tables and chairs (and even people) have molecular boundaries.
+
+Premise~\ref{many1} is therefore false. For clouds, at least, it is not true that there are ``many sets of simples whose members are as suitably arranged'' to compose them. These closely related sets do not have boundaries that track the concentration of water molecules in the air, so they are not suitably arranged to compose clouds. If the boundary of the cloud shrunk, then a smaller set of molecules {\em would} be suitably arranged to compose the cloud, and so it would. But just as the blocks minus one {\em would} compose a house (but don't), so this smaller set {\em would} compose a cloud (but doesn't). So premise~\ref{many3} seems false too; at least, if these sets compose anything, they compose something other than a cloud.
+
+\subsection{Now what?}
+\label{what}
+In the well-lit room we used for our examples above, we initially assumed that there was a single chair in the center of the room. Unger has argued that either there are no chairs in the room, or millions. He used sorites paradoxes and the `problem of the many' to motivate these claims. Neither of these options seem plausible; both imply that we cannot communicate as well as we do.
+
+Although Unger's solutions are unsatisfactory, the problems they are meant to solve do require some answer. Despite the fact that we communicate perfectly well with terms like `chair' and `person', it is difficult to spell out exactly what it is that we use these terms to refer to. A chair may lose some of its matter (we might sand it) or gain more matter (we might paint it), yet we generally assume that the same chair endures the change. We shed cells constantly, but it would be overhasty to conclude that we do not persist through time, because we are not continuously consituted out the very same matter. When we refer to these chairs and people, then, it seems that the things we are referring to are not simply the sets of particles that make them up. But then what are they?
 %Moreover, if we had any reason to believe that we hallucinated on a regular basis, not only would communication break down, but we would be incapable of even ascribing beliefs to other people.
 %
 %\begin{squote}

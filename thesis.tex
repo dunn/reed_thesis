@@ -22,7 +22,19 @@
 \DeclareMathSymbol{\strictif}{\mathrel}{symbolsC}{74}
 \DeclareMathSymbol{\boxright}{\mathrel}{symbolsC}{128}
 
-\newenvironment{squote}{\begin{quote}\begin{singlespace}}{\end{singlespace}\end{quote}}
+%\newenvironment{squote}{\begin{quote}\begin{singlespace}}{\end{singlespace}\end{quote}}
+\newenvironment{squote}{%
+	\begin{list}{}{%
+	\setlength{\labelwidth}{0pt}%
+	\setlength\leftmargin{1.5\oddsidemargin}
+	\setlength\rightmargin{\leftmargin}%
+	}
+	%\begin{singlespace}%
+	\item[] %
+	}{%
+	%\end{singlespace}%
+	\end{list}%
+	}
 
 \newcommand{\stager}[4]%
 {%
@@ -66,8 +78,8 @@
 	\begin{spacing}{1}
 	\begin{list}{}{%
 	\setlength{\labelwidth}{0pt}
-	\setlength{\leftmargin}{1in}
-	\setlength{\rightmargin}{.5in}}
+	\setlength{\leftmargin}{1.4in}
+	\setlength{\rightmargin}{.25in}}
 	\item[]
 	}{%
 	\end{list}
