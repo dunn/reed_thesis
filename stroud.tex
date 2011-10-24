@@ -14,6 +14,8 @@
 \usepackage{setspace}
 \usepackage{natbib}
 \setcitestyle{aysep={}}
+\usepackage{hyperref}
+
 \synctex=1
 
 \DeclareSymbolFont{symbolsC}{U}{txsyc}{m}{n}
@@ -75,6 +77,7 @@
 \begin{document}
 \ifstandalone
 \maketitle
+\tableofcontents
 \begin{spacing}{1.5}
 \fi
 
@@ -86,8 +89,8 @@
 %	\footnote{This is of course from the {\em Philosophical Lexicon}~\citep{dennett2008}.}%}
 %	\end{inq}%
 
-%\section{How to defy common sense}
-%\label{denials}
+\section{Introduction}
+\label{intro-deny}
 \noindent Every so often a philosopher will claim that some aspect of what we take to be our world is somehow illusory, bogus, or simply nonexistent. This sort of denial will take various forms. One might claim that a certain phenomenon does indeed find expression in the world, but that it is somehow subjective; without humans to experience it, there would be no such phenomena. Or one might deny that some ordinary object of experience is actually non-existent. Peter van Inwagen claims that tables do not exist. He recognizes, of course, that people talk and have beliefs about (what they take to be) tables, so he must find a way to explain our beliefs in tables in terms of those things that he does believe to exist. Finally, one might claim that some things are non-existent, and that we in fact {\em don't} really talk and have beliefs about them. This is the sort of denial we make of the existence of ghosts. Unlike the philosopher who denies the existence of tables, we who deny the existence of ghosts don't have to explain people's beliefs in ghosts---people simply don't {\em have} coherent beliefs about them, because they are entirely unreal. Few philosophers make denials of this sort about ``real or significant'' things, because the beliefs we have about such things (tables, chairs, people, custard) are deeply integrated into our daily lives, and to say that these beliefs are utterly incoherent is to risk crossing the line into nonsense.
 
 \section{Kinds of denials}
@@ -124,9 +127,6 @@ The second sort of denial goes further in denying any kind of reality at all to 
 I want to do what I can to disown a certain apparently almost irresistible characterization of my view, or of that part of my view that pertains to inanimate objects. Many philosophers, in conversation and correspondence, have insisted, despite repeated protests on my part, on describing my position in words like these: ``Van Inwagen says that tables are not real''; ``\ldots\,not true objects''; ``\ldots\,not actually {\em things}''; ``\ldots\,not substances''; ``\ldots\,not unified wholes''; ``\ldots\,nothing more than collections of particles.'' These are words that darken counsel. They are, in fact, perfectly meaningless. My position vis-\`{a}-vis tables and other inanimate objects is simply that there {\em are} none~(\citeyear[99]{inwagen1995}).
 \end{squote}
 Van Inwagen asserts, quite seriously, that ``there are no tables or chairs or any other visible objects except living organisms''~(\citeyear[1]{inwagen1995}). This is a somewhat more bold claim than that of the philosopher skeptical of color. She at least granted that we do see colors, even if we don't actually see things that are (objectively) colored. If, as van Inwagen claims, the only {\em visible} objects are living organisms, then we certainly can't {\em see} tables at all. But just as our color skeptic could not claim that we don't believe in colors, van Inwagen cannot deny that we at least {\em believe} there to be apples. We have many beliefs about what we take to be apples. We believe that they grow on trees, and go well with many types of cheese (which we also believe to exist). Van Inwagen has, therefore, a rather daunting task: he must explain our beliefs about apples (and about cheese, and tables, and chairs, and about everything else he denies) in terms of whatever it is that he does claim to exist (living organisms and the basic particles that make up the physical universe).
-%
-%\footnote{Van Inwagen assumes, without defense, ``that matter is ultimately particulate\,\ldots\,every material thing is composed of things that have no proper parts: `elementary particles' or `mereological atoms' or `metaphysical simples'\,''~(\citeyear[5]{inwagen1995}). Ted Sider takes him to task for this assumption~(\citeyear{sider1993}), claiming that the possibility of `gunk'---the possibility that the matter of the world is not fundamentally particulate but infinitely divisible---falsifies van Inwagen's thesis. I think it may be possible for van Inwagen to adapt to a gunky world (see Section~\ref{brute}, note~\ref{gunk}), but I think van Inwagen's thesis is false either way.}
-%
 
 Van Inwagen does not attempt to deny that we have beliefs about what we take to be apples, cheeses, \&c. Indeed, he admits that ``when people say things in the ordinary business of life by uttering sentences that start `There are chairs\,\ldots ' or `There are stars\,\ldots ', they very often say things that are literally true''~(\citeyear[102]{inwagen1995}). By conceding this, he distances himself from a skeptical philosopher (see section~\ref{unger} below) whose denial of apples et.\ al.\ is on par with a denial of ghosts. When someone has a belief about what they took to be a ghost, we their belief is not about whatever actually caused their fright; it is most charitable to say that their belief is really about nothing at all (I explain why in section~\ref{resolute}). Van Inwagen, when denying that we have beliefs about apples, appears to maintain that the beliefs that we erroneously take to be about apples are not beliefs about {\em nothing}. They are not empty; they are rather beliefs about something {\em else}, something other than what we took them to be about (apples). Van Inwagen accordingly recognizes the need to explain what our beliefs really are about.
 
@@ -210,6 +210,8 @@ How is Unger supposed to explain their communication? The child, according to Un
 
 But now what could they be seeing? This is a well-lit, sparsely furnished room. There is no chance of curious plays of the light or visual tricks that might deceive the child and her parent. If the child claimed to be seeing a ghost in such a room, then (as above) we should have to say that she is hallucinating. Is the child then hallucinating a chair? If this were the case, then (as above) we should not expect the parent to understand the referential intention. Yet she apparently does. Are {\em both} of them hallucinating? That would allow us to say that communication appears to succeed when in fact it does not. But for the parent and child to have such similar hallucinations is incredibly unlikely. It may happen on rare occasions, but to say that such a coincidence is actually a daily occurrence is absurd. There is clearly {\em something} that the parent and child are communicating about. The default assumption is that it is a chair.
 
+\subsection{Loose truth}
+\label{loose-u}
 One sympathetic to Unger's thesis might admit that they are communicating about something, but deny that the subject of their communication is a chair. This philosopher would take refuge in the notion of `loose truth'. She would maintain that it is strictly false that there is a chair in the room, but that it is loosely true; it is close enough to the truth for practical purposes. These practical purposes include the communication we have observed above. She will appeal to such examples as this:
 
 \stage{Countess}{}{Where on earth am I going to find someone to invest in my eel farm?}
@@ -233,6 +235,7 @@ I do not think there are satisfactory answers to these questions. Moreover, I do
 %\noindent Now we may ask, ``What {\em is} in the room, if not a chair?'' Unger might walk over to the chair, saying ``There seems to be a concentration of solid matter in this vicinity which, when placed appropriately, may be sat on.'' And now we say, ``Oh, you mean a {\em chair!} That's what it's called, you see.''
 
 \subsection{The moral}
+\label{moral}
 There are limits to what one can resolutely deny the existence of. We can deny that certain things, like ghosts, exist {\em and} deny that people have beliefs in them. We can do this because in each situation where a person has a belief about what they take to be a ghost, we can show that their belief is really about nothing at all. If someone sees a reflection of the moon or experiences a hallucination, and so thinks she is seeing a ghost, we can say that she is afraid of nothing at all. Under no circumstances must we say that her belief is really about a ghost. Moreover, we can explain how people come to believe in ghosts---they read too many ghost stories, or believe the lies of others.
 
 This is not something we can do with tables, chairs, and other ``ordinary things'', let alone people. For one, Unger has no explanation of how we come to form our beliefs in these things, if not by {\em seeing them}. Secondly, to deny that our thought and talk about such things are really about nothing at all is to deny that communication regularly occurs. Bizarrely, this is a consequence Unger appears willing to accept:
@@ -248,7 +251,7 @@ There are only two possibilities: either Unger does believe that people (at leas
 
 As far as other ordinary things go, Unger claims to ``often now believe that there really are no tables or rocks, and never so firmly believe that there are such things as I once did''~(\citeyear[543]{unger1980b}). All I can say is that I don't believe him. (To show that he does believe in these things, we would need to spend some time with him, observing his behavior. We could invite him for a walk along a trail with lots of low-hanging branches, then warn him about them.)
 
-\section{The Problem of the Many}
+\section{The problem of the many}
 \label{many}
 In section~\ref{unger} we looked at a version of metaphysical nihilism. Peter Unger attempted to deny that any of the `ordinary things' in the world (tables, chairs, apples, people, \&c.) actually exist. His motivation for this claim was drawn from an apparent paradox involving the terms for ordinary things. If we have a stone, then removing one atom of matter will not destroy the stone. Nor will removing another atom. But if we remove enough atoms, there will not be a stone. One solution to this puzzle is to deny that there ever is a stone. But this, we have seen, is not workable.
 
@@ -363,6 +366,7 @@ Why on earth should this be? Does not the proposition expressed by my saying ``T
 \ But if ``There are chairs'' does not entail that there are chairs and if ``The sun moved behind the trees'' entails neither that the sun moved nor that the sun exists, then how can van Inwagen maintain that ``There are simples arranged chairwise'' entails that there are simples, or that they are arranged chairwise? He has given us no reason to believe one and not the other.
 
 \subsection{Loose truth, again}
+\label{loose-v}
 When criticizing Peter Unger's nihilism, we imagined a defense of his thesis based on the notion of `loose truth'. Our Unger partisan claimed that while such claims as ``There is a chair\,\ldots '' are invariably false (because incoherent), they may be loosely true. Unfortunately for Unger, his defender was unable to give a loose-truthmaker for these supposed loose truths.
 
 Might van Inwagen also appeal to loose truths? He admits it as a last-ditch possibility:
