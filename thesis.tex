@@ -24,16 +24,15 @@
 
 %\newenvironment{squote}{\begin{quote}\begin{singlespace}}{\end{singlespace}\end{quote}}
 \newenvironment{squote}{%
+	\begin{spacing}{1}
 	\begin{list}{}{%
 	\setlength{\labelwidth}{0pt}%
-	\setlength\leftmargin{1.5\oddsidemargin}
-	\setlength\rightmargin{\leftmargin}%
+	\rightmargin\leftmargin%
 	}
-	%\begin{singlespace}%
-	\item[] %
+	\item\relax
 	}{%
-	%\end{singlespace}%
 	\end{list}%
+	\end{spacing}
 	}
 
 \newcommand{\stager}[4]%
