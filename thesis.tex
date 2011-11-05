@@ -23,6 +23,7 @@
 \DeclareMathSymbol{\boxright}{\mathrel}{symbolsC}{128}
 
 %\newenvironment{squote}{\begin{quote}\begin{singlespace}}{\end{singlespace}\end{quote}}
+
 \newenvironment{squote}{%
 	\begin{spacing}{1}
 	\begin{list}{}{%
@@ -94,7 +95,8 @@
 
 \title{Real Things}
 \author{Alexander A. Dunn}
-% The month and year that you submit your FINAL draft TO THE LIBRARY (May or December)
+% The month and year that you submit your FINAL draft TO THE LIBRARY
+% (May or December)
 \date{May 2012}
 \division{Philosophy and Other Things}
 \advisor{Paul Hovda}
@@ -111,9 +113,9 @@
   \pagestyle{empty} % this removes page numbers from the frontmatter
 
 \begin{epigram}
-When I was a child, I spake as a child, I understood as a child, I thought as a child: but when I became a man, I put away childish things. \\
-\\
-\textsc{1 Corinthians 13:11}
+When I was a child, I spake as a child, I understood as a child, I
+thought as a child: but when I became a man, I put away childish
+things. \\ \\ \textsc{1 Corinthians 13:11}
 \end{epigram}
 
 \begin{spacing}{1.25}
@@ -146,18 +148,39 @@ When I was a child, I spake as a child, I understood as a child, I thought as a 
 	 %\addcontentsline{toc}{chapter}{Introduction}
 %\chaptermark{Introduction}
 %\markboth{Introduction}{Introduction}
-% The three lines above are to make sure that the headers are right, that the intro gets included in the table of contents, and that it doesn't get numbered 1 so that chapter one is 1.
 
-Welcome to the \LaTeX\ thesis template. If you've never used \TeX\ or \LaTeX\ before, you'll have an initial learning period to go through, but the results of a nicely formatted thesis are worth it for more than the aesthetic benefit: markup like \LaTeX\ is more consistent than the output of a word processor, much less prone to corruption or crashing and the resulting file is smaller than a Word file. While you may have never had problems using Word in the past, your thesis is going to be about twice as large and complex as anything you've written before, taxing Word's capabilities. If you're still on the fence about  using \LaTeX, read the Introduction to LaTeX on the CUS site as well as skim the following template and give it a few weeks. Pretty soon all the markup gibberish will become second nature.
+% The three lines above are to make sure that the headers are right,
+% that the intro gets included in the table of contents, and that it
+% doesn't get numbered 1 so that chapter one is 1.
+
+Welcome to the \LaTeX\ thesis template. If you've never used \TeX\ or
+\LaTeX\ before, you'll have an initial learning period to go through,
+but the results of a nicely formatted thesis are worth it for more
+than the aesthetic benefit: markup like \LaTeX\ is more consistent
+than the output of a word processor, much less prone to corruption or
+crashing and the resulting file is smaller than a Word file. While you
+may have never had problems using Word in the past, your thesis is
+going to be about twice as large and complex as anything you've
+written before, taxing Word's capabilities. If you're still on the
+fence about using \LaTeX, read the Introduction to LaTeX on the CUS
+site as well as skim the following template and give it a few
+weeks.  Pretty soon all the markup gibberish will become second nature.
 
 
 \section{Why use it?}
 	
-\LaTeX\ does a great job of formatting tables and paragraphs. Its line-breaking algorithm was the subject of a PhD.\thinspace thesis. It does a fine job of automatically inserting ligatures, and to top it all off it is the only way to typeset good-looking mathematics.
+\LaTeX\ does a great job of formatting tables and paragraphs.  Its
+line-breaking algorithm was the subject of a PhD.\ thesis.
+It does a fine job of automatically inserting ligatures, and to top it
+all off it is the only way to typeset good-looking mathematics.
 
 \section{Who should use it?}
 
-Anyone who needs to use math, tables, a lot of figures, complex cross-references, IPA or who just cares about the final appearance of their document should use \LaTeX. At Reed, math majors are required to use it, most physics majors will want to use it, and many other science majors may want it also.
+Anyone who needs to use math, tables, a lot of figures, complex
+cross-references, IPA or who just cares about the final appearance of
+their document should use \LaTeX.  At Reed, math majors are required
+to use it, most physics majors will want to use it, and many other
+science majors may want it also.
 
 %\chapter{A story about things}
 %\chapterpig{A Story About Things}
@@ -182,12 +205,26 @@ Anyone who needs to use math, tables, a lot of figures, complex cross-references
 %	\setcounter{chapter}{4}
 %	\setcounter{section}{0}
 	
-Here's a conclusion, demonstrating the use of all that manual incrementing and table of contents adding that has to happen if you use the starred form of the chapter command. The deal is, the chapter command in \LaTeX\ does a lot of things: it increments the chapter counter, it resets the section counter to zero, it puts the name of the chapter into the table of contents and the running headers, and probably some other stuff. 
+Here's a conclusion, demonstrating the use of all that manual
+incrementing and table of contents adding that has to happen if you
+use the starred form of the chapter command.  The deal is, the chapter
+command in \LaTeX\ does a lot of things: it increments the chapter
+counter, it resets the section counter to zero, it puts the name of
+the chapter into the table of contents and the running headers, and
+probably some other stuff.
 
-So, if you remove all that stuff because you don't like it to say ``Chapter 4: Conclusion'', then you have to manually add all the things \LaTeX\ would normally do for you. Maybe someday we'll write a new chapter macro that doesn't add ``Chapter X'' to the beginning of every chapter title.
+So, if you remove all that stuff because you don't like it to say
+``Chapter 4: Conclusion'', then you have to manually add all the
+things \LaTeX\ would normally do for you.  Maybe someday we'll write a
+new chapter macro that doesn't add ``Chapter X'' to the beginning of
+every chapter title.
 
 \section{More info}
-And here's some other random info: the first paragraph after a chapter title or section head \emph{shouldn't be} indented, because indents are to tell the reader that you're starting a new paragraph. Since that's obvious after a chapter or section title, proper typesetting doesn't add an indent there. 
+And here's some other random info: the first paragraph after a chapter
+title or section head \emph{shouldn't be} indented, because indents
+are to tell the reader that you're starting a new paragraph.  Since
+that's obvious after a chapter or section title, proper typesetting
+doesn't add an indent there.
 
 
 %If you feel it necessary to include an appendix, it goes here.
@@ -198,13 +235,14 @@ And here's some other random info: the first paragraph after a chapter title or 
 
 %This is where endnotes are supposed to go, if you have them.
 
-  \backmatter % backmatter makes the index and bibliography appear properly in the t.o.c...
+  \backmatter % backmatter makes the index and bibliography appear
+              % properly in the t.o.c...
 
 % Make my bibliography be called "Bibliography" and not "References" (or "Works Cited" or...):
 % \renewcommand{\bibname}{Works Cited}
     \bibliographystyle{ChicagoReedweb} % there are a variety of styles available; 
-% replace ``plainnat'' with the style of choice. You can refer to files in the bsts or APA 
-% subfolder, e.g. 
+% replace ``plainnat'' with the style of choice.  You can refer to files in the bsts or APA 
+% subfolder, e.g.  
 % \bibliographystyle{APA/apa-good}  % or
 % \bibliographystyle{bsts/mla-good} 
 
@@ -214,5 +252,5 @@ And here's some other random info: the first paragraph after a chapter title or 
     \bibliography{everything}
 
 \end{spacing}
-% Finally, an index would go here... but it is also optional.
+% Finally, an index would go here\,\ldots\,but it is also optional.
 \end{document}
