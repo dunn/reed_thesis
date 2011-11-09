@@ -1,4 +1,4 @@
-# The problem for Alex
+# The problem
 
 My argument against Unger is roughly this:
 
@@ -24,44 +24,64 @@ something if that thing exists.  The problem is that there are
 apparent cases of communication about nonexistent objects; in these
 situations, one person appears to be talking about something that is
 known to not exist, and another speaker appears to be talking about
-the *same* nonexistent thing.  This phenomena is what Geach called
-'intentional identity'.
+the *same* nonexistent thing.  This puzzle has to do with what Geach
+called 'intentional identity': "We have intentional identity when a
+number of people, or one person on different occasions, have attitudes
+with a common focus, whether or not there actually is something at
+that focus" [-@geach1967, p. 627].
 
 ## Geach on intentional identity
 
 "Suppose", Geach writes, "a reporter is describing an outbreak of
-witch mania, let us say in Gotham village."  The reporter interviews
-two farmers who have witch stories, and story includes this passage:
+witch mania, let us say in Gotham village" [-@geach1967, p. 627].  The reporter interviews
+two farmers and her story includes this passage:
 
 3. "Hob thinks a witch has blighted his mare, and Nob wonders whether
-she (the same witch) killed his (Nob's)
-sow."[^simple]
+she (the same witch) killed his (Nob's) sow."[^simple]
 
 [^simple]: I'm simplifying Geach's examples by removing Bob and Cob,
 who seem to be unecessary.
 
-Let us suppose that the tone of the story make it clear that the
+Let us suppose that the tone of the story makes it clear that the
 reporter does not believe in witches.  Moreover, we, her readers, do
-not ourselves believe in witches.  How, then, are we supposed to
-understand the use of the pronoun "she"?  In a parallel
-construction---like "H thinks that the banker cheated him and N thinks
-that she (the same banker) is a scoundrel"---'she' refers to the same
-object that 'the banker' refers to.  This is unproblematic because
-'the banker' does refer to something---the banker.  Therefore we can
+not ourselves believe in witches.  
+
+The skeptical reporter and skeptical readers can say "Hob thinks a
+witch has blighted his mare" without committing themselves to the
+existence of a witch.  Propositions prefixed by 'believes that' are
+generally considered to be *opaque*---quantification and entailment
+occuring within the belief report does not 'spill out' into the
+surrounding context.  So despite the fact that Hob's utterance of "A
+witch blighted my mare" commmits *him* to the existence of a witch,
+*we* can say "Hob thinks [believes that] a witch killed his mare, but
+he's mad; there aren't any witches."
+
+It is the second conjunct that causes problems for witch skeptics.
+How are we supposed to understand the use of the pronoun "she" in the
+report of Nob's belief?
+
+In a parallel construction---like "H thinks that the banker cheated
+him and N thinks that she (the same banker) is a scoundrel"---'she'
+refers to the same object that 'the banker' refers to.  We have
+intentional identity in Geach's sense---both H and N have attitudes
+with a common focus---but it is unproblematic because there is
+something for them to focus on: the banker.  Therefore we can
 paraphrase the sentence as "there is some banker $x$ such that H
 thinks $x$ cheated H and N thinks $x$ is a scoundrel".
 
 But we cannot easily do this with sentence 3.  If we say "there is a
-witch x such that..." we thereby commit ourselves to the existence of
-a witch.
+witch x such that Hob believes that she (the witch) blighted his
+mare...", we move the quantifier expression ("There is a witch") out
+of its opaque context; we thereby commit *ourselves* to the existence
+of a witch.
 
-The problem for Alex is to explain these sorts of constructions
+The problem is to explain these sorts of constructions
 without admitting that there is something that (both) the speakers are
 thinking about.
 
-## Anaphora
+## Anaphor
 
-Geach first looks at the following solution (630):
+Geach rejects the following solution [-@geach1967, p. 630]:
 
 > First, it might be suggested that 'she' in (3) ought not to be
 > glossed as 'the same witch', but should rather be regarded as an
@@ -69,8 +89,8 @@ Geach first looks at the following solution (630):
 > avoid repetitious language; (3) would then be a substitute for
 > something like this:
 
-18. Hob thinks a witch has blighted his mare, and Hob wonders
-whether the witch who blighted his mare killed Nob's sow.
+18. Hob thinks a witch has blighted his mare, and Nob wonders whether
+the witch who blighted Hob's mare killed his (Nob's) sow.
 
 > This suggestion is easily dismissed: for our reporter might be
 > justified in asserting (3) if he had heard Hob say 'The witch has
@@ -82,10 +102,13 @@ This seems like a strange objection.  The reporter would only be
 justified in asserting (3) if she had some reason to think that Hob
 and Nob, when giving their stories, took themselves to be talking
 about the same witch.  And if that were the case, then she would be
-justified in asserting (18) as well.  Dennett ("Geach on intentional
-identity", 336) says something similar: "What could justify the
-reporter's use of 'same' if he has no inkling of cross reference in
-the depositions of Hob and Nob?"
+justified in asserting (18) as well.  Dennett [-@dennett1968, p. 336]
+asks, "What could justify the reporter's use of 'same' if he has no
+inkling of cross reference in the depositions of Hob and Nob?"
+Moreover, Geach himself concedes that "Of course our reporter would
+somehow have to know that when they used the words 'the witch' Hob and
+Nob *meant to refer to the same person*"
+[-@geach1967, p. 630 (his emphasis)].
 
 I think it is important that problems of intentional identity be seen
 as cases in which the participants *take themselves to be talking or
@@ -95,13 +118,18 @@ witch who blighted his mare and (b) that Hob believes that there is
 exactly one witch that killed his sow and (c) that the witch that
 Hob believes killed his sow blighted Nob's mare.
 
-Geach also finds this version puzzling (631):
+But Geach also objects to (18) on the grounds that the second conjunct
+re-introduces a problematic intentional identity.  Geach thinks that
+"Nob wonders whether the witch who blighted Hob's mare killed his
+(Nob's) sow" is correctly paraphrased as [-@geach1967, p. 631]:
 
 22. Nob assumes that just one witch blighted his mare, and Nob
 wonders whether she (that same witch) killed Hob's sow
 
-But Daniel Dennett ("Geach on intentional identity, 340) deals with it
-rather easily (his method inspired mine above):
+This interpretion saddles us again with a case of intentional identity.
+
+But Daniel Dennett [-@dennett1968, p. 340] deals with it rather easily
+(his method inspired mine above):
 
 > (22) can be analyzed as "Nob assumes that just one witch blighted
 > his mare, and Nob wonders whether (the following is the case:) just
@@ -115,27 +143,19 @@ from the rest of the sentence, but *within* the second opaque context
 everything is transparent."  Thus we can allow Nob to think in pronouns
 without committing ourselves to the existence of witches.
 
-## More puzzles
+It's important to keep in mind here that our interpretations of (3)
+and (22) really are interpretations; it seems quite possible to
+interpret these propositions otherwise.
 
-So far we've only given examples wherein beliefs are ascribed to a
-single person; Nob has been doing all the believing so far.  What
-happens if we try to report a conversation between Hob and Nob about
-the putative witch?  Worse, what if they start to disagree over what
-she looks like?
-
-Suppose I am the reporter.  Hob says to me, "A witch blighted my mare.
-You don't believe me?  Go talk to Nob.  He'll tell you something."
-Nob says to me, "The witch that blighted Hob's mare?  She killed my
-sow."
-
-If I say "Hob says that a witch blighted his mare and Nob says that
-she killed his sow", this can be taken several ways.  If my audience
-thinks that I believe in witches and/or believe what I have been told,
-then they may understand me to be saying that there is some witch who
-is suspected of blighting a mare and killing a sow.  If I make it
-clear that I am skeptical of the whole scenario, then my readers will
-interpret me as using a "pronoun of laziness"; what they will take me
-to be saying is something like
+Suppose, then, that I am the reporter.  If I say "Hob thinks a witch
+has blighted his mare, and Nob wonders whether she (the same witch)
+killed his (Nob's) sow", how this is taken may depend on my audience.
+If my audience thinks that I believe in witches and/or believe what I
+have been told, then they may understand me to be saying that there is
+some witch who is suspected of blighting a mare and killing a sow.  If
+I make it clear that I am skeptical of the whole scenario, then my
+readers will interpret me as using a "pronoun of laziness"; what they
+will take me to be saying is something like
 
 > Hob thinks that a witch blighted his mare, and thinks that the witch
 >  that blighted his mare killed Nob's sow; Nob thinks that a witch
@@ -144,12 +164,20 @@ to be saying is something like
 >  one witch that blighted Hob's mare and killed Nob's
 >  sow.
 
-So far, so good (I think).  But suppose that Hob and Nob have wildly
-different beliefs about this supposed witch?  Maybe Hob saw bootprints
-and thinks she is very large, but Nob heard giggling outside his
-window one night and so thinks she is a little creature.  Do we still
-say that they believe in the *same* witch?  Dennett suggests that we
-should not (337):
+So it's possible that the proposition I express with "Hob thinks a
+witch has blighted his mare, and Nob wonders whether she (the same
+witch) killed his (Nob's) sow" is actually ambiguous; how the pronoun
+is to be understood depends on whether I intend to commit myself to
+the existence of witches.
+
+## More puzzles
+
+Suppose that Hob and Nob have wildly different beliefs about the
+supposed witch?  Maybe Hob saw bootprints and thinks she is very
+large, but Nob heard giggling outside his window one night and so
+thinks she is a little creature.  Do we still say that they believe in
+the *same* witch?  Dennett suggests that we should not
+[-@dennett1968, p. 337]:
 
 > Whenever we wish to disavow belief in the actual existence of any
 > intentional objects, 'same' can at best mean "exactly similar in
@@ -175,15 +203,15 @@ exist.
 A skeptical report of belief in the "same god" as in Dennett's example
 above amounts to a report that two or more people believe (falsly)
 that there is some god *and take each other to believe that there is
-the witch that they believe there to be*.  If two people take each
-other to believe in the same god, they may dispute over that god's
+the god that they believe there to be*.  If two people take each other
+to believe in the same god, they may dispute over that god's
 characteristics, and they will take themselves to be disagreeing.  We,
 if we think that there is no god, ourselves believe that neither of
 them are actually thinking about any god (they aren't thinking of
 anything at all), and so their dispute is, to us, nonsensical.  We
 might paraphrase it thus:
 
-> *David* believes that (1) there is exactly one god and (2) Sue
+>   **David** believes that (1) there is exactly one god and (2) Sue
 >   believes that there is exactly one god and (3) the god that he
 >   believes there to be is the god that she believes there to be and
 >   (4) the god that he believes there to be has blue eyes; *Sue*
@@ -305,7 +333,7 @@ wrong about the color of the eyes of the God he believes in!"
 341--: but how are we to handle nonpropositional attitudes such as
 "fears [it]"?
 
->"Sue is afraid of <what she takes to be a ghost>"?
+>"Sue is afraid of [what she takes to be a ghost]"?
 
 >>entails that she is afraid of something, but what she takes to be a
 >>ghost is actually nothing.
@@ -413,3 +441,5 @@ skeptical (and think us so too), they will read it as "Hob thinks that
 Samantha (=the [imagined] witch who has been doing such-and-such)
 blighted his mare, and Nob thinks that Samantha (=the [imagined]
 witch...) killed his sow."
+
+# References
