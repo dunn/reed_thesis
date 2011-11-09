@@ -1,0 +1,98 @@
+# Geach, "Intentional identity"
+
+627: "a number of archers may all point their arrows at one actual target, a deer or a man (real identity); but we may also be able to verify that they are all pointing their arrows the same way, regardless of finding out whether there is any shootable object at the point where the lines of fire meet (intentional identity). We have intentional identity when a number of people, or one person on different occasions, have attitudes with a common focus, whether or not there actually is something at that focus."
+>What are they each pointing at?
+>>Well, who 'saw' the 'deer'?
+>He's pointing at what he takes to be a deer; what is he really pointing at? (nothing?)
+>>What are the others pointing at?
+>"Whatever he's pointing at." (i.e., nothing)
+
+627: "(3) Hob thinks a witch has blighted Bob's mare, and Nob wonders whether she (the same witch) killed Cob's sow."
+
+630: "First, it might be suggested that 'she' in (3) ought not to be glossed as 'the same witch', but should rather be regarded as an anaphoric substitute (what I have called a pronoun of laziness) to avoid repetitious language; (3) would then be a substitute for something like this:
+
+(18) Hob thinks a witch has blighted Bob's mare, and Hob wonders
+whether the witch who blighted Bob's mare killed Cob's sow.
+
+This suggestion is easily dismissed: for our reporter might be justified in asserting (3) if he had heard Hob say 'The witch has blighted Bob's mare' and heard Nob say 'Maybe the witch killed Cob's sow', even if Hob had not thought or said anything about Cob's sow nor Nob about Bob's mare."
+
+>Why would the reporter not be justified in asserting (18) in the same situation?
+>>re: substitutions and implicit intentionality
+>what is wrong with: "Nob wonders whether: (1) a witch blighted Hob's mare, and (2) the witch who blighted Hob's mare killed Nob's sow."?
+>>or if we want Geach's use of 'assumptions': "Nob assumes/thinks that a witch blighted Hob's mare, and wonders whether the witch who blighted Hob's mare killed his (Nob's) sow"?
+
+Sentences (19)--(23)
+??????????
+
+631: "We very often take ourselves to know, when we hear the discourse of others, that they are meaning to refer to some one person or thing---and that, without ourselves being able to identify this person or thing, without our even being certain that there really is such a person or thing to identify. What we are claiming to know in such cases---let alone, whether the claim is justified---must remain obscure so long as intentional identity is obscure."
+
+632: "Now is it in truth necessary, if Hob and Nob are to mean to refer to the same person as "the witch," that they should both have some one definite description actually in mind, or even, one producible from each of them by a suitable technique of questioning? This appears to me to stand or fall with the corresponding theory, held by Russell and by Frege (cf. his article "Der Gedanke"), that any ordinary proper name is used equivocally if it does not go proxy for some one definite description; and in spite of these great names, such a theory seems to me extremely ill-founded and implausible."
+
+>Call the witch 'Sue'. (designation by description: "Sue is the witch that actually blighted Hob's mare, if any such witch there be." or "Let 'Sue' refer to that witch, if it exists, that blighted Hob's mare.")
+>>Were there such a witch, then we could say *of* the witch (Sue) that it might have been the case that Sue didn't blight Hob's mare. But Sue (=the witch that actually blighted Hob's mare) does not exist, so there is no question of what could have happened in counterfactual scenarios involving her.
+>Thus: "Hob thinks that Sue blighted his mare, and Nob thinks that Sue killed his sow."
+
+# Dennett, "Geach on Intentional Identity"
+
+337: "So long as we hold out the hope or conviction that the object or person or witch under discussion exists, questions of identity are substantive and serious, but as soon as we become skeptics like our reporter, and disavow transparent renderings of our discussion, questions of identity and diversity become idle if not outright meaningless. Suppose Tom says he doubts the existence of a solid gold round square; I cannot reply coherently that I doubt the existence of another solid gold round square---not Tom's at all."
+
+"Whenever we wish to disavow belief in the actual existence of any intentional objects, 'same' can at best mean "exactly similar in characteristics." Suppose tribe A believes in a moon god X, and tribe B believes in a moon god Y. How similar must the biographies and traits of X and Y be before we, as nonbelievers, will say the tribes believe in numerically the same moon god?"
+
+>Each tribe believes that there is some god such that they both do (or do not) believe in it.
+>>We, of course, know that there is no god for them to believe in. If we say that they believe in the same god, then all we can be taken to mean is that they each believe that there is a god and believe that the other tribe believes that there is the god that they believe there to be.
+
+"Are all the world's Santa Clauses and Father Christmases, black-skinned and white, in sleighs and on horses, really the same nonexistent man? What exotic fact would be affirmed by a man who asserted this, and how would we settle a dispute? Or suppose Tom and Mary believe in qualitatively identical anthropomorphic Gods, except that Tom thinks God has blue eyes and Mary thinks God's eyes are brown. Do they believe in the same God? If so, then either the God they believe in has contradictory characteristics (and neither of them, we can suppose, believes in a God with contradictory characteristics), or we shall have to tell one of them that he is wrong about the color of the eyes of the God he believes in!"
+
+>If they take each other to be thinking of the same god, then they will take themselves to be disagreeing. We, who know that there is no god, recognize that neither of them are thinking about any god (they aren't thinking of anything at all), and so their dispute is nonsensical.
+
+338: "(A) Hob thinks a witch has blighted Bob's mare, and Nob wonders whether the witch Hob thinks blighted Bob's mare killed Cob's sow."
+
+340: '"22) can be analyzed as
+(C) Nob assumes that just one witch blighted Bob's mare, and Nob wonders whether (the following is the case:) just one witch is such that Nob assumes it to have blighted Bob's mare, and she killed Cob's sow"
+
+341--: but how are we to handle nonpropositional attitudes such as "fears [it]"?
+
+>"Sue is afraid of <what she takes to be a ghost>"?
+>>entails that she is afraid of something, but what she takes to be a ghost is actually nothing.
+>So instead: "Sue is afraid because she thinks that there is a ghost in the attic."
+
+# Edelberg, "A new puzzle of intentional identity"
+
+1--2: *EXAMPLE 1*. Last night, Bob's mare became quite ill. Hob, who tends Bob's barn, inferred that a witch blighted her. This morning Hob said to his friend, Nob, "A witch blighted Bob's mare."
+Nob believes what Hob has told him. He thinks for a moment, and says, "Cob's sow died early this morning. I'll bet the same witch killed the sow, too." But in fact both animals fell ill due to perfectly natural causes.
+
+2: *EXAMPLE 2*. The Gotham City newspapers have reported that a witch, referred to as "Samantha", has been on quite a rampage. According to the article she has been blighting farm animals and crops and throwing people down wells. In reality, there is no such person: the animals and crops all died of natural causes, and the people found at the well-bottoms had all stumbled in by accident in a drunken stupor. The news reporters simply assumed that a witch was responsible for all the mishaps, and dubbed her "Samantha". Hob and Nob both read the Gotham Star and, like most folks, they believe the stories about the witch. Hob thinks Samantha must have blighted Bob's mare, which took ill yesterday. Nob thinks Samantha killed his friend Cob's sow. (For purposes of later discussion, we assume Nob has no beliefs at all about Hob or about Bob's mare; he is unaware of the existence of either.)
+
+>Hob thinks that Samantha (=the witch blighting farm animals and crops and throwing people down wells) blighted his mare, and Nob believes that Samantha (=[...]) killed his cow."
+
+8: *EXAMPLE 3*. Joan decides to play a trick on Fred. She tells him that she has bought him a brand new Cadillac Coup de Ville, and that it is waiting for him in George's garage. In fact she has done no such thing, but Fred believes her. Purely by coincidence, Mabel decides to play the same trick on Charlie. She tells him a brand new Cadillac is waiting for him in George's garage. He believes her, but the garage is empty.
+
+>9: Intuitively, de dicto (15) could easily be false in the example, but de dicto (16) is true (on a Russellian analysis of the definite descriptions).
+(15) Fred believes a new car belongs to him, and Charlie believes it is a Cadillac.
+(16) Fred believes the new car in George's garage belongs to him, and Charlie believes the new car in George's garage is a Cadillac.
+On the theory we are considering, however, (16) is a substitution instance of (15). So (15) could be false while one of its substitution instances is true. Obviously something is wrong.
+
+>>(15) implies that (a) Charlie is aware of Fred's belief or (b) the speaker believes that the car exists (cf. Dennett 337 and "Speakers' beliefs" below). To capture this, we would construe (16) as (16'): "Fred believes that a new car in George's garage belongs to him, and Charlie believes that the car that Fred believes belongs to Fred is a Cadillac."
+>>OR: "Charlie believes that: 'the new car in George's garage belongs to Charlie' and Fred believes that: 'the new car in Georges garage belongs to Fred'."
+
+9--10: EXAMPLE 4. Pat lives in Chicago, Ruth lives in Pittsburgh. Neither knows of the other's existence. In reality, neither Ruth nor Pat is married, but each believes herself to be married to someone. In both cases, there is no real person whom they believe to be their husband; the "husbands" are utter fantasy. Coincidentally, each woman believe her husband to be named "David Boswell".
+Here, (17) could easily be false; but (18), on one of its uses, is true.
+(17) Pat believes someone lives in Chicago, and Ruth believes he lives in Pittsburgh.
+(18) Pat believes David Boswell lives in Chicago, and Ruth believes David Boswell lives in Pittsburgh.
+If the set of admissible substituends contains names that are homonymous in the way that 'David Boswell' is in the example, and the semantical rule for quantification makes no provision for this, then a false intentional identity statement like (17) could have true substitution instances." Neither of these two requirements are met if we take ordinary proper names as the set of admissible substituends.
+
+>???
+>>"Pat believes that someone named 'David Boswell' lives in Chicago, and Ruth---------\&c."
+
+
+## Speakers' beliefs and intentions
+
+I am the reporter. Hob says to me, "A witch blighted my mare. You don't believe me? Go talk to Nob. He'll tell you something." Nob says to me, "The witch that blighted Hob's mare? She killed my sow."
+
+If I say "Hob says that a witch blighted his mare and Nob says that she killed his sow", this can be taken several ways. If my audience thinks that I believe in witches and/or believe what I have been told, then they may understand me to be saying that there is some witch who is suspected of blighting a mare and killing a sow. If I make it clear that I am skeptical of the whole scenario, then my readers will interpret me as using a "pronoun of laziness"; what they will take me to be saying is something like
+
+>Hob thinks that a witch blighted his mare, and thinks that the witch that blighted his mare killed Nob's sow; Nob thinks that a witch killed his sow, and thinks that the witch that killed his sow blighted Hob's mare; and Hob and Nob believe that there is exactly one witch that blighted Hob's mare and killed Nob's sow. [plus something about common knowledge?]
+
+A skeptical report of belief in the "same god" or "same witch" amounts to a report that two or more people believe (falsly) that there is some god or witch, *and take each other to believe that there is the witch that they believe there to be*. There is no need to appeal to exactly similar characteristics; otherwise religious disputes over the nature of god would be sillier than they already are.
+
+How do we report EXAMPLE 2? We would *not* say "Hob says that a witch blighted his mare and Nob says that she killed his sow"; rather we would say "Hob says that Samantha blighted his mare and Nob says that she killed his sow." Here, if our readers are gullible (and take us to be so too), they will understand us to be saying that *Samantha*, the witch herself, has done these two terrible things. If the readers are skeptical (and think us so too), they will read it as "Hob thinks that Samantha (=the [imagined] witch who has been doing such-and-such) blighted his mare, and Nob thinks that Samantha (=the [imagined] witch...) killed his sow."
