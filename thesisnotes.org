@@ -1,7 +1,7 @@
 #+TITLE: Thesis notes
 * The big picture
 ** Meeting notes
-*** <2011-09-29>
+*** <2011-09-29 Fri>
 [[file:unger.tex][unger.tex]]: define 'compose' in its technical sense
 
 universalism is false _because_ I can't recognize billions of
@@ -34,7 +34,7 @@ isn't _really_.
 And there can't be necessary and sufficient conditions for ordinary
 things (and least in van Inwagian).
 
-*** <2011-10-09>
+*** <2011-10-09 Fri>
 talk.tex
 - referential communication (Bach)
 - and ascribing beliefs to others (stroud and Davidson)
@@ -54,7 +54,7 @@ talk.tex
     - water molecule; great!
     - but tables have no such necessary and sufficient conditions
 
-*** <2011-10-14> 
+*** <2011-10-14 Fri> 
 - defend the 'plausible account' of communication
   - Unger and loose truth
   - Unger has no 'loose-truth-makers' for his sentences
@@ -62,7 +62,7 @@ talk.tex
   - what would a successful paraphrase look like?
   - would it be part of a larger paraphrasing strategy?
 
-*** <2011-10-28>
+*** <2011-10-28 Fri>
 - read SEP on problem of many
 - Intentional identity
   - Geach on Hob, Nob (intentional identity)
@@ -75,7 +75,7 @@ talk.tex
 - sentential operators
 - van cleve
 
-*** <2011-11-03>
+*** <2011-11-03 Thu>
 - Reference and "near misses"
      - If we're trying to talk about chairs and there are none, but
        there are some *close* candidates, are we talking about *them*
@@ -86,7 +86,7 @@ talk.tex
      - unexplained is what makes the close candidates close (esp. if
        'chair' is necessarily impossible)
 
-*** <2011-11-04>
+*** <2011-11-04 Fri>
 - what was the problem regarding intentional identity?
      - just that I claim that if we have a belief *about* something,
        that it exists, but there are apparently cases where we ascribe
@@ -1399,8 +1399,8 @@ waltz cannot exist undanced: in either case, for the "object" of the
 act to exist *is* for the act to take place in a certain way.
 
 * Mereology
-** Ted Sider
-*** _Four-Dimensionalism_
+** Universalism and Four-Dimensionalism
+*** Sider, _Four-Dimensionalism_
 **** Introduction and Chapters 1--2
 [[file:~/Documents/reed/fall11/backup/phil/notes/sider.text][markdown notes]]
 **** Chapter 3: Three- and Four-Dimensionalism Stated
@@ -1435,6 +1435,77 @@ Fails to describe most actual objects.
 All four combinations are (seem) coherent
 
 Presentist perdurance
+
+*** Hawthorne, "3D vs 4D"
+**** Spacetime
+"three theses central to the picture at hand:"
+
+- Pointiness :: Every space-time region is composed of point-sized
+                parts.
+- Universality :: Every collection of space-time points composes
+                  something.
+- Uniqueness :: For every collection of space-time points there is
+                exactly one thing that is composed of the space- time
+                points in that collection.
+- Pointy Object Fundamentality :: Points are ontologically more
+     fundamental than extended regions.
+- Pointy Fact Fundamentality :: Facts about points and the relations
+     between them are more fundamental than facts about extended
+     regions.
+
+Most four-dimensionalists accept these theses.
+
+***** Spatiotemporalism
+The thesis that material objects _are_ the spacetime regions they
+occupy.
+
+- Modal objection :: David Lewis might have lived another year, but
+     the space-time region he (actually) occupied could not have
+     lasted longer than it did.
+
+- Ordinary language objection :: Space-time regions don't walk to the
+     grocery.
+
+**** Four-Dimensionalism
+"Physical objects are thought to be built out of simple material parts
+that have zero spatial and temporal extent, and any collection of such
+simples is held to compose one and only one material object.  On such
+a picture, the last of the worries mentioned for spatiotemporalism no
+longer arises: since point-sized material objects are not identified
+with points, then there is no principled difficulty in allowing two of
+them to occupy the same spatiotemporal point."
+
+Adoption of *Uniqueness* causes problems for four-dimensionalists
+(Lumpl and Goliath).
+
+***** Drop Uniqueness?
+"what should we make of a position that embraces Pointiness and
+Universality for material objects (call this combination ‘Plenitude’)?
+The defender of Plenitude holds that everything is made of point sized
+things, and that every collection of point sized things makes up
+something, but allows that there may be a number of things made of the
+very same point sized things.  She is therefore well placed to
+maintain that even when a quantity of steel and a ship made of the
+steel have exactly the same point-sized parts, they are not
+identical."
+
+Motivating the plenitude: If there could be an archipelago made up of
+an island, a rusting ship, and a toppled tower, why shouldn't there be
+arbitrary scattered objects?
+
+**** Fundamentality
+Problems with the relation of things to their points; Kripke et. al.
+
+*** Three-Dimensionalism
+**** "Wholly present"
+According to the 'serious tenser', the claim that I am spread out in
+time has no more merit that the claim that I am spread out across many
+possible worlds: one should no more reconstrue what was and will be as
+a series of additional concrete realities that I inhabit than one
+should reconstrue what might be as a series of additional concrete
+worlds that I inhabit."
+
+Analogues with 'bi-location'.
 
 ** Peter van Inwagen
 *** Material Beings
