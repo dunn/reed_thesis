@@ -25,7 +25,7 @@ different desks in front of me?
 - SO I NEED TO KNOW WHY plural-singular identity is uninteresting
 
 
-to say that something is 'arranged chairwise' is to _imply_ that it
+to say that something is 'arranged chair-wise' is to _imply_ that it
 doesn't deserve the term; compare Grice's example of the singer's
 string of sounds closely resembling ---------. So when people refer to
 something _as a chair_, they definitely can't be taken to mean that it
@@ -36,8 +36,8 @@ things (and least in van Inwagian).
 
 *** <2011-10-09>
 talk.tex
-- referential communication (bach)
-- and ascribing beliefs to others (stroud and davidson)
+- referential communication (Bach)
+- and ascribing beliefs to others (stroud and Davidson)
 
 [[file:stroud.tex][stroud.tex]]: problems for unger
 - mention problem of many as well as sorites?
@@ -48,7 +48,7 @@ talk.tex
   - if our communication is successful, then it appears that tables
     exist
   - (but must everything we communicate about exist? ghosts)
-- the series-style answer (rosenberg)
+- the series-style answer (Rosenberg)
   - has van inwagen been coming at things from the wrong direction?
   - let's take something that _does_ exist, and ask how it is composed
     - water molecule; great!
@@ -57,7 +57,7 @@ talk.tex
 *** <2011-10-14> 
 - defend the 'plausible account' of communication
   - Unger and loose truth
-  - Unger has no 'loose-truthmakers' for his sentences
+  - Unger has no 'loose-truth-makers' for his sentences
 - van Inwagen and paraphrasing
   - what would a successful paraphrase look like?
   - would it be part of a larger paraphrasing strategy?
@@ -232,7 +232,7 @@ different interests and aims. The concepts we have of such things are
 true of them independently of human interests and aims. Because our
 possession of concepts reflects our interests and aims in this way,
 there are probably a great many things in the world for which we do
-not have concepts, or at leasts very determinate concepts, since we
+not have concepts, or at least very determinate concepts, since we
 lack the relevantly specific interests in those aspects of the
 world. I hope I will be excused from giving examples."
 
@@ -726,7 +726,7 @@ the thought that they are yellow is the same property that those other
 people also see when they have perceptions of yellow. They take
 themselves to have veridical predicational perceptions of yellow
 objects. So even a would-be unmasker's attribution to others of
-perceptions of some property that he takes himself to percieve would
+perceptions of some property that he takes himself to perceive would
 not be the attribution to others of perceptions of yellow. Since the
 unmasker could not understand himself to have perceptions of yellow,
 he could not attribute perceptions of yellow to others on the basis of
@@ -1354,7 +1354,7 @@ If I say "Hob says that a witch blighted his mare and Nob says that she killed h
 
 >Hob thinks that a witch blighted his mare, and thinks that the witch that blighted his mare killed Nob's sow; Nob thinks that a witch killed his sow, and thinks that the witch that killed his sow blighted Hob's mare; and Hob and Nob believe that there is exactly one witch that blighted Hob's mare and killed Nob's sow. [plus something about common knowledge?]
 
-A skeptical report of belief in the "same god" or "same witch" amounts to a report that two or more people believe (falsly) that there is some god or witch, _and take each other to believe that there is the witch that they believe there to be_. There is no need to appeal to exactly similar characteristics; otherwise religious disputes over the nature of god would be sillier than they already are.
+A skeptical report of belief in the "same god" or "same witch" amounts to a report that two or more people believe (falsely) that there is some god or witch, _and take each other to believe that there is the witch that they believe there to be_. There is no need to appeal to exactly similar characteristics; otherwise religious disputes over the nature of god would be sillier than they already are.
 
 How do we report EXAMPLE 2? We would _not_ say "Hob says that a witch blighted his mare and Nob says that she killed his sow"; rather we would say "Hob says that Samantha blighted his mare and Nob says that she killed his sow." Here, if our readers are gullible (and take us to be so too), they will understand us to be saying that _Samantha_, the witch herself, has done these two terrible things. If the readers are skeptical (and think us so too), they will read it as "Hob thinks that Samantha (=the [imagined] witch who has been doing such-and-such) blighted his mare, and Nob thinks that Samantha (=the [imagined] witch...) killed his sow."
 
@@ -1399,9 +1399,44 @@ waltz cannot exist undanced: in either case, for the "object" of the
 act to exist *is* for the act to take place in a certain way.
 
 * Mereology
+** Ted Sider
+*** _Four-Dimensionalism_
+**** Introduction and Chapters 1--2
+[[file:~/Documents/reed/fall11/backup/phil/notes/sider.text][markdown notes]]
+**** Chapter 3: Three- and Four-Dimensionalism Stated
+***** Four-Dimensionalism
+> four-dimensionalists tend to employ an atemporal notion of
+exemplification of properties and relations...my current temporal part
+is, atemporally, part of the larger spacetime worm that is me (56)
+
+> Intrinsic change is difference between successive temporal parts.
+
+- P@T :: x is part of y at t iff x and y exist at t, and x's
+         instantaneous temporal part at t is part of y's instantaneous
+         temporal part at t (57).
+- PO :: if x and y exist at t, but x is not a part of y at t, then x
+        has some part at t that does not overlap y at t (58).
+
+> x is an _instantaneous temporal part_ of y at instant t =_{df} (1) x
+exists at, but only at, t; (2) x is a part of y at t; and (3) x
+overlaps at t everything that is part of y at t (59).
+
+> Four-dimensionalist may then be formulated as the claim that,
+necessarily, each spatiotemporal object has a temporal part at every
+moment at which it exists.
+
+***** Three-Dimensionalism
+- 3D-3 :: Necessarily, every continuant is _possibly_ strongly wholly
+          present throughout some extended interval (66).
+
+Fails to describe most actual objects.
+
+***** Perdurance, Endurance, Presentism, and Eternalism
+All four combinations are (seem) coherent
+
+Presentist perdurance
 
 ** Peter van Inwagen
-
 *** Material Beings
 
 **** Preface
@@ -1463,7 +1498,7 @@ certainly exist as more than verbal conventions or 'political
 entities' (I can *live* in Turkey), but they do seem to be created
 almost *by definition*.
 
-yugoslavia ceased to exist in 2003
+Yugoslavia ceased to exist in 2003
 
 
 10. 'internal' composition; 'Whether certain objects add up to or
@@ -1498,7 +1533,7 @@ have a common part.'
 '$y$ is a sum of the $x$s' = 'the $x$s are all parts of $y$ and every
 part of $y$ overlaps at least one of the $x$s'
 
-> 'Suppose one had certain (nonoverlapping) objects, the $x$s, at
+> 'Suppose one had certain (non-overlapping) objects, the $x$s, at
 one's disposal; what would one have to do---what *could* one do---to
 get the $x$s to compose something?' (31)
 
@@ -1686,7 +1721,7 @@ existence of _something_. This much is shown by the fact that if the
 next room were wholly empty of matter, then what was expressed by this
 sentence would be false by anyone's standard." (101--102)
 
-van Inwagen's treatement of loose truth and loose-truthmakers requires
+van Inwagen's treatment of loose truth and loose-truthmakers requires
 that for an proposition with existential entailment to be loosely
 true, there must be _something_ that does exist.
 
@@ -1710,7 +1745,7 @@ reply to the Moore-style objection to my ontology in the way I have."
   something false.
 
 - So van Inwagen must think that _what you actually said_ (and so
-  meant) was "It's drizzy".
+  meant) was "It's drizzly".
 
 - Really? Because page 106 ("he really means that there are two
   valuable chairs in the next room.")
@@ -1739,7 +1774,7 @@ were not bligers" (my emphasis)
 
 "(A) The chair-receptacle R..." (105)
 
-kripke (wittgenstein 65); see also Grice (106)
+kripke (Wittgenstein 65); see also Grice (106)
 
 > "I am not proposing an analysis of common language. I am offering a
 metaphysical theory. The only thing I have to say about what the
@@ -1951,7 +1986,7 @@ Unger's presuppositions
 *** Replies to reviewers
 
 > "Let me revert once more to my Copernican analogy. Someone who says,
-'I don't understand what van Iwagen means when he says that trees
+'I don't understand what van Inwagen means when he says that trees
 exist but apples don't' corresponds to someone who says, 'I don't
 understand what Copernicus means when he says that clouds move but the
 sun doesn't.' (711--712)
