@@ -1,0 +1,606 @@
+* Mereology
+
+** Peter van Inwagen
+
+*** Material Beings
+
+**** Preface
+
+"There are no tables or chairs or any other visible objects except
+living organisms" (1)
+(differentiates paraphrase strategy from subjectivism)
+
+### Presuppositions:
+
+1. absolute identity (3)
+
+2. no four-dimensionalism; 'distinct regions of space-time are in some
+   cases "occupied" by numerically the same three-dimensional object.'
+   (4)
+
+3. classical logic (when possible)
+
+4. no counterpart theories
+
+5. atomism; 'I suppose that questions about whether two objects are
+   composed of or constituted by the same "quantity" or "parcel" of
+   matter---or "the same matter" *tout court*---make sense only in the
+   case of composite objects, and in that case these questions must be
+   understood as asking whether the composite objects are composed of
+   the same ultimate parts.' (5)
+
+6. no materially coextensive objects
+
+7. mental predicates require a subject
+
+8. people are material objects (6)
+
+9. anticonventionalism; 'I suppose that what there is, is never a
+   matter of stipulation or convention.'
+
+> 'By establishing a convention, I bring it about that there exists a
+> convention having certain features, and there's an end on't'. (7)
+
+'One stipulates not facts but meanings for words.' (8)
+
+> but then one at least 'stipulates' semantic facts (produces them)
+
+> 'It is only when one has some sort of grip on what exists
+independently of convention that one can establish conventions that
+regulate one's conceptual dealings with what exists. Lines and
+meridians are "drawn" on the globe by convention to enable navigators
+and cartographers to deal with the globe. But the globe itself is
+there, antecedently to any conventions; if it weren't, there'd be
+nothing to draw the lines on.' (11)
+
+along the lines of this analogy, are countries there prior to the
+drawing of boundaries? we speak of "what is now Turkey", and it
+doesn't seem false to say that Turkey didn't exist 3000 years ago
+(otherwise Ataturk would have had little to do).
+
+are some material objects like countries in this respect? they
+certainly exist as more than verbal conventions or 'political
+entities' (I can *live* in Turkey), but they do seem to be created
+almost *by definition*.
+
+yugoslavia ceased to exist in 2003
+
+
+10. 'internal' composition; 'Whether certain objects add up to or
+compose some larger object does not depend on anything besides the
+spatial and causal relations they bear to one another.' (12)
+
+**** Section 1
+
+van Inwagenism entails, 'among other things, that there are no
+visible objects but men and women and cats and other living organisms,
+that there are no tables or books or rocks or hands or legs.' (18)
+
+---'The metaphysically puzzling features of material objects are connected in deep and essential ways with metaphysically puzzling features of the constitution of material objects by their parts.'
+
+**** Section 2
+
+> 'I have found it helpful to ask not 'In what circumstances is a plank
+a part of a ship?' but, rather, 'In what circumstances do planks
+compose (add up to, form) something?' (21)
+
+>> is the first question the better one? (cf Rosenberg)
+
+plural referring expressions (23)
+
+> 'the $x$s compose $y$' = 'the $x$s are all parts of $y$ and no two
+of the $x$s overlap and every part of $y$ overlaps at least one of the
+$x$s' (29)
+
+overlapping; 'a thing *overlaps* a thing---or: they overlap---if they
+have a common part.'
+
+'$y$ is a sum of the $x$s' = 'the $x$s are all parts of $y$ and every
+part of $y$ overlaps at least one of the $x$s'
+
+> 'Suppose one had certain (nonoverlapping) objects, the $x$s, at
+one's disposal; what would one have to do---what *could* one do---to
+get the $x$s to compose something?' (31)
+
+Might it depend on what you want to make? (cf Rosenberg)
+
+> 'The question 'In virtue of what do these $n$ blocks compose this
+house of blocks?' is a question about $n + 1$ objects, one of them
+radically different from the others. But the question 'What could we
+do to get these $n$ blocks to compose something?' is a question about
+$n$ rather similar objects.'
+
+**** Section 3
+
+> Answer (i) 'To get the $x$s to compose something, one need only bring
+them into contact; if the $x$s are in contact, they compose something;
+and if they are not in contact, they do not compose anything.' (33)
+
+> 'If I bring two cubes into contact so that a face of one is
+coterminous with a face of the other, have I thereby brought into
+existence a solid that is twice as long as it is wide? Or have I
+merely rearranged the furniture of earth without adding to it?'
+
+**** Section 4
+
+>"an answer to the Special Composition Question tells us nothing about
+the nature of composite objects;\,ldots\,an answer to this question
+tells us nothing about the nature of composition." (38)
+
+Supposing *Contact* is the answer to SCQ, it still 'tells us nothing
+about things called 'houses'\,' or any other composite object. (39)
+
+it doesn't say *what* we have composed, nor even *how many* things we
+have composed.
+
+But suppose we adopt *Uniqueness*. 'Would *Contact* and *Uniqueness*
+together "tell us what composition was"? No. Not, at any rate, in the
+sense of enabling us to find a sentence containing no mereological
+terms that was necessarily extensionally equivalent to 'the $x$s
+compose $y$'. (Let us say that such a sentence would constitute an
+answer to the *General Composition Question*. As the Special
+Composition Question may be identified with the question, Under what
+conditions does composition occur? so the General Composition Question
+may be identified with the question, What *is* composition?)
+
+reciprocals (41)
+
+Answers to SCQ let us know *when* composition has occurred, but not
+*what* has been composed, or why.
+
+> 'A composition function $f$ would immediately provide us with an
+> answer to the General Composition Question, an answer of the form
+> The $x$s compose $y$ if and only if $y$ has $f($the $x$s)."
+
+> 'Although any answer to the General Composition Question
+automatically provides an answer to the Special Composition Question,
+the answer it provides will not necessarily be the best or most
+interesting or most informative answer' to the SCQ. (47)
+
+Because the General Question is also supposed to answer the Inverse
+SCQ: 'Which objects are composite?'
+
+> 'I am inclined to think that there is no way of answering the
+General Composition Question. I am inclined to think that the concepts
+"part," "sum," and "composition" form what (by analogy to "the modal
+circle" or "the moral circle") one might call 'the mereological
+circle', a closed family of concepts.' (51)
+
+**** Section 5
+
+theses of parthood
+
+1. "Parthood is transitive."
+
+2. "No two things are parts of each other."
+
+3. "If $x$ is a proper part of $y$, there are $z$s (none of which is
+   $x$) such that $x$ and the $z$s compose $y$."
+
+4. "If the $x$s have a sum and the $x$s are among the $y$s, then every
+   sum of the $y$s has a sum of the $x$s as a part."
+
+**** Section 6
+
+- Fastening :: "To get the $x$s to compose something, one need only to
+               cause them to be fastened to one another." (56)
+
+- Cohesion :: "To get the $x$s to compose something, one need only to
+              cause them to cohere." (58)
+
+- Fusion :: "To get the $x$s to compose something, one need only to
+            cause them to fuse." (58--59)
+
+**** Section 7
+
+series-style answers
+
+**** Section 8
+
+'extreme answers'
+
+- nihilism :: "It is impossible for one to bring it about that
+              something is such that the $x$s compose it, because,
+              necessarily (if the $x$s are two or more), nothing is
+              such that the $x$s compose it." (72)
+
+> "$(\exists y$ the $x$s compose $y)$ if and only if there is only one
+of the $x$s" (73)
+
+> "Peter Unger calls himself a nihilist, but his sense of the word is
+different from mine. Unger apparently concedes the existence of
+composite objects; *his* nihilism consists in a denial that any of
+these composites is the right sort of thing to belong to the extension
+of 'woman' or 'cat' or 'chair' or any of the other count-nouns of
+ordinary language."
+
+(he concedes the *possibility* of composite objects)
+
+- universalism :: "Is is impossible for one to bring it about that
+                  something is such that the $x$s compose it, because,
+                  necessarily, (if the $x$s are disjoint), something
+                  is such that the $x$s compose it." (74)
+
+- mereological constancy :: VxVyVt (x part of y @ t -> Vt' (if x and y
+exist @ t' -> x is part of y @ t')
+
+- mereological essentialism :: replace times above with worlds
+
+**** Section 9
+
+**the proposed answer**
+
+> "$(\exists y$ the $x$s compose $y$) if and only if the activities of
+the $x$s constitutes a life (or there is only one of the $x$s). (82)
+
+96--97: assimilation, generation, corruption, annihilation
+
+**** Section 10
+> "current physics strongly suggests that quarks and leptons and
+gluons and photons have no proper parts" (99)
+
+> "I want to do what I can to disown a certain apparently almost
+irresistible characterization of my view, or of that part of my view
+that pertains to inanimate objects. Many philosophers, in conversation
+and correspondence, have insisted, despite repeated protests on my
+part, on describing my position in words like these: "Van Inwagen says
+that tables are not real"; "...not true objects"; "...not
+actually *things*"; "...not substances"; "...not unified
+wholes"; "...nothing more than collections of particles." These
+are words that darken counsel. They are, in fact, perfectly
+meaningless. My position vis-\'{a}-vis tables and other inanimate
+objects is simply that there *are* none."
+
+
+"What it *would* be true to say is this:
+
+> ...the premises of these arguments, whatever they may be, could not
+be so worthy of belief as the thesis that when English speakers,
+immersed in the ordinary business of life, utter sentences like,
+"There are two very valuable chairs in the next room' or 'There are
+stars larger than the sun', they very often say true things.
+
+But I do not deny this. In fact, I affirm it." (100)
+
+
+> "any of the propositions that an English speaker might express by
+uttering 'There are two very valuable chairs in the next room' on a
+particular occasion---there are, of course, many such propositions,
+owing to the indexical elements in the sentence---is, I would argue,
+consistent with the proposition that I, as metaphysician, express by
+writing the words 'There are no chairs'." (101)
+
+Re: Copernicus, is it even strictly false that the sun moved behind
+the elms?
+
+"'The sun moved behind the elms' is not, even from the point of view
+of the most fanatical astronomical literalist, a report of a
+nonexistent, fabricated, or imaginary even; it is not like, say, 'The
+sun moved rapidly back and forth across the sky'. It may describe an
+actual event in a misleading or loose or even a wrong way, but the
+event it describes is there to be described and
+misdescribed. Something very similar may be said about 'There are two
+very valuable chairs |102| in the next room'. This sentence, when it
+is successfully used to report a fact, does report a fact about the
+existence of *something*. This much is shown by the fact that if the
+next room were wholly empty of matter, then what was expressed by this
+sentence would be false by anyone's standard." (101--102)
+
+van Inwagen's treatement of loose truth and loose-truthmakers requires
+that for an proposition with existential entailment to be loosely
+true, there must be *something* that does exist.
+
+> "when people say things in the ordinary business of life by uttering
+sentences that start 'There are chairs...' or 'There are stars...',
+they very often say things that are literally true...I can say this
+because I accept certain theses in the philosophy of language. Some
+people, I suppose, would reject these theses. These people would say
+that when I said "It is and it isn't" and "The sun moved behind the
+elms," I said something false. If I agreed with them, I could not
+reply to the Moore-style objection to my ontology in the way I have."
+(102)
+
+- What are these theses? Apparently not the Gricean/Bacchic
+  distinction between saying and stating. According to that thesis,
+  what you *said* ("It is and it isn't") was false, but what you
+  *meant* ("It's drizzly") is true.
+
+- So does van Inwagen think that when you say "It is and it isn't",
+  you mean *just that*? If so, anyone ought to agree that you said
+  something false.
+
+- So van Inwagen must think that *what you actually said* (and so
+  meant) was "It's drizzy".
+
+- Really? Because page 106 ("he really means that there are two
+  valuable chairs in the next room.")
+
+- So what the hell is going on?
+
+
+> "even if I did accept the austere philosophy of language that
+ascribes falsity to typical utterances of 'The sun moved behind the
+elms', I could nevertheless respond to "Moore's gambit" in a way that
+is very much like the way I have responded to it. If someone maintains
+that 'The sun moved behind the elms' expresses a falsehood, he must
+still have some way to distinguish between this sentence and those
+sentences (like 'The sun exploded' and 'The sun turned green') that
+the vulgar would regard as the sentences that expressed falsehoods
+about the sun... |103| [if I took this line,] I should not be willing
+to say that people who uttered things like 'There are two valuable
+chairs in the next room' very often said what was true. I should be
+willing to say only that they very often say what might be treated as
+a truth for all practical purposes."
+
+bligers (they do exist!) (104)
+
+> "a foreign zoological expedition discovered that, *in a way*, there
+were not bligers" (my emphasis)
+
+"(A) The chair-receptacle R..." (105)
+
+kripke (wittgenstein 65); see also Grice (106)
+
+> "I am not proposing an analysis of common language. I am offering a
+metaphysical theory. The only thing I have to say about what the
+ordinary man really means by 'There are two valuable chairs in the
+next room' is that he really means that there are two valuable chairs
+in the next room. And we all understand him perfectly, since we are
+native speakers of our common language."
+
+"If you were to tell the ordinary man that I thought there were no
+chairs, he would probably think I was mad. But you would have mislead
+him about my thesis [no, we would not have]. He would understand you
+to be saying---given his education and interests, what else could he
+understand you to be saying?---something that implied that whenever
+anyone uttered a sentence like 'There are two valuable chairs in the
+next room', that person was under an illusion of some sort. He would
+think that I regarded utterers of this sentence as he (perhaps) regard
+utterers of the sentence 'There are two horrible ghosts in the next
+house'. But my assertion (and yours and his) that there are no ghosts
+is not like my assertion that in Pluralia there are no bligers. My
+assertion that in Pluralia there are no bligers is not meant to deny
+that reports of bligers are reports of a real and unified set of
+phenomena. My assertion that there are no ghosts is meant to deny that
+reports of ghosts are reports of a real and unified set of
+phenomena. When people say they see ghosts, I believe (and I presume
+you do, too) that either there is nothing there, or, if there is
+something there, it's not the same sort of thing on each occasion."
+(107)
+
+> "My assertion that in Pluralia there are no bligers is not meant to
+deny that reports of bligers are reports of a real and unified set of
+phenomena...When Pluralians say they have seen a bliger, there
+generally is something there, and it's generally the same sort of
+thing [on each sighting]. My assertion that there are no chairs is
+like my assertion that there are no bligers. [---Nope. Because there
+are clearly defined parts of the bliger and it's easily seen how they
+fit together. A bliger is, e.g., 'four monkeys, a sloth, and an owl in
+such-and-such a formation'. There are no such criteria for tables, nor
+tablewise arrangements of simples.] But that is something that you
+will not convey to the ordinary man when you tell him that I think
+that there are no chairs, just as you would not have conveyed to the
+sixteenth-century ordinary man what Copernicus believed about the
+motion of the sun if you told him that, according to Copernicus, the
+sun does not move."
+
+Yes you would! That's what made his thesis so revolutionary.
+
+**** Section 11
+
+> "If I am right, then all facts of the sort that most philosophers
+would say were facts about artifacts, and about nonliving "natural"
+objects like stones, are facts about the arrangement of simples. [???]
+If this position is, as I have been arguing, not absurd, then it
+should be possible to paraphrase the sentences of ordinary language
+that most philosophers would say expressed facts about things like
+chairs in language that refers to no material things but simples."
+(108)
+
+- If facts *about* $x$ are really *about* $y$, and we can say
+  (literally true!) things like "there is a red chair in the room"
+  (and mean it!), then presumably van Inwagen is making some appeal to
+  the underlying logical structure of the language. Unbeknownst to us,
+  we are really performing plural reference, rather than singular
+  (just as "the plumber is pernicious" is a general proposition?).
+
+- But classic paraphrases are used to *preserve* the intuitively
+  correct truth-values. "There is no King of France" becomes $\neg
+  \exists x$ etc etc. "There is a Queen of England" becomes $\exists
+  x$ etc etc. And in the second, positive claim, both the English and
+  notational versions entail the existence of the Queen of France. So,
+  if "There are some chairs\,\ldots " becomes $\exists xs arranged
+  chairwise$ etc, why should not both entail the existence of chairs?
+
+- Other paraphrases are used to show that the original statement *is*
+  false, but loosely true. For example, "Love exists" might be
+  paraphrased as $\exists x \wedge \exists y and Lyx$. The whole point
+  of this is so that our cynical philosopher can say that, strictly
+  speaking, love doesn't exist (what the romantic said was false). Van
+  Inwagen, on the other hand, wants to still say that strictly
+  speaking, chairs exist. (Doesn't he? At least he wants to say that
+  the ordinary man didn't say anything false.)
+
+  + $\exists x Lx$ entails the existence of love.
+
+  + $\exists x Tx$ entails the existence of a table.
+
+
+
+> "Our answer to the SCQ entails that there are no material objects
+but organisms and simples, and our suggested technique of paraphrasing
+enables us to escape some of the more embarrassing consequences of
+this position. When someone says "Some tables are heavier than some
+chairs," there is obviously something right about what he says. Our
+technique of paraphrasis enables us to capture what it is that is
+right about what he says---or so is my hope." (111)
+
+> "We are now ready to consider a paraphrase of 'Some chairs are
+heavier than some tables': There are $x$s that are arranged chairwise
+and there are $y$ that are arranged tablewise and the $x$s are heavier
+than the $y$s." (109)
+
+> "There are, we suppose, no tables; we philosophers who supposed that
+things sometimes added up to tables were mistaken. There is, we
+maintain, no table over there, but only certain things arranged
+tablewise. But if we are going to refer to those things, in lieu of
+referring to a table, we shall need to call them something---say,
+'those things over there that are arranged tablewise'. And if we are
+going to translate multiply quantified sentences involving
+physical-object common nouns like 'table' into sentences involving no
+physical-object common nouns, or none but 'simple', then we shall have
+to employ some device that allows us to "mimic" the quantificational
+structure of the original sentences---" (110)
+
+> "I shall sometimes make assertions by writing sentences that contain
+terms like 'table' and 'chair'. Whenever I do this, I am to be taken
+as claiming to be able to produce a paraphrase of the sentence I have
+written that, but for considerations of space and English prose style,
+I should be willing to put in its place." (112)
+
+> "paraphrases are not supposed to capture the meanings of their
+originals...When the ordinary man utters the sentence 'Some chairs are
+heavier than some tables' (in an appropriate context, and so on and so
+on), he expresses a certain proposition, and one that is almost
+certainly true. But I do not claim that this proposition *is* the
+proposition that, for some $x$s, those $x$s are arranged chairwise and
+for some $y$s, those $y$s are arranged tablewise, and the $x$s are
+heavier than the $y$s. If these are two distinct propositions, what is
+the relation between them in virtue of which the latter is a
+"paraphrase" of the former (or the sentence expressing the latter is a
+paraphrase of the sentence expressing the former)? [Copernicus] (112)
+
+(A) The paraphrase describes the same fact as the original.
+
+(B) The paraphrase, unlike the original, does not even appear to imply
+that there are any objects that occupy chair-receptacles.
+
+(C) The paraphrase is neutral with respect to competing metaphysical
+theories, *viz*. the "received" theory, that there are objects that
+occupy chair-receptacles, and the theory I have proposed, according to
+which there are no such objects.
+
+(D) The original, though it doubtless does not express the same
+proposition as the paraphrase, has the feature ascribed to the
+paraphrase in (C): It is neutral with respect to the question whether
+there are objects that fit exactly into chair-receptacles." (113)
+
+Whether or not "The sun moved behind the elms" entails that the sun
+moved (it does), it sure does entail that the sun exists. Likewise,
+"Some chairs..." sure does entail that chairs exist.
+
+**** Section 13
+
+"Pick up a lump of clay and knead it into some complicated and
+arbitrary shape. Call anything of essentially that shape a
+gollyswoggle. Did you bring a gollyswoggle into existence? I should
+think that if our sculptor brought a statue into existence, then you
+brought a gollyswoggle into existence." (126)
+
+Probably!
+
+> "you, presumably, did not intend to produce anything
+gollyswoggle-shaped...if you can make a statue on purpose by kneading
+clay, then you can make a gollyswoggle by accident by kneading clay."
+
+Ca you ou can only make a gollyswoggle by accident after the first
+gollyswoggle has been made?
+
+**** Section 17
+
+the slide from 'would' to 'did' (or 'does'):
+
+> "Assume I exist. Then certain simples compose me. Call them
+'M'. Now, a single simple is a negligible item indeed. Let $x$ be one
+of these negligible parts of me---one that is somewhere in my right
+arm, say. Now consider the simples that compose me *other than* $x$
+('M -- $x$'). Since $x$ is so very negligible, M -- $x$ *could* [my
+emphasis] compose a human being just as well as M could. We may say
+that M and M -- $x$ are "equally well suited" to compose human
+beings. And, of course, for *any* simple $y$, "M -- $y$ will be as
+well suited to compose a human being as M are. Moreover, it would be
+surprising indeed if there were not a simple $z$ such that "M + $z$"
+were as well suited to compose a human being as M are. It would, in
+fact (if I may once more use this phrase), be intolerably arbitrary to
+say that M composed a human being although M -- $x$ *didn't* [my
+emphasis] and M -- $y$ *didn't* [my emphasis] and M + $z$ *didn't* [my
+emphasis]. Suppose, therefore, that M -- $x$ et al.\ *do* [my
+emphasis] compose human beings." (215)
+
+What would be arbitrary would be to suppose that M -- $x$ etc *would
+not* compose human beings. And we've agreed to that in the first
+half. All we are therefore entitled to suppose is that M -- $x$ et
+al.\ *would* compose human beings if $x$ were removed---just as my
+house of blocks -- block A4 *would be* a house of blocks if I removed
+A4.
+
+Unger's presuppositions
+
+1) In every situation of which we should ordinarily say that it
+   contained just one man, there are many sets of simples whose
+   members are as suitably arranged to compose men as any simples
+   could be. [false]
+
+2) The members of each of these sets compose something. [false]
+
+3) Each of these "somethings" is a man, provided there are any men at
+   all. [false]
+
+4) If I exist, there is a man. (216)
+
+
+*** Replies to reviewers
+
+> "Let me revert once more to my Copernican analogy. Someone who says,
+'I don't understand what van Iwagen means when he says that trees
+exist but apples don't' corresponds to someone who says, 'I don't
+understand what Copernicus means when he says that clouds move but the
+sun doesn't.' (711--712)
+
+NOPE. Problem is that all the designating terms in the Copernican
+example pick out things in the world, while, ex hypothesi, 'apples'
+does not. There is nothing to understand by the world 'apples' on van
+Inwagen's theory.
+
+"'But you couldn't understand "chairwise" unless you first understood
+"chair".' I think that this statement is false, for reasons that I
+give in the footnote that Rosenberg mentions. But suppose it is
+true. What are its untoward consequences for my metaphysical position?
+It obviously does not entail that I couldn't understand' chairwise'
+unless there were, in the strict and philosophical sense, chairs,
+[cf. Hirch on the coherency of *this*] and I don't see how it can have
+untoward consequences for my metaphysical position if it does not have
+that entailment. (Rosenberg, who as I said, understands "chairwise",
+presumably also understands "golden-mountain-wise"; grant for the sake
+of argument that he could not understand this ungainly adverb unless
+he understood "golden mountain"; it obviously does not follow that he
+could not understand "golden-mountain-wise" if there were no golden
+mountains.) (719)
+
+- golden mountains are not metaphysically impossible (except according
+    to van Inwagen); we do *not* understand 'round square(-wise)'.
+
+> "It is easy to see how to define 'chairwise' in terms of 'chair'
+without supposing that there are any chairs. Let a "chair" be defined
+as an object that has the properties C_{1}, C_{2},\,\dots\,C_{n}. (I
+am sure that Rosenberg and I could agree on a property-list definition
+of 'chair'.)
+
+1. Suppose we have such a definition: "a chair is an object with four
+sections [legs] 1x1x10" placed each at the corners of a 10x10" square;
+resting on these sections is another section [seat] that is 10x10x1",
+and placed upon one terminal 1" part of this section is another
+section 10x1x10". Each of these sections are glued together."
+
+2. Now how is 'chairwise' defined in terms of this definition?
+
+3. "simples are arranged chairwise iff some of the simples occupy each
+   of four regions of space 1x1x10", these regions placed each at the
+   corners of a 10x10 square; some other of the simples occupy a
+   region of space 10x10x1" that borders the tops of the first four
+   regions; the remainder of the simples occupy a region of space
+   10x1x10" that borders a 1x10" area on the top and at the edge of
+   the 10x10x1" region; the simples in each region that border other
+   regions are bonded [however wood-glue bonds] with the simples in
+   the other region."
+
