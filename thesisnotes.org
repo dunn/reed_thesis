@@ -1,5 +1,97 @@
 #+TITLE: Thesis notes
 * The big picture
+** Meeting notes
+*** <2011-09-29>
+[[file:unger.tex][unger.tex]]: define 'compose' in its technical sense
+
+universalism is false _because_ I can't recognize billions of
+different desks in front of me?
+
+- If I could, would there be more desks?
+
+- NO! We would just be able to talk about the desk in more precise
+  terms.
+
+- For example, before we knew about organs and shit, we talked only
+  about the people. Then organ harvests became popular and we learned
+  to talk about the person _in terms of_ their organs. Then biology
+  and chemistry and physics came along and we figured out how to talk
+  about people in terms of cells and molecules and atomic structure.
+
+- These advances did not inaugurate ontological proliferation. We just
+  began to _see more_ and so invented terms to describe what we were
+  seeing.
+
+- SO I NEED TO KNOW WHY plural-singular identity is uninteresting
+
+
+to say that something is 'arranged chairwise' is to _imply_ that it
+doesn't deserve the term; compare Grice's example of the singer's
+string of sounds closely resembling ---------. So when people refer to
+something _as a chair_, they definitely can't be taken to mean that it
+isn't _really_.
+
+And there can't be necessary and sufficient conditions for ordinary
+things (and least in van Inwagian).
+
+*** <2011-10-09>
+talk.tex
+- referential communication (bach)
+- and ascribing beliefs to others (stroud and davidson)
+
+[[file:stroud.tex][stroud.tex]]: problems for unger
+- mention problem of many as well as sorites?
+
+[[file:unger.tex][unger.tex]]: problems for van inwagen
+- we don't mean what he thinks we mean
+- we are talking about _tables_
+  - if our communication is successful, then it appears that tables
+    exist
+  - (but must everything we communicate about exist? ghosts)
+- the series-style answer (rosenberg)
+  - has van inwagen been coming at things from the wrong direction?
+  - let's take something that _does_ exist, and ask how it is composed
+    - water molecule; great!
+    - but tables have no such necessary and sufficient conditions
+
+*** <2011-10-14> 
+- defend the 'plausible account' of communication
+  - Unger and loose truth
+  - Unger has no 'loose-truthmakers' for his sentences
+- van Inwagen and paraphrasing
+  - what would a successful paraphrase look like?
+  - would it be part of a larger paraphrasing strategy?
+
+*** <2011-10-28>
+- read SEP on problem of many
+- Intentional identity
+  - Geach on Hob, Nob (intentional identity)
+  - postulations of Vulcan
+- diff between hallucinations, illusions?
+  - same/diff source of illusion?
+  - objects _of_ hallucination?
+- communication and intention
+- intention and entailment
+- sentential operators
+- van cleve
+
+*** <2011-11-03>
+- Reference and "near misses"
+     - If we're trying to talk about chairs and there are none, but
+       there are some *close* candidates, are we talking about *them*
+       (re Problem of the Many)? If so, *which*? Or are we talking
+       about nothing, but we take ourselves to be talking about
+       something *because* of these close candidates?
+     - cf. Field on mass
+     - unexplained is what makes the close candidates close (esp. if
+       'chair' is necessarily impossible)
+
+*** <2011-11-04>
+- what was the problem regarding intentional identity?
+     - just that I claim that if we have a belief *about* something,
+       that it exists, but there are apparently cases where we ascribe
+       beliefs to people *about* things we know to be nonexistent?
+
 ** Stroud
 *** The Quest for Reality
 <<quest>>
@@ -796,6 +888,67 @@ will never reach a conception of the world in which there is nothing
 corresponding to the contents of any of the evaluative beliefs he
 recognizes. No unmasking could succeed."
 
+*** Engagement and Metaphysical Dissatisfaction
+**** Chapter 1
+5: "Could anyone who thinks and acts in the world as we all do
+consistently understand his own and other people's beliefs about
+causation, necessity, and values as nothing more than what a negative
+metaphysical verdict about them says they are?"
+
+"Metaphysical curiosity can express itself even about a conception of
+the world that we think is as firmly based and well supported as any
+conception of the world can be."
+
+6: "One thing I think the logical positivists were right about was
+their recognition that metaphysics is not just one among many
+different ways of studying the world. It is a special and
+distinctively _philosophical_ study of the way things are."
+
+7: Kant's metaphysical project "has one feature that it seems to me
+any metaphysical inquiry worth taking seriously must have. It is what
+might be called metaphysics _from within_. It starts with the thoughts
+and beliefs we actually have about the world and investigates the
+conditions of our having them."
+
+10: "to reach any satisfactory metaphysical outcome even in that case
+[the case of beauty] we would need good answers to three
+interconnected questions. The first question is how it is known or how
+it is to be established that the metaphysical verdict is correct. What
+shows that beauty is only in the eye of the beholder and is nothing
+present on its own in the world as it is fully independently of all
+beholders' responses? This question is often simply ignored. It can
+seem obvious or beyond question that beauty itself could be nothing in
+the independent world. But finding or declaring it obvious is just
+another expression of the metaphysical conviction that the traditional
+maxim about beauty simply must be right. It is not an independent
+reason in support of that conclusion.
+
+11: "Whether something is beautiful or not would depend on how human
+beings do or would respond to it. It could then be said, with
+admissible license, that the beauty they speak of lies only in the
+eyes of the beholders. |12| \\ "But is this actually true of our
+judgements of beauty? This is a question about what we actually say or
+think or judge in speaking of the beauty of things. This is the second
+of the three questions to be asked about this kind of metaphysical
+enterprise. It is the question of what the thoughts or beliefs that
+are subject to metaphysical assessment are really like, and how they
+work."
+
+14: "The third question to be asked is whether we can find that we
+do in fact think of and respond to beauty in the ways the metaphysical
+reflection depends on and at the same time accept what the
+metaphysical verdict says: that there is no such thing as beauty in
+the world independently of all beholders' responses to things."
+
+15: "Metaphysical conviction can lead in this way to distortion or
+misunderstanding of what we actually say and believe even in the most
+familiar everyday judgements we are trying to understand."
+
+16: "What is the source of the sense that metaphysics has a stronger
+claim to correctness or illumination than what we accept as part of
+the world without any metaphysical help?"
+
+18--19: irreducibility and indispensability
 
 ** Wittgenstein
 
@@ -879,8 +1032,155 @@ may, to some significant extent, think coherently about concrete
 reality." 
 # <<incoherent>>
 
+**** "There are no ordinary things"
+117: "while I shall argue that our concept of a stone, for example, is
+devoid of application, I shall not make any such claim for our concept
+of a physical object, or for any similarly general idea. So far as
+these present arguments go, then, there may well be various physical
+objects, indeed, even of a great variety of shapes and sizes. But
+whatever the shapes and sizes of any such objects, none will ever be a
+table, a stone, or any ordinary thing."
+
+147: "it is true that we have shown that, in a relevant manner, terms
+for ordinary things are incoherent. In that that is so, those terms
+cannot apply to anything real. And from that it follows that there are
+no such ordinary things as those words might purport to
+designate"~\cite[147]{unger1979}.
+
+"certain kinds are never instanced"~\cite[147]{unger1979}.
+
+148: "it appears quite obvious to us now that there will be no
+application to things for such nouns as 'stone' and 'rock', 'twig' and
+'log', 'planet' and 'sun', 'mountain' and 'lake', 'sweater' and
+'cardigan', 'telescope' and 'microscope', and so on, and so
+forth. Simple positive sentences containing these terms will never,
+given their current meanings, express anything true, correct,
+accurate, etc., or even anything which is anywhere close to being any
+of those things."
+
+149: "What we have said about words pertains immediately to our
+_thought_, for much of our thought is in terms of such words. For
+example, when we are under the impression that we are thinking about
+an object in the world, I suggest that our impression is mistaken. If
+we suppose that we are thinking of Venus and, thus, are thinking of
+some existing thing, I suggest that we are similarly in error. At
+best, we are thinking of something, but only in much the way we do
+when thinking of a fictional entity. Alternatively, it might be that
+we are here not really thinking of or about any (finite) entity at
+all."
+
+Then how do we communicate?
+
+151: "First, in that we have foregone arguments with regard to living
+things, we may still believe in plants and animals, and the organs,
+tissues and cells presumed to pertain thereof. In that we may regard
+them as mere products of living things, twigs and logs and fingernails
+may be considered and denied by us, but perhaps that is a loss which
+may be accepted with equanimity."
+
+They cannot be considered if they cannot be thought of.
+
 
 *** The problem of the many
+**** SEP Entry
+The paradox arises because in the story as told the following eight
+claims each seem to be true, but they are mutually inconsistent.
+
+  1. There are several distinct sets of water droplets sk such that
+     for each such set, it is not clear whether the water droplets in
+     sk form a cloud.
+
+  2. There is a cloud in the sky.
+
+  3. There is at most one cloud in the sky.
+
+  4. For each set sk, there is an object ok that the water droplets in
+     sk compose.
+
+  5. If the water droplets in si compose oi, and the objects in sj
+     compose oj, and the sets si and sk are not identical, then the
+     objects oi and oj are not identical.
+
+  6. If oi is a cloud in the sky, and oj is a cloud in the sky, and oi
+     is not identical with oj, then there are two clouds in the sky.
+
+  7. If any of these sets si are such that its members compose a
+     cloud, then for any other set sj, if its members compose an
+     object oj, then oj is a cloud.
+
+  8. Any cloud is composed of a set of water droplets.
+
+***** 7.1 Argument from Duplication
+
+D1. If all the water droplets not in sk did not exist, then ok would
+be a cloud.
+
+D2. Whether ok is a cloud does not depend on whether things distinct
+from it exist.
+
+C. ok is a cloud.
+
+D2 implies that being a cloud is an intrinsic property. The idea is
+that by changing the world outside the cloud, we do not change whether
+or not it is a cloud. There is, however, little reason to believe this
+is true. And given that it leads to a rather implausible conclusion,
+that there are millions of clouds where we think there is one, some
+reason to believe it is false. We can argue directly for the same
+conclusion. Assume many more water droplets coalesce around our
+original cloud. There is still one cloud in the sky, but it
+determinately includes more water droplets than the original
+cloud. The fusion of those water droplets exist, and we may assume
+that they did not change their intrinsic properties, but they are now
+a part of a cloud, rather than a cloud. Even if something looks like a
+cloud, smells like a cloud and rains like a cloud, it need not be a
+cloud, it may only be a part of a cloud.
+
+
+**** Unger
+412: "Either there are no salt shakers at all, or else, in my dining
+area, there are millions of these things. Insofar as I find the latter
+of these alternatives rather absurd, I am that far inclined to the
+first, to the nihilistic, or Parmenidian, option."
+
+414: "if anything is a cloud, it must be a _natural_ item, with a
+real, objective place in nature all its own, so to say."
+
+What does this mean? And what does it imply about cloud-seeding?
+
+420--424: minute boundary differences: aren't they all clouds?
+
+But presumably a cloud is a concentration of moisture in the air. The
+boundary is where moisture is at the average level for air in that
+region.
+
+cf. stones 435
+
+420--421: Looking at the boundary of a cloud, "we may find, side by
+side, or themselves overlapping, a great many potential boundaries for
+clouds...if our alleged typical item [the cloud] is indeed a typical
+cloud, then many of these candidates, millions at least, do not fail
+to be clouds altogether but are clouds of some sort."
+
+453: we should have to assume that, very often, many stupid little
+children are somehow made to get things right, as to the small number
+of nearby real clouds or stones, by the operation of some
+imperceptible, perhaps ineffable, and certainly quite mysterious
+factor."
+
+456: "if there are millions of "overlapping stones" before me...how am
+I to think of a single one of them, while not then equally thinking of
+so many others, with each of which "it" might so easily be confused?"
+
+"I suggest that up until now, at least, not one of us has ever really
+thought of any existing stone or table or human hand."
+
+458: "If I have never thought individually of any stone, or any other
+common object, then it seems doubtful, to put it mildly, that I have
+ever thought of any such things collectively either. Accordingly, it
+may well be that I have never _thought of_ any stones at all, or
+tables, or even human hands. If that is so, then it would seem that _a
+fortiori_ I do not _know_ anything _about these entities_, however
+commonly I might otherwise suppose.
 
 ** Austin
 
@@ -954,7 +1254,6 @@ assimilate the case in their minds to illusion. In this way, seeing
 ghosts, for example, may come to be labelled sometimes as 'delusion',
 sometimes as 'illusion'; and it may not be noticed that it makes a
 difference which label we use.
-
 
 ** Intentional identity
 [[file:intentional.text][10 November draft]]
@@ -1058,7 +1357,6 @@ If I say "Hob says that a witch blighted his mare and Nob says that she killed h
 A skeptical report of belief in the "same god" or "same witch" amounts to a report that two or more people believe (falsly) that there is some god or witch, _and take each other to believe that there is the witch that they believe there to be_. There is no need to appeal to exactly similar characteristics; otherwise religious disputes over the nature of god would be sillier than they already are.
 
 How do we report EXAMPLE 2? We would _not_ say "Hob says that a witch blighted his mare and Nob says that she killed his sow"; rather we would say "Hob says that Samantha blighted his mare and Nob says that she killed his sow." Here, if our readers are gullible (and take us to be so too), they will understand us to be saying that _Samantha_, the witch herself, has done these two terrible things. If the readers are skeptical (and think us so too), they will read it as "Hob thinks that Samantha (=the [imagined] witch who has been doing such-and-such) blighted his mare, and Nob thinks that Samantha (=the [imagined] witch...) killed his sow."
-
 
 ** Virtual objects
 
@@ -1649,7 +1947,6 @@ Unger's presuppositions
    all. [false]
 
 4) If I exist, there is a man. (216)
-
 
 *** Replies to reviewers
 
