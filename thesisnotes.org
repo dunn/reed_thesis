@@ -1,3 +1,966 @@
+* The big picture
+
+** Stroud
+
+*** The Quest for Reality
+
+**** Chapter 1
+
+16: "The philosophical quest must start somewhere. It needs a set of
+beliefs about what the world is like. Without some attitudes,
+perceptions, beliefs, or theories to start with, it would have nothing
+to reflect on."
+
+**** Chapter 2: The Philosophical Conception of an Independent Reality
+
+24: "We believe that there are mountains on earth, that there are fish
+in the sea, that human beings believe that there are mountains on
+earth and fish in the sea, that human beings have many different
+experiences, and so on. And for virtually everything we believe, we
+see that its truth or falsity is independent of our believing it. In
+that sense, we have a rich, determinate conception of an independent
+reality: a specific view of the world that is there *anyway*."
+
+26: "if our conception of the world is *everything* we believe, we
+could not arrive at the conclusion that some of our beliefs do not
+represent or correspond to that reality as we conceive of it...our
+conception of reality, if it includes everything we believe, will be a
+conception of a world in which those things are true. That is what
+reality will be like for us."
+
+27: "We therefore need a conception expressed in terms of only some,
+but not necessarily all, of our current beliefs. Those to which
+reality does not correspond are to be eliminated. But it must contain
+*some* of our beliefs, since to have a conception of the world's being
+a certain way is to have certain beliefs about it."
+
+Once we begin asking the philosophical question about how the world
+really is, why should we expect *any* of our beliefs to be true of it?
+
+27: "If we can arrive at the philosophical conception of reality at
+all, then, it will have to be by starting out with all our beliefs
+about everything and somehow carving out of that immense totality a
+conception which, after philosophical scrutiny, will have been reduced
+to only a portion of the original total."
+
+> "We cannot have a conception of the world that is somehow completely
+separate from the way we take things to be."
+
+Quite right. If we demand to compare the world we live in with the
+world-as-it-really-is, there is nothing that carries over from the
+first to the second.
+
+28: "It is perhaps not surprising that a metaphysical enquiry into the
+relation between our beliefs and reality should require both
+engagement and detachment from our beliefs about the world. The
+question is whether we can take those opposing attitudes towards the
+same set of beliefs. And there is the further question whether the
+project requires that we do so at the same time."
+
+30: "Whatever is due only to us and to our own ways of responding to
+and interacting with the world does not reflect or correspond to
+anything present in the world as it is independently of us. The aim of
+an "absolute" conception, then, is to form a description of the way
+the world is, not just independently of its being believed to be that
+way, but independently, too, of all the ways in which it happens to
+present itself to us human beings from our particular standpoint
+within it. An "absolute" conception would be a conception from which
+all such traces of ourselves have been removed. Nothing would remain
+that would indicate whose conception it is, how those who form or
+possess that conception experience the world, or when or where they
+find themselves in it. It would be as impersonal, impartial, and
+objective a picture of the world as we can achieve."
+
+31: "we have or form some conception of that independent reality and
+come to understand parts or aspects of our original conception of the
+world as not representing it as it is. If we see them as products or
+reflections of something peculiar to human experience or to the human
+perspective on the universe, we assign them a merely "subjective" or
+dependent status and eliminate them from our conception of the world
+as it is independently of us."
+
+32: "This is more than the claim that in moving from a naive and
+unreflective to a sophisticated and more carefully considered set of
+beliefs about the world we should try to eliminate partiality, special
+interest, or even general human peculiarity as possible sources of
+ignorance or error. Smart says we should eliminate certain *concepts*
+from our considered conception of the world."
+
+> but "we humans are perhaps the only beings who have any concepts at
+all, so all concepts are peculiarly or uniquely ours. That would mean
+that all concepts should be eliminated from the description we give of
+the world, and that would leave us with no concepts and no beliefs and
+no conception of a world at all." (33)
+
+34: Smart's "cosmic language" (problematic)
+
+35: "But if we do grant that such beings [without a conception of
+shape or number] are even as much as possible, surely we do not commit
+ourselves to the conclusion that all concepts of shape [or number]
+must be eliminated from any conception of the way things are
+independently of us...I think the most we would conclude about beings
+who differ from human beings in those numerical or mathematical ways
+is that they are simply not equipped to find out certain things that
+are independently true of the world. Those who cannot count could not
+find out how many chairs there are in a certain room, for example."
+
+"Many highly competent actual, and not merely possible, investigators
+of the world lacked much of the mathematical knowledge we now
+possess. We should no conclude that at most only what we share with
+them is part of reality as it is independently of us."
+
+Stroud seems to assume here that some of what we know is
+independent. But why should what we share with them be part of
+independent reality? Why any of it?
+
+36: "But why should we not conclude in each case that these possible
+"investigators" would simply be missing something that is there? Our
+being able to conceive of such beings does not in itself give us
+reason to exclude concepts of smell, colour, or shape from an
+"absolute" conception of how things are, any more than the possibility
+of innumerate or mathematically impoverished "investigators" gives us
+reason to exclude mathematical concepts."
+
+If that doesn't, then what on earth would?
+
+> "I think our conception of what the world is really like---how we
+believe the world to be---is what determines in each case whether
+conceiving of other possible beings is taken to reveal a special human
+"peculiarity" or only to show that those other beings would be missing
+something that is independently there."
+
+What is Stroud's position on this page? Some sort of 'conceptual conservatism'; our having a concept in our picture of the world gives us at least *prima facie* justification in supposing that it is absolutely real.
+
+37: "There would have been trees and mountains and fish, just as we
+now think of them, whether or not human beings existed or had
+different interests and aims. The concepts we have of such things are
+true of them independently of human interests and aims. Because our
+possession of concepts reflects our interests and aims in this way,
+there are probably a great many things in the world for which we do
+not have concepts, or at leasts very determinate concepts, since we
+lack the relevantly specific interests in those aspects of the
+world. I hope I will be excused from giving examples."
+
+There would then be *infinitely many* objects in the world that we are
+*totally* ignorant of. It would be *impossible* to know what all there
+is in the world. (Thus universalism)
+
+37--38: "If human beings and their thoughts and experiences are to be
+accorded a place in an independent world at all, the concepts we use
+to think about them must be acceptable for use in even our most
+reflective conception of the world."
+
+There needs to be an *argument* for *why* human beings ought to
+be accorded a place in an independent world! It takes a lot of nerve
+to *assume* that we have some deep correspondence with reality.
+
+38: "If we are careful in applying the concepts we have, even those
+that apply to human beings and their interests in and perspective on
+the world, are they not adequate to describe "absolutely" without
+distortion both those parts of the world that are dependent on human
+beings and their experiences and those parts that are not?"
+
+39: "two conceptions of the world might differ because of the
+different characteristics of those who hold them. If the second
+conception is included in the first but is more restricted, the most
+plausible conclusion for both groups to draw would be that the more
+restricted believers are simply missing part of what is there...If the
+two conceptions are different and do not overlap, it would be equally
+plausible for each group to conclude that, because of its own
+'peculiarities', it is finding out about a different part, or
+different aspects, of the world from the other group."
+
+There are always more concepts that a group or person could apply to
+their experiences. If someone else told us about double-books, must we
+then admit that we are failing to recognize things in the world?
+
+40: "Just as we can think that investigators with limited capacities
+might miss part of what others with greater capacities know about the
+world, so we can acknowledge the possibility that our own conception
+of the world does not capture everything. Those with greater
+capacities might know more and understand more. We can even think that
+perhaps we believe more than is actually true of the world."
+
+---First, there is no upper bound to what they can 'know'
+
+---Second, this isn't a quantitative thing. Those with greater
+capacities may well know *other* things and understand the world
+*differently*. Again, we are not the measure of the world, and it's
+not at all obvious that our conceptual framework is somehow on the
+golden-brick road leading toward total knowledge of reality.
+
+40--41: "It is *how* we think of the world that is said to be stained
+with our own human "peculiarities", but we have found no general test
+for exposing the presence of such "relativity" in a conception of the
+world that shows no evident signs of it."
+
+(33--35): "is it possible that other intelligences could exist
+without some concept or other peculiarity?"
+
+**** Chapter 3
+
+45: "I want to start with a minimal conception of the world that seems
+as "absolute" as any human conception could be..."
+
+49 re physicalism: "To deny that what we think or say really does
+imply the existence of such things [numbers, places, hopes] would
+require some way of telling what kinds of things are said to exist by
+a certain thought or stretch of discourse, and what are not. In
+addition to such a criterion of 'ontological commitment', we would
+need a convincing demonstration that objects that occupy space are the
+only objects said or implied to exist by everything we hold to be
+true."
+
+50--53: what's a physical object? what's a physical fact? what's a
+physical vocabulary? what's a physical science? (cf. Schaffer "Is
+there a fundamental level?")
+
+53: "Since physics can change its scope and vocabulary and still
+remain physics, the idea of what is 'physical' cannot simply be the
+idea of whatever is included in physical science as we currently think
+of its limits. The idea of the physical must be to some extent
+independent of the specific content of the sciences we give that name
+to at any particular time."
+
+54--55: "If being expressed in the language of physics were a
+condition of a statement's being part of a description of the
+independent world, it would not be part of the independent world that
+there are such things as mountains on earth or fish in the
+sea. 'Mountain', 'earth', 'fish', and 'sea' are not terms of
+physics. On that criterion, it would not even be part of the physical
+world that there is a planet earth or that it is 93 million miles from
+the sun. 'Planet' and 'sun' are not terms of physics
+either. Obviously, we must think of the admissible vocabulary as
+extending beyond physics proper to include the physical sciences
+understood in some more general way."
+
+56--57: demonstratives and statements of fact
+
+62: the economic world
+
+63: "A world, as we have seen, is made up of facts, not objects."
+
+*Our* world, at least.
+
+64: "I have been conceding that we can pick out a set of statements in
+purely physical terms and separate them from all the other things we
+unreflectively believe. But that alone cannot establish the
+exclusiveness of 'the physical world' as we have been understanding
+it, or put it in any special position. We can also pick out sets of
+statements in purely economic terms, or in psychological terms, or in
+terms which ascribe colours to things. But that does not establish the
+exclusiveness of those 'worlds'. It does not support the conclusion
+that statements we accept which are expressed in other terms are not
+true."
+
+65: "All true statements could be said to describe or to state what is
+so in *the same* world in the sense that the world is everything that
+is so, and each of those statements says something that is so. Each of
+them gives part of the world in that sense."
+
+**** Chapter 4
+
+71: "the 'all or nothing' dilemma": reality cannot be simply what we
+believe to be the case, for them the question 'what is there?' would
+not even arise. But if we try to withhold all beliefs, there is no
+possibility of answering the question. One middle way is the
+physicalist thesis.
+
+74: the "'explanatory' criterion of the limits of 'reality"'
+
+75: "we do not in fact believe in Descartes's demon. His machinations
+do not best explain my or anyone else's responses because no such
+demon exists. What we can appeal to in order to explain our beliefs
+and responses, and so what is to be regarded as part of the world,
+must be something we believe in. It must be part of our conception of
+the world. It is what we think *does* explain our responses that is to
+be reckoned as part of reality, not just whatever *would* explain
+them if it were so."
+
+75--76: 'unmasking' explanations
+
+ghosts: we learn to *not* see them
+
+78: "Of course, we all know that human beings perceive colours,
+perceive that things are coloured, come to believe that things are
+coloured, and so on."
+
+whereas we do not all know that humans see ghosts
+
+"I am assuming that full semantic reduction of the one [psychological
+facts] to the other [physical facts] is not available."
+
+81: "With a rich body of psychological facts on the scene, it is a
+real question whether satisfactorily austere explanations of them will
+be available."
+
+but is it *possible* that it might be done?
+
+83: "The sentence in purely physical terms, 'Processes P1, P2,
+P3,...are occurring', does not imply the sentence 'Smith is buying a
+house from Jones'. Nor does the second imply the first."
+
+*Of course not*. Because the second sentence involves semantic
+conventions and vagueness that prevent its correspondence with any
+statements of scientific precision.
+
+If we could build a (near-)perfect model of Earth that contained
+(miniature) versions of everything on our planet, how would we do it?
+By coding physical laws into it. When the little humans start running
+around painting pictures and talking about the marvellous colours they
+have, we'll probably say to each other, "look! they *do* see colors!
+it worked!" (psychological predicates will be perfectly appropriate.)
+
+84: "the physical sciences cannot explain everything."
+
+85: "We could perhaps even concede that the physical explanation
+explains why the truth stated by 'There occurred physical event P,
+which is in fact the same event as Jones' seeing something yellow' is
+true. But that would not mean that the physical facts explain why that
+psychological event occurred."
+
+88: "neither idealism nor mind-body dualism is essential to finding
+mysterious the production of mental effects by nothing more than
+events described and explained in the physical sciences."
+
+89: "A full account of what goes on physically in a certain area
+during a certain period of time, along with knowledge of physical laws
+which those events instantiate, would enable us to explain why, given
+the earlier events, the later events occur. If we restrict ourselves
+to that physical story alone, we will not know whether anything
+psychological occurred during that period at all."
+
+No? If we had a model Earth we could *look and see.*
+
+90: "Take the broadly psychological phenomenon of one person's buying
+a house from another. It seems absurd to look in the vocabulary of the
+physical sciences for a minute description of the correlate or
+antecedent of such a type of action\ ...\ Buying a house and believing
+that there is a yellow lemon there are complex psychological phenomena
+that can be manifested in many different physical ways."
+
+91: "Suppose we did discover significant correlations between certain
+physical conditions and certain kinds of sensations or
+perceptions. Part of what I think Locke was responding to in his
+invocation of "the arbitrary will and good pleasure of the Wise
+Architect" is that, even so, there would be a way in which the
+psychological phenomena in question would remain forever unexplained."
+
+But on model Earth, it doesn't really *matter*. They happen, all due
+to physical laws.
+
+93: "on this view of perceptions as mental effects of interaction with
+an otherwise physical world, that would be true of all our
+perceptions. They would all be nothing but end products of certain
+physical processes. So our perceptions of shape, size, motion, and so
+on---all those features that are mentioned in the physical sciences
+and so are thought really to belong to objects in the physical
+world---would also be explained as arising when they do only by
+discovering the conditions in which they, in fact, arise."
+
+**** Chapter 5
+
+96: "The limits of that privileged core of facts that will constitute
+reality cannot be defined or identified in advance. Where the limits
+lie depends on what turns out to be needed to explain everything that
+must be explained."
+
+97: "You cannot hope to explain something unless you grant that there
+is such a thing and you have at least some idea of what it is."
+
+or to explain it away?
+
+102: "it is also possible, if rare, for someone to be said truly to
+see a yellow lemon when there is, in fact, no yellow lemon near the
+person to be seen. A hallucination or a hologram can provide just such
+an experience. That can happen even if the person knows what is going
+on and does not believe that there is a yellow lemon where he sees
+one. It remains true that the person sees a lemon (not a banana) , and
+he sees it to be yellow (not green)."
+
+103: "The relations among propositional seeing, predicational seeing,
+and seeing an instance of some property are obviously complex...it
+would be courting trouble to speak without qualification of 'a
+perception of yellow' or 'an experience of yellow' or even 'an
+experience of seeing something yellow', as if there were only one kind
+of thing it could be."
+
+103--104: facts that need explaining
+
+105: "We understand what we perceive to be related in some way to what
+we can think about, believe, know, want, hope, fear, and so on. And
+what we can believe, know, want, and so on is, in general, what can be
+so in the world...There must be some intelligible relation between
+what we perceive and what we think or believe."
+
+106: "Descartes admitted that we do call physical objects coloured,
+but he thought that in doing so we are simply confused. We have not
+freed ourselves from certain 'prejudices of youth' that continue to
+bedevil the mind. Unfortunately, he never explained exactly what our
+confusion is, or how it is even possible for us to make it."
+
+compare Unger on nihilism
+
+112: "We might always simultaneously see one small, square, yellow
+thing and another large ovoid green thing 'together' in the same
+experience. We see instances of the properties of being yellow and
+being ovoid, and we see them together, but we do not see one thing to
+be both yellow and ovoid."
+
+113: "If it made no sense to attribute to an object the very feature
+we see when we see colour, just as it makes no sense to attribute to
+an object the very feature we feel when we feel pain, because in each
+case we are just having a certain characteristic 'sensation', so it
+would make no sense to attribute to an object the very feature we see
+when we see shape, or size, or motion, or any other perceivable
+property."
+
+115: "the shapes we perceive things to have are shapes we *can* also
+think or believe objects to have."
+
+intentionality of shape [and color] perception
+
+116: "If intelligible thoughts about the colours of objects are
+sometimes true, objects are coloured."
+
+**** Chapter 6
+
+120--: the 'dispositional' account of color
+
+A painful instrument does not have pain 'inhering' in it; to say *it*
+is painful is to say that it is disposed to give us pain under
+appropriate circumstances. Likewise, the argument goes, a yellow lemon
+does not have yellow inherent in it, but is disposed to produce in us
+sensations of yellow (in appropriate circumstances).
+
+121: "$x$ is yellow iff normal human perceivers standing in certain
+relations $R$ to $x$ in certain kinds of perceptual circumstances $C$
+would get perceptions of yellow."
+
+125: "When filled in with the appropriate specifications, the
+biconditional about yellow things probably is, in fact, true." (but
+that doesn't mean that colour is subjective; it is not *necessarily*
+true.)
+
+125: "the goal is to preserve a rich world of independent fact in
+which the colours of things, but not all the properties of things, are
+shown to depend on the effects those things would produce in human
+subjects...The question is whether and how this view of colour can be
+defended without holding that everything else is subjective as well."
+
+133: "Our understanding of the colours of objects tolerates the
+possibility of an object's being a certain colour even though it would
+not produce perceptions of that colour in human perceivers if the
+world were different in certain ways."
+
+- does this beg the question somehow?
+
+- "That [claim above] seems undeniable when the colour perceptions in
+  question are identified independently of specifying the color [sic]
+  of any physical object."
+
+- But this seems legitimate because we have seen no viable alternative
+  (colors defined in terms of perceptions).
+
+
+137: "It makes no sense to suppose that a thumbscrew remains a painful
+instrument even if it would never cause pain to anyone to whom it is
+applied."
+
+but the parallel with color does not hold:
+
+138: "What I think we must deny is that ripe lemons would simply *have
+to* have been a different colour if human perceptual mechanisms, or
+the laws of nature affecting the human perception of ripe lemons, had
+been different in certain ways. The possibility I am specifying is the
+possibility of ripe lemons that are *yellow*, or simply *yellow
+objects*, not being disposed to produce perceptions of yellow in
+normal human perceivers under certain conditions."
+
+141: "we can see objects to have dispositional properties. And just as
+with the disposition to dissolve, I think that in looking at a lemon
+we can see that it has a disposition to produce perceptions of
+something yellow in suitably placed perceivers. The difficulty...is
+not whether that is something we can perceive. The real question is
+whether that dispositional property that we can see an object to have
+is the same property that the dispositional theory identifies as the
+object's being yellow." (no?)
+
+**** Chapter 7
+
+145: "What we believe to be so when we believe an object is yellow is
+what we see to be so when we see it to be yellow."
+
+"The unmasking project cannot deny that we perceive many different
+colours or that we believe physical objects to be coloured." (cf van
+Inwagen)
+
+146: "In carrying out the [unmasking] project, we must therefore
+understand human beings to believe many things about the colours of
+objects without ourselves holding any beliefs about the colours of
+things in that sense. That is how those beliefs are to be exposed as
+false. And we must acknowledge that people have perceptions of colour,
+and of objects' being coloured, without ourselves believing or
+implying that any physical object has any colour...
+
+"This raises the question whether we could find people to have such
+beliefs and perceptions if we were barred from the outset from
+believing that anything in the world is coloured."
+
+147: "Thoughts of unicorns and dragons [and other nonexistent things]
+are made up of thoughts of things that we believe do exist, like
+horses, horns, wings, claws, and fire. Even if we accept the appeal to
+"complexity" in cases like these, the same kind of story is not
+plausible for the colours of things" because there are no 'simple'
+colours that we could build up.
+
+"The question for the metaphysical project is whether we can
+acknowledge someone's perceiving a certain colour if we do not hold
+that anything anywhere has any colour at all."
+
+148: rainbows
+
+149: "It is not easy to determine, with any assurance of completeness,
+exactly what is and is not required for us to understand one another
+in all the ways we do. But the unmasking project can succeed only if
+in carrying it out we do not presuppose any of the things we claim to
+unmask. We must admit perceptions and beliefs about the colours of
+things in the world for there to be something for the unmasking
+explanation to explain. But in acknowledging those psychological
+facts, we must fulfill all the conditions of acknowledging them. And
+if those conditions of acknowledgement and attribution include our
+holding those beliefs about the colours of things, the conception of
+the world that we would have to hold, even to admit all the
+psychological facts that need to be explained, would be too rich to
+enable us to find that the colours of things had been
+unmasked. Eliminating the colours of things entirely from our
+conception of the world, which is a condition of success of the
+project, would leave us incapable of acknowledging the very facts that
+the unmasking project is supposed to explain. If that were so, we
+could never achieve by this explanatory route a conception of the
+world in which there are perceptions and beliefs about the colours of
+things but no coloured objects."
+
+"The contents of all our perceptions and beliefs about the colours of
+things make up such a large, pervasive, and irreducible portion of all
+the things we take to be true of the world that they cannot be sliced
+off that conception while leaving intact our understanding of
+ourselves as perceiving and believing all the things we do."
+
+If this is true for colour, then how can we slice away our beliefs in
+*everything*?
+
+150: "We believe that many people perceive and believe there are
+yellow, ovoid lemons, large grey elephants, and countless other
+physical things, for example, and we also believe such
+nonpsychological facts as that there are yellow, ovoid lemons, large
+grey elephants, and countless other physical things. The suspicion I
+want to explore is that that is no accident. Perhaps we can have
+beliefs of the one kind only because we have some beliefs of the other
+kind."
+
+150--151: "we who inhabit the world can understand someone in that
+world as believing something or as perceiving something only if we can
+somehow connect the possession of the psychological states we
+attribute to the person with facts and events in the surrounding world
+that we take the beliefs and perceptions to be about. We understand
+one another to be parts of, and engaged in, a common world we all
+share. If we ourselves had no beliefs at all about what is happening
+in the environment or what another person is most likely to be paying
+attention to, we would be in no position to attribute any beliefs or
+perceptions to that person at all."
+
+"We cannot make sense of someone as believing something we know to be
+false unless we can identify what he believes and can offer some
+explanation of how he comes to get it wrong."
+
+"There is an attitude or state of a certain kind, one the one hand,
+and the object or content of that state in the other."
+
+152: "'Jones is thinking of a unicorn' states a different fact from
+'Jones is thinking of a dragon' because unicorns are different from
+dragons, even though there are no such things anywhere. If we did not
+know what unicorns and dragons are, and that they are different, we
+would not understand those sentences and so would not know what
+psychological facts they state and that they are different facts."
+
+153: "If we could not think of a yellow lemon, we could make no sense
+of predicational perception of a yellow lemon, since we could make no
+sense of what it is a perception of. We could not then intelligibly
+ascribe such perceptions to others or to ourselves."
+
+154: "Being incapable of predicational thought of a yellow lemon would
+leave us incapable of seeing a yellow lemon, in the sense of seeing it
+to be yellow. We might see a lemon that is yellow, but that is no
+great achievement. Even a creature without colour vision can see a
+lemon that is in fact yellow."
+
+158: "If Jones utters the sentence "There is a yellow lemon on the
+table" about the table right before us, what belief could we recognize
+her to be expressing?" [if we are to take the unmasking seriously]
+
+160: "it is because I understand what Jones says, and know what
+perceptions of yellow are, that I attribute a perception of yellow to
+her in those circumstances. And I know what perceptions of yellow are
+because I know what yellow is. It is the colour of yellow objects. I
+believe that many objects are yellow."
+
+As unmaskers, we could "acknowledge no yellow objects in the
+world. Nor could we identify perceptions of yellow as perceptions of
+that property that people *believe* to belong to objects that are
+yellow. We would admit no objects that are yellow. It would get us no
+further to say that perceptions of yellow are perceptions of that
+property that people believe to belong to objects that they believe to
+be yellow. That specification is not unique."
+
+161: coloured things as public objects
+
+163: "To attribute perceptions to others on the basis of what happens
+in his own case, he must know what happens in his own case. He could
+attribute to others perceptions with determinate contents only if he
+knew what kinds of perceptions he himself gets from the kind of object
+he sees them to be perceiving."
+
+166--167: "Whatever property a would-be unmasker could understand
+himself to have perceptions of when a yellow, elliptical patch appears
+to him in the presence of a ripe lemon, it could not be the same
+property that others *believe* to belong to objects in believing them
+to be yellow. The property that others believe to belong to objects in
+the thought that they are yellow is the same property that those other
+people also see when they have perceptions of yellow. They take
+themselves to have veridical predicational perceptions of yellow
+objects. So even a would-be unmasker's attribution to others of
+perceptions of some property that he takes himself to percieve would
+not be the attribution to others of perceptions of yellow. Since the
+unmasker could not understand himself to have perceptions of yellow,
+he could not attribute perceptions of yellow to others on the basis of
+what he can recognize in his own case."
+
+"if he could understand them as having any such beliefs at all, he
+would have to acknowledge that the property they attribute to a
+physical object in the *belief* that it is yellow is a different
+property from the property that he can understand them to *perceive*
+in any perceptions he can attribute to them on the basis of their
+similarity to the perceptions he understands himself to get in the
+presence of a ripe lemon."
+
+168: "someone who started out with no beliefs at all about the colours
+of things would be unable even to find the relevant perceptions or
+beliefs in the first place, so he would have nothing to unmask."
+
+**** Chapter 8
+
+176: "It is probably true that if we did not largely agree about the
+colours of things we would have no firm or secure beliefs about the
+colours of things at all. But the same is true of beliefs about the
+shapes and sizes and motions of things, and of everything else we
+believe. Without general agreement, we could not say or understand or
+believe anything. But that does not mean that what we all believe when
+we agree about something is only that we all agree. The point is not
+that what we believe when we believe that an object is yellow or ovoid
+is that a majority of our fellow human beings agree with us in our
+belief. That would leave the belief with no determinate content. What
+we all believe, or agree about, is that the object is yellow or
+ovoid. But if we did not largely agree in the application of those
+concepts and in many of the judgements we make with them, we would
+have no such concepts and could make no such judgements at all."
+
+179: "The [unmasking] theory says that no objects are coloured, so if
+we simply acquiesced without comment in our familiar beliefs that
+lemons are yellow, tomatoes are red, and so on, it would be as if we
+had not really accepted the theory after all. We would be paying lip
+service to it while still believing what it says we should not
+believe. Of course, we might then try to purge ourselves of all
+beliefs about the colours of things. That would not be easy to do, to
+put it mildly, but if what I have argued is correct, it would require
+that we also stop thinking of other people as having beliefs about the
+colours of things as well. That would not be easy to do either...
+
+"Even if we could somehow manage to repudiate all beliefs about the
+colours of things, we still would be faced with the facts of
+perception. We presumably could not deny that we see colours or even
+that we see coloured objects, in the sense that we typically see the
+objects around us to be coloured. That is what would make it so
+difficult for us to give up our belief in coloured things. They stare
+us in the face every time we open our eyes."
+
+181: "When the obvious truth of what we perceive and believe to be so
+is what makes us unable to believe otherwise, our inability is not
+seen as a failing. On the contrary, it is a mark of our openness or
+unproblematic access to the way the world is."
+
+182: "Taking the error theory seriously in this way could lead us to
+regard colour as nothing more than a quality or feature that is
+inevitably present in our experience whenever we see physical objects,
+much as a feeling of sadness can accompany one's perception of one's
+long-unvisited childhood home."
+
+187: standpoints of belief and regress
+
+"if we hold any determinate beliefs at all, we must hold some beliefs
+to which no such further specification of standpoint has to be added."
+
+191: "I think the metaphysical quest for reality distorts and so leads
+us away from our everyday conception of the world, and so away from an
+accurate understanding of ourselves."
+
+**** Chapter 9
+
+193: "In trying to raise the question, we cannot rid ourselves of a
+conception of the world as filled with coloured objects, so we can
+never achieve the kind of detachment from our beliefs that the
+metaphysical question seems to require."
+
+"the impossibility of a successful unmasking project implies nothing
+one way or the other about what the nonpsychological world is like
+with respect to color."
+
+196: "It is not easy to accept, or even to understand, this
+philosophical theory [of transcendental idealism]. Accepting it
+presumably means believing that the sun and the planets and the
+mountains on earth and everything else that has been here so much
+longer than we have are nonetheless in some way or other dependent on
+the possibility of human thought and experience."
+
+199: "without beliefs about the colours of things we could not
+recognize the presence in the world of perceptions of and beliefs
+about the colours of things, and that if we do think that people have
+such perceptions and beliefs, we must believe that objects are
+coloured."
+
+203: "The outcome of a successful unmasking would be a view with two
+parts: (1) people have many beliefs about the colours of things, and
+(2) those beliefs are all false; things are not coloured. What we have
+concluded about the conditions of belief attribution is that anyone
+who finds the first conjunct to be true will believe that objects are
+coloured, so he cannot consistently believe the second conjunct to be
+true. So he cannot find any relevant beliefs to unmask as false."
+
+205: "if we know that objects are coloured, we know it in the way we
+know many other things---by observing the world around us and doing
+the best we can to find out on that basis what is so. We do not know
+that objects are coloured by deducing it from the fact that we all
+believe that objects are coloured. We do not know it by having
+established that the would-be unmasker's view is contradictory. But we
+do know that objects are coloured. So we do know that the second
+conjunct of the view the unmasker aspires to is false."
+
+206: "If there are any beliefs that are indispensable to thought, as
+Kant held that there are, they will still be invulnerable to
+unmasking. None of them could be abandoned consistently with our
+having a conception of an independent world. We must continue to think
+of any world we can think about at all as being the way those
+indispensable beliefs say it is."
+
+208--209: dissatisfaction
+
+209: "I think it is undeniable that we feel a strong urge to draw some
+such ['objective'] conclusion if we are convinced of the failure of
+the view that colours are unreal or subjective. The strength of that
+urge is a measure of the strength of a metaphysical desire I think we
+have to discover how we really stand to the independent world around
+us. I have been trying to identify exactly what that desire amounts to
+and what it would take to satisfy it. What, exactly, do we seek? I
+think we are now in a position to see that if we do have such a desire
+concerning the colours of objects, it is a desire we can never
+satisfy. We cannot get into a position to ask the metaphysical
+question about the reality of colour in the right way."
+
+**** Chapter 10
+
+211: "Any investigation of the relation between our conception of the
+world and the world that conception purports to be about must start
+with the idea of our having a determinate conception of the
+world. This means that any philosophical investigator of that
+conception must identify the beliefs in question and so must
+acknowledge that the conditions of our having beliefs with just those
+contents, and the conditions of his recognizing us as having them, are
+fulfilled. The question is whether that can be done consistently with
+finding that the beliefs represent nothing that is or could be so in
+the independent world."
+
+"Keeping one's understanding of the scrutinized beliefs free of any
+prior conception of what is supposed to be available in reality gives
+the metaphysical project a chance of revealing something about the
+relation between those beliefs and reality, if it can be carried out."
+
+216: "we can learn from the case of colours to pay special attention
+to what it takes for anyone to acknowledge the presence in the world
+of human beings' holding what he can recognize to be evaluative
+beliefs. If he needs some evaluative beliefs of his own to do that, he
+will never reach a conception of the world in which there is nothing
+corresponding to the contents of any of the evaluative beliefs he
+recognizes. No unmasking could succeed."
+
+
+
+** Wittgenstein
+
+* Objects
+
+** Austin
+
+re: the phenomenalist notion of sense-data
+10: "it is also implied, even taken for granted, that there is *room* for doubt and suspicion, whether or not the plain man feels any. The quotation from Locke, with which most people are said to agree, in fact contains a strong *suggestio falsi*. It suggests that when, for instance, I look at a chair a few yards in front of me in broad daylight, my view is that I have (*only*) as much certainty as I need and can get that there is a chair and that I see it. But in fact the plain man would regard doubt in such a case, not as far-fetched or overrefined or somehow unpractical, but as plain *nonsense*; he would say, quite correctly, 'Well, if that's not seeing a real chair then {\em I don't know what is}."'
+
+11-12: "it is important to remember that talk of deception only *makes sense* against a background of general non-deception. (You can't fool all of the people all of the time.) It must be possible to *recognize* a case of deception by checking the odd case against more normal ones. If I say, 'Our petrol-gauge sometimes deceives us', I am understood: though usually what it indicates squares with what we have in the tank, sometimes it doesn't---it sometimes points to two gallons when the tank turns out to be empty. But suppose I say, 'Our crystal ball sometimes deceives us': this is puzzling, because really we haven't the least idea what the 'normal' case---*not* being deceived by our crystal ball---would actually be."
+
+14: "when the plain man sees on the stage the Headless Woman, what he sees (and this *is* what he sees, whether he knows it or not) is not something 'unreal' or 'immaterial', but a woman against a dark background with her head in a black bag. If the trick is well done, he doesn't (because it's deliberately made very difficult for him) properly size up what he sees, or see *what* it is; but to say this is far from concluding that he sees something *else*."
+
+22--25: distinguishing illusions and delusions
+
+>[Ayer's "argument from illusion" has] two clear implications---(*a*) that all the cases cited in the argument are cases of *illusions*; and (*b*) that *illusion* and *delusion* are the same thing. But both of these implications, of course, are quite wrong; and it is by no means unimportant to point this out, for, as we shall see, the argument trades on confusion at just this point.
+
+>The most important differences here are that the term 'an illusion' (in a perceptual context) does not suggest that something totally unreal is *conjured up*---on the contrary, there just is the arrangement of lines and arrows on the page, the woman on the stage with her head in a black bag, the rotating wheels; whereas the term 'delusion' *does* suggest something totally unreal, not really there at all.
+
+>Why is it that we tend---if we do---to confuse illusions with delusions? Well, partly, no doubt the terms are often used loosely. But there is also the point that people may have, without making this explicit, different views or theories about the facts of some cases. Take the case of seeing a ghost, for example. It is not generally known, or agreed, what seeing ghosts *is*. Some people think of seeing ghosts as a case of something being conjured up, perhaps by the disordered nervous system of the victim; so in their view seeing ghosts is a case of delusion. But other people have the idea that what is called seeing ghosts is a case of being taken in by shadows, perhaps, or reflections, or a trick of the light---that is, they assimilate the case in their minds to illusion. In this way, seeing ghosts, for example, may come to be labelled sometimes as 'delusion', sometimes as 'illusion'; and it may not be noticed that it makes a difference which label we use.
+
+
+** Intentional identity
+[[file:intentional.text][10 November draft]]
+
+*** Old Notes
+# Geach, "Intentional identity"
+
+627: "a number of archers may all point their arrows at one actual target, a deer or a man (real identity); but we may also be able to verify that they are all pointing their arrows the same way, regardless of finding out whether there is any shootable object at the point where the lines of fire meet (intentional identity). We have intentional identity when a number of people, or one person on different occasions, have attitudes with a common focus, whether or not there actually is something at that focus."
+>What are they each pointing at?
+>>Well, who 'saw' the 'deer'?
+>He's pointing at what he takes to be a deer; what is he really pointing at? (nothing?)
+>>What are the others pointing at?
+>"Whatever he's pointing at." (i.e., nothing)
+
+627: "(3) Hob thinks a witch has blighted Bob's mare, and Nob wonders whether she (the same witch) killed Cob's sow."
+
+630: "First, it might be suggested that 'she' in (3) ought not to be glossed as 'the same witch', but should rather be regarded as an anaphoric substitute (what I have called a pronoun of laziness) to avoid repetitious language; (3) would then be a substitute for something like this:
+
+(18) Hob thinks a witch has blighted Bob's mare, and Hob wonders
+whether the witch who blighted Bob's mare killed Cob's sow.
+
+This suggestion is easily dismissed: for our reporter might be justified in asserting (3) if he had heard Hob say 'The witch has blighted Bob's mare' and heard Nob say 'Maybe the witch killed Cob's sow', even if Hob had not thought or said anything about Cob's sow nor Nob about Bob's mare."
+
+>Why would the reporter not be justified in asserting (18) in the same situation?
+>>re: substitutions and implicit intentionality
+>what is wrong with: "Nob wonders whether: (1) a witch blighted Hob's mare, and (2) the witch who blighted Hob's mare killed Nob's sow."?
+>>or if we want Geach's use of 'assumptions': "Nob assumes/thinks that a witch blighted Hob's mare, and wonders whether the witch who blighted Hob's mare killed his (Nob's) sow"?
+
+Sentences (19)--(23)
+??????????
+
+631: "We very often take ourselves to know, when we hear the discourse of others, that they are meaning to refer to some one person or thing---and that, without ourselves being able to identify this person or thing, without our even being certain that there really is such a person or thing to identify. What we are claiming to know in such cases---let alone, whether the claim is justified---must remain obscure so long as intentional identity is obscure."
+
+632: "Now is it in truth necessary, if Hob and Nob are to mean to refer to the same person as "the witch," that they should both have some one definite description actually in mind, or even, one producible from each of them by a suitable technique of questioning? This appears to me to stand or fall with the corresponding theory, held by Russell and by Frege (cf. his article "Der Gedanke"), that any ordinary proper name is used equivocally if it does not go proxy for some one definite description; and in spite of these great names, such a theory seems to me extremely ill-founded and implausible."
+
+>Call the witch 'Sue'. (designation by description: "Sue is the witch that actually blighted Hob's mare, if any such witch there be." or "Let 'Sue' refer to that witch, if it exists, that blighted Hob's mare.")
+>>Were there such a witch, then we could say *of* the witch (Sue) that it might have been the case that Sue didn't blight Hob's mare. But Sue (=the witch that actually blighted Hob's mare) does not exist, so there is no question of what could have happened in counterfactual scenarios involving her.
+>Thus: "Hob thinks that Sue blighted his mare, and Nob thinks that Sue killed his sow."
+
+# Dennett, "Geach on Intentional Identity"
+
+337: "So long as we hold out the hope or conviction that the object or person or witch under discussion exists, questions of identity are substantive and serious, but as soon as we become skeptics like our reporter, and disavow transparent renderings of our discussion, questions of identity and diversity become idle if not outright meaningless. Suppose Tom says he doubts the existence of a solid gold round square; I cannot reply coherently that I doubt the existence of another solid gold round square---not Tom's at all."
+
+"Whenever we wish to disavow belief in the actual existence of any intentional objects, 'same' can at best mean "exactly similar in characteristics." Suppose tribe A believes in a moon god X, and tribe B believes in a moon god Y. How similar must the biographies and traits of X and Y be before we, as nonbelievers, will say the tribes believe in numerically the same moon god?"
+
+>Each tribe believes that there is some god such that they both do (or do not) believe in it.
+>>We, of course, know that there is no god for them to believe in. If we say that they believe in the same god, then all we can be taken to mean is that they each believe that there is a god and believe that the other tribe believes that there is the god that they believe there to be.
+
+"Are all the world's Santa Clauses and Father Christmases, black-skinned and white, in sleighs and on horses, really the same nonexistent man? What exotic fact would be affirmed by a man who asserted this, and how would we settle a dispute? Or suppose Tom and Mary believe in qualitatively identical anthropomorphic Gods, except that Tom thinks God has blue eyes and Mary thinks God's eyes are brown. Do they believe in the same God? If so, then either the God they believe in has contradictory characteristics (and neither of them, we can suppose, believes in a God with contradictory characteristics), or we shall have to tell one of them that he is wrong about the color of the eyes of the God he believes in!"
+
+>If they take each other to be thinking of the same god, then they will take themselves to be disagreeing. We, who know that there is no god, recognize that neither of them are thinking about any god (they aren't thinking of anything at all), and so their dispute is nonsensical.
+
+338: "(A) Hob thinks a witch has blighted Bob's mare, and Nob wonders whether the witch Hob thinks blighted Bob's mare killed Cob's sow."
+
+340: '"22) can be analyzed as
+(C) Nob assumes that just one witch blighted Bob's mare, and Nob wonders whether (the following is the case:) just one witch is such that Nob assumes it to have blighted Bob's mare, and she killed Cob's sow"
+
+341--: but how are we to handle nonpropositional attitudes such as "fears [it]"?
+
+>"Sue is afraid of <what she takes to be a ghost>"?
+>>entails that she is afraid of something, but what she takes to be a ghost is actually nothing.
+>So instead: "Sue is afraid because she thinks that there is a ghost in the attic."
+
+# Edelberg, "A new puzzle of intentional identity"
+
+1--2: *EXAMPLE 1*. Last night, Bob's mare became quite ill. Hob, who tends Bob's barn, inferred that a witch blighted her. This morning Hob said to his friend, Nob, "A witch blighted Bob's mare."
+Nob believes what Hob has told him. He thinks for a moment, and says, "Cob's sow died early this morning. I'll bet the same witch killed the sow, too." But in fact both animals fell ill due to perfectly natural causes.
+
+2: *EXAMPLE 2*. The Gotham City newspapers have reported that a witch, referred to as "Samantha", has been on quite a rampage. According to the article she has been blighting farm animals and crops and throwing people down wells. In reality, there is no such person: the animals and crops all died of natural causes, and the people found at the well-bottoms had all stumbled in by accident in a drunken stupor. The news reporters simply assumed that a witch was responsible for all the mishaps, and dubbed her "Samantha". Hob and Nob both read the Gotham Star and, like most folks, they believe the stories about the witch. Hob thinks Samantha must have blighted Bob's mare, which took ill yesterday. Nob thinks Samantha killed his friend Cob's sow. (For purposes of later discussion, we assume Nob has no beliefs at all about Hob or about Bob's mare; he is unaware of the existence of either.)
+
+>Hob thinks that Samantha (=the witch blighting farm animals and crops and throwing people down wells) blighted his mare, and Nob believes that Samantha (=[...]) killed his cow."
+
+8: *EXAMPLE 3*. Joan decides to play a trick on Fred. She tells him that she has bought him a brand new Cadillac Coup de Ville, and that it is waiting for him in George's garage. In fact she has done no such thing, but Fred believes her. Purely by coincidence, Mabel decides to play the same trick on Charlie. She tells him a brand new Cadillac is waiting for him in George's garage. He believes her, but the garage is empty.
+
+>9: Intuitively, de dicto (15) could easily be false in the example, but de dicto (16) is true (on a Russellian analysis of the definite descriptions).
+(15) Fred believes a new car belongs to him, and Charlie believes it is a Cadillac.
+(16) Fred believes the new car in George's garage belongs to him, and Charlie believes the new car in George's garage is a Cadillac.
+On the theory we are considering, however, (16) is a substitution instance of (15). So (15) could be false while one of its substitution instances is true. Obviously something is wrong.
+
+>>(15) implies that (a) Charlie is aware of Fred's belief or (b) the speaker believes that the car exists (cf. Dennett 337 and "Speakers' beliefs" below). To capture this, we would construe (16) as (16'): "Fred believes that a new car in George's garage belongs to him, and Charlie believes that the car that Fred believes belongs to Fred is a Cadillac."
+>>OR: "Charlie believes that: 'the new car in George's garage belongs to Charlie' and Fred believes that: 'the new car in Georges garage belongs to Fred'."
+
+9--10: EXAMPLE 4. Pat lives in Chicago, Ruth lives in Pittsburgh. Neither knows of the other's existence. In reality, neither Ruth nor Pat is married, but each believes herself to be married to someone. In both cases, there is no real person whom they believe to be their husband; the "husbands" are utter fantasy. Coincidentally, each woman believe her husband to be named "David Boswell".
+Here, (17) could easily be false; but (18), on one of its uses, is true.
+(17) Pat believes someone lives in Chicago, and Ruth believes he lives in Pittsburgh.
+(18) Pat believes David Boswell lives in Chicago, and Ruth believes David Boswell lives in Pittsburgh.
+If the set of admissible substituends contains names that are homonymous in the way that 'David Boswell' is in the example, and the semantical rule for quantification makes no provision for this, then a false intentional identity statement like (17) could have true substitution instances." Neither of these two requirements are met if we take ordinary proper names as the set of admissible substituends.
+
+>???
+>>"Pat believes that someone named 'David Boswell' lives in Chicago, and Ruth---------\&c."
+
+
+## Speakers' beliefs and intentions
+
+I am the reporter. Hob says to me, "A witch blighted my mare. You don't believe me? Go talk to Nob. He'll tell you something." Nob says to me, "The witch that blighted Hob's mare? She killed my sow."
+
+If I say "Hob says that a witch blighted his mare and Nob says that she killed his sow", this can be taken several ways. If my audience thinks that I believe in witches and/or believe what I have been told, then they may understand me to be saying that there is some witch who is suspected of blighting a mare and killing a sow. If I make it clear that I am skeptical of the whole scenario, then my readers will interpret me as using a "pronoun of laziness"; what they will take me to be saying is something like
+
+>Hob thinks that a witch blighted his mare, and thinks that the witch that blighted his mare killed Nob's sow; Nob thinks that a witch killed his sow, and thinks that the witch that killed his sow blighted Hob's mare; and Hob and Nob believe that there is exactly one witch that blighted Hob's mare and killed Nob's sow. [plus something about common knowledge?]
+
+A skeptical report of belief in the "same god" or "same witch" amounts to a report that two or more people believe (falsly) that there is some god or witch, *and take each other to believe that there is the witch that they believe there to be*. There is no need to appeal to exactly similar characteristics; otherwise religious disputes over the nature of god would be sillier than they already are.
+
+How do we report EXAMPLE 2? We would *not* say "Hob says that a witch blighted his mare and Nob says that she killed his sow"; rather we would say "Hob says that Samantha blighted his mare and Nob says that she killed his sow." Here, if our readers are gullible (and take us to be so too), they will understand us to be saying that *Samantha*, the witch herself, has done these two terrible things. If the readers are skeptical (and think us so too), they will read it as "Hob thinks that Samantha (=the [imagined] witch who has been doing such-and-such) blighted his mare, and Nob thinks that Samantha (=the [imagined] witch...) killed his sow."
+
+
+** Virtual objects
+
+*** James van Cleve
+
+**** Problems from Kant
+
+# Chapter 1
+
+## Section C ("Appearances and Things in Themselves")
+
+'ing'-'ed' ambiguity (7)
+
+> We should construe him [Kant] as saying that appearances are
+representeds that have no being apart from the representing of them.
+
+> Things in themselves, by contrast, are things that exist
+independently of human representation or cognition. They exist whether
+perceived or no and have whatever properties they do independently of
+us.
+
+## Section D ("Virtual Objects")
+
+Third way? (8)
+
+> I recommend an interpretation of Kantian appearances that is
+different from the one-world view and from the two-worlds view in its
+traditional form...appearances...are *virtual objects*...to say that a
+(9) virtual object of a certain sort (e.g., a patch of red) exists is
+shorthand for saying that a certain kind of representation occurs.
+
+> If Kantian appearances are virtual objects, then to say that someone
+is aware of an appearance of a certain sort is only to say that he is
+sensing or intuiting in a certain way.
+
+Comparison with two-world and intentional objects models (10)
+
+> an appearance cannot exist unperceived for the same reason that a
+waltz cannot exist undanced: in either case, for the "object" of the
+act to exist *is* for the act to take place in a certain way.
+
+
 * Mereology
 
 ** Peter van Inwagen
@@ -124,7 +1087,7 @@ merely rearranged the furniture of earth without adding to it?'
 **** Section 4
 
 >"an answer to the Special Composition Question tells us nothing about
-the nature of composite objects;\,ldots\,an answer to this question
+the nature of composite objects;\,...\,an answer to this question
 tells us nothing about the nature of composition." (38)
 
 Supposing *Contact* is the answer to SCQ, it still 'tells us nothing
@@ -409,7 +1372,7 @@ chairs in language that refers to no material things but simples."
   \exists x$ etc etc. "There is a Queen of England" becomes $\exists
   x$ etc etc. And in the second, positive claim, both the English and
   notational versions entail the existence of the Queen of France. So,
-  if "There are some chairs\,\ldots " becomes $\exists xs arranged
+  if "There are some chairs\,\... " becomes $\exists xs arranged
   chairwise$ etc, why should not both entail the existence of chairs?
 
 - Other paraphrases are used to show that the original statement *is*
@@ -604,3 +1567,6 @@ section 10x1x10". Each of these sections are glued together."
    regions are bonded [however wood-glue bonds] with the simples in
    the other region."
 
+
+
+** Unger
