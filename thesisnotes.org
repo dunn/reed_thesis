@@ -1,9 +1,6 @@
 #+TITLE: Thesis notes
-
 * The big picture
-
 ** Stroud
-
 *** The Quest for Reality
 <<quest>>
 
@@ -796,7 +793,6 @@ corresponding to the contents of any of the evaluative beliefs he
 recognizes. No unmasking could succeed."
 
 
-
 ** Wittgenstein
 
 *** On Certainty
@@ -857,6 +853,30 @@ recognizes. No unmasking could succeed."
          _grounded_?
 
 * Objects
+** Unger
+*** Nihilism
+**** "Skepticism and nihilism"
+520--521: "And so far as I can discern, there is no sorites which will
+work directly to refute the idea that some *entities* exist."
+
+543: "For my own part, I often now believe that there really are no
+tables or rocks, and never so firmly believe that there are such
+things as I once did. So, the detailed reflections that now threaten
+claims to knowledge, and thus to reasonable belief, threaten even our
+mere beliefs themselves."
+
+544: "Now, it must of course be admitted that these arguments
+undermine the possibility of any endeavor I should try to propose, or
+even the putative thought that I should propose anything, just as all
+of my putative essay is undermined. But even so, I shall
+(incoherently) propose that what we have now to do is invent new
+expressions which are not inconsistent ones, and by means of which we
+may, to some significant extent, think coherently about concrete
+reality." 
+# <<incoherent>>
+
+
+*** The problem of the many
 
 ** Austin
 
@@ -1075,7 +1095,6 @@ Comparison with two-world and intentional objects models (10)
 > an appearance cannot exist unperceived for the same reason that a
 waltz cannot exist undanced: in either case, for the "object" of the
 act to exist *is* for the act to take place in a certain way.
-
 
 * Mereology
 
