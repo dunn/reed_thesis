@@ -1,8 +1,11 @@
+#+TITLE: Thesis notes
+
 * The big picture
 
 ** Stroud
 
 *** The Quest for Reality
+<<quest>>
 
 **** Chapter 1
 
@@ -796,24 +799,137 @@ recognizes. No unmasking could succeed."
 
 ** Wittgenstein
 
+*** On Certainty
+
+- 54 :: For it is not true that a mistake merely gets more and more
+        improbable as we pass from the planet to my own hand.  No: at
+        some point it has ceased to be conceivable.  \\ This is
+        already suggested by the following: if it were not so, it
+        would also be conceivable that we should be wrong in _every_
+        statement about physical objects; that any we ever make are
+        mistaken.
+
+- 56 :: When one says: "Perhaps this planet doesn't exist and the
+        light-phenomenon arises in some other way", then after all one
+        needs an example of an object that does exist.  This doesn't
+        exist,---as _for example_ does... // Or are we to say that
+        certainty is merely a constructed point to which some things
+        approximate more, some less closely?  No. Doubt gradually
+        loses its sense.  This language-game just _is_ like that.
+	
+	(if chairs don't exist, what does? <<planets>>)
+	[[deception][Austin on deception]]
+
+- 71 :: If my friend were to imagine one day that he had been living
+        for a long time past in such and such a place, etc. etc., I
+        should not call this a _mistake_, but rather a mental
+        disturbance, perhaps a transient one.
+
+- 74 :: Can we say: a _mistake_ doesn't only have a cause, it also has
+        a ground?  I.e., roughly: when someone makes a mistake, this
+        can be fitted into what he knows aright.
+
+- 114 :: If you are not certain of any fact, you cannot be certain of
+         the meaning of your words either.
+	 ([[incoherent][Unger's incoherence]])
+
+- 115 :: If you tried to doubt everything you would not get as far as
+         doubting anything.  The game of doubting itself presupposes
+         certainty.
+
+- 141 :: When we first begin to _believe_ anything, what we believe is
+         not a single proposition, it is a whole system of
+         propositions.  (Light dawns gradually over the whole.)
+
+- 155 :: In certain circumstances a man cannot make a _mistake_.
+         ("Can" is here used logically, and the proposition does not
+         mean that a man cannot say anything false in those
+         circumstances.)  If Moore were to pronounce the opposite of
+         those propositions which he declares certain, we should not
+         just share his opinion: we should regard him as demented.
+
+- 173 :: Is it maybe in my power what I believe?  or what I
+         unshakeably believe? \\ I believe that there is a chair over
+         there.  Can't I be wrong?  But, can I believe that I am
+         wrong?  Or can I so much as bring it under
+         consideration?---And mightn't I also hold fast to my belief
+         whatever I learned later on?!  But is my belief then
+         _grounded_?
+
 * Objects
 
 ** Austin
 
 re: the phenomenalist notion of sense-data
-10: "it is also implied, even taken for granted, that there is *room* for doubt and suspicion, whether or not the plain man feels any. The quotation from Locke, with which most people are said to agree, in fact contains a strong *suggestio falsi*. It suggests that when, for instance, I look at a chair a few yards in front of me in broad daylight, my view is that I have (*only*) as much certainty as I need and can get that there is a chair and that I see it. But in fact the plain man would regard doubt in such a case, not as far-fetched or overrefined or somehow unpractical, but as plain *nonsense*; he would say, quite correctly, 'Well, if that's not seeing a real chair then {\em I don't know what is}."'
 
-11-12: "it is important to remember that talk of deception only *makes sense* against a background of general non-deception. (You can't fool all of the people all of the time.) It must be possible to *recognize* a case of deception by checking the odd case against more normal ones. If I say, 'Our petrol-gauge sometimes deceives us', I am understood: though usually what it indicates squares with what we have in the tank, sometimes it doesn't---it sometimes points to two gallons when the tank turns out to be empty. But suppose I say, 'Our crystal ball sometimes deceives us': this is puzzling, because really we haven't the least idea what the 'normal' case---*not* being deceived by our crystal ball---would actually be."
+10: "it is also implied, even taken for granted, that there is *room*
+for doubt and suspicion, whether or not the plain man feels any. The
+quotation from Locke, with which most people are said to agree, in
+fact contains a strong *suggestio falsi*. It suggests that when, for
+instance, I look at a chair a few yards in front of me in broad
+daylight, my view is that I have (*only*) as much certainty as I need
+and can get that there is a chair and that I see it. But in fact the
+plain man would regard doubt in such a case, not as far-fetched or
+overrefined or somehow unpractical, but as plain *nonsense*; he would
+say, quite correctly, 'Well, if that's not seeing a real chair then *I
+don't know what is*."'
 
-14: "when the plain man sees on the stage the Headless Woman, what he sees (and this *is* what he sees, whether he knows it or not) is not something 'unreal' or 'immaterial', but a woman against a dark background with her head in a black bag. If the trick is well done, he doesn't (because it's deliberately made very difficult for him) properly size up what he sees, or see *what* it is; but to say this is far from concluding that he sees something *else*."
+11--12: "it is important to remember that talk of deception only
+*makes sense* against a background of general non-deception. (You
+can't fool all of the people all of the time.) It must be possible to
+*recognize* a case of deception by checking the odd case against more
+normal ones. If I say, 'Our petrol-gauge sometimes deceives us', I am
+understood: though usually what it indicates squares with what we have
+in the tank, sometimes it doesn't---it sometimes points to two gallons
+when the tank turns out to be empty. But suppose I say, 'Our crystal
+ball sometimes deceives us': this is puzzling, because really we
+haven't the least idea what the 'normal' case---*not* being deceived
+by our crystal ball---would actually be."
+
+# <<deception>>
+([[planets][Wittgenstein]]: denying the existence of something (e.g., a planet)
+involves a claim about what _does_ exist)
+
+14: "when the plain man sees on the stage the Headless Woman, what he
+sees (and this *is* what he sees, whether he knows it or not) is not
+something 'unreal' or 'immaterial', but a woman against a dark
+background with her head in a black bag. If the trick is well done, he
+doesn't (because it's deliberately made very difficult for him)
+properly size up what he sees, or see *what* it is; but to say this is
+far from concluding that he sees something *else*."
 
 22--25: distinguishing illusions and delusions
 
->[Ayer's "argument from illusion" has] two clear implications---(*a*) that all the cases cited in the argument are cases of *illusions*; and (*b*) that *illusion* and *delusion* are the same thing. But both of these implications, of course, are quite wrong; and it is by no means unimportant to point this out, for, as we shall see, the argument trades on confusion at just this point.
+> [Ayer's "argument from illusion" has] two clear implications---(*a*)
+that all the cases cited in the argument are cases of *illusions*; and
+(*b*) that *illusion* and *delusion* are the same thing. But both of
+these implications, of course, are quite wrong; and it is by no means
+unimportant to point this out, for, as we shall see, the argument
+trades on confusion at just this point.
 
->The most important differences here are that the term 'an illusion' (in a perceptual context) does not suggest that something totally unreal is *conjured up*---on the contrary, there just is the arrangement of lines and arrows on the page, the woman on the stage with her head in a black bag, the rotating wheels; whereas the term 'delusion' *does* suggest something totally unreal, not really there at all.
+> The most important differences here are that the term 'an illusion'
+(in a perceptual context) does not suggest that something totally
+unreal is *conjured up*---on the contrary, there just is the
+arrangement of lines and arrows on the page, the woman on the stage
+with her head in a black bag, the rotating wheels; whereas the term
+'delusion' *does* suggest something totally unreal, not really there
+at all.
 
->Why is it that we tend---if we do---to confuse illusions with delusions? Well, partly, no doubt the terms are often used loosely. But there is also the point that people may have, without making this explicit, different views or theories about the facts of some cases. Take the case of seeing a ghost, for example. It is not generally known, or agreed, what seeing ghosts *is*. Some people think of seeing ghosts as a case of something being conjured up, perhaps by the disordered nervous system of the victim; so in their view seeing ghosts is a case of delusion. But other people have the idea that what is called seeing ghosts is a case of being taken in by shadows, perhaps, or reflections, or a trick of the light---that is, they assimilate the case in their minds to illusion. In this way, seeing ghosts, for example, may come to be labelled sometimes as 'delusion', sometimes as 'illusion'; and it may not be noticed that it makes a difference which label we use.
+> Why is it that we tend---if we do---to confuse illusions with
+delusions? Well, partly, no doubt the terms are often used
+loosely. But there is also the point that people may have, without
+making this explicit, different views or theories about the facts of
+some cases. Take the case of seeing a ghost, for example. It is not
+generally known, or agreed, what seeing ghosts *is*. Some people think
+of seeing ghosts as a case of something being conjured up, perhaps by
+the disordered nervous system of the victim; so in their view seeing
+ghosts is a case of delusion. But other people have the idea that what
+is called seeing ghosts is a case of being taken in by shadows,
+perhaps, or reflections, or a trick of the light---that is, they
+assimilate the case in their minds to illusion. In this way, seeing
+ghosts, for example, may come to be labelled sometimes as 'delusion',
+sometimes as 'illusion'; and it may not be noticed that it makes a
+difference which label we use.
 
 
 ** Intentional identity
