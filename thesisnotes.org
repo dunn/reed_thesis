@@ -19,9 +19,9 @@ earth and fish in the sea, that human beings have many different
 experiences, and so on. And for virtually everything we believe, we
 see that its truth or falsity is independent of our believing it. In
 that sense, we have a rich, determinate conception of an independent
-reality: a specific view of the world that is there *anyway*."
+reality: a specific view of the world that is there _anyway_."
 
-26: "if our conception of the world is *everything* we believe, we
+26: "if our conception of the world is _everything_ we believe, we
 could not arrive at the conclusion that some of our beliefs do not
 represent or correspond to that reality as we conceive of it...our
 conception of reality, if it includes everything we believe, will be a
@@ -31,11 +31,11 @@ reality will be like for us."
 27: "We therefore need a conception expressed in terms of only some,
 but not necessarily all, of our current beliefs. Those to which
 reality does not correspond are to be eliminated. But it must contain
-*some* of our beliefs, since to have a conception of the world's being
+_some_ of our beliefs, since to have a conception of the world's being
 a certain way is to have certain beliefs about it."
 
 Once we begin asking the philosophical question about how the world
-really is, why should we expect *any* of our beliefs to be true of it?
+really is, why should we expect _any_ of our beliefs to be true of it?
 
 27: "If we can arrive at the philosophical conception of reality at
 all, then, it will have to be by starting out with all our beliefs
@@ -83,7 +83,7 @@ as it is independently of us."
 unreflective to a sophisticated and more carefully considered set of
 beliefs about the world we should try to eliminate partiality, special
 interest, or even general human peculiarity as possible sources of
-ignorance or error. Smart says we should eliminate certain *concepts*
+ignorance or error. Smart says we should eliminate certain _concepts_
 from our considered conception of the world."
 
 > but "we humans are perhaps the only beings who have any concepts at
@@ -129,7 +129,10 @@ conceiving of other possible beings is taken to reveal a special human
 "peculiarity" or only to show that those other beings would be missing
 something that is independently there."
 
-What is Stroud's position on this page? Some sort of 'conceptual conservatism'; our having a concept in our picture of the world gives us at least *prima facie* justification in supposing that it is absolutely real.
+What is Stroud's position on this page? Some sort of 'conceptual
+conservatism'; our having a concept in our picture of the world gives
+us at least _prima facie_ justification in supposing that it is
+absolutely real.
 
 37: "There would have been trees and mountains and fish, just as we
 now think of them, whether or not human beings existed or had
@@ -141,8 +144,8 @@ not have concepts, or at leasts very determinate concepts, since we
 lack the relevantly specific interests in those aspects of the
 world. I hope I will be excused from giving examples."
 
-There would then be *infinitely many* objects in the world that we are
-*totally* ignorant of. It would be *impossible* to know what all there
+There would then be _infinitely many_ objects in the world that we are
+_totally_ ignorant of. It would be _impossible_ to know what all there
 is in the world. (Thus universalism)
 
 37--38: "If human beings and their thoughts and experiences are to be
@@ -150,9 +153,9 @@ accorded a place in an independent world at all, the concepts we use
 to think about them must be acceptable for use in even our most
 reflective conception of the world."
 
-There needs to be an *argument* for *why* human beings ought to
+There needs to be an _argument_ for _why_ human beings ought to
 be accorded a place in an independent world! It takes a lot of nerve
-to *assume* that we have some deep correspondence with reality.
+to _assume_ that we have some deep correspondence with reality.
 
 38: "If we are careful in applying the concepts we have, even those
 that apply to human beings and their interests in and perspective on
@@ -181,15 +184,16 @@ of the world does not capture everything. Those with greater
 capacities might know more and understand more. We can even think that
 perhaps we believe more than is actually true of the world."
 
----First, there is no upper bound to what they can 'know'
+1. First, there is no upper bound to what they can 'know'
 
----Second, this isn't a quantitative thing. Those with greater
-capacities may well know *other* things and understand the world
-*differently*. Again, we are not the measure of the world, and it's
+2. Second, this isn't a quantitative thing. Those with greater
+capacities may well know _other_ things and understand the world
+_differently_. Again, we are not the measure of the world, and it's
 not at all obvious that our conceptual framework is somehow on the
 golden-brick road leading toward total knowledge of reality.
 
-40--41: "It is *how* we think of the world that is said to be stained
+
+40--41: "It is _how_ we think of the world that is said to be stained
 with our own human "peculiarities", but we have found no general test
 for exposing the presence of such "relativity" in a conception of the
 world that shows no evident signs of it."
@@ -240,7 +244,7 @@ understood in some more general way."
 
 63: "A world, as we have seen, is made up of facts, not objects."
 
-*Our* world, at least.
+_Our_ world, at least.
 
 64: "I have been conceding that we can pick out a set of statements in
 purely physical terms and separate them from all the other things we
@@ -254,7 +258,7 @@ that statements we accept which are expressed in other terms are not
 true."
 
 65: "All true statements could be said to describe or to state what is
-so in *the same* world in the sense that the world is everything that
+so in _the same_ world in the sense that the world is everything that
 is so, and each of those statements says something that is so. Each of
 them gives part of the world in that sense."
 
@@ -273,13 +277,13 @@ do not best explain my or anyone else's responses because no such
 demon exists. What we can appeal to in order to explain our beliefs
 and responses, and so what is to be regarded as part of the world,
 must be something we believe in. It must be part of our conception of
-the world. It is what we think *does* explain our responses that is to
-be reckoned as part of reality, not just whatever *would* explain
+the world. It is what we think _does_ explain our responses that is to
+be reckoned as part of reality, not just whatever _would_ explain
 them if it were so."
 
 75--76: 'unmasking' explanations
 
-ghosts: we learn to *not* see them
+ghosts: we learn to _not_ see them
 
 78: "Of course, we all know that human beings perceive colours,
 perceive that things are coloured, come to believe that things are
@@ -294,13 +298,13 @@ facts] to the other [physical facts] is not available."
 real question whether satisfactorily austere explanations of them will
 be available."
 
-but is it *possible* that it might be done?
+but is it _possible_ that it might be done?
 
 83: "The sentence in purely physical terms, 'Processes P1, P2,
 P3,...are occurring', does not imply the sentence 'Smith is buying a
 house from Jones'. Nor does the second imply the first."
 
-*Of course not*. Because the second sentence involves semantic
+_Of course not_. Because the second sentence involves semantic
 conventions and vagueness that prevent its correspondence with any
 statements of scientific precision.
 
@@ -308,7 +312,7 @@ If we could build a (near-)perfect model of Earth that contained
 (miniature) versions of everything on our planet, how would we do it?
 By coding physical laws into it. When the little humans start running
 around painting pictures and talking about the marvellous colours they
-have, we'll probably say to each other, "look! they *do* see colors!
+have, we'll probably say to each other, "look! they _do_ see colors!
 it worked!" (psychological predicates will be perfectly appropriate.)
 
 84: "the physical sciences cannot explain everything."
@@ -330,7 +334,7 @@ the earlier events, the later events occur. If we restrict ourselves
 to that physical story alone, we will not know whether anything
 psychological occurred during that period at all."
 
-No? If we had a model Earth we could *look and see.*
+No? If we had a model Earth we could _look and see._
 
 90: "Take the broadly psychological phenomenon of one person's buying
 a house from another. It seems absurd to look in the vocabulary of the
@@ -346,7 +350,7 @@ invocation of "the arbitrary will and good pleasure of the Wise
 Architect" is that, even so, there would be a way in which the
 psychological phenomena in question would remain forever unexplained."
 
-But on model Earth, it doesn't really *matter*. They happen, all due
+But on model Earth, it doesn't really _matter_. They happen, all due
 to physical laws.
 
 93: "on this view of perceptions as mental effects of interaction with
@@ -415,7 +419,7 @@ would make no sense to attribute to an object the very feature we see
 when we see shape, or size, or motion, or any other perceivable
 property."
 
-115: "the shapes we perceive things to have are shapes we *can* also
+115: "the shapes we perceive things to have are shapes we _can_ also
 think or believe objects to have."
 
 intentionality of shape [and color] perception
@@ -427,7 +431,7 @@ sometimes true, objects are coloured."
 
 120--: the 'dispositional' account of color
 
-A painful instrument does not have pain 'inhering' in it; to say *it*
+A painful instrument does not have pain 'inhering' in it; to say _it_
 is painful is to say that it is disposed to give us pain under
 appropriate circumstances. Likewise, the argument goes, a yellow lemon
 does not have yellow inherent in it, but is disposed to produce in us
@@ -439,7 +443,7 @@ would get perceptions of yellow."
 
 125: "When filled in with the appropriate specifications, the
 biconditional about yellow things probably is, in fact, true." (but
-that doesn't mean that colour is subjective; it is not *necessarily*
+that doesn't mean that colour is subjective; it is not _necessarily_
 true.)
 
 125: "the goal is to preserve a rich world of independent fact in
@@ -469,12 +473,12 @@ applied."
 
 but the parallel with color does not hold:
 
-138: "What I think we must deny is that ripe lemons would simply *have
-to* have been a different colour if human perceptual mechanisms, or
+138: "What I think we must deny is that ripe lemons would simply _have
+to_ have been a different colour if human perceptual mechanisms, or
 the laws of nature affecting the human perception of ripe lemons, had
 been different in certain ways. The possibility I am specifying is the
-possibility of ripe lemons that are *yellow*, or simply *yellow
-objects*, not being disposed to produce perceptions of yellow in
+possibility of ripe lemons that are _yellow_, or simply _yellow
+objects_, not being disposed to produce perceptions of yellow in
 normal human perceivers under certain conditions."
 
 141: "we can see objects to have dispositional properties. And just as
@@ -548,7 +552,7 @@ off that conception while leaving intact our understanding of
 ourselves as perceiving and believing all the things we do."
 
 If this is true for colour, then how can we slice away our beliefs in
-*everything*?
+_everything_?
 
 150: "We believe that many people perceive and believe there are
 yellow, ovoid lemons, large grey elephants, and countless other
@@ -607,7 +611,7 @@ believe that many objects are yellow."
 
 As unmaskers, we could "acknowledge no yellow objects in the
 world. Nor could we identify perceptions of yellow as perceptions of
-that property that people *believe* to belong to objects that are
+that property that people _believe_ to belong to objects that are
 yellow. We would admit no objects that are yellow. It would get us no
 further to say that perceptions of yellow are perceptions of that
 property that people believe to belong to objects that they believe to
@@ -624,7 +628,7 @@ he sees them to be perceiving."
 166--167: "Whatever property a would-be unmasker could understand
 himself to have perceptions of when a yellow, elliptical patch appears
 to him in the presence of a ripe lemon, it could not be the same
-property that others *believe* to belong to objects in believing them
+property that others _believe_ to belong to objects in believing them
 to be yellow. The property that others believe to belong to objects in
 the thought that they are yellow is the same property that those other
 people also see when they have perceptions of yellow. They take
@@ -638,8 +642,8 @@ what he can recognize in his own case."
 
 "if he could understand them as having any such beliefs at all, he
 would have to acknowledge that the property they attribute to a
-physical object in the *belief* that it is yellow is a different
-property from the property that he can understand them to *perceive*
+physical object in the _belief_ that it is yellow is a different
+property from the property that he can understand them to _perceive_
 in any perceptions he can attribute to them on the basis of their
 similarity to the perceptions he understands himself to get in the
 presence of a ripe lemon."
@@ -857,7 +861,7 @@ recognizes. No unmasking could succeed."
 *** Nihilism
 **** "Skepticism and nihilism"
 520--521: "And so far as I can discern, there is no sorites which will
-work directly to refute the idea that some *entities* exist."
+work directly to refute the idea that some _entities_ exist."
 
 543: "For my own part, I often now believe that there really are no
 tables or rocks, and never so firmly believe that there are such
@@ -987,7 +991,7 @@ Sentences (19)--(23)
 632: "Now is it in truth necessary, if Hob and Nob are to mean to refer to the same person as "the witch," that they should both have some one definite description actually in mind, or even, one producible from each of them by a suitable technique of questioning? This appears to me to stand or fall with the corresponding theory, held by Russell and by Frege (cf. his article "Der Gedanke"), that any ordinary proper name is used equivocally if it does not go proxy for some one definite description; and in spite of these great names, such a theory seems to me extremely ill-founded and implausible."
 
 >Call the witch 'Sue'. (designation by description: "Sue is the witch that actually blighted Hob's mare, if any such witch there be." or "Let 'Sue' refer to that witch, if it exists, that blighted Hob's mare.")
->>Were there such a witch, then we could say *of* the witch (Sue) that it might have been the case that Sue didn't blight Hob's mare. But Sue (=the witch that actually blighted Hob's mare) does not exist, so there is no question of what could have happened in counterfactual scenarios involving her.
+>>Were there such a witch, then we could say _of_ the witch (Sue) that it might have been the case that Sue didn't blight Hob's mare. But Sue (=the witch that actually blighted Hob's mare) does not exist, so there is no question of what could have happened in counterfactual scenarios involving her.
 >Thus: "Hob thinks that Sue blighted his mare, and Nob thinks that Sue killed his sow."
 
 # Dennett, "Geach on Intentional Identity"
@@ -1051,9 +1055,9 @@ If I say "Hob says that a witch blighted his mare and Nob says that she killed h
 
 >Hob thinks that a witch blighted his mare, and thinks that the witch that blighted his mare killed Nob's sow; Nob thinks that a witch killed his sow, and thinks that the witch that killed his sow blighted Hob's mare; and Hob and Nob believe that there is exactly one witch that blighted Hob's mare and killed Nob's sow. [plus something about common knowledge?]
 
-A skeptical report of belief in the "same god" or "same witch" amounts to a report that two or more people believe (falsly) that there is some god or witch, *and take each other to believe that there is the witch that they believe there to be*. There is no need to appeal to exactly similar characteristics; otherwise religious disputes over the nature of god would be sillier than they already are.
+A skeptical report of belief in the "same god" or "same witch" amounts to a report that two or more people believe (falsly) that there is some god or witch, _and take each other to believe that there is the witch that they believe there to be_. There is no need to appeal to exactly similar characteristics; otherwise religious disputes over the nature of god would be sillier than they already are.
 
-How do we report EXAMPLE 2? We would *not* say "Hob says that a witch blighted his mare and Nob says that she killed his sow"; rather we would say "Hob says that Samantha blighted his mare and Nob says that she killed his sow." Here, if our readers are gullible (and take us to be so too), they will understand us to be saying that *Samantha*, the witch herself, has done these two terrible things. If the readers are skeptical (and think us so too), they will read it as "Hob thinks that Samantha (=the [imagined] witch who has been doing such-and-such) blighted his mare, and Nob thinks that Samantha (=the [imagined] witch...) killed his sow."
+How do we report EXAMPLE 2? We would _not_ say "Hob says that a witch blighted his mare and Nob says that she killed his sow"; rather we would say "Hob says that Samantha blighted his mare and Nob says that she killed his sow." Here, if our readers are gullible (and take us to be so too), they will understand us to be saying that _Samantha_, the witch herself, has done these two terrible things. If the readers are skeptical (and think us so too), they will read it as "Hob thinks that Samantha (=the [imagined] witch who has been doing such-and-such) blighted his mare, and Nob thinks that Samantha (=the [imagined] witch...) killed his sow."
 
 
 ** Virtual objects
@@ -1236,15 +1240,15 @@ together "tell us what composition was"? No. Not, at any rate, in the
 sense of enabling us to find a sentence containing no mereological
 terms that was necessarily extensionally equivalent to 'the $x$s
 compose $y$'. (Let us say that such a sentence would constitute an
-answer to the *General Composition Question*. As the Special
+answer to the _General Composition Question_. As the Special
 Composition Question may be identified with the question, Under what
 conditions does composition occur? so the General Composition Question
-may be identified with the question, What *is* composition?)
+may be identified with the question, What _is_ composition?)
 
 reciprocals (41)
 
-Answers to SCQ let us know *when* composition has occurred, but not
-*what* has been composed, or why.
+Answers to SCQ let us know _when_ composition has occurred, but not
+_what_ has been composed, or why.
 
 > 'A composition function $f$ would immediately provide us with an
 > answer to the General Composition Question, an answer of the form
@@ -1307,12 +1311,12 @@ of the $x$s" (73)
 
 > "Peter Unger calls himself a nihilist, but his sense of the word is
 different from mine. Unger apparently concedes the existence of
-composite objects; *his* nihilism consists in a denial that any of
+composite objects; _his_ nihilism consists in a denial that any of
 these composites is the right sort of thing to belong to the extension
 of 'woman' or 'cat' or 'chair' or any of the other count-nouns of
 ordinary language."
 
-(he concedes the *possibility* of composite objects)
+(he concedes the _possibility_ of composite objects)
 
 - universalism :: "Is is impossible for one to bring it about that
                   something is such that the $x$s compose it, because,
@@ -1343,14 +1347,14 @@ that pertains to inanimate objects. Many philosophers, in conversation
 and correspondence, have insisted, despite repeated protests on my
 part, on describing my position in words like these: "Van Inwagen says
 that tables are not real"; "...not true objects"; "...not
-actually *things*"; "...not substances"; "...not unified
+actually _things_"; "...not substances"; "...not unified
 wholes"; "...nothing more than collections of particles." These
 are words that darken counsel. They are, in fact, perfectly
 meaningless. My position vis-\'{a}-vis tables and other inanimate
-objects is simply that there *are* none."
+objects is simply that there _are_ none."
 
 
-"What it *would* be true to say is this:
+"What it _would_ be true to say is this:
 
 > ...the premises of these arguments, whatever they may be, could not
 be so worthy of belief as the thesis that when English speakers,
@@ -1380,13 +1384,13 @@ event it describes is there to be described and
 misdescribed. Something very similar may be said about 'There are two
 very valuable chairs |102| in the next room'. This sentence, when it
 is successfully used to report a fact, does report a fact about the
-existence of *something*. This much is shown by the fact that if the
+existence of _something_. This much is shown by the fact that if the
 next room were wholly empty of matter, then what was expressed by this
 sentence would be false by anyone's standard." (101--102)
 
 van Inwagen's treatement of loose truth and loose-truthmakers requires
 that for an proposition with existential entailment to be loosely
-true, there must be *something* that does exist.
+true, there must be _something_ that does exist.
 
 > "when people say things in the ordinary business of life by uttering
 sentences that start 'There are chairs...' or 'There are stars...',
@@ -1400,14 +1404,14 @@ reply to the Moore-style objection to my ontology in the way I have."
 
 - What are these theses? Apparently not the Gricean/Bacchic
   distinction between saying and stating. According to that thesis,
-  what you *said* ("It is and it isn't") was false, but what you
-  *meant* ("It's drizzly") is true.
+  what you _said_ ("It is and it isn't") was false, but what you
+  _meant_ ("It's drizzly") is true.
 
 - So does van Inwagen think that when you say "It is and it isn't",
-  you mean *just that*? If so, anyone ought to agree that you said
+  you mean _just that_? If so, anyone ought to agree that you said
   something false.
 
-- So van Inwagen must think that *what you actually said* (and so
+- So van Inwagen must think that _what you actually said_ (and so
   meant) was "It's drizzy".
 
 - Really? Because page 106 ("he really means that there are two
@@ -1432,7 +1436,7 @@ a truth for all practical purposes."
 
 bligers (they do exist!) (104)
 
-> "a foreign zoological expedition discovered that, *in a way*, there
+> "a foreign zoological expedition discovered that, _in a way_, there
 were not bligers" (my emphasis)
 
 "(A) The chair-receptacle R..." (105)
@@ -1495,14 +1499,14 @@ that most philosophers would say expressed facts about things like
 chairs in language that refers to no material things but simples."
 (108)
 
-- If facts *about* $x$ are really *about* $y$, and we can say
+- If facts _about_ $x$ are really _about_ $y$, and we can say
   (literally true!) things like "there is a red chair in the room"
   (and mean it!), then presumably van Inwagen is making some appeal to
   the underlying logical structure of the language. Unbeknownst to us,
   we are really performing plural reference, rather than singular
   (just as "the plumber is pernicious" is a general proposition?).
 
-- But classic paraphrases are used to *preserve* the intuitively
+- But classic paraphrases are used to _preserve_ the intuitively
   correct truth-values. "There is no King of France" becomes $\neg
   \exists x$ etc etc. "There is a Queen of England" becomes $\exists
   x$ etc etc. And in the second, positive claim, both the English and
@@ -1510,7 +1514,7 @@ chairs in language that refers to no material things but simples."
   if "There are some chairs\,\... " becomes $\exists xs arranged
   chairwise$ etc, why should not both entail the existence of chairs?
 
-- Other paraphrases are used to show that the original statement *is*
+- Other paraphrases are used to show that the original statement _is_
   false, but loosely true. For example, "Love exists" might be
   paraphrased as $\exists x \wedge \exists y and Lyx$. The whole point
   of this is so that our cynical philosopher can say that, strictly
@@ -1560,7 +1564,7 @@ I should be willing to put in its place." (112)
 originals...When the ordinary man utters the sentence 'Some chairs are
 heavier than some tables' (in an appropriate context, and so on and so
 on), he expresses a certain proposition, and one that is almost
-certainly true. But I do not claim that this proposition *is* the
+certainly true. But I do not claim that this proposition _is_ the
 proposition that, for some $x$s, those $x$s are arranged chairwise and
 for some $y$s, those $y$s are arranged tablewise, and the $x$s are
 heavier than the $y$s. If these are two distinct propositions, what is
@@ -1574,7 +1578,7 @@ paraphrase of the sentence expressing the former)? [Copernicus] (112)
 that there are any objects that occupy chair-receptacles.
 
 (C) The paraphrase is neutral with respect to competing metaphysical
-theories, *viz*. the "received" theory, that there are objects that
+theories, _viz_. the "received" theory, that there are objects that
 occupy chair-receptacles, and the theory I have proposed, according to
 which there are no such objects.
 
@@ -1611,25 +1615,25 @@ the slide from 'would' to 'did' (or 'does'):
 > "Assume I exist. Then certain simples compose me. Call them
 'M'. Now, a single simple is a negligible item indeed. Let $x$ be one
 of these negligible parts of me---one that is somewhere in my right
-arm, say. Now consider the simples that compose me *other than* $x$
-('M -- $x$'). Since $x$ is so very negligible, M -- $x$ *could* [my
+arm, say. Now consider the simples that compose me _other than_ $x$
+('M -- $x$'). Since $x$ is so very negligible, M -- $x$ _could_ [my
 emphasis] compose a human being just as well as M could. We may say
 that M and M -- $x$ are "equally well suited" to compose human
-beings. And, of course, for *any* simple $y$, "M -- $y$ will be as
+beings. And, of course, for _any_ simple $y$, "M -- $y$ will be as
 well suited to compose a human being as M are. Moreover, it would be
 surprising indeed if there were not a simple $z$ such that "M + $z$"
 were as well suited to compose a human being as M are. It would, in
 fact (if I may once more use this phrase), be intolerably arbitrary to
-say that M composed a human being although M -- $x$ *didn't* [my
-emphasis] and M -- $y$ *didn't* [my emphasis] and M + $z$ *didn't* [my
-emphasis]. Suppose, therefore, that M -- $x$ et al.\ *do* [my
+say that M composed a human being although M -- $x$ _didn't_ [my
+emphasis] and M -- $y$ _didn't_ [my emphasis] and M + $z$ _didn't_ [my
+emphasis]. Suppose, therefore, that M -- $x$ et al.\ _do_ [my
 emphasis] compose human beings." (215)
 
-What would be arbitrary would be to suppose that M -- $x$ etc *would
-not* compose human beings. And we've agreed to that in the first
+What would be arbitrary would be to suppose that M -- $x$ etc _would
+not_ compose human beings. And we've agreed to that in the first
 half. All we are therefore entitled to suppose is that M -- $x$ et
-al.\ *would* compose human beings if $x$ were removed---just as my
-house of blocks -- block A4 *would be* a house of blocks if I removed
+al.\ _would_ compose human beings if $x$ were removed---just as my
+house of blocks -- block A4 _would be_ a house of blocks if I removed
 A4.
 
 Unger's presuppositions
@@ -1676,7 +1680,7 @@ could not understand "golden-mountain-wise" if there were no golden
 mountains.) (719)
 
 - golden mountains are not metaphysically impossible (except according
-    to van Inwagen); we do *not* understand 'round square(-wise)'.
+    to van Inwagen); we do _not_ understand 'round square(-wise)'.
 
 > "It is easy to see how to define 'chairwise' in terms of 'chair'
 without supposing that there are any chairs. Let a "chair" be defined
@@ -1704,4 +1708,3 @@ section 10x1x10". Each of these sections are glued together."
 
 
 
-** Unger
