@@ -1436,6 +1436,82 @@ All four combinations are (seem) coherent
 
 Presentist perdurance
 
+**** Chapter 4, Section 9: The argument from vagueness
+> Under what conditions do objects come into and go out of existence?
+  (120)
+
+Sider treats this as a question about conditions on *composition*.  He
+claims that composition is unrestricted---any "class" of objects
+composes another object.
+
+***** 9.1: unrestricted mereological composition
+> If not every class has a fusion then there must be a restriction on
+composition.  Moreover, the only plausible restrictions on composition
+would be vague ones.  But there can be no vague restrictions on
+composition, because that would mean that whether composition occurs
+is sometimes vague.  Therefore, every class has a fusion (p. 121).
+
+- P1 :: If not every class has a fusion, then there must be a pair of
+        cases connected by a continuous series such that in one,
+        composition occurs, but in the other, composition does not
+        occur.
+- P2 :: In no continuous series is there a sharp cut-off in whether
+        composition occurs. (cf. Markosian)
+- P3 :: In any case of composition, either composition definitely
+        occurs, or composition definitely does not occur.
+
+P3 relies on the _linguistic theory of vagueness_ (roughly, the view
+that vagueness is a fact about our language and thought, not about the
+world; it is due to "semantic indecision")
+
+- (F) :: There is some object, x, such that (1) every member of C is
+         part of x, and (2) every part of x shares a part in common
+         with some member of C.
+
+This open sentence says that the class of objects C compose the object
+x.  Sider claims that if some instance of (F) has vague or
+indeterminate truth-conditions, then it is because there is vagueness
+in the terms used to express the sentence.  "(F), however, apparently
+contains no vague singular terms" (126).
+
+(see also Sider's porky-pig sentence, p. 127)
+
+The "crucial assumption" is that "logical words are never a source of
+vagueness" (128).
+
+Another assumption is that there are not multiple equally good
+precisifications of the logical terms---in particular, the
+quantifiers.  (I.e., no quantifier variance.)
+
+> Anyone who accepts that logic is non-vague must also accept
+  unrestricted composition. (132)
+
+***** 9.2: composition questions and temporally indexed parthood
+1. "when a given class has a fusion at a given time" (133)
+
+2. when a fusion occurs between objects existing at different times:
+
+> let us say that an object x is a _diachronic fusion_ of an
+  assignment f iff for every t in f's domain, x is a fusion-at-t of
+  f(t).
+
+3. "when a given assignment has a _minimal_ D-fusion" (i.e., when the
+   object is composed only of the given parts at the given times):
+
+> _Under what conditions do objects begin and cease to exist?_ (134)
+
+***** 9.3: the argument from vagueness for four-dimensionalism
+# <<sider-v>>
+Parallel argument structure as P1--P3 above, replacing composition
+with minimal D-fusions.  This parallel argument is supposed to imply
+
+- U :: every assignment has a minimal D-fusion
+
+which supposedly entails four-dimensionalism (given Sider's
+definitions of fusions and parts).
+
+see [[koslicki]] on Sider's argument
+
 *** Hawthorne, "3D vs 4D"
 **** Spacetime
 "three theses central to the picture at hand:"
@@ -1496,8 +1572,8 @@ arbitrary scattered objects?
 **** Fundamentality
 Problems with the relation of things to their points; Kripke et. al.
 
-*** Three-Dimensionalism
-**** "Wholly present"
+**** Three-Dimensionalism
+***** "Wholly present"
 According to the 'serious tenser', the claim that I am spread out in
 time has no more merit that the claim that I am spread out across many
 possible worlds: one should no more reconstrue what was and will be as
@@ -1506,6 +1582,80 @@ should reconstrue what might be as a series of additional concrete
 worlds that I inhabit."
 
 Analogues with 'bi-location'.
+
+*** Vagueness arguments
+**** Koslicki on Sider
+<<koslicki>> on [[sider-v][Sider 4.9]]
+
+Summary of the Sider/Lewis argument against vague composition:
+
+> The only acceptable account of vagueness is the account which
+  locates the source of vagueness in language and thought: vagueness
+  is a matter of semantic indecision.  But the question of whether a
+  given plurality of objects compose something can be formulated in a
+  part of language which does not contain any vague vocabulary.
+  Therefore, the question of whether a given plurality of objects
+  compose something can never receive a vague answer. (113)
+
+If we disagree with Sider over the truth-value of a sentence like
+"There exist n objects", what is the source of our disagreement?
+Koslicki believes that it involves the *range* (not the *meaning*) of
+the existential quantifier:
+
+> There is no reason why they should not agree on what '$\exists$'
+  means, but they nevertheless disagree on _what_ exists and _how
+  many_ things exist: in other words, they disagree on what it means
+  to be an _object_. (119)
+
+Whether "There exist n objects" is true therefore depends on how many
+things the quantifier ranges over.  How many things it ranges over
+depends in part on how many fusions occur.  And whether or not it is
+vague whether a given fusion occurs is just what is at issue.
+
+(Sider's reply doesn't make sense.)
+
+***** Problems with the plenitude
+Because of the massive amount of fusions and whatnot,
+four-dimensionalism (and 'promiscuous' three-dimensionalism) lose
+sight of one of the original problems: discovering persistence
+conditions for everyday objects like houses and pizzas.  Because these
+objects have no privileged metaphysical status, questions about their
+persistence are really just questions about our conceptual framework:
+
+> Sider is guilty of a bit of false advertising: his account is really
+  a way of saying that, at the end of the day, there is no interesting
+  ontological story to be told about the persistence of our familiar
+  concrete objects of common-sense; whatever there is to say about the
+  persistence of houses, trees, people and cars concerns the
+  organization of our conceptual household. (125)
+
+(This certainly seems to make things easier.)
+
+'Genidentity' and [[spinning discs]]
+
+*Why* does the trout-turkey exist?  Koslicki thinks existence 'comes
+ too cheaply'.  But why should it not?
+
+*** Spinning discs
+# <<spinning discs>>
+
+What exactly is the thought experiment?
+
+- A completely homogenous spinning disc is qualitatively
+  indistinguishable from a stationary disc if we assume 4D?
+  - But how is this *possible*?  Any superficially homogenous disc is
+    actually composed of atoms and so has a non-homogenous structure.
+    We could _see_ the movement of the atoms in the spinning disc.  So
+    we are apparently supposed to imagine a hunk of matter that is
+    _not composed of atoms_.  This seems impossible.
+  - Another possibility is that at _each instant_ the atoms of the
+    spinning disc are in an identical position as atoms of the
+    stationary disc.  Each 'snapshot' shows that the atoms of the
+    spinning disc have moved far enough to become 'in line with' the
+    atoms of the stationary disc.  But this would assume that space
+    and/or time are discrete, which is a bold empirical hypothesis.
+- Either way, the spinning disc objection to four-dimensionalism makes
+  no sense to me.
 
 ** Peter van Inwagen
 *** Material Beings
