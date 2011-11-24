@@ -1255,6 +1255,70 @@ ghosts, for example, may come to be labelled sometimes as 'delusion',
 sometimes as 'illusion'; and it may not be noticed that it makes a
 difference which label we use.
 
+> [Ayer] said earlier, as explicitly as could be, that there is a
+  'correct and familiar' usage of 'perceive' which is such that 'to
+  say of an object that it is perceived does not entail saying that it
+  exists _in any sense at all_'.  On this there is no possible comment
+  except that there _isn't_.[^ghosts]
+
+[^ghosts]: What about seeing ghosts?  Well, if I say that cousin
+Josephine once saw a ghost, even if I go on to say that I don't
+'believe in' ghosts, whatever that means, I can't say that ghosts
+don't exist _in any sense at all_.  For there was, in _some_ sense,
+this ghost that Josephine saw.  If I do want to insist that ghosts
+don't exist _in any sense at all_, I can't afford to admit that people
+ever see them---I shall have to say that they think they do, that they
+seem to see them, or what not. (95)
+
+> in exceptional circumstances ordinary forms of words may be used
+  without being _meant_ in quite the ordinary way; our saying of the
+  D.T.'s sufferer that he 'sees pink rats' is a further instance of
+  this, since we don't mean here (as would be meant in an ordinary
+  situation) that there are real, live pink rats which he sees; but
+  such stretchings of ordinary words in exeptional situations
+  certainly do not constitute special _senses_, still less 'correct
+  and familiar' senses, of the words in question. (97)
+
+> The situation in which I would properly be said to have _evidence_
+  for the statement that some animal is a pig is that, for example, in
+  which the beast itself is not actually on view, but I can see plenty
+  of pig-like marks on the ground outside its retreat.  If I find a
+  few buckets of pig-foot, that's a bit more evidence, and the noises
+  and the smell may provide more evidence still.  But if the animal
+  then emerges and stands there plainly in view, there is no longer
+  any question of collecting evidence; its coming into view doesn't
+  provide me with more _evidence_ that it's a pig, I can now just
+  _see_ that it is, the question is settled. (115)
+
+> If, for instance, you tell me there's a telephone in the next room,
+  and, (feeling mistrustful) I decide to verify this, how could it be
+  thought _impossible_ for me to do this?  I go into the next room,
+  and certainly there's something there that looks exactly like a
+  telephone.  But is it a case perhaps of _trompe l'oeil_ painting?  I
+  can soon settle that.  Is it just a dummy perhaps, not connected up
+  and with no proper works?  Well, I can take it to pieces a bit and
+  find out, or actually use it to ring somebody up---and perhaps get
+  them to ring me up too, just to make sure.  And of course, if I do
+  all these things, I _do_ make sure; what more could possibly be
+  required?  This object has already stood up to amply enough tests to
+  establish that it really is a telephone; and it isn't just that, for
+  everyday or practical or ordinary purposes, enough is _as good as_ a
+  telephone; what meets all these tests just _is_ a telephone, no
+  doubt about it.
+
+> We learn the word 'pig', as we learn the vast majority of words for
+  ordinary things, ostensively---by being told, in the presence of the
+  animal, '_That_ is a pig'; and thus, though certainly we learn what
+  kind of thing it is to which the word 'pig' can and can't be
+  properly applied, we don't go through any kind of intermediate stage
+  of relating the word 'pig' to a lot of _statements_ about the way
+  things look, or sound, or smell.  The word is just not introduced
+  into our vocabulary in this way.  Thus, though of course we come to
+  have certain expectations as to what will and won't be the case when
+  a pig is in the offing, it is wholly artificial to represent these
+  expectations in the guise of _statements entailed by_ 'That is a
+  pig'. (121)
+
 ** Intentional identity
 [[file:intentional.text][10 November draft]]
 
@@ -1634,7 +1698,7 @@ persistence are really just questions about our conceptual framework:
 'Genidentity' and [[spinning discs]]
 
 *Why* does the trout-turkey exist?  Koslicki thinks existence 'comes
- too cheaply'.  But why should it not?
+ too cheaply'.  But why should it be expensive?
 
 *** Spinning discs
 # <<spinning discs>>
