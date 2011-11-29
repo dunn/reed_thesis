@@ -1,5 +1,46 @@
 #+TITLE: Thesis notes
 * The big picture
+** big plans
+*** analytic definitions
+# <<analyticity>>
+cf Austin on [[entailment]]
+
+Many of the metaphysical arguments for nihilism seem to rely on
+'analyticities' or definitional biconditionals.  For example, van
+Inwagen claims that chairs necessarily do not exist because there is
+no true proposition of the form "y (a chair) is composed of the xs iff
+---------".  Unger thinks that ordinary terms are "incoherent" and
+"have no application" because there are no necessary and sufficient
+conditions for being a chair.  He brings this out with a sorites
+'paradox': if we take an ordinary chair and remove an insignificant
+amount of matter, it is still a chair.  But if we keep removing
+matter, eventually there will not be a chair.  Nothing in the meaning
+of 'chair' tells us at what point the chair ceases to exist.  Unger's
+conclusion is that "either there is always a chair, or there never
+was".  He concludes this because he assumes that if 'chair' is to be a
+coherent term with 'application', then it must be possible to give an
+analysis of 'chair' that supplies us with the necessary and sufficient
+conditions of the term's application.  The model seems to be something
+like this: if a term is meaningful, then we can 'deduce' the
+conditions of its application.  Having done this, we can go out into
+the world and see what the term applies to.  Unger, following this
+model, attempts to analyse 'chair' and so deduce the conditions of its
+application.  He cannot deduce any necessary and sufficient
+conditions, and so cannot find anything to apply the term to.  He
+concludes that the term, having no application, is incoherent.  But of
+course he's going about things in the wrong way.  As Austin points out
+in the case of pigs, we learn the meaning of 'chair' not by receiving
+a set of necessary and sufficient conditions of application, but by
+being _shown_ what things the term 'chair' is applied to.  "_That's_ a
+chair."  This is a perfectly familiar way of learning how to use a
+word, and a word that is introduced this way is perfectly meaningful.
+Unger and van Inwagen illegitimately suppose that a term must be
+amenable to the sort of analytic definition that goes "x is a chair
+iff --------".  But in fact few ordinary things have such definitions:
+it does not follow that they do not exist nonetheless.  Unger and van
+Inwagen have to show that all that exist is those things that _do_
+have analytic definitions.  (Van Inwagen might be in trouble here with
+his 'definition' of life.)
 ** Meeting notes
 *** <2011-09-29 Fri>
 [[file:unger.tex][unger.tex]]: define 'compose' in its technical sense
@@ -54,14 +95,13 @@ talk.tex
     - water molecule; great!
     - but tables have no such necessary and sufficient conditions
 
-*** <2011-10-14 Fri> 
+*** <2011-10-14 Fri>
 - defend the 'plausible account' of communication
   - Unger and loose truth
   - Unger has no 'loose-truth-makers' for his sentences
 - van Inwagen and paraphrasing
   - what would a successful paraphrase look like?
   - would it be part of a larger paraphrasing strategy?
-
 *** <2011-10-28 Fri>
 - read SEP on problem of many
 - Intentional identity
@@ -91,7 +131,6 @@ talk.tex
      - just that I claim that if we have a belief *about* something,
        that it exists, but there are apparently cases where we ascribe
        beliefs to people *about* things we know to be nonexistent?
-
 ** Stroud
 *** The Quest for Reality
 <<quest>>
@@ -1318,6 +1357,31 @@ seem to see them, or what not. (95)
   a pig is in the offing, it is wholly artificial to represent these
   expectations in the guise of _statements entailed by_ 'That is a
   pig'. (121)
+
+# <<entailment>>
+Most words for 'ordinary things' are like this---we don't learn an
+'analytic' definition, then go about the world looking for things that
+fit the definition.  Rather, we learn words like 'chair' by asking
+"what's that?" and being told "that's a chair".  Unger's claim that
+'chair' and similar terms for ordinary things "have no application"
+because he assumes there ought to be an 'analytic definition' of such
+things; something like "x is a chair iff such-and-such".  On any
+criteria like this, if it is true that something (some x) is a chair,
+then certain "statements" are entailed by the truth of "x is a
+chair"---namely, those statements on the right side of the
+biconditional.  But Austin's point is that terms like 'pig' (and
+'chair') do _not_ have these sorts of entailments.  There is _no_ true
+biconditional of the form "x is a pig (chair, etc.) iff p".  Unger's
+argument that our ordinary terms have no application is successful
+only if he is correct in assuming that such terms must have "analytic
+definitions" of the biconditional form.  But what motivates this
+assumption? (see [[analyticity]])
+
+> ``It is not, as Warnock's language suggests, that we can stop
+  hedging around if there is a good case for coming right out with it;
+  the fact is that we don't {\em begin} to hedge unless there is some
+  special reason for doing so, something a bit strange and off-colour
+  about the particular situation''~\cite[142]{austin-ss}
 
 ** Intentional identity
 [[file:intentional.text][10 November draft]]
