@@ -6,41 +6,76 @@
 cf Austin on [[entailment]]
 
 Many of the metaphysical arguments for nihilism seem to rely on
-'analyticities' or definitional biconditionals.  For example, van
-Inwagen claims that chairs necessarily do not exist because there is
-no true proposition of the form "y (a chair) is composed of the xs iff
----------".  Unger thinks that ordinary terms are "incoherent" and
-"have no application" because there are no necessary and sufficient
-conditions for being a chair.  He brings this out with a sorites
-'paradox': if we take an ordinary chair and remove an insignificant
-amount of matter, it is still a chair.  But if we keep removing
-matter, eventually there will not be a chair.  Nothing in the meaning
-of 'chair' tells us at what point the chair ceases to exist.  Unger's
-conclusion is that "either there is always a chair, or there never
-was".  He concludes this because he assumes that if 'chair' is to be a
-coherent term with 'application', then it must be possible to give an
-analysis of 'chair' that supplies us with the necessary and sufficient
+definitional biconditionals.  For example, van Inwagen claims that
+chairs necessarily do not exist because there is no true proposition
+of the form "y (a chair) is composed of the xs iff ---------".  Unger,
+meanwhile, thinks that ordinary terms are "incoherent" and "have no
+application" because there are no necessary and sufficient conditions
+for being a chair.  He brings this out with a sorites paradox: if we
+take an ordinary chair and remove an insignificant amount of matter,
+it is still a chair.  But if we keep removing matter, eventually there
+will not be a chair.  Nothing in the meaning of 'chair' tells us at
+what point the chair ceases to exist.  Unger's conclusion is that
+either there is always a chair, or there never was.  He concludes
+this, I think, because he assumes that if 'chair' is to be a coherent
+term with 'application', then it must be possible to give an analysis
+of 'chair' that supplies us with the necessary and sufficient
 conditions of the term's application.  The model seems to be something
 like this: if a term is meaningful, then we can 'deduce' the
 conditions of its application.  Having done this, we can go out into
 the world and see what the term applies to.  Unger, following this
-model, attempts to analyse 'chair' and so deduce the conditions of its
-application.  He cannot deduce any necessary and sufficient
-conditions, and so cannot find anything to apply the term to.  He
-concludes that the term, having no application, is incoherent.  But of
-course he's going about things in the wrong way.  As Austin points out
-in the case of pigs, we learn the meaning of 'chair' not by receiving
-a set of necessary and sufficient conditions of application, but by
-being _shown_ what things the term 'chair' is applied to.  "_That's_ a
-chair."  This is a perfectly familiar way of learning how to use a
-word, and a word that is introduced this way is perfectly meaningful.
-Unger and van Inwagen illegitimately suppose that a term must be
-amenable to the sort of analytic definition that goes "x is a chair
-iff --------".  But in fact few ordinary things have such definitions:
-it does not follow that they do not exist nonetheless.  Unger and van
-Inwagen have to show that all that exist is those things that _do_
-have analytic definitions.  (Van Inwagen might be in trouble here with
-his 'definition' of life.)
+model, attempts to analyse 'chair' (or 'stone') and so deduce the
+conditions of its application.  He cannot deduce any necessary and
+sufficient conditions, and so cannot find anything to apply the term
+to.  He concludes that the term, having no application, is incoherent.
+
+But this seems to be going about things in the wrong way.  Why assume
+that this model is correct?  Troy got me thinking about this a few
+weeks ago, and when I was re-reading Austin's _Sense and Sensibilia_,
+I was struck by this passage (part of Austin's rejection of
+'sense-data' theories according to which propositions like "That's a
+pig" entail certain other propositions in the 'sense-datum' language):
+
+> We learn the word 'pig', as we learn the vast majority of words for
+  ordinary things, ostensively---by being told, in the presence of the
+  animal, '_That_ is a pig'; and thus, though certainly we learn what
+  kind of thing it is to which the word 'pig' can and can't be
+  properly applied, we don't go through any kind of intermediate stage
+  of relating the word 'pig' to a lot of _statements_ about the way
+  things look, or sound, or smell.  The word is just not introduced
+  into our vocabulary in this way.  Thus, though of course we come to
+  have certain expectations as to what will and won't be the case when
+  a pig is in the offing, it is wholly artificial to represent these
+  expectations in the guise of _statements entailed by_ 'That is a
+  pig'. (121)
+
+Most words for 'ordinary things' are like this---we don't learn an
+'analytic' definition, then go about the world looking for things that
+fit the definition.  Rather, we learn words like 'chair' by asking
+"what's that?" and being told "that's a chair".  Unger's claim that
+'chair' and similar terms for ordinary things "have no application"
+because he assumes there ought to be an 'analytic definition' of such
+things; something like "x is a chair iff such-and-such".  On any
+criteria like this, if it is true that something (some x) is a chair,
+then certain "statements" are entailed by the truth of "x is a
+chair"---namely, those statements on the right side of the
+biconditional.  But Austin's point is that terms like 'pig' (and
+'chair') do _not_ have these sorts of entailments.  There is _no_ true
+biconditional of the form "x is a pig (chair, etc.) iff p".
+
+As in the case of pigs above, we learn the meaning of 'chair' not by
+receiving a set of necessary and sufficient conditions of application,
+but by being _shown_ what things the term 'chair' is applied to.
+"_That's_ a chair."  This is a perfectly familiar way of learning how
+to use a word, and a word that is introduced this way is perfectly
+meaningful.  Unger and van Inwagen illegitimately suppose that a term
+must be amenable to the sort of analytic definition that goes "x is a
+chair iff --------".  But in fact few ordinary things have such
+definitions: it does not follow that they do not exist nonetheless.
+Unger's argument that our ordinary terms have no application is
+successful only if he is correct in assuming that such terms must have
+"analytic definitions" of the biconditional form.  But what motivates
+this assumption?
 ** Meeting notes
 *** <2011-09-29 Fri>
 [[file:unger.tex][unger.tex]]: define 'compose' in its technical sense
@@ -1785,6 +1820,103 @@ What exactly is the thought experiment?
 - Either way, the spinning disc objection to four-dimensionalism makes
   no sense to me.
 
+If a 'block' of matter is _completely_ homogeneous, then it has no
+structure.  There is no 'natural' way to split it up; it has no
+internal divisions.  In other words, it _has no proper parts_.  What
+things have no proper parts?  Simples!  So the objection to
+four-dimensionalism is really just one about simples.  The objection
+is that four-dimensionalism can't account for the rotation of simples.
+
+Is it still a valid objection?  At the very least, Sider's
+presentation of it becomes problematic:
+
+> Imagine two duplicate, homogeneous, continuous, perfectly circular
+  disks of uniform depth: one stationary, the other rotating.  The
+  genidentity relation must hold in different patterns between the
+  temporal parts of the bits of the two discs: it must hold in
+  straight lines through spacetime in the case of the stationary disc,
+  and in a helical pattern in the case of the rotating disc (225).
+
+Perhaps Sider is being knowingly cagey with his use of 'bits' here;
+the 'bits of the two discs' certainly aren't _parts_; simples don't
+have parts.  And yet:
+
+> The _three_-dimensionalist has an easy answer.  There are no
+  temporal parts, and so no genidentity relation, and so no need for
+  an analysis of genidentity.  The enduring parts of the disc will be
+  located at different places depending on whether the disc rotates
+  (226).
+
+What enduring parts?  The four-dimensionalist does not have to account
+for the temporal parts of the parts of the disc, for there are no such
+parts.  What she _does_ have to do is explain what the rotation of
+simples looks like.  But isn't this a problem for the
+three-dimensionalist as well?
+
+Let's suppose that point-sized simples can't rotate.  They have no
+extension, so there doesn't seem to be any plausible way in which they
+could.  Our problem concerns _extended simples_.
+
+Are these even possible?  A number of questions arise if we
+countenance this possibility:
+
+1. Are they divisible?
+   Presumably, if there are extended simples, then they may come in a
+   variety of sizes.  We've got our disks (spinning and stationary),
+   but why not spheres, cubes, and stars?  McDaniel (I think) even has
+   a lamp-shaped simple on his wish list.  But once we've got all
+   these fancy simples, what happens if we try to break them into
+   pieces?  Can I split the disk into crescent-shaped halves?  Can I
+   pull a point off a star?
+   - If yes, then I seem to have _created_ a piece of the star (or
+     disk).  For the point of the star is part of the star, but the
+     star was supposed to have no (proper) parts.  So perhaps the star
+     is now a scattered simple?  The fact that we can even talk about
+     the parts of the star (its points) is difficult to reconcile with
+     the supposed lack of parts.
+   - If no, then we've got a hunk of matter that is completely
+     indestructible.
+
+2. Are they malleable?
+
+3. oink?
+
+**** Scala: spinning simples
+> In part, Zimmerman's argument trades on the willingness of some
+temporal-parts theorists to admit the possibility of the homogeneous
+spheres, an admission he lauds.For it is difficult to see any _prima
+facie_ reason to deny their possibility. What's more, a change of mind
+regarding their possibility in light of difficulties they cause for
+one's favored doctrine of persistence betrays bad faith. This
+increases the pressure to abandon the doctrine of temporal parts,
+Zimmerman thinks.
+
+> But perhapsthe situation is not desperate.  Consider another sort of
+thing that, I believe, might exist: an extended simple (393--394).
+
+The spinning sphere/disk _is_ an extended simple.
+
+> the atoms I am envisioning are indivisible in a stronger sense, for
+  they have no proper parts.  A simple, in my sense, occupies a
+  greater than point-size region of space and is indivisible because
+  it does not have, for instance, a right or a left half.  To look at
+  one, you would think you can distinguish a right from a left half,
+  but looks aren't everything. When you think you point to a part of
+  the atom, I say you are pointing at all of it or nothing at all
+  (394).
+
+_If_ an extended simple is possible, then presumably it can be half
+blue and half red.  How are we to describe this?
+
+> I will tend to say not that it is partly blue and partly red,
+  because I think that is false, or misleading at best. Instead, I say
+  the atom is red at one region and blue at the other (395).
+
+> Now, suppose that there are two simple, homogeneous spheres, one of
+  which is rotating and the other of which is not. The endurantist
+  obviously cannot apply her strategy for dealing with non-simple,
+  homogeneous spheres, for that strategy relied upon tracing of
+  parts through time.
 ** Peter van Inwagen
 *** Material Beings
 
