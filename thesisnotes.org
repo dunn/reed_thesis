@@ -1879,8 +1879,38 @@ countenance this possibility:
 
 2. Are they malleable?
 
-3. oink?
+**** Pointing and parts <2011-12-05 Mon>
+***** The problem
+The idea is that the three-dimensionalist can 'point to' (or otherwise
+identify) a section ('bit') of the spinning disc at t1, and then point
+at _that same section_ (re-identifying it) at t2.  She can then say
+"This very same section (bit) was there, and now is here.  Hence,
+motion!"  The four-dimensionalist, on the other hand, is supposed to
+be in trouble.  She apparently has to point at the temporal part of
+the 'section' at t1, and the (numerically distinct!) temporal part of
+the 'section' at t2.  Having pointed out these two 'parts', she then
+needs some criterion of 'genidentity' connecting the two temporal
+parts.  But none seems forthcoming.
+***** What problem?
+But once we recognize that the spinning disc has no proper parts and
+is therefore a simple, this problem doesn't make a lot of sense.
 
+1. Can we really point _at_ the 'sections'?  They are not proper parts
+   of the disc, and so it seems that they do not actually
+   _exist_---they are 'mental' or theoretical divisions.  (Scala on
+   [[point_parts][pointing to 'parts']])
+
+2. Even supposing we could point at these arbitrary areas of the disc,
+   how is the three-dimensionalist (or anyone) supposed to re-identify
+   them?  There can be no question of picking out _numerically the
+   same_ section---these 'sections' are theoretical divisions that
+   correspond to nothing in reality.
+   - If it is an extended simple, then we can of course re-identify
+     the same 'section' if we know the rotation of the disc.  If we
+     know that the disc is spinning at a given RPM, we can 'identify'
+     the matter lying between two degrees and calculate where that
+     matter will be for any other time.  But this technique is
+     available to both three- and four-dimensionalists.
 **** Scala: spinning simples
 > In part, Zimmerman's argument trades on the willingness of some
 temporal-parts theorists to admit the possibility of the homogeneous
@@ -1904,6 +1934,7 @@ The spinning sphere/disk _is_ an extended simple.
   but looks aren't everything. When you think you point to a part of
   the atom, I say you are pointing at all of it or nothing at all
   (394).
+# <<point_parts>>
 
 _If_ an extended simple is possible, then presumably it can be half
 blue and half red.  How are we to describe this?
