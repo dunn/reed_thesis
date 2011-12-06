@@ -1025,7 +1025,6 @@ the world without any metaphysical help?"
 18--19: irreducibility and indispensability
 
 ** Wittgenstein
-
 *** On Certainty
 
 - 54 :: For it is not true that a mistake merely gets more and more
@@ -1412,11 +1411,11 @@ only if he is correct in assuming that such terms must have "analytic
 definitions" of the biconditional form.  But what motivates this
 assumption? (see [[analyticity]])
 
-> ``It is not, as Warnock's language suggests, that we can stop
-  hedging around if there is a good case for coming right out with it;
-  the fact is that we don't {\em begin} to hedge unless there is some
+> It is not, as Warnock's language suggests, that we can stop hedging
+  around if there is a good case for coming right out with it; the
+  fact is that we don't _begin_ to hedge unless there is some
   special reason for doing so, something a bit strange and off-colour
-  about the particular situation''~\cite[142]{austin-ss}
+  about the particular situation (142).
 
 ** Intentional identity
 [[file:intentional.text][10 November draft]]
@@ -2552,3 +2551,122 @@ section 10x1x10". Each of these sections are glued together."
 
 
 
+
+* Language and Reference
+** Analyticity
+see [[analyticity]] above
+** Meaning Skepticism
+*** Reference magnetism
+Sider attempts to use Lewis' notion of 'naturalness' to solve meaning
+skepticism.
+
+> The problem is one in metasemantics. How do words (or thoughts---but
+  let’s stick to words) get their meanings? What "semantic glue"
+  attaches them to the world?  Philosophers differ over the nature of
+  the semantic glue, but the problem confronts nearly any such
+  view.  The problem is that on nearly any theory of its nature, the
+  glue doesn’t seem to be sticky enough; it apparently cannot secure
+  meaning with sufficient determinacy.  Most roughly put: what I mean
+  by 'pig' is surely determined by such facts as that I’ve always said
+  'pig' when in the presence of pigs; but why do such facts determine
+  that by 'pig' I mean pigs, rather than
+  pigs-I’ve-encountered-in-the-past, or pigs-in-
+  my-immediate-vicinity, or pigs-before-2010AD-or-cows-afterwards or
+  ...? (22)
+
+Suppose I say "Did you hear, Donna's bought a pig?"  What determines
+that by 'pig' I mean pig?  My unreflective reply is that that is what
+the _word_ means, and I gave no indication, and so gave my listener no
+reason to believe, that I meant it otherwise.  When we use a word to
+mean something other than what it is generally used to mean, we must
+make this intention clear---otherwise our non-literal communication
+fails.
+
+But of course, the skeptic can ask "what fact determines that the
+_word_ 'pig' means pig (the animal)?"  Here, if we say, 'well, the
+fact that we use 'pig' to refer to pigs', then the trap is sprung.
+"Ah, but you have only ever referred to pigs before 2015, or
+pigs-on-earth, etc."
+
+Is the problem then one only of designation and not (speaker)
+reference?  For if I refer you to the pig Donna bought by saying,
+"Donna's new pig is big", then our referential communication succeeds
+iff you think of the pig as a result of recognizing my referential
+intention.  If this all goes through, how can I _not_ have 'meant' the
+pig with 'pig'?  (The question of what I mean seems hardly to arise.
+What matters is what I am referring to.)
+
+But while the problem might not arise regarding singular reference, it
+seems to be present in other modes of talk.  In the original quote
+("Donna's bought a pig"), I am not _referring_ to the pig.  I am
+merely saying that Donna bought *a* pig.  So the skeptic may ask,
+"what do you mean by 'a pig'?"  And we reply 'a member of the set of
+pigs!'  (Do 'natural kind terms' *designate* the members of a set?)
+
+> The argument shows that a correct interpretation must do more than
+  make specified sentences come out true. What more? Lewis's answer is
+  that correct interpretations must, as much as possible, assign
+  natural properties and relations (or their extensions) to
+  predicates. The meanings under interpretation 1 are (or correspond
+  to) at least somewhat natural properties: being a pig, being edible,
+  and so on.
+
+> Lewis’s constraint on reference is "externalist"; reference is not
+  determined merely by us.  We of course do part of the work.  Our
+  patterns of use of language determine which sentences go into S.
+  But the degree to which an interpretation counts sentences in S as
+  being true is just one factor in determining whether that
+  interpretation is correct.  The other factor is the naturalness of
+  that interpretation's semantic values.  And this second factor has
+  nothing to do with us.  Natural properties and relations are
+  "intrinsically eligible meanings"; they are "reference
+  magnets". (27)
+
+> The crucial assumption of the derivation is that _reference is an
+  explanatory relation_. One can explain certain facts by citing what
+  words refer to.  But if reference were given by a bizarre
+  interpretation then reference-involving "explanations" would not in
+  fact be explanatory, since they would be cast in badly
+  non-joint-carving terms.  Hence reference is not given by a bizarre
+  interpretation.
+
+(Not entirely sure what's going on.)  Semantic 'externalism' only
+makes sense to me if the claim that what we mean is not 'up to us' is
+taken to mean that language-use is social behavior, and so what _I_
+mean by 'pig' is constrained by (public) semantic facts.  To use 'pig'
+in a non-literal or derivative way (to refer to a cop as 'that pig'),
+my audience needs to recognize my intention to deviate from literal
+use.  Even my referential intention to refer my audience to the cop
+fails unless my audience can infer what object I intend to refer to.
+
+But the externalism of Sider and Lewis seems like something else.  The
+magnetism metaphor is (as Sider recognizes) dangerous, for it does
+indeed call to mind the image of our words' getting swept toward rocks
+and pigs and other 'magnets'.  This image gives to _nature_ the role
+of fixing the designation of our words, which is nonsense.
+
+In any case, does this notion of reference magnetism apply to anything
+other than _reference_ (designation)?  Doesn't the problem of meaning
+skepticism arise for words like 'and' and 'which'?
+
+> A highly joint-carving interpretation can "trump" the superior
+  charity of rival interpretations.  Now, this prediction is in some
+  cases correct, especially for "theoretical" terms---terms that are,
+  intuitively, intended to stand for joint-carving meanings.  When a
+  term like 'mass' is introduced in physics, it's intended to stand
+  for a fundamental physical magnitude, and so if there's a
+  joint-carving property in the vicinity, even if it doesn't quite fit
+  the physicists' theory of 'mass', then that property is meant by
+  'mass'.
+
+*No.* When they realize that they were using a bad definition of mass,
+ they won't say "Oh, it looks like _we really meant_ x [the better
+ definition]."  Rather, they'll say that they _ought to have meant_ x,
+ and that if they look back at what they say and _interpret
+ themselves_ as meaning x, then what they said fits the data or
+ whatever.  But by *re-interpreting* themselves thus, they are not
+ _altering the past_: they know perfectly well that they were
+ operating under the wrong definition, and so _meant_ to use that
+ definition.  Sider seems to be reinforcing the bad magnetism metaphor
+ here: somehow, without our intending or knowing it, our words got
+ swept away and attached themselves to 'mass'.
