@@ -2551,7 +2551,6 @@ section 10x1x10". Each of these sections are glued together."
 
 
 
-
 * Language and Reference
 ** Analyticity
 see [[analyticity]] above
@@ -2657,7 +2656,7 @@ skepticism arise for words like 'and' and 'which'?
   for a fundamental physical magnitude, and so if there's a
   joint-carving property in the vicinity, even if it doesn't quite fit
   the physicists' theory of 'mass', then that property is meant by
-  'mass'.
+  'mass'. (31)
 
 *No.* When they realize that they were using a bad definition of mass,
  they won't say "Oh, it looks like _we really meant_ x [the better
@@ -2670,3 +2669,105 @@ skepticism arise for words like 'and' and 'which'?
  definition.  Sider seems to be reinforcing the bad magnetism metaphor
  here: somehow, without our intending or knowing it, our words got
  swept away and attached themselves to 'mass'.
+
+> Highly joint-carving candidates don't automatically trump; the
+  simplistic theory is too simplistic.  But on the other hand,
+  joint-carving isn't completely irrelevant either: the gruesome
+  candidates of the semantic skeptic still must be excluded.
+  Fortunately, even if we reject the simplistic theory, we can still
+  exclude the gruesome candidates simply because they're
+  gruesome—simply because they carve so badly at the joints.  For
+  reference magnetism, construed as a metametasemantic thesis,
+  survives the demise of the simplistic theory.  No reference relation
+  connecting us to the gruesome candidates could take part in an
+  explanatory theory. (32)
+
+What is his alternative to the 'simplistic theory'?
+
+**** Descriptive fit
+There have been a number of apparently related murders in the city
+recently.  Each victim is found with all their zippers removed.  Based
+on the similarities, the detectives suppose that there is one
+individual behind the attacks.  They dub this individual 'Jack the
+Zipper':
+
+- Jack the Zipper :: That individual, if such there be, who has killed
+     x and y and z and ...
+
+Having made this stipulation, they go on to use the name 'Jack the
+Zipper' in their discussions of the crime.  "After the murder, Jack
+the Zipper must have left through the window"; "Jack [the Zipper]
+lives somewhere in Sussex"; "Jack appears to operate alone".
+
+Now suppose it comes to light that none of the murders were actually
+related.  Each was committed by a separate individual acting
+independently.  However, there was a single person---named Sue---who
+removed all the zippers.  (Sue is a little bit crazy.)
+
+Now suppose that the claims and predictions made using the name "Jack
+the Zipper" are largely true of Sue.  Sue left through the window
+(after the murder), Sue lives in Sussex, and Sue did indeed work
+alone.
+
+Should we say that when the detectives made those claims and
+predictions, they were _then_ referring to Sue?  They introduced the
+name "Jack the Zipper" so as to talk about a murderer; Sue is not a
+murderer.  Moreover, if we demand that referring (someone) to
+something requires entertaining singular thoughts about it, then
+reference cannot have succeeded here: the detectives were thinking
+about nobody in particular, and certainly not Sue.
+
+But now suppose that Sue is hauled in for questioning.  The detectives
+want to know how she learned about these murders, why she didn't
+notify the authorities, etc.  The detectives look back through their
+notes and read "Jack the Zipper" to mean Sue; this gives them a
+largely accurate picture of Sue's activities.  But does "Jack the
+Zipper" _designate_ Sue?  I don't think so.
+
+Here, then we have a case in which a term ("Jack the Zipper") is
+introduced in a way that makes in unclear what object, if any, it
+designates.  As a result, when speakers use the term, it is arguable
+that they are not referring to anything at all with it.  _Later_, when
+it is discovered that there is an 'eligible candidate' for the term,
+speakers can use the term to refer to that individual.  But unless the
+term is explicitly redefined (as in the case of 'mass'), the term
+still does not designate anything.
+**** Newton
+Is there a parallel with Newton's understanding of mass?  He (and pretty
+much everyone before Einstein) took mass to be
+
+- Mass :: Newtonian mass is equal to momentum divided by velocity---in
+          this it is unlike proper mass but like relativistic mass.
+          But, unlike relativistic mass, Newtonian mass has the same
+          value in all reference frames.  Newtonian mass also has some
+          properties that distinguish it both from proper mass and
+          from relativistic mass: e.g., it is equal to twice the
+          kinetic energy divided by $v^2$, and it is conserved in all
+          interactions (469).
+
+The problem is that we have at least two conflicting definitions (m/v)
+and (2ke/v^2).  We can't simply say that Newton meant one or the other
+of these; for instance, affirm that he was intending to refer to
+(2*kinetic energy / $v^2$)
+
+Field claims that it is indeterminate which of _these_ concepts
+were 'denoted' by Newton's uses of 'mass':
+
+- Relativistic mass :: total energy/$c^2$
+
+- Proper mass :: nonkinetic energy/$c^2$
+
+The reason Field wants Newton to have been referring to either
+relativistic mass or proper mass is that if 'Newtonian mass' _denotes
+nothing_, then sentences like (7) come out false:
+
+7. To acclerate a body uniformly between any pair of different
+velocities, more force is required if the mass of the body is greater.
+
+This is true according to special relativity, so it would be strange
+if Newton's expression of this proposition was _false_.  Yet if by
+'mass', Newton is taken to mean some nonexistence 'Newtonian mass',
+then how can it be true?  It seems that the 'charitable
+interpretation' is to take Newton as referring to one or the other of
+the newly discovered concepts.  But there is no fact of the matter as
+to which one he was referring to.
