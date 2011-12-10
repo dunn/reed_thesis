@@ -2549,8 +2549,153 @@ section 10x1x10". Each of these sections are glued together."
    regions are bonded [however wood-glue bonds] with the simples in
    the other region."
 
+** Ontology and verbal disputes
+*** Sider, "Ontological realism"
+> The deflationist must therefore concede a disanalogy between the
+  PVI/DKL dispute and paradigmatic merely verbal disputes.  A merely
+  verbal dispute over whether geese live by the "bank" can be resolved
+  by a shift in vocabulary.  One side will be happy for her word
+  'bank' to be translated as 'river bank', the other for his word
+  'bank' to be translated as 'financial bank'; and each will agree
+  that geese live only by the river bank.  These non-hostile
+  translations are mutually acceptable to the disputants, and the
+  dispute evaporates once they are introduced.
 
+> The fact that the deflationist's translations are hostile certainly
+  means that he cannot use them as an offensive weapon, to force PVI
+  and DKL to concede that they do not genuinely disagree.  But nor
+  does this fact give the realist an offensive weapon against the
+  deflationist.  For it is no part of the deflationist's position that
+  warring ontologists be able to tell “from the inside” that they are
+  talking past one another.  The deflationist thinks, rather, that
+  there simply are no questions like those that the ontologists are
+  trying to ask.  They are trying to fix on a single distinguished
+  quantifier meaning, but the attempt does not succeed.  The
+  translations assign the only sensible contents to the words of the
+  misguided warring parties. (14)
 
+> The central question of metaontology is that of whether there are
+  many equally good quantifier meanings, or whether there is a single
+  best quantifier meaning.  It is a question about nature's joints; it
+  is a question of _how much quantificational structure the world
+  contains_. (15)
+
+> Thus, if *existence* is insufficiently magnetic to trump a poor fit
+  with use, Equivocation, Obviousness, or Indeterminacy might well be
+  _true about the English quantifier 'there exists'_.  But in that
+  case, PVI and DKL can simply recast their dispute directly in terms
+  of *existence*.  They can introduce a _new_ language in which to
+  conduct their debate, using the following performance:
+
+>> Let's give the speakers of ordinary English 'there exists'; let us
+  henceforth conduct our debate using '$\exists$'. We hereby stipulate
+  that '$\exists$' is to express an austere relative of the ordinary
+  English notion of existence. We hereby stipulate that although the
+  meaning of '$\exists$' is to obey the core inferential role of
+  English quantifiers, ordinary, casual use of disputed sentences
+  involving 'there exists' (such as 'Tables exist') are not to affect
+  at all what we mean by '$\exists$'.  We hereby stipulate that if
+  there is a highly natural meaning that satisfies these constraints,
+  then that is what we mean by '$\exists$'.  Perhaps the resulting
+  '$\exists$' has no synonym in English.  Fine---we hereby dub our new
+  language _Ontologese_.
+*** Hirsch, "Language, Ontology, and Structure"
+> I do agree with McGrath’s claim that charity to perception is weaker
+  in the philosophical communities than in ordinary communities in
+  which perceptual judgments about the existence of highly visible
+  macroscopic objects do not appear to be based on conscious
+  inferences from general principles.  But this point must not be
+  overstated.  The distinction between conscious and unconscious
+  inference is notoriously nebulous.  Probably all perception is
+  theory-laden in some ways or to some degree.  The fact is that the
+  philosophical communities do make perceptual judgments, such as,
+  "There is no composite object here," said by members of the
+  O-community in the presence of a table.  Nothing that McGrath has
+  said about the distinctive nature of the philosophical communities
+  seems to undermine the claim that there is an overwhelming
+  presumption in favor of charitably interpreting each side as
+  employing a language in which its assertions, both general and
+  perceptual, come out true. (514--515)
+
+> But why isn't it right for us to criticize their language as being
+  expressively defective, if in their language they are able to
+  express fewer s-facts than we can in ours?  I think this puzzling
+  question may motivate us to reject the restrictive view of s-facts,
+  or even to reject s-facts altogether.  If we hold on to the
+  restrictive view we must say that there is no value as such in
+  expressing s-facts.  We must say that the speech act that in
+  O∗-English is called "expressing an s-fact," even if this act does
+  not constitute (what we call) expressing an s-fact, has no less
+  value than (what we call) expressing an s-fact.  This is why we
+  cannot say that their language is defective, and they cannot say
+  that ours is. If this formulation seems too paradoxical, then we
+  must give up the restrictive view. (518--519)
+
+> If we do not believe in s-facts we will say that a u-fact is in a
+  sense divided up in different ways by the structures of the
+  sentences that can express it.  We may perhaps consider there to be
+  something of value in being able to express u-facts in structurally
+  different ways (in being able to see the facts under the aspect of
+  different sentential structures).  That value, such as it might be,
+  is all the value that the restricted view can assign to expressing
+  s-facts.  This is why, on that view, the speech act that in
+  O∗-English is called "expressing an s-fact" has no less value than
+  (what we call) expressing an s-fact. (519)
+
+> What Sider evidently wants is that such principles as P and Q should
+  hold in a privileged sense of "existence" (in the sense of
+  _Existence_, with capitals and italics), the sense belonging to the
+  best ontological language.  The trouble is that precisely what the
+  neophyte neo-ontologists need from him is an explanation of what it
+  means for one ontological language to be better than another.  As
+  things stand each ontological camp will have as much reason as any
+  other to regard as privileged the sense of "existence" in its
+  ontological language.  This is why one gets the feeling that Sider
+  is trying to issue his explanations from a position outside any of
+  the ontological languages.  This, however, he cannot do.  The
+  philosophers who enter the neo-room have no alternative but to
+  understand his explanations in terms of the different ontological
+  languages they initially bring with them. (522)
+*** Sider, "Hirsch's attack on ontologese"
+> Second, one might think that there’s an important distinction
+  between ordinary terms and "theoretical terms", terms that have
+  built into their meanings (or at least built into their
+  metasemantics) that they are to stand for joint-carving meanings.
+  The metasemantics of theoretical terms in science, on this view, is
+  less charity-based than is the metasemantics of ordinary terms like
+  'sofa' and 'game'. Theoretical terms pick out whatever joint-carving
+  meanings are in the "vicinity", and are only minimally governed by
+  charity—not because of a global doctrine of reference magnetism, but
+  rather because of something local to theoretical terms. Even Hirsch
+  should admit that _some_ terms, such as certain terms of physics,
+  function in this way. (2)
+
+> The question is not whether one can speak a whole new language
+  simply by announcing the intention to do so, but rather whether one
+  can partially and locally suspend the considerations of charity that
+  govern meaning---whether one can say: "assuming there is a
+  joint-carving quantifier-meaning, if charity is getting in the way
+  of our meaning it then let this aspect of charity be suspended". And
+  I think one can do this. (4)
+
+> I think that we have the ability to use words—---whether
+  pre-existing words or new words—--in such a way that their
+  metasemantics is not monomaniacally governed by charity.
+  Theoretical terms in science are commonly, and more or less
+  self-consciously, used in this way.  What I propose is that
+  ontologists do the same with quantifiers.  They should stipulate
+  that their quantifiers are to be understood as theoretical terms
+  (and so are not subject to the same level of metasemantic pressure
+  from charity that governs terms like 'sofa' and 'game') that stand
+  for whatever joint-carving notion is in the vicinity. (9)
+
+> I would say that 'joint-carving' is a theoretical term, which is
+  intended to, and in fact does, stand for a meaning that itself
+  carves at the joints.  Joint-carving carves at the joints (Sider
+  2011, section 7.7).  If 'joint-carving' is a theoretical term,
+  there's no reason to doubt that 'joint-carving' will pick out the
+  joint-carving notion of joint-carving—--if there is such a notion. A
+  big if!
 * Language and Reference
 ** Analyticity
 see [[analyticity]] above
@@ -2560,16 +2705,16 @@ Sider attempts to use Lewis' notion of 'naturalness' to solve meaning
 skepticism.
 
 > The problem is one in metasemantics. How do words (or thoughts---but
-  let’s stick to words) get their meanings? What "semantic glue"
+  let's stick to words) get their meanings? What "semantic glue"
   attaches them to the world?  Philosophers differ over the nature of
   the semantic glue, but the problem confronts nearly any such
   view.  The problem is that on nearly any theory of its nature, the
-  glue doesn’t seem to be sticky enough; it apparently cannot secure
+  glue doesn't seem to be sticky enough; it apparently cannot secure
   meaning with sufficient determinacy.  Most roughly put: what I mean
-  by 'pig' is surely determined by such facts as that I’ve always said
+  by 'pig' is surely determined by such facts as that I've always said
   'pig' when in the presence of pigs; but why do such facts determine
   that by 'pig' I mean pigs, rather than
-  pigs-I’ve-encountered-in-the-past, or pigs-in-
+  pigs-I've-encountered-in-the-past, or pigs-in-
   my-immediate-vicinity, or pigs-before-2010AD-or-cows-afterwards or
   ...? (22)
 
@@ -2610,7 +2755,7 @@ pigs!'  (Do 'natural kind terms' *designate* the members of a set?)
   to) at least somewhat natural properties: being a pig, being edible,
   and so on.
 
-> Lewis’s constraint on reference is "externalist"; reference is not
+> Lewis's constraint on reference is "externalist"; reference is not
   determined merely by us.  We of course do part of the work.  Our
   patterns of use of language determine which sentences go into S.
   But the degree to which an interpretation counts sentences in S as
