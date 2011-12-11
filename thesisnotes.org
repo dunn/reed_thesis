@@ -2550,6 +2550,96 @@ section 10x1x10". Each of these sections are glued together."
    the other region."
 
 ** Ontology and verbal disputes
+*** Paper notes
+Sider's 'backup strategy' for dealing with Hirsch is to stipulate---in
+concert with other metaphysicians---that they use "existence" and
+related terms in a special sense:
+
+> [The philosophers] should stipulate that their quantifiers are to be
+  understood as theoretical terms (and so are not subject to the same
+  level of metasemantic pressure from charity that governs terms like
+  'sofa' and 'game') that stand for whatever joint-carving notion is
+  in the vicinity. (9)
+
+By explicitly _intending_ to mean by 'exists' (and its relatives)
+whatever 'joint-carving' notion is 'closest', Sider hopes to evade
+Hirsch's argument from interpretive charity.  The idea is that one can
+(in special cases) put charity on hold.
+
+But it is not immediately clear why this should be expected to work.
+Recall Hirsch's strategy: in the recent ontological disputes, it is
+possible to interpret each side so that nobody actually disagrees.
+This requires interpreting David Lewis and Peter van Inwagen, for
+example, as meaning different things by their uses of the
+quantifiers.  Roughly, when DL says that there is something composed
+of the table and the eraser, he just means the same as the rest of us
+mean by "there is a table and an eraser".  Likewise, when van Inwagen
+asserts that there are no tables, he just means what we would express
+as "there are no organisms or simples that are also tables".
+
+Obviously, David Lewis and van Inwagen disagree.  Hirsch's
+'interpretations' have the result that our distinguished
+metaphysicians are putting forward truisms, like "everything that is
+an organism or simple is an organism or simple".  When van Inwagen
+said "everything is an organism or simple" he _thought_ he was making
+a bold metaphysical claim.  Not according to Hirsch.
+
+Hirsch's interpretations are therefore _hostile_.  They diverge
+substantially from the intentions of the speakers.  Even if they both
+tell Hirsch "we're _not_ engaged in a verbal dispute", Hirsch will be
+unmoved:
+
+> The presumption of charity is supposed to be an a priori principle
+  that is partially constitutive of linguistic meaning.  Insofar as
+  the disputing ontologists assert the sentence, "We are not engaged
+  in a verbal dispute," this sentence will figure, together with all
+  the other asserted sentences, in arriving at the most charitable
+  interpretation. I would suspect that meta-level, quasi-technical
+  (self-aggrandizing) assertions probably have low priority as
+  supplicants for charity. In any case, it can't be seriously
+  suggested that the charitable presumption in favor of the
+  correctness of this one assertion threatens to trump the presumption
+  in favor of all of the other assertions made by the
+  ontologists. (515)
+
+So why can't Hirsch simply do the same thing when Sider announces the
+introduction of 'Ontologese'?  Suppose each ontologist recites "I
+hereby intend to use the quantifiers $\exists$ and $\forall$ such that
+they correspond with whatever fundamental quantificational notions are
+in the vicinity".  Then presumably Hirsch will interpret each
+ontologist differently, so that their subsequent statements come out
+true.  He could just take each to mean different things by "$\exists$"
+and "$\forall$".  So what's Sider's move?
+
+He claims that in certain local contexts, charity can be suspended.
+When those engaged in a particular sort of talk would rather be wrong
+for the right reason than right for the wrong, they demand that
+charity be withheld from a given term (or terms).  Sider's example is
+from physics:
+
+> Consider a debate amongst some scientists over whether simultaneity
+  is transitive.  Imagine that certain proponents of special
+  relativity say that it's not, on one meaning of 'simultaneity'
+  anyway, on which spacelike separated objects count as simultaneous.
+  Someone in the debate then raises the question of whether it's
+  analytic, given the usual meaning of 'simultaneity', that
+  simultaneity is transitive.  This consideration is clearly
+  irrelevant to the scientific debate, and the scientists recognize it
+  as such.  They don't care about this facet of ordinary usage; what
+  they care about is the structure of the fundamental temporal facts.
+  So they agree to set aside this facet of the ordinary usage of
+  'simultaneous' for the sake of the dispute.
+
+But this does not appear to support Sider's claim.  Here theoretical
+utility and charity go hand in hand.  For here it _would_ be
+charitable to interpret the scientists' uses of 'simultaneous' as
+meaning something other than the 'usual meaning'.  If we did interpret
+them as meaning the 'usual meaning', they would be making (in Hirsch's
+words) 'a priori false assertions'; they would be doubting whether or
+not simultaneity is transitive, when it is part of the meaning of
+'simultaneity' that it is transitive.  It would be like someone
+doubting whether or not all bachelors are unmarried.  So this example
+is not a case of 'trumping' or overriding charity.
 *** Sider, "Ontological realism"
 > The deflationist must therefore concede a disanalogy between the
   PVI/DKL dispute and paradigmatic merely verbal disputes.  A merely
@@ -2566,7 +2656,7 @@ section 10x1x10". Each of these sections are glued together."
   and DKL to concede that they do not genuinely disagree.  But nor
   does this fact give the realist an offensive weapon against the
   deflationist.  For it is no part of the deflationist's position that
-  warring ontologists be able to tell “from the inside” that they are
+  warring ontologists be able to tell "from the inside" that they are
   talking past one another.  The deflationist thinks, rather, that
   there simply are no questions like those that the ontologists are
   trying to ask.  They are trying to fix on a single distinguished
@@ -2628,7 +2718,7 @@ section 10x1x10". Each of these sections are glued together."
   not constitute (what we call) expressing an s-fact, has no less
   value than (what we call) expressing an s-fact.  This is why we
   cannot say that their language is defective, and they cannot say
-  that ours is. If this formulation seems too paradoxical, then we
+  that ours is.  If this formulation seems too paradoxical, then we
   must give up the restrictive view. (518--519)
 
 > If we do not believe in s-facts we will say that a u-fact is in a
@@ -2665,7 +2755,7 @@ section 10x1x10". Each of these sections are glued together."
   less charity-based than is the metasemantics of ordinary terms like
   'sofa' and 'game'. Theoretical terms pick out whatever joint-carving
   meanings are in the "vicinity", and are only minimally governed by
-  charity—not because of a global doctrine of reference magnetism, but
+  charity---not because of a global doctrine of reference magnetism, but
   rather because of something local to theoretical terms. Even Hirsch
   should admit that _some_ terms, such as certain terms of physics,
   function in this way. (2)
@@ -2678,23 +2768,56 @@ section 10x1x10". Each of these sections are glued together."
   of our meaning it then let this aspect of charity be suspended". And
   I think one can do this. (4)
 
-> I think that we have the ability to use words—---whether
-  pre-existing words or new words—--in such a way that their
-  metasemantics is not monomaniacally governed by charity.
-  Theoretical terms in science are commonly, and more or less
-  self-consciously, used in this way.  What I propose is that
-  ontologists do the same with quantifiers.  They should stipulate
-  that their quantifiers are to be understood as theoretical terms
-  (and so are not subject to the same level of metasemantic pressure
-  from charity that governs terms like 'sofa' and 'game') that stand
-  for whatever joint-carving notion is in the vicinity. (9)
+Sider's example is a scientific dispute over 'simultaneity':
+
+> Consider a debate amongst some scientists over whether simultaneity
+  is transitive.  Imagine that certain proponents of special
+  relativity say that it's not, on one meaning of 'simultaneity'
+  anyway, on which spacelike separated objects count as simultaneous.
+  Someone in the debate then raises the question of whether it's
+  analytic, given the usual meaning of 'simultaneity', that
+  simultaneity is transitive.  This consideration is clearly
+  irrelevant to the scientific debate, and the scientists recognize it
+  as such.  They don't care about this facet of ordinary usage; what
+  they care about is the structure of the fundamental temporal facts.
+  So they agree to set aside this facet of the ordinary usage of
+  'simultaneous' for the sake of the dispute.
+
+But it appears that here it _would_ be charitable to interpret the
+scientists' uses of 'simultaneous' as meaning something other than the
+'usual meaning'.  If we did interpret them as such, they would be
+making (in Hirsch's words) 'a priori false assertions'; they would be
+doubting whether or not simultaneity is transitive, when it is part of
+the meaning of 'simultaneity' that it is transitive.  It would be like
+someone doubting whether or not all bachelors are unmarried.  So this
+example is not a case of 'trumping' or overriding charity.
+
+> I think that we have the ability to use words---whether pre-existing
+  words or new words---in such a way that their metasemantics is not
+  monomaniacally governed by charity.  Theoretical terms in science
+  are commonly, and more or less self-consciously, used in this way.
+  What I propose is that ontologists do the same with quantifiers.
+  They should stipulate that their quantifiers are to be understood as
+  theoretical terms (and so are not subject to the same level of
+  metasemantic pressure from charity that governs terms like 'sofa'
+  and 'game') that stand for whatever joint-carving notion is in the
+  vicinity. (9)
+
+It might be that Hirsch is relying on a 'monomaniacal' version of
+interpretive charity.  He is already willing to perform 'hostile'
+interpretations of other metaphysicians (and see his treatment of
+"We're not engaged in a verbal dispute").  If our words mean whatever
+they have to in order for what we say to be true, then Sider's appeal
+to a special language is useless.  But Hirsch's notion of charity is
+looking increasingly radical (there seems to be a connection between
+it and meaning skepticism/interpretationism).
 
 > I would say that 'joint-carving' is a theoretical term, which is
   intended to, and in fact does, stand for a meaning that itself
   carves at the joints.  Joint-carving carves at the joints (Sider
   2011, section 7.7).  If 'joint-carving' is a theoretical term,
   there's no reason to doubt that 'joint-carving' will pick out the
-  joint-carving notion of joint-carving—--if there is such a notion. A
+  joint-carving notion of joint-carving---if there is such a notion. A
   big if!
 * Language and Reference
 ** Analyticity
@@ -2821,7 +2944,7 @@ skepticism arise for words like 'and' and 'which'?
   candidates of the semantic skeptic still must be excluded.
   Fortunately, even if we reject the simplistic theory, we can still
   exclude the gruesome candidates simply because they're
-  gruesome—simply because they carve so badly at the joints.  For
+  gruesome-simply because they carve so badly at the joints.  For
   reference magnetism, construed as a metametasemantic thesis,
   survives the demise of the simplistic theory.  No reference relation
   connecting us to the gruesome candidates could take part in an
