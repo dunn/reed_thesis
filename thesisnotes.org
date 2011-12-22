@@ -2640,6 +2640,105 @@ not simultaneity is transitive, when it is part of the meaning of
 'simultaneity' that it is transitive.  It would be like someone
 doubting whether or not all bachelors are unmarried.  So this example
 is not a case of 'trumping' or overriding charity.
+**** Can stipulations ever trump charity?
+In the cases of both the ontologists and the scientists, someone
+listening to them with no background information might take them to be
+saying obviously false things.  "What do they mean, there don't exist
+any chairs"; "What do they mean, is simultaneity transitive?"  To make
+sense of their utterances, our speaker needs to interpret them
+charitably; they shouldn't be taken to mean what our listener means.
+She will perhaps understand the ontologist to mean something special
+by 'exist' and the scientist by 'simultaneity'.  In the latter case
+she would obviously be right in doing so.
+
+So if Sider's gambit is to work, we need an example where the
+stipulated meaning goes _against_ charity.  A listener must initially
+take them to be saying obviously _true_ things, and must be convinced
+that they are saying something else, something which might render what
+they say false.
+***** Aside: charity everywhere?
+Charity does seem pretty ubiquitous.  It plays role in metaphor:
+
+"Love is blind"---well, she can't mean that literally, so she must
+have some metaphorical meaning (charity is closely related to the
+cooperative principle)
+
+Is the cooperative principle a special instance of charity?
+'Conversational charity'?
+**** Back to Sider
+OK, we need some examples.
+
+The problem is that in the normal charity cases, we take what seems
+false and interpret it to be true.  But now we're supposed to take
+something true and interpret it to be true in some other way.
+
+What makes the first type of case possible is the fact that, given
+what the word usually means, the proposition expressed can't be true
+("There are no chairs").  So we cast around for a meaning that will
+make it true ("There are no simples that are chairs").  In the second
+case, the usual meaning works just fine in making the proposition
+true.  The speaker therefore has to explicitly stipulate a new meaning
+that allows us to evaluate the utterance as true or false.  Sider's
+"let $\exists$ mean the closest joint-carving notion" is not
+sufficient.
+
+An example.  "Can two people fall in love?"
+
+"Well, of course."
+
+"Ah, but by 'love' I don't mean the silly infatuations that lead to
+marriage today.  I mean the kind of love that unites two souls in an
+indestructible embrace.  By 'love' I mean total interpenetration of
+our immortal Cartesian minds."
+
+"..."
+
+"So, do you think two people can fall in love?"
+
+"No."
+
+Our imagined idealist will presumably go on to deny that anyone he has
+ever known has fallen in love, that nobody is likely to fall in love
+in these dark times, etc.  
+
+But now it is _charity_ that demands that we interpret him as meaning
+by 'love' exactly what he said he means; if we took him to be using
+'love' in its usual sense, then we would be forced to regard all these
+utterances as false.
+
+Let's run it again:
+
+"Can two people fall in love?"
+
+"Well, of course."
+
+"Oh, but don't take me to be using 'love' in the ordinary sense.
+Rather, I intend to use 'love' to pick out the most _fundamental_
+notion in the vicinity, whatever it may be."
+
+"..."
+
+"So, do you think two people can fall in love?"
+
+"Yes."
+
+Our listener can have no idea what this fundamental notion is supposed
+to be, and is therefore required to rely on the only notion she
+has---that expressed by 'love' in its ordinary sense.
+
+It's possible that she might not say "Yes".  It's possible that
+instead she might simply say "You are no longer making sense.  I do
+not understand what you mean by 'love', if not love---and I do not
+think you understand yourself".
+
+So Hirsch has two options here.  When Sider says
+
+"When I say '$\exists$', do not understand me as using it in the
+ordinary sense.  Rather, I intend to use it to pick out the most
+fundamental notion in the vicinity, whatever that may be.  Now,
+keeping all that in mind, let us ask ourselves: do chairs exist?"
+
+Hirsch may reply "Yes", or he may say "I no longer understand you."
 *** Sider, "Ontological realism"
 > The deflationist must therefore concede a disanalogy between the
   PVI/DKL dispute and paradigmatic merely verbal disputes.  A merely
@@ -2944,7 +3043,7 @@ skepticism arise for words like 'and' and 'which'?
   candidates of the semantic skeptic still must be excluded.
   Fortunately, even if we reject the simplistic theory, we can still
   exclude the gruesome candidates simply because they're
-  gruesome-simply because they carve so badly at the joints.  For
+  gruesome---simply because they carve so badly at the joints.  For
   reference magnetism, construed as a metametasemantic thesis,
   survives the demise of the simplistic theory.  No reference relation
   connecting us to the gruesome candidates could take part in an
