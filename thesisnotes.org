@@ -3138,3 +3138,160 @@ then how can it be true?  It seems that the 'charitable
 interpretation' is to take Newton as referring to one or the other of
 the newly discovered concepts.  But there is no fact of the matter as
 to which one he was referring to.
+** _Truth and Meaning_
+*** Introduction
+**** Translational semantics
+Founded in part on the idea that one must give the meaning of a word
+or sentence in _some_ language (if one cannot rather point).  These
+givings of meanings are therefore assertions of synonymity between
+words or sentences (propositions) of two different languages.  (Of
+course one could "translate" between English and English, but that
+would be silly.)  The 'object language' is the one whose meanings are
+given in terms of the 'theory language'.  And there are guidelines:
+
+1.  If S is meaningful and unambiguous, then there is exactly one
+    sentence of L onto which S is mapped.
+2.  If S is n ways ambiguous, there are n distinct sentences of L onto
+    which S is mapped.
+3.  If S lacks a meaning, there is no sentence of L onto which S is
+    mapped.
+4.  If S entails S', there is an effectively decidable relation that
+    holds between the sentences of L onto which S and S' are
+    respectively mapped.
+
+But the problem for translational semantics is that someone could be
+given translations of object sentences (produced with the guidelines
+in mind) and yet still not understand the object sentences:
+
+> there is no escaping the fact that one could have a competence thus
+  based upon the mapping relation, and yet not know what a single
+  sentence of the language meant.  A speaker-hearer would know that
+  only if he knew what sentences of the theory's language meant; but
+  this is knowledge of precisely the kind that was to be accounted for
+  in the first place (ix).
+
+For example, if the object language is French, and our theory language
+is English, we might map 'chauve' onto 'bald'.  But knowing that these
+words are synonymous does not help someone learn the meaning of
+'chauve' unless she already knows the meaning of 'bald'.  So we need
+to map 'bald' onto something that she _does_ know the meaning of.
+We've gotten nowhere!  ("As only can be expected," will say some
+translational semanticists.  "You cannot break out of the circle of
+language.")
+
+But Gareth Evans will not be so easily cowed:
+
+> There is a fallacy in the argument [that the limitations of the
+  translation theories are inevitable].  Of course, we cannot express
+  meanings other than with words [but see below].  But it does not
+  follow that if we give the meaning of a sentence, S, by means of a
+  sentence S', we must be stating or reporting upon a relation between
+  S and S'.  We may give the meaning of S by not mentioning S', but by
+  using it, in the standard use which it has in talk about the world
+  (ix--x).
+
+Thus the famous "'Snow is white' is true if and only if snow is
+white."  The right half of the biconditional is not a sentence given
+to be synonymous with the left half's sentence, but is an _expression
+in use_.  Evans thinks that by giving meanings with expressions, we
+can transcend the limitations of translational semantics:
+
+> A theory which uses expressions to state meanings would be immune to
+  the objection which devastates translational semantics, namely that
+  someone could know it without understanding the language of which it
+  is a theory.  To say, for example, that Pierre knows that something
+  satisfies 'chauve' if and only if it is bald is not to credit Pierre
+  with knowledge of some relation between 'chauve' and the English
+  word 'bald'---knowledge which he could have without knowing what
+  either meant.  It is to credit him with knowing a relation between
+  'chauve' and bald men: knowledge which would, together with similar
+  knowledge, help to explain competent employment of French in talking
+  about the world.  We can state the relation that way because the use
+  to which we put 'bald' in stating it is the use to which we put
+  'bald' in our talk about the world, notably in saying, of various
+  people, that they are bald (x).
+
+(more to come, but superficially, it seems as if we still haven't
+gotten anywhere.  one cannot understand "something satisfies 'chauve'
+iff it is bald" without already understanding what it means to be
+bald.  but as Evans emphasizes, the sort of relation instantiated by
+the above biconditional is one between words ('chauve') and the world
+(bald people).  to know what it means to be bald is to know something
+about the world.  thus it seems natural that one would learn
+expressions involving 'bald' _by ostention_ ("now _that's_
+bald")---and voila! we have broken out of the circle of language.  in
+this example, we can only understand (and so use) words if their use
+has been _shown_ to us.)
+*** Language-mastery and the sorites paradox
+> The governing view, then, is a conjunction of two claims: that our
+  use of language is rightly seen, like a game, as a practice in which
+  the admissibility of a move is determined by a rule, and that
+  general properties of the rules may be discovered by means of the
+  sorts of consideration just described [various kinds of conceptual
+  analysis].  What I am going to argue is that these theses are
+  mutually incoherent (225).
+
+> Vagueness is hardly ever, as Frege and Russell thought, merely a
+  reflection of our not having bothered to make a predicate precise.
+  Rather, the utility and point of the classifications expressed by
+  many vague predicates would be frustrated if their were supplied
+  with sharp boundaries ... Lack of sharp boundaries is a phenomenon
+  of semantic depth.  It is not usually a matter simply of our lacking
+  an instruction where to 'draw the line'; rather the instructions we
+  have determine that the line is _not_ to be drawn (227).
+
+> ... it is plausible to suppose that any _ostensively definable_
+  predicate must be observational.  If an expression can be
+  ostensively defined, it must be possible to draw someone's attention
+  to features in his experience which warrant its application; and if
+  this is possible, there can be no question of the expression
+  applying to some but not others among situations which he cannot
+  distinguish in experience ... To master the sense of a predicate is,
+  at least, to learn to differentiate cases to which it is right to
+  apply it from cases of any other sort.  If such mastery can be
+  bestowed ostensively, then a comparison of two such cases must
+  always reveal a difference which sense-experience can detect.  The
+  notion that the whole range of application of a predicate can be
+  made intelligible by ostensive means presupposes that it is never
+  the case that only one of a pair of objects, which the senses cannot
+  tell apart, is characterized by it (235).
+
+**** 4. predicates of degree?
+Application of a predicate F may be seen as increasingly _less (or
+more) justified_.  But the paradox re-emerges when we ask, "at what
+point is the application of F no longer justified _at all_ (or when
+'not F' is more justified than 'F')?"
+
+**** 5. eliminate tolerance?
+If we stipulated exact boundaries for predicates (e.g., 'red',
+'heap'), then we could tell in most cases whether or not a given
+specimen fits the new precise predicate.  It would be much like how we
+say "That's at least two feet".  We can always appeal to the ruler if
+need be, but generally don't need to.  But then if there are two
+cases, one in which it's clearly 'safe' to apply the predicate and the
+other in which it's nearly as clear, we can get the same sort of
+paradox: when ought we to pull out our color-charts?
+
+> The possibility of our dispensing with paradigms for most practical
+  purposes depends on our capacity e.g. to distinguish between cases
+  where we could tell whether or not 'red' applied just by looking and
+  cases where we could not, where we should have recourse to a chart.
+  But if we are able to make such a distinction, there can be no
+  objection to introducing a predicate to express it.  And then, it
+  seems, the semantics of _this_ predicate will have to be
+  observational.  On what other basis should we decide whether
+  something looks as though comparison with a chart would determine it
+  to be red than how it looks?  Of any pair of colour patches which
+  look exactly alike, if either looks as though the chart would
+  deliver the verdict 'red', both must.  So the new predicate,
+  introduced to reflect our capacity to make this distinction, will be
+  applicable to both members of any pair or matching colour-samples,
+  if to either (243).
+
+**** 6. conclusion
+> Agreement is generally possible about how colours are to be
+  described; which is equivalent to saying that others _seem_ to use
+  colour predicates in a largely consistent way.
+>
+> It is this fact of which the governing view can provide no account
+  (245).
