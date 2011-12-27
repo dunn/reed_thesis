@@ -1153,7 +1153,6 @@ may be accepted with equanimity."
 
 They cannot be considered if they cannot be thought of.
 
-
 *** The problem of the many
 **** SEP Entry
 The paradox arises because in the story as told the following eight
@@ -1208,7 +1207,6 @@ a part of a cloud, rather than a cloud. Even if something looks like a
 cloud, smells like a cloud and rains like a cloud, it need not be a
 cloud, it may only be a part of a cloud.
 
-
 **** Unger
 412: "Either there are no salt shakers at all, or else, in my dining
 area, there are millions of these things. Insofar as I find the latter
@@ -1218,13 +1216,39 @@ first, to the nihilistic, or Parmenidian, option."
 414: "if anything is a cloud, it must be a _natural_ item, with a
 real, objective place in nature all its own, so to say."
 
-What does this mean? And what does it imply about cloud-seeding?
+- What does this _mean_? (And what does it imply about cloud-seeding?)
+
+> If we allow our common-sense *belief* [my emph], that there is _at
+  most_ one cloud right there, to have any weight at all, the
+  contrived item loses out to the natural object (414).
+
+Is it also part of the _meaning_ of cloud that there is just one
+"right there"?
+
+> In this reality, which in all relevant regard is the _actual_
+  reality, i.e., really is reality, there is no natural break, or
+  boundary, or stopping place, for any would-be cloud have (415).
+
+> If it is anything, a cloud is a _concrete_ entity. [??]
+
+> No matter where we start, the complex first chosen has nothing
+  objectively in its favor to make it a better candidate for cloudhood
+  than so many of its overlappers are.  Putting the matter somewhat
+  personally, each one's claim to be a cloud is just as good, no
+  better and no worse, than each of the many others.  And, by all
+  odds, each complex has _at least_ as good a claim as any still
+  further real entity in the situation.  So, either _all_ of _them_
+  make it or else _nothing_ does; in this real situation, either there
+  are many clouds or else there really are no clouds at all.
+
+"minimum requirements [for] cloudhood" (416).  What does _this_ mean?
+(Further talk of marginal, middling, typical clouds.  See also 421.)
 
 420--424: minute boundary differences: aren't they all clouds?
 
-But presumably a cloud is a concentration of moisture in the air. The
-boundary is where moisture is at the average level for air in that
-region.
+# But presumably a cloud is a concentration of moisture in the
+# air. The boundary is where moisture is at the average level for air
+# in that region.
 
 cf. stones 435
 
@@ -1233,6 +1257,30 @@ side, or themselves overlapping, a great many potential boundaries for
 clouds...if our alleged typical item [the cloud] is indeed a typical
 cloud, then many of these candidates, millions at least, do not fail
 to be clouds altogether but are clouds of some sort."
+
+> We think of certain things as _concrete_ and of others as, perhaps
+  more or less, _abstract_.  When a concrete thing is an _ordinary_
+  kind of _spatial_ entity, as in the case of a table or stone, it
+  must have a boundary.  Consider, in contrast, certain "more
+  abstract" entities, which have their being rooted, so to say, in
+  particular concrete entities.  Thus a _swarm of bees_ is somewhat
+  abstract, the bees being thought of as concrete.  It is somewhat
+  difficult to think of the swarm as having a boundary: Does the swarm
+  really include as a part a certain (part of the) space that
+  separates the bees? ...  _Insofar_ as we _can_ think of clouds as
+  _concrete_, our boundaries for them seem to have a firmer footing
+  (431).
+
+Vague objects (433).
+
+> what can it be for a stone to be constituted of molecules but of no
+  number of molecules?  And although in any real situation _we_ may
+  have only a _vague idea_ as to what is the number, in any given
+  stone, what kind of number can it possibly be if not some particular
+  number?  No, either the stone, that presumedly real, typical
+  specimen, is composed of a definite number of molecules, whatever
+  the number may happen to be, or _else_ it really is _not_ composed
+  of molecules at _all_.
 
 453: we should have to assume that, very often, many stupid little
 children are somehow made to get things right, as to the small number
@@ -3223,6 +3271,7 @@ bald")---and voila! we have broken out of the circle of language.  in
 this example, we can only understand (and so use) words if their use
 has been _shown_ to us.)
 *** Language-mastery and the sorites paradox
+**** 1. the governing view
 > The governing view, then, is a conjunction of two claims: that our
   use of language is rightly seen, like a game, as a practice in which
   the admissibility of a move is determined by a rule, and that
@@ -3239,6 +3288,15 @@ has been _shown_ to us.)
   of semantic depth.  It is not usually a matter simply of our lacking
   an instruction where to 'draw the line'; rather the instructions we
   have determine that the line is _not_ to be drawn (227).
+
+**** 2. sorites paradoxes
+1. the heap
+2. childhood to adulthood in the space of a heartbeat
+3. barely discriminable series of color patches
+
+**** 3. observational rules
+4. indiscriminable series of color patches; nontransitivity of
+   indiscriminability
 
 > ... it is plausible to suppose that any _ostensively definable_
   predicate must be observational.  If an expression can be
@@ -3295,3 +3353,77 @@ paradox: when ought we to pull out our color-charts?
 >
 > It is this fact of which the governing view can provide no account
   (245).
+** Competence
+Intelligent adult speakers of English know how to use terms for
+ordinary things, such as 'chair', 'table', 'pig', etc.  What does this
+amount to?  Leaving aside problems related to truth, we can at least
+say that speakers and listeners can use such terms, and judge whether
+others use such terms, correctly.  There may or may not be _rules_
+that determine the correctness or incorrectness of a given use of a
+term, but it seems clear enought that a term like 'chair' can be used
+correctly or incorrectly.
+
+Recognizing this establishes nothing.  That we sometimes use 'chair'
+correctly does not show that we ever use 'chair' to refer to chairs,
+or that there are any chairs at all.  It must be next established that
+the fact that we know how to use 'chair' (correctly) somehow entails
+that there are (or at least have been) chairs.
+
+Doing this is not entirely straightforward.  It seems obvious that
+there are some terms that we know how to use (correctly), but that do
+not designate an existing group of things.  For example, there are no
+witches, but there is a sense in which we know how to use the term
+'witch'.  For example, the term is correctly applied to the Wicked
+Witch of the West, but incorrectly applied to Santa Claus.  The former
+fictional character is a (fictional) witch, while Santa Claus is not a
+witch, fictional or otherwise.  We also can use the term non-literally
+but correctly, when referring to (say) Michelle Bachmann.  There are
+also incorrect non-literal uses of 'witch' and its relatives, such as
+when someone refers to a legitimate legal inquiry as a 'witch-hunt'.
+
+The fact that we have this competence with 'witch' by no means entails
+that there are (or ever have been witches).  So why should we suppose
+that things are ever different with 'chair'?
+
+One apparent difference is that certain correct and literal uses of
+'chair' are _demonstrative_ uses.  For example, some uses of "this
+chair" or "that chair" are correct or appropriate, whereas others are
+not.  If I say "this is a fine chair" or "sit in that chair" and there
+is nothing remotely like a chair anywhere in sight, then I have
+evidently made some sort of mistake.  Such expressions are generally
+only used correctly (and literally) when there is (or appears to be) a
+chair, or something like a chair, in the area demonstrated.
+
+By contrast, there do not seem to be any correct and literal uses of
+'witch' that are demonstrative in this way.  We can of course point to
+a drawing or painting and say correctly "that is a witch", but this is
+plausibly interpreted as non-literal speech.  Either it involves some
+suppressed element ("that is a [picture of a] witch") or it ought to
+be prefixed with a 'fictional' operator ("fictionally: that is a
+witch").  When we call people 'witches', similar non-literality
+applies.  The term is presumably used to draw attention to certain
+unattractive characteristics, such as cruelty, ugliness, etc.  But if
+a witch is supposed to be an individual (generally female) that has
+magical powers or is associated with 'occult' practices or rituals,
+then there has never been a correct expression involving "that is a
+witch" in which 'witch' is used literally.
+
+If we can establish that terms like 'chair', 'table', 'pig', and those
+for other ordinary things are often used _correctly_ in demonstrative
+expressions, then there is a justifiable temptation to go on to say
+that expressions that are often taken to have 'ontological import',
+such as "there is a chair" are not only correct but _true_.  If we
+feel confident that such an expression is correct, what would prevent
+it being also true?  Remember that it is correct when used
+_literally_; there is no question of the expression not being true
+because it is supposed to be used in a non-literal context.
+
+If a nihilistic philosopher claims that such expressions are false,
+then she will have a task explaining why they nevertheless are
+correct.  If she denies that they are correct, then we may, I hope,
+ignore her.
+
+If the nihilist appeals to some conception of loose truth, then (as I
+have argued) she will have to explain _why_ the expression is loosely
+true (what's its loose-truthmaker or whatever).  I don't think she
+will have a good time of it.
