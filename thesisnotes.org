@@ -76,6 +76,8 @@ Unger's argument that our ordinary terms have no application is
 successful only if he is correct in assuming that such terms must have
 "analytic definitions" of the biconditional form.  But what motivates
 this assumption?
+*** Vague objects and language
+see [[levels][Levels of organization]]
 ** Meeting notes
 *** <2011-09-29 Fri>
 [[file:unger.tex][unger.tex]]: define 'compose' in its technical sense
@@ -1083,9 +1085,8 @@ the world without any metaphysical help?"
          _grounded_?
 
 * Objects
-** Unger
-*** Nihilism
-**** "Skepticism and nihilism"
+** Nihilism
+*** "Skepticism and nihilism"
 520--521: "And so far as I can discern, there is no sorites which will
 work directly to refute the idea that some _entities_ exist."
 
@@ -1105,7 +1106,7 @@ may, to some significant extent, think coherently about concrete
 reality." 
 # <<incoherent>>
 
-**** "There are no ordinary things"
+*** "There are no ordinary things"
 117: "while I shall argue that our concept of a stone, for example, is
 devoid of application, I shall not make any such claim for our concept
 of a physical object, or for any similarly general idea. So far as
@@ -1153,8 +1154,36 @@ may be accepted with equanimity."
 
 They cannot be considered if they cannot be thought of.
 
-*** The problem of the many
-**** SEP Entry
+*** "Elimitivism and the challenge from folk belief"
+**** The problem
+> Why do the folk believe that there are statues?  If eliminativists
+  are right, they have never seen a statue (for there are none).  They
+  do sometimes see statuewise arrangements of atoms; but, if
+  eliminativists are right, there is no necessary or a priori
+  entailment from the existence of atoms arranged statuewise to the
+  existence of statues.  Indeed, the arguments for eliminativism
+  purport to show that it is impossible for there to be statues.  But
+  the folk surely do not confidently believe in statues for no reason
+  whatsoever.  What, then, could possibly explain why the folk find it
+  at all reasonable to believe in them?  Call this _the problem of
+  reasonableness_ (243).
+
+Claiming that people's beliefs about what objects exist are very
+unreliable would mean that the _nihilists_ are probably wrong too.
+
+> All false beliefs of otherwise intelligent people stand in need of
+  explanation.  Understood in this way, even opponents of
+  eliminativism should be able to explain why some reasonable and
+  intelligent philosophers believe that there are no statues.  But
+  here the explanation is straightforward: these philosophers have
+  been moved by powerful arguments that there are no statues.  Most
+  false folk beliefs admit of equally straightforward explanation.
+  What is special about the mistakes alleged by eliminativists and
+  other revisionary metaphysicians is that it is exceptionally
+  difficult to provide any satisfactory explanation of their
+  reasonableness (245).
+** The problem of the many
+*** SEP Entry
 The paradox arises because in the story as told the following eight
 claims each seem to be true, but they are mutually inconsistent.
 
@@ -1182,7 +1211,7 @@ claims each seem to be true, but they are mutually inconsistent.
 
   8. Any cloud is composed of a set of water droplets.
 
-***** 7.1 Argument from Duplication
+**** 7.1 Argument from Duplication
 
 D1. If all the water droplets not in sk did not exist, then ok would
 be a cloud.
@@ -1207,7 +1236,7 @@ a part of a cloud, rather than a cloud. Even if something looks like a
 cloud, smells like a cloud and rains like a cloud, it need not be a
 cloud, it may only be a part of a cloud.
 
-**** Unger
+*** Unger
 412: "Either there are no salt shakers at all, or else, in my dining
 area, there are millions of these things. Insofar as I find the latter
 of these alternatives rather absurd, I am that far inclined to the
@@ -1270,9 +1299,7 @@ to be clouds altogether but are clouds of some sort."
   separates the bees? ...  _Insofar_ as we _can_ think of clouds as
   _concrete_, our boundaries for them seem to have a firmer footing
   (431).
-
-Vague objects (433).
-
+**** Vague objects (433).
 > what can it be for a stone to be constituted of molecules but of no
   number of molecules?  And although in any real situation _we_ may
   have only a _vague idea_ as to what is the number, in any given
@@ -1282,6 +1309,148 @@ Vague objects (433).
   the number may happen to be, or _else_ it really is _not_ composed
   of molecules at _all_.
 
+Even if we could establish that there _is_ no fact of the matter as to
+how many molecules are in the chair, we're still faced with the
+boundary problem.  Unger will say that the chair must have some
+boundary (there must be an edge to the chair); if we agree to this,
+then we've got arbitrary boundaries (fuzzy or not) and the problem of
+the many re-emerges.
+
+So it might be that the only way out here is to deny that there's any
+fact of the matter as to where the boundary itself is.  But if that
+does not also require denying that there _is_ a boundary (does it?),
+we're faced with some interesting questions:
+
+1. If there is a boundary, but there is no fact of the matter as to
+   where it is, Unger might reply: "Well, then, do you have any idea
+   where the boundary _might_ be?  It's not five miles east.  It's
+   probably somewhere near where we expect it to be.  But if we can
+   agree that it's within a relatively small region, we've already
+   made it somewhat determinate.  Why can't we zoom in a bit?  At this
+   point things are only a matter of degree."
+   - It's true that we can rule out the boundary's being five miles
+     away (or 1 mile, or 20 feet).  But I don't think that means we
+     have to keep making precisifications until we have an 'exact'
+     boundary.  ('Chair' just doesn't work like that.)  
+   - We might even draw a distinction between 'boundary' (or 'edge')
+     in the ordinary sense and 'molecular' or 'atomic' boundary, and
+     maintain that while there is no fact of the matter as to where
+     the atomic boundary of the chair is, there is a perfectly clear
+     edge to the chair.  Where?  "Here" (pointing or touching the edge
+     of the chair).
+2. If someone asks "How many molecules (or atoms) are in this chair?"
+   or "How many molecules (or atoms) compose this chair?" what is our
+   answer?  For presumably there is no number we can give.
+   - We could just say "I don't know", which is perfectly true.
+   - We could say "Well, I can tell you its mass and weight."
+3. If she asks "Where does the chair end?" we point, again, at the
+   edge of the chair.
+4. Probably she will try to get us to agree that a given molecule in
+   the middle of the chair is definitely part of the chair, then
+   slowly move outward and eventually force us to admit that there is
+   a point at which the molecules are no longer definitely part of the
+   chair (and so force us to draw a precise boundary).  It seems clear
+   that---on the assumption that there _are_ molecules in the
+   chair---some molecules are _definitely_ part of the chair.  And if
+   it is supposed to be vague or indeterminate where the boundary of
+   the chair is, then it is plausible that some molecules are _not_
+   definitely, nor definitely not, part of the chair.  So at what
+   point do molecules stop being definitely part of the chair?
+   - This is a common (and important) objection, but there is a
+     troubling aspect to it.  Our objector first tries to get us to
+     agree that a _particular_ molecule or atom is definitely part of
+     the chair.  She is not merely trying to establish that _some_
+     molecule or atom is definitely part of the chair.  That finding
+     is not problematic for us.  Some molecules are definitely part of
+     the chair, some aren't.  What she needs to do is pick out an
+     actual molecule and get us to agree that _that_ molecule is part
+     of the chair.
+   - How might she go about doing this?  She can't just point and say,
+     "Is _that_ molecule part of the chair?"  _What_ molecule?  Simple
+     demonstrative expressions can't pick out one particular molecule
+     from among thousands.  For her demonstration to succeed, I would
+     have to recognize which molecule she meant to refer to.  This
+     obviously cannot succeed---first, how could _she_ have in mind a
+     particular molecule, and second, how on earth could _I_ know
+     which one she has in mind?
+     - Could she use a microscope?  If she zoomed in on the edge of
+       the chair, then it would probably be indeterminate whether
+       _any_ of those molecules were part of the chair.  So she would
+       have to somehow get an image of a molecule _inside_ the wood of
+       the chair.
+     - This would be an easier task with a more transparent object
+       like a human.  But even with a chair, she could make a
+       cross-section and ask "_was_ this molecule definitely part of
+       the chair?"
+
+(Of course, none of this talk of cross-sections applies to clouds.
+But there is a _practical_ difficulty for the boundary-drawer here.
+If we are standing in the middle of a cloud, she can of course trap
+some water in a container and ask "was the water in here (definitely)
+part of the cloud?"  If we say "yes", then she will want to move
+gradually outward until we are not willing to say that the water is
+definitely part of the cloud.  But because of the nature of clouds,
+she will not be able to do this.  Clouds are constantly in flux, so it
+is practially impossible to move, molecule by molecule, from the
+center to the edge.)
+
+***** Levels of organization
+<<levels>>
+Above I tried to develop two kinds of boundary.  The 'ordinary'
+boundary or edge is that which we pick out when we point or touch the
+edge of the chair and say "this is the edge of the chair".  The
+'molecular boundary' is what I wanted to say was somehow
+indeterminate.
+
+This might suggest that we organize reality in a stratified way.
+Certain aspects of our thought and talk operate at a certain level,
+and other aspects apply to other levels.  For example, 'chair' might
+be part of our 'object-level' representation of reality, while
+'molecules', 'wood cells', and other such things apply to the
+'microscopic' or 'chemical' or 'scientific' level.  One might then
+claim that one simply _cannot_ analyze ordinary-level concepts like
+'chair' in terms of chemical notions like 'molecule' or 'atom'.  There
+is some kind of incompatibility between terms from these different
+levels that give rise to the ontological confusion we have been
+grappling with.
+
+This is a compelling notion, and I think it is behind H. G. Wells'
+essay ([[Wells]], also HPMOR 28).  But there are obvious problems.
+
+First it seems rather too much like Carnap's frameworks.  The idea
+that there are isolated regions of talk that have their own rules is
+at least a little strange.  It is more intuitively plausible that we
+are not constantly shifting back and forth between different languages
+or 'linguistic frameworks', but are simply speaking English the whole
+time.  However, it is also true that we can at least roughly
+categorize certain terms as 'technical' or otherwise, and so recognize
+that they are generally used for certain purposes.  One might then go
+on to suppose that as a result of this, their _meaning_ changes to
+reflect this particular purpose.  (In Wittgensteinian terms, 'atom'
+and 'molecule' are part of the chemical and scentific language-games.)
+Because certain words are more prevalent in certain domains, it should
+not be surprising that their meanings adapt to the contexts in which
+they are most used, and do not seamlessly integrate into other kinds
+of talk.  For example, 'atom' is just not _built_ to work with
+'chair'.
+
+But it seems obvious that there is some cross-cultural transmission.
+Chairs are (let us suppose) made of wood; wood is made up of cells,
+which are made up of molecules, which are made of atoms, etc.  Each of
+these adjacent relationships seem perfectly unobjectioble.  It is only
+when we compare the things at each end (chairs and atoms) that our
+problems arise.  For as we seem to have found, chairs can't be
+described in terms of atoms; there is no fixed relationship between a
+chair and any determinate number of atoms.
+
+What's going on?  It seems that perhaps whatever relationship we have
+observed between the adjacent things (chairs and wood, wood and cells)
+is _non-transitive_ (see [[wright][Wright]] on this).
+
+Perhaps the 'made of' relation we thought we observed between each
+pair is in fact a different relation in each case.  Or perhaps there
+is no coherent relation at all.
+*** Unger again
 453: we should have to assume that, very often, many stupid little
 children are somehow made to get things right, as to the small number
 of nearby real clouds or stones, by the operation of some
@@ -3271,6 +3440,7 @@ bald")---and voila! we have broken out of the circle of language.  in
 this example, we can only understand (and so use) words if their use
 has been _shown_ to us.)
 *** Language-mastery and the sorites paradox
+<<wright>>
 **** 1. the governing view
 > The governing view, then, is a conjunction of two claims: that our
   use of language is rightly seen, like a game, as a practice in which
@@ -3352,7 +3522,7 @@ paradox: when ought we to pull out our color-charts?
   colour predicates in a largely consistent way.
 >
 > It is this fact of which the governing view can provide no account
-  (245).
+(245).
 ** Competence
 Intelligent adult speakers of English know how to use terms for
 ordinary things, such as 'chair', 'table', 'pig', etc.  What does this
