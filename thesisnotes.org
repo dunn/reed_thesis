@@ -78,6 +78,7 @@ successful only if he is correct in assuming that such terms must have
 this assumption?
 *** Vague objects and language
 see [[levels][Levels of organization]]
+**** "Skepticism of the instrument"
 ** Meeting notes
 *** <2011-09-29 Fri>
 [[file:unger.tex][unger.tex]]: define 'compose' in its technical sense
@@ -1393,7 +1394,6 @@ definitely part of the cloud.  But because of the nature of clouds,
 she will not be able to do this.  Clouds are constantly in flux, so it
 is practially impossible to move, molecule by molecule, from the
 center to the edge.)
-
 ***** Levels of organization
 <<levels>>
 Above I tried to develop two kinds of boundary.  The 'ordinary'
@@ -1450,6 +1450,29 @@ is _non-transitive_ (see [[wright][Wright]] on this).
 Perhaps the 'made of' relation we thought we observed between each
 pair is in fact a different relation in each case.  Or perhaps there
 is no coherent relation at all.
+***** Different worlds
+# <<worlds>>
+I say above that chairs can't be described in terms of atoms.  There
+are a couple of ways to understand this.
+
+First, if it is in fact true that there is no determinate number of
+atoms in any given chair, or any determinate border, _then_ of course
+we can't describe a chair in terms of the atoms that (apparently) make
+it up.  There is no determinate relationship between the chair and any
+number of atoms.
+
+Second, the proposition "there are five chairs in the basement" is not
+equivalent to any proposition that replaces 'chair' with some
+description of the positions of atoms.  This may be because there is
+no fact of the matter as to which (and how many) atoms are in the
+chair (as above), but there is a separate issue.  Even if there were
+determinate borders and one could list off each atom composing each of
+the five chairs, there would be nothing in this atomic description
+that would indicate that the things being described are _chairs_.  Nor
+would there be anything to indicate that the five different clusters
+of atoms are five of the _same thing_.  This is because there are no
+necessary and sufficient conditions for chair-hood, especially not in
+terms of atoms.
 *** Unger again
 453: we should have to assume that, very often, many stupid little
 children are somehow made to get things right, as to the small number
