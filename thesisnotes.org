@@ -1108,6 +1108,11 @@ reality."
 # <<incoherent>>
 
 *** "There are no ordinary things"
+> Human experience, it may be said, naturally leads us to have a
+  certain view of reality (117)
+
+And yet Unger has no explanation for why this is.
+
 117: "while I shall argue that our concept of a stone, for example, is
 devoid of application, I shall not make any such claim for our concept
 of a physical object, or for any similarly general idea. So far as
@@ -1116,22 +1121,84 @@ objects, indeed, even of a great variety of shapes and sizes. But
 whatever the shapes and sizes of any such objects, none will ever be a
 table, a stone, or any ordinary thing."
 
-147: "it is true that we have shown that, in a relevant manner, terms
-for ordinary things are incoherent. In that that is so, those terms
-cannot apply to anything real. And from that it follows that there are
-no such ordinary things as those words might purport to
-designate"~\cite[147]{unger1979}.
+> In its original form, the sorites argument appears to have concerned
+  how many items, say beans, or grains of sand, or even some of each,
+  will be sufficient to constitute a heap.  None or one is
+  insufficient.  But, if there isn't any heap before us, adding a
+  single grain or bean, it seems, will not produce a heap.  Hence,
+  even with a million beans quite nicely arranged, there will be no
+  heap of them.  By generalization, this is a compelling argument that
+  there are no heaps, and that our concept of heap is relevantly
+  _incoherent_ (118, my emphasis).
+
+Is it incoherent because there is are no sufficient conditions for its
+application (that do not mention heaps)?
+
+> Even from the early grades, we are given some simple scientific
+  learning which in broad outline, and with fatal incoherence, is
+  this: our ordinary things, like stones, which most certainly exist,
+  comprise or consist of many atoms, and even many more sub-atomic
+  particles.  The point here has little to do with any niceties of
+  such a term as 'consist', but may be put this way: in any situation
+  where there are no atoms, or no particles, there are in fact none of
+  our ordinary things.  This should move us to deny, with proper
+  reasoning, the existence of all alleged ordinary things (120).
+
+See Sider's note about the tensions of science and 'common sense'.
+
+125--126: against 'epistemicist' replies
+Note that he explicitly appeals to _concepts_, not things:
+
+> Does anyone imagine that our concept of a swizzle stick
+  discriminates at the required atomic level?  Surely, this is quite
+  absurd.  But, then, it is just as absurd in the case of tables, and
+  of stones (126).
+
+This seems quite true, of course; our concept of 'swizzle stick' or
+'chair' does not discriminate at the atomic level.  Nor does it
+discriminate at the molecular, or even 'speck of dust' level.  The
+_concept_ of chair is completely undetermined in regards to precise
+boundaries.
+
+> While Eubulides' contribution has often been labeled 'the sorites
+  paradox', there is nothing here which is a paradox in any
+  philosophically important sense.  I remarked on this near the
+  outset; I hope I have supported it by now.  Accepting our negative
+  conclusions here does not mean important logical trouble for us; we
+  only think we have troubles while we refuse to admit their validity
+  (145).
+
+> One way to _misunderstand_ our arguments is to take them as
+concerning _words but not things_.  For while our arguments do concern
+words they likewise concern things (which are not words).  It is true
+that we have shown that, in a relevant manner, terms for ordinary
+things are incoherent.  In that that is so, those terms cannot apply
+to anything real.  And from that it follows that there are no such
+ordinary things as those words might purport to designate.
+Accordingly, our results concern words and things alike.  They thus
+differ from points of grammatical distinction which concern only
+words, and thus our points are more comprehensive.  But they are also
+thus more comprehensive than points pertaining _only_ to things and
+not to words, if such points there be; for our points concern things
+and something else besides, namely, words (147).
 
 "certain kinds are never instanced"~\cite[147]{unger1979}.
 
-148: "it appears quite obvious to us now that there will be no
-application to things for such nouns as 'stone' and 'rock', 'twig' and
-'log', 'planet' and 'sun', 'mountain' and 'lake', 'sweater' and
-'cardigan', 'telescope' and 'microscope', and so on, and so
-forth. Simple positive sentences containing these terms will never,
-given their current meanings, express anything true, correct,
-accurate, etc., or even anything which is anywhere close to being any
-of those things."
+> Concerning words and kinds, now, we might say this.  First, we might
+say that it is in connection with _semantics_ that our reasonings have
+what are their most obvious implications and, second, that their most
+obvious semantic implications concern certain _sortal nouns_, namely,
+those which purport to denote ordinary things.  Thus, it appears quite
+obvious to us now that there will be no application to things for such
+nouns as 'stone' and 'rock', 'twig' and 'log', 'planet' and 'sun',
+'mountain' and 'lake', 'sweater' and 'cardigan', 'telescope' and
+'microscope', and so on, and so forth.  Simple positive sentences
+containing these terms will never, given their current meanings,
+express *anything true, correct, accurate, etc., or even anything
+which is anywhere close to being any of those things* (148, my
+emphasis).
+
+I can't think of any argument against something this flagrantly false.
 
 149: "What we have said about words pertains immediately to our
 _thought_, for much of our thought is in terms of such words. For
@@ -1473,6 +1540,28 @@ would there be anything to indicate that the five different clusters
 of atoms are five of the _same thing_.  This is because there are no
 necessary and sufficient conditions for chair-hood, especially not in
 terms of atoms.
+
+We might think that there is support for the 'worlds theory' in
+statements made by people like Eddington:
+
+> Recall Eddington’s (1928) claim that because of the mismatch between
+  our ordinary conception of a solid table and the scientific fact
+  that matter is largely empty space, the ordinary table has no place
+  within scientific reality (Sider, "Against parthood", 11).
+
+The idea would be that terms like 'chair' got their meaning prior to
+the widespread acknowledgement of scientific theory.  But as Unger
+correctly (!) points out, the sorites paradoxes that originally gave
+rise to these issues were posed long before the relevant advances in
+physics.  The paradox does not need atoms; miniscule bits of matter
+will do just fine.
+
+(A side note: I think Sider misunderstands the consequences of
+Eddington's claim.  If 'scientific reality' is understood to be
+reality as described by science (physics), then _of course_ the
+ordinary table has no place there.  Neither does the Sun, for that
+matter (see Stroud).  But this does _not_ mean bthat tables do not
+exist.)
 *** Unger again
 453: we should have to assume that, very often, many stupid little
 children are somehow made to get things right, as to the small number
