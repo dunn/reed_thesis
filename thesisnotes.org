@@ -1168,6 +1168,32 @@ boundaries.
   only think we have troubles while we refuse to admit their validity
   (145).
 
+Except that we _do_ believe there to be chairs.  That we believe there
+to be chairs does not entail that there _are_ chairs, of course, but
+it does quite enough to generate the paradoxical situation.
+
+# <<ancient>>
+> ...What we have done is to disclose contradictions in our beliefs.
+  Beliefs about atoms, to be sure, do not have an ancient claim to
+  being part of common sense.  But they now seem to be part of it, at
+  least in advanced cultures.  And, further, our arguments may be
+  conducted wholly in terms of removing, and adding, tiny chips or
+  specks.  The premises concerning these visible items would surely be
+  part of common sense, albeit reflective or implicit common sense.
+  This would be true even of rather ancient times, and even rather
+  primitive cultures.  The most rational way of responding to the
+  contradictions, I submit, is to deny application for the ordinary
+  concepts: the concepts of stones, tables, feathers and sousaphones
+  (145).
+
+It is clear that the problem is _not_ due to the conflicting semantic
+rules of 'ordinary terms' like 'chair' and 'scientific terms' like
+'atom'.  The sorites paradoxes emerged in ancient Greek thought,
+before atoms had a clearly defined technical use.  And in any case, as
+Unger says, we can run the argument with no reference to atoms or
+molecules at all.  Just take a table and sandpaper; scrape the bottom
+of one leg (or more), and repeat.
+
 > One way to _misunderstand_ our arguments is to take them as
 concerning _words but not things_.  For while our arguments do concern
 words they likewise concern things (which are not words).  It is true
@@ -1198,7 +1224,11 @@ express *anything true, correct, accurate, etc., or even anything
 which is anywhere close to being any of those things* (148, my
 emphasis).
 
-I can't think of any argument against something this flagrantly false.
+I can't think of any argument against something this flagrantly
+false.  How has Unger come to this conclusion?  Is he supposing that a
+term may only be correctly applied if there are fully determinate
+rules of application?  It may be that he is adhering to the _governing
+view_ discussed by Wright.  [[wright][More on this]].
 
 149: "What we have said about words pertains immediately to our
 _thought_, for much of our thought is in terms of such words. For
@@ -1554,7 +1584,7 @@ the widespread acknowledgement of scientific theory.  But as Unger
 correctly (!) points out, the sorites paradoxes that originally gave
 rise to these issues were posed long before the relevant advances in
 physics.  The paradox does not need atoms; miniscule bits of matter
-will do just fine.
+will do just fine.  See Unger on [[ancient][this]].
 
 (A side note: I think Sider misunderstands the consequences of
 Eddington's claim.  If 'scientific reality' is understood to be
@@ -3552,7 +3582,8 @@ bald")---and voila! we have broken out of the circle of language.  in
 this example, we can only understand (and so use) words if their use
 has been _shown_ to us.)
 *** Language-mastery and the sorites paradox
-<<wright>>
+# <<wright>>
+See also [[coherence]].
 **** 1. the governing view
 > The governing view, then, is a conjunction of two claims: that our
   use of language is rightly seen, like a game, as a practice in which
@@ -3635,6 +3666,26 @@ paradox: when ought we to pull out our color-charts?
 >
 > It is this fact of which the governing view can provide no account
 (245).
+** "On the Coherence of Vague Predicates"
+# <<coherence>>
+Wright lists two incompatible theses that constitute the governing
+view:
+
+1. Semantic rules fully determine the correct use of terms.
+2. These semantic rules can be uncovered through the analysis of the
+   use of the terms.
+
+Rejecting (2) leads to views like epistimicism, wherein the semantic
+rules of vague terms like 'bald' are actually fully precise, although
+we cannot know exactly where their boundaries are.  I am forced to
+agree with Unger that such views are bizarre.
+
+So it is much more tempting to reject (1).  But this raises even more
+difficulties.  If we agree (ignoring Unger) that it is possible to use
+terms like 'chair' _correctly_, then how can we maintain that there is
+no rule that determines which uses are and are not correct?  How can
+there be correct and incorrect uses, and how can we know that a given
+use is correct or incorrect?
 ** Competence
 Intelligent adult speakers of English know how to use terms for
 ordinary things, such as 'chair', 'table', 'pig', etc.  What does this
