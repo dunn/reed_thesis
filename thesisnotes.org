@@ -3668,6 +3668,7 @@ paradox: when ought we to pull out our color-charts?
 (245).
 ** "On the Coherence of Vague Predicates"
 # <<coherence>>
+*** general notes
 Wright lists two incompatible theses that constitute the governing
 view:
 
@@ -3686,6 +3687,244 @@ terms like 'chair' _correctly_, then how can we maintain that there is
 no rule that determines which uses are and are not correct?  How can
 there be correct and incorrect uses, and how can we know that a given
 use is correct or incorrect?
+*** the text
+**** 1 introduction
+> We no longer see the vagueness of ordinary language as a defect.
+  But we retain a second-order wraith of the Frege-Russell view in the
+  notion that, even if the senses of many expressions in natural
+  language are not exact, there is a precise semantical description
+  for a given natural language, i.e., a theoretical model of the
+  information assimilated in learning a first language or,
+  equivalently, of the conceptual equipment in whose possession
+  mastery of the language may be held to consist.  Even if 'bald',
+  say, is imprecise, this does not require any inexactitude in an
+  _account_ of its sense (325--326).
+
+Are we supposed to be able to precisely demarcate the imprecision?
+(This may be the goal of supervaluationism.)
+
+> We suppose our use of language to be fundamentally _regular_; we
+  picture the learning of language as the acquisition [or] grasp of a
+  set of rules for the combination and application of expressions
+  (326).
+
+Drawing irresponsibly upon linguistics, we might draw an analogy.  The
+Chomskyan model of language involved the internalization of a set of
+rules, which governed (_governed_) language-use.  But the
+Pierrehumbert model views rules as theoretical _posits_ that
+correspond to nothing in reality.  Human language-use is understood to
+be a process of generalizations over large samples of previous
+language-tokens.  The tokens we have heard most frequently are more
+likely to be referenced with regards to future utterances; rare or
+nonexistence tokens are not repeated.  In this way our language-use
+appears to be rule-governed.
+
+Something similar _might_ be going on with semantics.  If there is
+really no rule governing the use of 'chair', but if there is
+nonetheless _some_ pattern behind its use, then we might appeal to
+some sort of generalizing behavior.  Based on our past experience, in
+which people point at things and say "chair", we form a _rough idea_
+of what falls under the term.  When faced with a novel object, we take
+a good look at it and, if resembles those things which in the past
+have been referred to as chairs, then we'll go ahead and call it a
+chair.
+
+> Our picture, then, is that to use language correctly is essentially
+  nothing other than to use it in conformity with a set of
+  instructions, of semantic rules.  Of course our handling of language
+  is in general quite automatic, but so is a chess player's
+  recognition of the moves allowable for a piece in a certain
+  position; it remains true that an account of his knowledge is to be
+  given by reference to the rules of chess (327).
+
+> The question now arises, what means are legitimate in the attempt to
+  discover features of the _substantial_ rules for expressions in our
+  language, the rules which determine specifically the senses of such
+  expressions?  The view of the matter with which we are centrally
+  concerned in this paper is that we may legitimately approach our use
+  of language from within, that is, reflectively as self-conscious
+  masters of it, rather than externally, equipped only with
+  behavioural notions (327).
+
+> *The governing view*, then, is a conjunction of two theses: that our
+   use of language is properly seen, like a game, as an activity in
+   which the allowability of a move is determined by [a] rule, and
+   that properties of the rules may be discovered by means of the
+   sorts of [internal] consideration just described (327).
+
+If the first thesis is false, then _there are no rules to be
+discovered_, and so there can be no question of internal inquiry as
+to the properties of the rules.
+
+> The sorts of consideration admitted by the second thesis will
+  transpire, in the succeeding sections of the paper, to yield support
+  for the idea that such predicates are _essentially_ vague...it is
+  not generally a matter simply of lacking an instruction where to
+  draw the line; rather the instructions we already have determine
+  that the line is _not_ to be drawn (330).
+
+> Thus it is that an adherent of the governing view simply has no
+  coherent approach to the Frege-Russell view of vagueness.  His
+  second thesis requires him to reject the suggestion that vagueness
+  is a superficial, eliminable aspect of natural language with no real
+  impact upon its informative use.  But it does so by means of
+  considerations which require him to regard many vague predicates as
+  semantically incoherent, so that, unless the Frege-Russell view is
+  right, he cannot maintain his first thesis with respect to such
+  expressions.  Only if their vagueness _is_ an incidental feature can
+  he maintain that the _essential_ semantics of such expressions
+  conform to his first thesis (330--331).
+**** 2 (examples)
+- Example 1 :: The heap; "in the present semantic situation of 'heap'
+               it would be merely an error to insist that, for some
+               particular value of n, n+1 grains of salt would amount
+               to a heap while n grains would not; for that is simply
+               not the sense of 'heap'.  If it were agreed in some
+               particular case that n+1 grains did amount to a heap,
+               no-one could produce a telling reason for withholding
+               the predicate from the same pile minus one grain;
+               except perhaps avoidance of the incoherent implicit in
+               the situation (332).
+- Example 2 :: "Predicates of degree of human maturity---'infant',
+               'child', 'adolescent', 'adult', display the same
+               peculiarity.  They are mutually inconsistent yet lack
+               sharp boundaries with respect to their neighbours in
+               the scale of human maturation.  More exactly, if we
+               take some sufficiently small interval of time and
+               suppose that someone matures in a typical fashion, then
+               at no stage will he effect _within_ such an interval of
+               time a transition from one stage of maturity to the
+               next" (332).
+- Example 3 :: Series of _barely_ discriminable color patches.
+
+Each of these concepts/terms have "a certain _tolerance_" (333).
+
+But a supervaluationist treatment might say that this is not so.  She
+might say that there _is_ (or will be) some precise boundary; we have
+simply not yet decided where that boundary is.  But "if we avail
+ourselves of the types of consideration afforded by the governing
+view, we shall reject this suggestion as a deep misapprehension of the
+nature of this species of vagueness.  The lack of sharp boundaries
+possessed by these examples is correctly interpreted as tolerance,
+provided that we may so discover elements of their senses" (335).
+
+> The utility of 'heap', the memorability of the conditions under
+  which something is red, the point of 'child' thus appear to impose
+  upon the semantics of these predicates tolerance with respect to
+  marginal change in their various relevant respects (337).
+
+> ...the manner in which we typically use these expressions needs some
+  other model than the simple following of rules, if these are to
+  incorporate all the features of their senses which we should wish to
+  recognise (338).
+**** 3 series of indiscriminable color patches
+- Example 4 :: an apparently smooth transition from red to orange
+
+Example 4 appears to indicate that "predicates of strictly
+observational sense" are rendered incoherent by the governing view.
+What kinds of predicates are these, and must they be 'strictly
+observational'?
+
+> It might be supposed that any _ostensively definable_ predicate must
+  be observational.  If an expression can be ostensively defined, it
+  must be possible to draw to someone's attention those features in
+  his experience which warrant its application; and if this is
+  possible there can be no question of the expression applying to some
+  but not others among situations which he cannot distinguish
+  experientially...
+
+> Unless it is disallowed that aspects of the semantics of an
+  expression can be discovered by appeal to such considerations, we
+  are bound to regard this situations as basically correct.
+  Accordingly, we can no longer combine the conventional idea of the
+  place which ostensively defined predicates occupy in our 'conceptual
+  scheme'---the base of the epistemic pyramid---with the view that
+  strict semantic coherence is a necessary condition of
+  intelligibility.  Rather, we have to recognise that such predicates
+  are endowed by their very mode of introduction with a kind of
+  original sin---a species-liability to tolerance (341--342).
+
+> To master the sense of a predicate is, at least, to learn to
+  differentiate cases to which it is right to apply it from cases of
+  any other sort.  If such mastery can be bestowed ostensively, a
+  comparison of two such cases must always reveal a difference which
+  sense-experience can detect.  The notion, then, that the whole range
+  of application of a predicate can be made intelligible by ostensive
+  means, presupposes that it is never the case that only one of a pair
+  of objects, which the senses cannot tell apart, is characterised by
+  it (342).
+
+> Absolutely any ostensively defined predicate may come to display
+  tolerance, for absolutely anything which it characterises might
+  undergo seemingly continuous change to a point where it could be so
+  characterised no longer (347).
+
+> This conclusion rests upon two premisses which might be held open to
+  question: that it is right to regard the senses of colour
+  predicates, etc., as purely observational; and that this is a very
+  fundamental fact about their senses, whose sacrifice would be
+  possible only at great cost.  For the first no further argument will
+  be provided in this paper.  The considerations adduced earlier in
+  the section are surely decisive, provided it is allowed that they
+  _are_ relevant---provided the second thesis of the governing view
+  has not been rejected (348). [arguments for the second in section 5]
+**** 4 predicates of degree
+does not help:
+
+> if we are able to _remember_ how to apply F, then differences too
+  slight to be remembered cannot transform a situation to which its
+  application is on balance justified into one which is not so...(350)
+**** 5 eliminate tolerance?
+> the envisaged kind of modification to the senses of observational
+  predicates requires that we abandon their use as expressions of
+  observational qualities.  Indeed the interest of the proposal
+  depends upon our abandoning the notion of an observational quality
+  altogether; for if there are such qualities, there can be no
+  objection to introducing predicates to express them (352).
+
+If we developed charts and definitions so that 'red', 'heap' etc. were
+tolerance-free, we would not have to carry charts and bean-counters
+around with us any more than we currently have to carry rulers around
+in order to use terms like '5 inches long'.  But
+
+> the possibility of our dispensing with paradigms for most practical
+  purposes depends upon our capacity e.g. to distinguish between cases
+  where we could tell whether or not 'red' applied just by looking and
+  cases where we could not, where we should have recourse to a chart.
+  If we are able to make such a distinction, what objection can there
+  be to introducing a predicate to express it?  But then, it seems,
+  the semantics of this predicate will have to be observational (359).
+**** 6 conclusion
+> In the Introduction, the difficulty was presented, starkly, as that
+  of the inadequacy of any inconsistent set of rules to explain a
+  consistent pattern of behaviour.  This needs a little refinement.
+  It is, to begin with, unclear how far our use of e.g. the vocabulary
+  of colours _is_ consistent.  The descriptions given of awkward cases
+  may vary from occasion to occasion.  Besides that, the notion of
+  using a predicate consistently would appear to require some
+  objective criteria for variation in relevant respects among items to
+  be described in terms of it; but what is distinctive about
+  observational predicates is exactly the lack of such criteria.  So
+  it would be unwise to lean too heavily, as though it were a matter
+  of hard fact, upon the consistency of our employment of colour
+  predicates.  What, however, may be depended upon is that our use of
+  these predicates is largely _successful_; the expectations which we
+  form on the basis of others' ascriptions of colour are not usually
+  disappointed.  Agreement is generally possible about how colours are
+  to be described; and this, of course, is equivalent to saying that
+  others _seem_ to use colour predicates in a largely consistent way
+  (361).
+
+> It is of this fact which the governing view can provide no account
+  (361).
+
+> The rules of the game do not provide an account of how the game is
+  played, for it is possible that someone might grasp them yet be
+  unable to participate (362).
+
+> if the notion of a semantic rule is not to be abandoned altogether,
+  _some_ more restricted account of the epistemology of semantic rules
+  is required than that afforded by the governing view (364).
 ** Competence
 Intelligent adult speakers of English know how to use terms for
 ordinary things, such as 'chair', 'table', 'pig', etc.  What does this
