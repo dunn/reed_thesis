@@ -78,7 +78,137 @@ successful only if he is correct in assuming that such terms must have
 this assumption?
 *** Vague objects and language
 see [[levels][Levels of organization]]
-**** "Skepticism of the instrument"
+**** Where does Unger get off?
+***** intro
+1. Unger claims that there are no chairs.
+
+2. Why does he make this fantastic pronouncement?  Well, he has
+   _arguments_ (I suppose the rest of us just huff and blow).
+
+3. His arguments consist of variations on the sorites paradox and the
+   problem of the many (of course, _he_ doesn't think the situations
+   he presents are paradoxical or problematic).
+
+4. The sorities cases involve an 'ordinary thing' (a rock, say, or a
+   chair) which is progressively reduced or enlarged.  Since a rock
+   does not cease to exist when a minuscule amount of matter is
+   removed, we seem forced to conclude that there is still a rock
+   after the last bit of rock is taken away.  Since a chair does not
+   cease to be a chair when a tad more varnish is applied, we seem
+   forced to conclude that a tower of varnish 100ft high with a chair
+   at the bottom is (all of it) a chair.
+
+5. The problems of the many involve similar scenarios.  If we suppose
+   a chair to contain some set of molecules, then there is another set
+   _almost exactly_ like the first set.  Do the members of this second
+   set not compose a chair?  Why not?  What about the first set makes
+   it so much more chair-like?  We seem forced to conclude that if the
+   members of the first set compose a chair, so do the members of the
+   second set---there are _two_ chairs, not one.  But what about
+   _this_ set?  Similar arguments can be run for the _boundaries_ of
+   the chair.
+***** tolerance
+1. The paradoxes highlighted by Unger rely on what Wright calls the
+   'tolerance' of the terms in question.
+
+2. A term is tolerance if, given that it applies to a certain
+   situation, it would also apply to a situation minutely (or
+   indiscriminably) different from the first situation.
+
+3. If the thing in front of us can be properly called a stone, then
+   that thing minus one atom can be properly called a stone.
+
+4. Wright sees the paradox arising due to the conjunction of two
+   theses about language (the _governing view_):
+   - Language, like a game, is played by rules---for a given term,
+     there are criteria for its correct application;
+   - We can discover these rules by analyzing our language internally,
+     as introspective masters of it.
+
+5. The criteria mentioned in the first thesis above need not be
+   _explanatory_.  (See [[explanatory]].)  What is necessary is that they
+   be _regular_: 
+   
+   >> We suppose our use of language to be fundamentally _regular_; we
+   picture the learning of language as the acquisition [or] grasp of a
+   set of rules for the combination and application of expressions
+   (326).
+
+6. When we examine a vague term like 'red' (Wright's example), we find
+   that it is _defined ostensively_.  One learns what red is by being
+   shown red things.  The criteria for applying the term to things is
+   therefore _observational_: if something looks red (to me), I am
+   justified in saying that it is red.  But being a mortal with mortal
+   eyes, I cannot distinguish very minute differences of shade, e.g.,
+   between two different reds.  On a series of color patches that
+   range from red to orange, I may not be able to distinguish between
+   any two adjacent patches.  I am therefore unable to identify any
+   point at which 'red' ceases to apply to the patches.
+
+7. Because we are supposing that we can discover the semantics of
+   'red' through this sort of introspection, we must conclude that
+   there _is_ no point at which 'red' ceases to apply.  If it applies
+   to the first patch (which it clearly does), then it applies to the
+   next patch, because the next patch is indistinguishable.  If it
+   applies to _that_ patch, then...
+
+8. it applies to the last patch.  But we stipulated that the last
+   patch is _not_ red; it is orange.  Now we seem stuck with the
+   conclusion that the last patch both is and is not red.  This is why
+   'red' is taken to be incoherent by the governing view.
+
+9. Parallel reasoning applies to the case of 'chair'.  The term is
+   defined largely (if not wholly) ostensively; we learn what chairs
+   are by being shown chairs.  What is and is not a chair therefore
+   depends (at least in part) on observational criteria.  If, let us
+   suppose, there is a chair before us, then such an object minus a
+   minute bit of matter would still be (correctly referred to as) a
+   chair.  If _that_ thing is a chair...
+***** ways out
+1. How do we avoid this conclusion?  Clearly, one or both of the
+   theses of the governing view are false.  Either certain terms do
+   not have determinate semantic rules, or their rules are not
+   discovered in the way described.
+
+2. Unger, of course, disagrees.  He claims not to see anything
+   paradoxical about the situation at all.  "There just aren't any
+   chairs, then!"  But is he willing also to say that there aren't any
+   red things?
+
+3. One reason why we should consider this a paradoxical (or at least
+   problematic) situation is that we display _competence_ with these
+   apparently incoherent terms.  See [[competence]].
+
+4. Of course, Unger disagrees.  He seems to claim that we use terms
+   like 'chair' more or less at _random_.  If there was any sort of
+   pattern to our use, then Unger would have to admit that there are
+   correct and incorrect ways to use 'chair'; he does not admit this.
+
+5. But let us suppose that we _do_ use the term 'chair' (and other
+   problematic terms) both correctly and incorrectly.  We now must
+   decide what it is that makes a given use correct or incorrect.
+
+6. One apparent solution is to reject the second thesis in favor of
+   something like this:  "We cannot discover the semantics of these
+   terms simply by introspective analysis, because they are more
+   fine-grained than we can tell.  'Red', for instance _does_ have a
+   precise point at which it ceases to apply to the color-series."
+   This is more or less the epistemicist view.
+
+7. Epistemicism has a number of problems.  Unger thinks it's absurd,
+   and I'm not sure if I disagree.
+
+8. Wright suggests a modification of the second thesis that seems to
+   go in the other direction.  He mentions a "more behavioristic"
+   account of the semantics of vague terms.  I'm not sure quite what
+   this comes to.  "x is red iff someone (the community?) is disposed
+   to call it red"?  A criterion like this seems to jettison semantic
+   rules entirely.  (Is the Goldstein paper relevant here?)
+
+9. Or one could attempt to evade the paradoxes by revising or
+   eliminating the notion of semantic rules.
+***** semantic localism?
+see [[rayo]].
 ** Meeting notes
 *** <2011-09-29 Fri>
 [[file:unger.tex][unger.tex]]: define 'compose' in its technical sense
@@ -3708,26 +3838,42 @@ Are we supposed to be able to precisely demarcate the imprecision?
   set of rules for the combination and application of expressions
   (326).
 
-Drawing irresponsibly upon linguistics, we might draw an analogy.  The
-Chomskyan model of language involved the internalization of a set of
-rules, which governed (_governed_) language-use.  But the
-Pierrehumbert model views rules as theoretical _posits_ that
-correspond to nothing in reality.  Human language-use is understood to
-be a process of generalizations over large samples of previous
-language-tokens.  The tokens we have heard most frequently are more
-likely to be referenced with regards to future utterances; rare or
-nonexistence tokens are not repeated.  In this way our language-use
-appears to be rule-governed.
+- Drawing irresponsibly upon linguistics, we might draw an analogy.
+  The Chomskyan model of language involved the internalization of a
+  set of rules, which governed (_governed_) language-use.  But the
+  Pierrehumbert model views rules as theoretical _posits_ that
+  correspond to nothing in reality.  Human language-use is understood to
+  be a process of generalizations over large samples of previous
+  language-tokens.  The tokens we have heard most frequently are more
+  likely to be referenced with regards to future utterances; rare or
+  nonexistence tokens are not repeated.  In this way our language-use
+  appears to be rule-governed.
+- Something similar _might_ be going on with semantics.  If there is
+  really no rule governing the use of 'chair', but if there is
+  nonetheless _some_ pattern behind its use, then we might appeal to
+  some sort of generalizing behavior.  Based on our past experience,
+  in which people point at things and say "chair", we form a _rough
+  idea_ of what falls under the term.  When faced with a novel object,
+  we take a good look at it and, if resembles those things which in
+  the past have been referred to as chairs, then we'll go ahead and
+  call it a chair.
 
-Something similar _might_ be going on with semantics.  If there is
-really no rule governing the use of 'chair', but if there is
-nonetheless _some_ pattern behind its use, then we might appeal to
-some sort of generalizing behavior.  Based on our past experience, in
-which people point at things and say "chair", we form a _rough idea_
-of what falls under the term.  When faced with a novel object, we take
-a good look at it and, if resembles those things which in the past
-have been referred to as chairs, then we'll go ahead and call it a
-chair.
+# <<explanatory>>
+> It is no obstacle to such a conception [that of regular rules] that
+  we cannot in general informatively state such rules, i.e., provide a
+  statement which could be used to explain the sense of an expression
+  to someone previously unfamiliar with it.  Consider, for example,
+  the following schematic rule for a one-place predicate, F:
+
+>> F may truly be applied to an individual, a, if and only if a
+   satisfies the condition of being $\phi$
+
+> How should we specify $\phi$ if F is 'red'?  Plainly the only such
+  condition which actually captures our understanding of 'red', rather
+  than, in a merely extensional way, its conditions of application, is
+  ... the condition of being red (326).
+
+The key, then, is not explanatoriness but _regularity_.
 
 > Our picture, then, is that to use language correctly is essentially
   nothing other than to use it in conformity with a set of
@@ -3926,6 +4072,7 @@ in order to use terms like '5 inches long'.  But
   _some_ more restricted account of the epistemology of semantic rules
   is required than that afforded by the governing view (364).
 ** Competence
+# <<competence>>
 Intelligent adult speakers of English know how to use terms for
 ordinary things, such as 'chair', 'table', 'pig', etc.  What does this
 amount to?  Leaving aside problems related to truth, we can at least
@@ -3999,3 +4146,6 @@ If the nihilist appeals to some conception of loose truth, then (as I
 have argued) she will have to explain _why_ the expression is loosely
 true (what's its loose-truthmaker or whatever).  I don't think she
 will have a good time of it.
+** Semantic localism
+*** Rayo, "Plea"
+# <<rayo>>
