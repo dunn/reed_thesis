@@ -79,6 +79,7 @@ this assumption?
 *** Vague objects and language
 see [[levels][Levels of organization]]
 **** Where does Unger get off?
+
 ***** intro
 1. Unger claims that there are no chairs.
 
@@ -107,6 +108,7 @@ see [[levels][Levels of organization]]
    second set---there are _two_ chairs, not one.  But what about
    _this_ set?  Similar arguments can be run for the _boundaries_ of
    the chair.
+
 ***** tolerance
 1. The paradoxes highlighted by Unger rely on what Wright calls the
    'tolerance' of the terms in question.
@@ -127,12 +129,19 @@ see [[levels][Levels of organization]]
 
 5. The criteria mentioned in the first thesis above need not be
    _explanatory_.  (See [[explanatory]].)  What is necessary is that they
-   be _regular_: 
+   be _regular_ (though it may be that those terms that fail to be
+   applicable in a regular way are also those that cannot be defined
+   in an explanatory way): 
    
    >> We suppose our use of language to be fundamentally _regular_; we
    picture the learning of language as the acquisition [or] grasp of a
    set of rules for the combination and application of expressions
    (326).
+
+   So, if terms like 'chair' apply to anything at all, they do so in a
+   consistent, regular way.  The problem is that this assumption of
+   regularity, when paired with the second thesis, yields semantic
+   incoherence.
 
 6. When we examine a vague term like 'red' (Wright's example), we find
    that it is _defined ostensively_.  One learns what red is by being
@@ -145,12 +154,14 @@ see [[levels][Levels of organization]]
    any two adjacent patches.  I am therefore unable to identify any
    point at which 'red' ceases to apply to the patches.
 
-7. Because we are supposing that we can discover the semantics of
-   'red' through this sort of introspection, we must conclude that
-   there _is_ no point at which 'red' ceases to apply.  If it applies
-   to the first patch (which it clearly does), then it applies to the
-   next patch, because the next patch is indistinguishable.  If it
-   applies to _that_ patch, then...
+7. Because we are supposing that we can discover the
+   application-criteria of 'red' through this sort of introspection,
+   we must conclude that there _is_ no point at which 'red' ceases to
+   apply.  If it applies to the first patch (which it clearly does),
+   then (because we are supposing that application-criteria are
+   regular and consistent) it applies to the next patch, because the
+   next patch is indistinguishable.  If it applies to _that_ patch,
+   then...
 
 8. it applies to the last patch.  But we stipulated that the last
    patch is _not_ red; it is orange.  Now we seem stuck with the
@@ -164,10 +175,11 @@ see [[levels][Levels of organization]]
    suppose, there is a chair before us, then such an object minus a
    minute bit of matter would still be (correctly referred to as) a
    chair.  If _that_ thing is a chair...
+
 ***** ways out
-1. How do we avoid this conclusion?  Clearly, one or both of the
+1. How do we avoid this conclusion?  Apparently, one or both of the
    theses of the governing view are false.  Either certain terms do
-   not have determinate semantic rules, or their rules are not
+   not have regular application-criteria, or their rules are not
    discovered in the way described.
 
 2. Unger, of course, disagrees.  He claims not to see anything
@@ -177,7 +189,8 @@ see [[levels][Levels of organization]]
 
 3. One reason why we should consider this a paradoxical (or at least
    problematic) situation is that we display _competence_ with these
-   apparently incoherent terms.  See [[competence]].
+   apparently incoherent terms.  See [[competence]], and the [[wright6][conclusion]] of
+   Wright.
 
 4. Of course, Unger disagrees.  He seems to claim that we use terms
    like 'chair' more or less at _random_.  If there was any sort of
@@ -207,6 +220,24 @@ see [[levels][Levels of organization]]
 
 9. Or one could attempt to evade the paradoxes by revising or
    eliminating the notion of semantic rules.
+
+***** a brutal 'solution'
+1. One might adapt the theory of brutal composition from Markosian.
+   On that approach to mereology, there is no (obvious) regularity as
+   regards what is and is not a composite object.  Some things compose
+   chairs, others don't, and that's the end of it.  Analogously, some
+   situations fulfill the application-criteria for 'chair', and others
+   don't.  There is no regularity between cases.
+
+2. This might work for ordinary object terms, but it less appropriate
+   for color terms.  As Wright points out, we may in fact apply color
+   terms inconsistently, but what 'ontological import' does this have?
+   If "'x is red' is true iff x is red" is true, then if we allow
+   inconsistency in our (correct) application of "x is red", then we
+   may end up committed to some color being red which is closer on the
+   color-spectrum to orange than some color which is not red but
+   orange.  This doesn't make much sense.
+
 ***** semantic localism?
 see [[rayo]].
 ** Meeting notes
@@ -3920,6 +3951,7 @@ to the properties of the rules.
   expressions.  Only if their vagueness _is_ an incidental feature can
   he maintain that the _essential_ semantics of such expressions
   conform to his first thesis (330--331).
+
 **** 2 (examples)
 - Example 1 :: The heap; "in the present semantic situation of 'heap'
                it would be merely an error to insist that, for some
@@ -3943,6 +3975,7 @@ to the properties of the rules.
                next" (332).
 - Example 3 :: Series of _barely_ discriminable color patches.
 
+
 Each of these concepts/terms have "a certain _tolerance_" (333).
 
 But a supervaluationist treatment might say that this is not so.  She
@@ -3963,8 +3996,10 @@ provided that we may so discover elements of their senses" (335).
   other model than the simple following of rules, if these are to
   incorporate all the features of their senses which we should wish to
   recognise (338).
+
 **** 3 series of indiscriminable color patches
 - Example 4 :: an apparently smooth transition from red to orange
+
 
 Example 4 appears to indicate that "predicates of strictly
 observational sense" are rendered incoherent by the governing view.
@@ -4014,12 +4049,14 @@ observational'?
   the section are surely decisive, provided it is allowed that they
   _are_ relevant---provided the second thesis of the governing view
   has not been rejected (348). [arguments for the second in section 5]
+
 **** 4 predicates of degree
 does not help:
 
 > if we are able to _remember_ how to apply F, then differences too
   slight to be remembered cannot transform a situation to which its
   application is on balance justified into one which is not so...(350)
+
 **** 5 eliminate tolerance?
 > the envisaged kind of modification to the senses of observational
   predicates requires that we abandon their use as expressions of
@@ -4040,7 +4077,9 @@ in order to use terms like '5 inches long'.  But
   If we are able to make such a distinction, what objection can there
   be to introducing a predicate to express it?  But then, it seems,
   the semantics of this predicate will have to be observational (359).
+
 **** 6 conclusion
+<<wright6>>
 > In the Introduction, the difficulty was presented, starkly, as that
   of the inadequacy of any inconsistent set of rules to explain a
   consistent pattern of behaviour.  This needs a little refinement.
@@ -4071,6 +4110,7 @@ in order to use terms like '5 inches long'.  But
 > if the notion of a semantic rule is not to be abandoned altogether,
   _some_ more restricted account of the epistemology of semantic rules
   is required than that afforded by the governing view (364).
+
 ** Competence
 # <<competence>>
 Intelligent adult speakers of English know how to use terms for
