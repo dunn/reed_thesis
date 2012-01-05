@@ -79,7 +79,6 @@ this assumption?
 *** Vague objects and language
 see [[levels][Levels of organization]]
 **** Where does Unger get off?
-
 ***** intro
 1. Unger claims that there are no chairs.
 
@@ -90,7 +89,7 @@ see [[levels][Levels of organization]]
    problem of the many (of course, _he_ doesn't think the situations
    he presents are paradoxical or problematic).
 
-4. The sorities cases involve an 'ordinary thing' (a rock, say, or a
+4. The sorites cases involve an 'ordinary thing' (a rock, say, or a
    chair) which is progressively reduced or enlarged.  Since a rock
    does not cease to exist when a minuscule amount of matter is
    removed, we seem forced to conclude that there is still a rock

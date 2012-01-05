@@ -1,0 +1,261 @@
+\documentclass[11pt]{article}
+\usepackage{standalone} \newif\ifstandlone \standalonetrue
+\usepackage[left=1.75in, right=1.75in, top=1.25in, bottom=1.25in]{geometry}
+\geometry{letterpaper}
+\usepackage{graphicx}
+%\usepackage{tipa}
+%\usepackage{exaccent}
+%\usepackage{txfonts}
+%\usepackage{pxfonts}
+\usepackage{enumitem}
+%\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{epstopdf}
+\usepackage{setspace}
+\usepackage{natbib}
+\setcitestyle{aysep={}}
+\usepackage{hyperref}
+\usepackage{url}
+\synctex=1
+
+\DeclareSymbolFont{symbolsC}{U}{txsyc}{m}{n}
+\DeclareMathSymbol{\strictif}{\mathrel}{symbolsC}{74}
+\DeclareMathSymbol{\boxright}{\mathrel}{symbolsC}{128}
+
+                \newenvironment{squote}{%
+\begin{spacing}{1}
+       	\begin{list}{}{%
+\setlength{\labelwidth}{0pt}%
+\rightmargin\leftmargin%
+}
+\item\relax
+}{%
+\end{list}%
+\end{spacing}
+}
+
+\title{Vague terms and some other stuff}
+\author{Alexander A. Dunn}
+\begin{document}
+\ifstandalone
+\maketitle
+\begin{spacing}{1.5}
+\fi
+
+\section{Unger's intolerance}
+Peter Unger denies that chairs exist.  (It is possible that he has
+since recanted.)  Unger claims that this is a consequence of the
+incoherency of the term `chair'.  As he argues, `chair' is an
+incoherent term; being incoherent, he says, it cannot have any
+application to things in the world; therefore he concludes that there
+are no chairs.
+
+The strength of Unger's argument for the incoherency of `chair' rests
+on two things: the sorites paradox and the 'problem of the many'.
+
+\subsection{Sorites paradoxes}
+A typical case of a sorites paradox involves some object
+(paradigmatically, a heap of sand) from which a minute quantity of
+matter is removed.  If we are inclined to suppose that the initial
+quantity of matter (in this case, sand) was really a heap, then the
+removal of a single grain of sand should leave the heap intact.  At
+least on an intuitive level, it seems false that the removal of a
+single grain of sand could {\em ever} transform a heap to something
+less than a heap.  The heap will of course be a slightly smaller heap,
+but it seems that it must be a heap nonetheless.
+
+Once we have conceded these two points, however, we have unwittingly
+put our foot in it.  For if the removal of a grain of sand {\em never}
+transforms a heap into a non-heap, then by repeatedly removing single
+grains of sand, we will eventually find ourselves with a heap of sand
+that consists of absolutely no sand at all!
+
+Unger follows this line of reasoning with respect to not only chairs,
+but stones as well:
+
+\begin{squote}
+Consider a stone, consisting of a certain finite number of atoms.  If
+we or some physical process should remove one atom, without
+replacement, then there is left that number minus one, presumably
+constituting a stone still\,\ldots\,after another atom is removed,
+there is that original number minus two; so far, so good.  But after
+that certain number has been removed, in similar stepwise fashion,
+there are no atoms at all in the situation, while we must still be
+supposing that there is a stone there.  But as we have already agreed,
+if there is a stone present, then there must be some atoms\,\ldots\,I
+suggest that any adequate response to this contradiction must
+include\,\ldots\,the denial of the existence of even a single
+stone.~\citep[121--122]{unger1979}
+\end{squote}
+
+Unger generalizes this argument and denies the existence of all
+``ordinary things''.  An object that is generally thought to endure
+minuscule losses of matter is therefore banished.
+
+\subsection{The problem of the many}
+Here we find a rather similar method.  A cloud is, presumably,
+composed of molecules.  There is probably then a set of molecules, the
+members of which compose the cloud.  Call that set $S$.  Now consider
+$S_1$.  This is a set of molecules that includes all of the members of
+$S$ as well as one additional molecule.  Do the members of $S_1$
+compose a cloud?  Surely they are just as well suited to do so.  Now
+consider $S_2$\,\ldots
+
+Because these numerous 'candidates' are equally (or nearly equally)
+well suited to be clouds, we seem forced to conclude that there are
+either many clouds where we supposed there to be one, or rather no
+clouds at all:
+
+\begin{squote}
+No matter where we start, the complex first chosen has nothing
+objectively in its favor to make it a better candidate for cloudhood
+than so many of its overlappers are.  Putting the matter somewhat
+personally, each one's claim to be a cloud is just as good, no better
+and no worse, than each of the many others.  And, by all odds, each
+complex has \emph{at least} as good a claim as any still further real
+entity in the situation.  So, either \emph{all} of \emph{them} make it or else
+emph{nothing} does; in this real situation, either there are many clouds
+or else there really are no clouds at all \citep[415--??]{unger1980a}.
+\end{squote}
+
+The problem of the many can also arise by considering the {\em
+  boundary} of a given cloud.  It is natural to suppose that a cloud
+has a determinate boundary.  But if we look at the edge of the cloud,
+where we suppose the boundary to be, ``we may find, side by side, or
+themselves overlapping, a great many potential boundaries for
+clouds\,\ldots\,if our alleged typical item {[}the cloud{]} is indeed
+a typical cloud, then many of these candidates, millions at least, do
+not fail to be clouds altogether but are clouds of some
+sort''~\citep[420--421]{unger1980a}.
+
+The pattern of argumentation is the same for both approaches.  For a
+certain cloud, a given set of members or a given boundary is supposed,
+and it is argued that a set or boundary that differs minimally from
+the original must also compose our bound a cloud.  The new set or
+boundary does not appear to differ from the original in any relevant
+way; there seems no principled way to deny that if the first set's
+members compose a cloud, the second set's members do too.  And since
+there are a great deal of very similar sets and boundaries, we find
+ourselves with a plurality of clouds.
+
+And of course, Unger does not rest content with applying the problem
+of the many to clouds.  All ordinary objects get the same treatment;
+he concludes that either there are a great many of them, or there are
+none at all.  He claims, predictably, that the latter disjunct is
+preferable.
+
+\section{The tolerance of ordinary terms}
+There is a feature of ordinary terms that Unger's arguments exploit.
+This feature is what Crispin Wright calls ``tolerance''.  A term is
+tolerance if, given that it applies to a certain situation, it would
+also apply to a situation minutely (or indiscriminably) different from
+the first situation.  `Stone' is tolerance because, for any given
+object to which `stone' applies, we can remove a single atom (or even
+a larger speck) from that object and remain justified in applying the
+term to the slightly smaller object.
+
+Why should we think that `stone' applies to the slightly smaller
+object?  If we could apply the term to the first oobject but withhold
+it from the second (slightly smaller) object, we would not be so
+easily ensnared.
+
+What compels us to apply the term to both objects is the pressure of
+consistency.  Because there is no relevant difference between the two
+objects that would justify our application of `stone' to one and not
+the other, we feel that the term must therefore apply to both.  We
+imagine that our language-use must be consistent and {\em regular}:
+
+\begin{squote}
+We suppose our use of language to be fundamentally {\em regular}; we
+picture the learning of language as the acquisition [or] grasp of a
+set of rules for the combination and application of expressions
+\citep[326]{wright1975}.
+
+This is the first of two assumptions that are required by
+sorites-style arguments.  The second is that we can discover these
+(consistent, regular) rules of language-use by examining our language
+``from within'':
+
+\begin{squote}
+The question now arises, what means are legitimate in the attempt to
+discover features of the _substantial_ rules for expressions in our
+language, the rules which determine specifically the senses of such
+expressions?  The view of the matter with which we are centrally
+concerned in this paper is that we may legitimately approach our use
+of language from within, that is, reflectively as self-conscious
+masters of it, rather than externally, equipped only with behavioural
+notions \citep[327]{wright1975}.
+\end{squote}
+
+Wright uses the term `red' to illustrate how this second assumption
+functions to generate sorites paradoxes.  If we reflect on how the
+term `red' is taught, learned and used, we see that it is defined
+_ostensively_.  We learn what `red' means by being shown red things,
+and we cannot be said to understand the term unless we can, for
+example, point out the red tiles on a quilt of several colors.  It
+therefore appears that the criteria for applying the term `red' are
+observational: if something looks red then, as long as one is not
+deceived by strange lighting, `red' applies to that thing.  But
+because my vision is far from perfect, I am unable to distinguish very
+subtle differences in color.  Two patches of red might look identical
+to me, but be slightly different shades.  But because _I_ cannot tell
+them apart, and because the
+application-criteria for `red' are observational, `red' will
+presumably apply to both patches of color, if it applies to either.
+
+But now suppose there is a long series of color patches on a wall; the
+leftmost one is definitely red and the rightmost definitely orange.
+There are enough patches in between that the difference in color
+between any two adjacent patches is indiscernible to a human
+observer.  Now if `red' applies to the leftmost patch, then it applies
+to the patch immediately to the right; the two patches are
+indistinguishable in terms of their color.  But if `red' applies to
+this second patch, then it applies to the third, because _those_ are
+indistinguishable.  Eventually we will find ourselves applying `red'
+to the rightmost patch, which, by stipulation, is _not_ red but
+orange.  The sorites paradox is established.
+
+The arguments involving stones and other things can be understood as
+involving these two assumptions as well.  `Stone', `chair' and other
+ordinary terms are also defined ostensively; the application-criteria
+for these terms are observational.  `Observational' may over-emphasize
+the role of vision, but the other senses play a role too.  For
+example, here Austin lists some application-criteria for `telephone':
+
+\begin{squote}
+\ldots\,you tell me there's a telephone in the next room, and,
+(feeling mistrustful) I decide to verify this\,\ldots\, I go into the
+next room, and certainly there's something there that looks exactly
+like a telephone.  But is it a case perhaps of _trompe l'oeil_
+painting?  I can soon settle that.  Is it just a dummy perhaps, not
+connected up and with no proper works?  Well, I can take it to pieces
+a bit and find out, or actually use it to ring somebody up---and
+perhaps get them to ring me up too, just to make sure.  And of course,
+if I do all these things, I _do_ make sure; what more could possibly
+be required?  This object has already stood up to amply enough tests
+to establish that it really is a telephone; and it isn't just that,
+for everyday or practical or ordinary purposes, enough is _as good as_
+a telephone; what meets all these tests just _is_ a telephone, no
+doubt about it \citep[115?]{austin1965}.
+\end{squote}
+
+If (let us suppose) that it really is a telephone, then something
+minutely different---perhaps the back of the receiver is sanded down a
+touch---cannot fail to also be a telephone.  For us to deny that the
+second object is a telephone would be to violate our first assumption,
+that our application-criteria are consistent.  But if we keep sanding
+down the telephone ever so slowly, eventually there will be nothing
+left.  So the sorites paradox is clearly still with us.
+
+(Our two assumptions are behind the `success' of the problem of the
+many as well.  Because we cannot distinguish between the various sets
+and various boundaries of objects, we must (if we are to be
+consistent) apply `cloud' and the other terms to each of the
+candidates.)
+
+\section{
+
+\ifstandalone
+\end{spacing}
+\fi
+\end{document}
