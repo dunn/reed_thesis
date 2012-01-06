@@ -1,6 +1,5 @@
-\documentclass[11pt]{article}
-\usepackage{standalone} \newif\ifstandlone \standalonetrue
-%\documentclass[11pt]{article}
+\documentclass[11pt]{standalone} \newif\ifstandlone \standalonetrue
+\usepackage{standalone}
 \usepackage[left=1.75in, right=1.75in, top=1.25in, bottom=1.25in]{geometry}
 \geometry{letterpaper}
 \usepackage{graphicx}
@@ -68,163 +67,479 @@
 \title{Brute facts and arbitrary objects}
 \author{Alex Dunn}
 \begin{document}
-
 \ifstandalone
 \maketitle
 \begin{spacing}{1.5}
 \fi
 
-%\noindent In section~\ref{deny} we found that an attempt to deny the existence of ordinary things such as tables and chairs cannot succeed unless an explanation is given for our successful communication using the terms `table' and `chair'. Unger's nihilistic thesis failed to explain what we are really thinking and talking about when we take ourselves to be thinking and talking about chairs. We found no reason to suppose that we are not, in fact, thinking and talking about tables and chairs. If we are able to think and talk about tables and chairs, then it seems to follow that tables and chairs exist. (Remember that the fact that ghosts do not exist gives us reason to believe that we do not think and talk about ghosts.)
+\section{Unger's nihilism}
+\label{unger}
+Just as resolutely as we denied the existence of ghosts, so Peter
+Unger has denied the existence of such things as ``tables and chairs
+and spears\,\ldots\,swizzle sticks and sousaphones\,\ldots\,stones and
+rocks and twigs, and also tumbleweeds and
+fingernails''~(\citeyear[117]{unger1979}).  He does not consider them
+merely `subjectively real' as opposed to objectively so---like van
+Inwagen, he claims that they simply do not exist.  He comes to this
+conclusion from a different direction, however.  As we will see, van
+Inwagen's denial of the existence of `ordinary things' is a
+consequence of his theory of composition (under what conditions some
+things compose another thing).  Unger, on the other hand, draws his
+conclusion from an application of the sorites paradox:
 %
-%Peter van Inwagen has developed a more sophisticated thesis denying the existence of tables and chairs. Like Unger, he claims that (necessarily) there are simply no such things as tables and chairs in the world. But unlike Unger, he does not claim that when we take ourselves to be thinking and talking about such things, we are thinking and talking about nothing at all. Or at least ``when people say things in the ordinary business of life by uttering sentences that start `There are chairs\,\ldots\,' or `There are stars\,\ldots\,', they very often say things that are literally true''~\citep[102]{inwagen1995}. One would generally assume that if such statements are true, then it follows that chairs and stars exist. But van Inwagen denies that chairs and stars exist. How can he claim, then, that what was said was true? As we mentioned in section~\ref{paraphrase}, van Inwagen attempts to show that the statements in question can be {\em paraphrased}---they can be reformulated to show that they have no ``ontological committments''. According to van Inwagen, one can assert that there is a chair without being committed to the existence of chairs. This section will be devoted to assessing the plausibility of this claim.
+\footnote{Unger also motivates his nihilism by way of `the problem of
+  the many'.  We will examine this problem in section~\ref{many}.}
 %
-%Section~\ref{comp} will summarize the motivation for van Inwagen's denial. Section~\ref{paravan} will introduce and criticize van Inwagen's paraphrasing strategy.
-%
-%\section{Composition}
-%\label{comp}
-%The Special Composition Question was given a precise formulation by van Inwagen, who finds that ``the metaphysically puzzling features of material objects are connected in deep and essential ways with metaphysically puzzling features of the constitution of material objects by their parts''~\citep[18]{inwagen1995}. A ready example is the Ship of Theseus: the planks and rigging and sails (and every part of the ship) are replaced as they individually wear out. These replacements happen each by themselves; the entire ship (nor even large sections) are swapped out all at once. But eventually no part of the original ship remains. And yet we would commonly say that it is still the same ship. But why should we think that the present ship is identical with a past ship with which it shares no parts?
-%
-%\subsection{The question}
-%Answering the question ``why is this ship identical with that past ship?'' requires first figuring out why (and how) these planks and rigging and sails (et.\ al.) compose a ship in the first place. Van Inwagen asks ``in what circumstances do planks\footnote{For simplicity's sake, van Inwagen ignores the rigging and sails.} compose (add up to, form) something?''~(\citeyear[21]{inwagen1995}) For some $x$s, then, van Inwagen asks us to consider when
-%\begin{equation}
-%\exists x\ \text{the}\ x\text{s compose}\ y
-%\end{equation}
-%is true.%
-%\footnote{Van Inwagen explains in some detail how plural referring expressions (like ``the planks'') can be given a logical formalization (\citeyear[23--28]{inwagen1995}), but suffice to say they work just as one would expect.}%
-%%
-%\ Less formally, van Iwagen asks: ``suppose one had certain (nonoverlapping) objects, the $x$s, at one's disposal; what would one have to do---what {\em could} one do---to get the $x$s to compose something?''~(\citeyear[31]{inwagen1995})
-%
-%({\em Composition} is a technical term for van Inwagen. He understands it thus: ``the $x$s compose $y$'' means that ``the $x$s are all parts of $y$ and no two of the $x$s overlap and every part of $y$ overlaps at least one of the $x$s\,\ldots\,a thing {\em overlaps} a thing---or: they overlap---if they have a common part''~(\citeyear[29]{inwagen1995}). For van Inwagen, everything is a part of itself; some $x$ is a {\em proper} part of some $y$ only if $x \neq y$.)
-%
-%\subsection{The usual answers}
-%There are several prominent answers to the Special Composition Question, including the following:\footnote{These formulations are from~\citet{markosian1998a}.}
-%\begin{description}
-%	\item[Nihilism] Necessarily, for any $x$s, there is an object composed of the $x$s iff there is only one of the $x$s, i.e., the only objects that exist are simples.~(\citeyear[219]{markosian1998a})%
-%	%
-%	\footnote{\label{flip} Note that this is not clearly Unger's view. He denies that people, apples, cheese, tables, chairs, and other ``ordinary things'' are nonexistence but he does not, as far as I know, take a stand on whether anything at all exists. His view can be (flippantly) summarized thus: ``if we have a word for it, it doesn't exist.''}
-%	%\footnote{\label{gunk} Of course, it may be that the world is not fundamentally particulate, and is filled not with simples but with `gunk'; see \citet{schaffer2003}. Nihilism (and van Inwagen's second condition below) can be formulated to take this possibility into account: ``for any quantity of gunk, there is nothing composed of it.''}%
-%	%
-%	\item[Universalism] Necessarily, for any $x$s, there is an object composed of the $x$s iff no two of the $x$s overlap.~(\citeyear[227]{markosian1998a})
-%	\item[Van Inwagenism] Necessarily, for any $x$s, there is an object composed of the $x$s iff either (i) the activity of the $x$s constitutes a life or (ii) there is only one of the $x$s.~(\citeyear[221]{markosian1998a})
-%\end{description}
-%
-%As we have seen, any version of nihilism that does explain our putative communication about tables and chairs is false.
-%
-%Whether or not universalism is false is a more difficult question. As we saw in section~\ref{many13p}, any version of universalism that entails the existence of millions of chairs where we assumed there to be only one is false. This is because such a thesis would entail that we are unable to successfully communicate about ordinary things; we would not be able to know that were were talking about the {\em same thing} (not things) as our audience. It may be that a version of universalism without this consequence is true; but we will leave that possibility aside for now.
-%
-%Van Inwagen examines and rejects a number of answers to the Special Composition Question that would entail the existence of tables and chairs. Some are too strong: `some $x$s compose a $y$ iff the $x$s are in contact' would entail that two people shaking hands will result in a new object coming into being. Some are too stong in some ways and too weak in others: `some $x$s compose a $y$ iff the $x$s are fastened together' would entail that two people being glued together would result in a new object; and it would deny that an object can be composed without fastening its parts together (such as when building a house of cards). The only answer van Inwagen finds consistent is what we have dubbed {\em van Inwagenism}, which entails that tables and chairs do not exist.
-%
-%However, without a good explanation of what our beliefs about tables and chairs are really about, the fact that van Inwagenism entails the nonexistence of tables and chairs only shows that van Inwagenism is false. Happily, though, van Inwagen recognizes this and is prepared with a paraphrasing strategy aimed to show that the beliefs that we take to be about tables and chairs are really about something else.
-%
-%\section{Van Inwagen's paraphrasing strategy}
-%\label{pigletwise}
-%Van Inwagen distances himself from the kind of resolute denial we saw Unger attempting in section~\ref{unger}. Unger maintained that terms like `chair' are incoherent; were this so, a statement involving the phrase ``There is a chair\,\ldots '' could surely not be true. Van Inwagen, on the other hand, admits that ``when people say things in the ordinary business of life by uttering sentences that start `There are chairs\,\ldots\,' or `There are stars\,\ldots\,', they very often say things that are literally true''~\cite[102]{inwagen1995}. One would generally assume that if what people say with ``There are chairs\,\ldots '' and the like are true, then chairs exist. But van Inwagen denies this entailment.
-%
-%How can van Inwagen maintain this? He claims that one can also say, truly, ``There are simples arranged chairwise\,\ldots '' without committing oneself to the existence of chairs. He could, therefore, claim that when someone says ``There is a chair\,\ldots '' she {\em means} ``There are simples arranged chairwise.'' This is, of course, a bold hypothesis about the speech practices of ordinary speakers. Certainly very few speakers would, if asked, affirm that what they meant to say had anything to do with simples; they would say that when they said that there was a chair, they meant just that. Van Inwagen recognizes that this is not a viable position: ``The only thing I have to say about what the ordinary man really means by `There are two valuable chairs in the next room' is that he really means that there are two valuable chairs in the next room''~(\citeyear[106]{inwagen1995}).
-%
-%One might then assume that van Inwagen is thinking in analogy with Russell. He could attempt to claim that, despite the surface appearance of language (``There is a chair\,\ldots ''), the underlying logical form does not make any mention of chairs (or tables); the offending concept is analyzed away, leaving ``There are simples arranged chairwise\,\ldots ''. Van Inwagen notes that his ``suggested technique of paraphrasing enables [him] to escape some of the more embarrassing consequences of [his] position. When someone says ``Some tables are heavier than some chairs,'' there is obviously something right about what he says. [His] technique of paraphrasis enables [him] to capture what it is that is right about what he says''~(\citeyear[111]{inwagen1995}). However, on the very next page he admits that the ordinary language proposition and his paraphrased version are different propositions: ``When the ordinary man utters the sentence `Some chairs are heavier than some tables' (in an appropriate context, and so on and so on), he expresses a certain proposition, and one that is almost certainly true. But I do not claim that this proposition {\em is} the proposition that, for some $x$s, those $x$s are arranged chairwise and for some $y$s, those $y$s are arranged tablewise, and the $x$s are heavier than the $y$s''~(\citeyear[112]{inwagen1995}). So van Inwagen is not making an appeal to some notion of `logical form'. But then what is the purpose of the paraphrasing project?
-%
-%Van Inwagen attempts to justify his method of paraphrasis by asserting the following parallels between the original and paraphrased propositions:
-%\begin{enumerate}[label=(\Alph*)]
-%	\item The paraphrase describes the same fact as the original. \label{para-a}
-%	\item The paraphrase, unlike the original, does not even appear to imply that there are any objects that occupy chair-receptacles.
-%	\item The paraphrase is neutral with respect to competing metaphysical theories, {\em viz}. the ``received'' theory, that there are objects that occupy chair-receptacles, and the theory I have proposed, according to which there are no such objects. \label{para-c}
-%	\item The original, though it doubtless does not express the same proposition as the paraphrase, has the feature ascribed to the paraphrase in \ref{para-c}: It is neutral with respect to the question whether there are objects that fit exactly into chair-receptacles~(\citeyear[113]{inwagen1995}).
-%\end{enumerate}
-%I am rather dubious as to the truth of \ref{para-a}, but I am quite sure that \ref{para-c} is false, and van Inwagen's thesis appears to depend on it.
-%
-%\subsection{Propositions and ontological committment}
-%Let us review the situation so as to appreciate the mess van Inwagen has gotten himself into. First, he agrees that when someone says thinks like ``There is a chair\,\ldots '' they mean just that. Second, he admits that his `paraphrases' of such propositions are not so faithful to the original that they can be called the same proposition; the original and the paraphrase are two different propositions. Third, he claims nonetheless that {\em neither} the original nor the paraphrase entail the existence of chairs.
-%
-%This may strike one as obviously untrue. After all, does not the proposition expressed by my saying ``There are simples arranged chairwise\,\ldots '' entail the existence of simples? If van Inwagen says that there are simples arranged chairwise, and means just that, then it would appear to follow that there are simples. Van Inwagen's argument relies rather heavily on the assumption that simples exist.%
-%%
-%\footnote{Ted Sider takes him to task for this assumption~(\citeyear{sider1993}), claiming that the possibility of `gunk'---the possibility that the matter of the world is not fundamentally particulate but infinitely divisible---falsifies van Inwagen's thesis. I think it may be possible for van Inwagen to adapt to a gunky world (he might be able to claim that nothing exists but organisms, who are composed of other organisms and/or gunk), but I think van Inwagen's thesis is false either way.}
-%%
-%\ How, then, can he claim that when someone says ``There is a chair\,\ldots '' and means just that, that the proposition they express does not entail the existence of chairs?
-%
-%To defend his claim, van Inwagen appeals to his `Copernican analogy':
-%\begin{squote}
-%I accept the Copernical Hypothesis. One day you hear me say, ``It was cooler in the garden after the sun had moved behind the elms.'' You say, ``You see, you can't consistently maintain your Copernicanism outside the astronomer's study. You say that the sun moved behind the elms; yet, according to your official theory, the sun does not move.'' I reply that the proposition I expressed by saying ``It was cooler in the garden after the sun had moved behind the elms'' is consistent with the Copernican Hypothesis~(\citeyear[101]{inwagen1995}).
-%\end{squote}
-%That is, van Inwagen claims that the proposition he expressed with ``It was cooler in the garden after the sun had moved behind the elms'' does not entail that the sun actually moved. And he argues that this is analogous to our talk of chairs: most propositions expressed with ``There is a chair\,\ldots '' do not entail that chairs actually exist.
-%
-%First, does ``The sun moved behind the elms'' entail that the sun moved? I am inclined to say that it does. Fortunately, the sun does actually move, so the proposition van Inwagen expressed was most probably true. But if Copernicus had been right in claiming that the Sun was stationary, then the proposition would have been false. Even were this so, however, the proposition would still be `loosely true' (more on this below).
-%
-%But let us suppose that ``The sun moved behind the elms'' does not entail that the sun moved. Does the analogy with chairs hold? Van Inwagen's frequent example of a statement that does not entail the existence of chairs is ``There are two very valuable chairs in the next room''. If this does not entail that chairs exist, then what about ``There are two valuable chairs left in the world'' or ``There are at least two chairs in the world'' or ``There are at least two chairs'' or simply ``There are chairs''? Van Inwagen appears committed to the claim that ``There are chairs'' does not entail that there are chairs.
-%
-%It is here that the disanalogy becomes apparent. For even if ``The sun moved behind the elms'' does not entail that the sun moved, it does entail that the sun exists. Of course, van Inwagen will deny this; he claims that the sun doesn't exist. Here, however, we will appeal to our own analogy, hinted at above: if ``The sun moved behind the trees'' entails neither that the sun moved not that the sun exists, then how can van Inwagen maintain that ``There are simples arranged chairwise'' entail that there are simples, or that they are arranged chairwise? He has given us no reason to believe one and not the other.
-%
-%\subsection{Loose truth, again}
-%When criticizing Peter Unger's nihilism, we imagined a defense of his thesis based on the notion of `loose truth'. Our Unger partisan claimed that while such claims as ``There is a chair\,\ldots '' are invariably false (because incoherent), they may be loosely true. Unfortunately for Unger, his defender was unable to give a loose-truthmaker for these supposed loose truths.
-%
-%Might van Inwagen also appeal to loose truths? He admits it as a last-ditch possiblility:
-%\begin{squote}
-%I can say this [that ``There are chairs\,\ldots '' can be true yet not entail that there are chairs] because I accept certain theses in the philosophy of language. I can say this because I accept certain theses in the philosophy of language. Some people, I suppose, would reject these theses. These people would say that when I said\,\ldots\,`The sun moved behind the elms,' I said something false. even if I did accept the austere philosophy of language that ascribes falsity to typical utterances of `The sun moved behind the elms', I could nevertheless respond to `Moore's gambit' in a way that is very much like the way I have responded to it. If someone maintains that `The sun moved behind the elms' expresses a falsehood, he must still have some way to distinguish between this sentence and those sentences (like `The sun exploded' and `The sun turned green') that the vulgar would regard as the sentences that expressed falsehoods about the sun\,\ldots\,[if I took this line,] I should not be willing to say that people who uttered things like `There are two valuable chairs in the next room' very often said what was true. I should be willing to say only that they very often say what might be treated as a truth for all practical purposes~(\citeyear[102--103]{inwagen1995}).
-%\end{squote}
-%We can distinguish the given propositions based on the fact that ``The sun moved behind the elms'' has a loose-truthmaker, while others do not:
-%\begin{squote}
-%Owing to a change in the relative positions and orientations of the earth and the sun, it came to pass that a straight line drawn between the sun and this point (which is on the surface of the earth) would have passed through the elms~\citep[112--113]{inwagen1995}.
-%\end{squote}
-%
-%But now what is the loose-truthmaker for ``There are chairs''? Presumably van Inwagen will say that it is the fact that there are simples arranged chairwise. For this to be a legitimate move, however, van Inwagen needs to give a non-circular definition of `chairwise'. The loose-truthmaker for the sun's movement contained no appeal to movement; the movement in question was defined in other terms. Likewise, the loose-truthmaker for the chair's existence must not make a covert appeal to chairs.
-%
-%\subsection{Chair(wise)}
-%We are demanding that van Inwagen give us definitions of `chairwise' and `chair' that are not definitions in terms of each other. Van Inwagen claims to be able to do this; responding to criticism by Jay Rosenberg, he says that ``it is easy to see how to define `chairwise' in terms of `chair' without supposing that there are any chairs. Let a ``chair'' be defined as an object that has the properties $C_{1}, C_{2},\,\dots\,C_{n}$''~(\citeyear[719]{inwagen1993b}). In order for the definitions to be non-circular, these properties must not include things like ``is a chair'', ``is shaped chairwise'', etc.
-%
-%I am dubious that van Inwagen can provide us with necessary and sufficient property-list definitions of chair and chairwise that are not circular. And I am not alone in my skepticism:
-%\begin{squote}
-%When one says chair, one thinks vaguely of an average chair. But collect individual instances, think of arm-chairs and reading chairs, and dining-roomchairs and kitchen chairs, chairs that pass into benches, chairs that cross the boundary and become settees, dentists' chairs, thrones, opera stalls, seats of all sorts, those miraculous fungoid growths that cumber the floor of the Arts and Crafts Exhibition, and you will perceive what a lax bundle in fact is this simple straightforward term. In co-operation with an intelligent joiner I would undertake to defeat any definition of chair or chairishness that you gave me. Chairs just as much as individual organisms, just as much as mineral and rock specimens, are unique things---if you know them well enough you will find an individual differenc even in a set of machine-made chairs---and	it is only because we do not possess minds of unlimited capacity, because our brain has only a limited number of pigeon-holes for our correspondences with an unlimited universe of objective uniques, that we have to delude ourselves into the belief that there is a chairishness in this species common to and distinctive of all chairs~\citep[384--385]{wells1904}.
-%\end{squote}
-%
-%Without a proposal as to how we can capture all these types of chairs under an exclusive definition (leaving none out and bringing nothing else in), I find the idea that `chair' has no necessry and sufficient property-list definition; it is a `family resemblance'-type concept.
+\begin{squote}
+Consider a stone, consisting of a certain finite number of atoms.  If
+we or some physical process should remove one atom, without
+replacement, then there is left that number minus one, presumably
+constituting a stone still\,\ldots\,after another atom is removed,
+there is that original number minus two; so far, so good.  But after
+that certain number has been removed, in similar stepwise fashion,
+there are no atoms at all in the situation, while we must still be
+supposing that there is a stone there.  But as we have already agreed,
+if there is a stone present, then there must be some atoms\,\ldots\,I
+suggest that any adequate response to this contradiction must
+include\,\ldots\,the denial of the existence of even a single
+stone.~\citep[121--122]{unger1979}
+\end{squote}
 
-%\footnote{What we don't know is what exactly Unger and van Inwagen mean by their denials of the existence of ordinary things. Hirsch justifiably complains, ``I simply have no idea of what van Inwagen means when he says such things as, `There are trees but there are no apples (though it would of course be correct to say in the ordinary business of life that there are a lot of apples around here).' It seems to me that I don't grasp the sense of his words `There are no apples'\,''~(\citeyear[690]{hirsch1993}).}
+Having made this denial, Unger must either explain how our beliefs
+about stones should be understood (van Inwagen has his paraphrasing
+strategy) or he must deny that we really {\em do} have any beliefs
+about stones.  It appears that he selects the latter option: Unger
+seems to claim that, like the person who thought they had a belief
+about a ghost, we are wrong to think that we have any coherent beliefs
+about stones or any other ordinary things.  Unger says that, like
+`ghost', our ``terms for ordinary things are incoherent [and] cannot
+apply to anything real''~\citep[147]{unger1979}.  A consequence of
+this is that our language and thought concerning all such things is
+directed toward {\em nothing at all}: ``it may well be that I have
+never {\em thought of} any stones at all, or tables, or even human
+hands.  If that is so, then it would seem that {\em a fortiori} I do
+not {\em know} anything {\em about these entities}, however commonly I
+might otherwise suppose''~(\citeyear[458]{unger1980a}).
 
-\section{Other answers that are false}
-This section will mostly involve me registering agreement with
-Markosian on the insufficiency of other proposed answers to the
-SCQ. For example:
-\begin{description}
-	\item[Fastenation] Necessarily, for any $x$s, there is an
-          object composed of the $x$s iff the $x$s are fastened
-          together.~\citep[223]{markosian1998a}
-\end{description}
-No general notion of `fasten' will make this plausible. ``Suppose that
-van Inwagen and I shake hands, and suppose that just as we do so, our
-hands becomes paralyzed [or super-glued together], so that we cannot
-pull them apart. Then, according to Fastenation, there is a new
-composite object in the
-world''~\citep[224]{markosian1998a}.\footnote{This is based on an
-  example of van Inwagen's~(\citeyear[57--58]{inwagen1995}.} But we do
-not recognize van Inwagen and Markosian as composing an object; `van
-Mark', thankfully, does not emerge. Fastenation is not then
-sufficient. Nor is it necessary; I can create a house of cards without
-fastening any of them together.
+This all seems very strange.  Concerning ghosts, ``it is difficult
+even to find a fully coherent belief that might be exposed as false;
+we discover, at best, obscurity or perhaps confusion\,\ldots\,do we
+really understand what sort of thing a ghost is supposed to
+be''~\citep[76]{stroud2000a}?  If someone tries to tell me about the
+ghost that visited him the previous night, it does not seem unjust to
+say that he doesn't really know what he is talking about.  But can
+this be extended to some of the most common objects of experience?
 
-Another approach is this:
-\begin{description}
-	\item[The Serial Response] The correct answer to the SCQ is an
-          instance of this schema: There is an object composed of the
-          $x$s iff {\em either} the $x$s are F1s and related by R1,
-          {\em or} the $x$s are F2s and are related by R2, {\em
-            or}\,\ldots\,the $x$s are Fns and are related by
-          Rn.~\citep[230]{markosian1998a}
-\end{description}
-But seeing as we have not {\em one} plausible relation between objects
-that is necessary and sufficient for composition, it seems unlikely
-that we can find a series of them, limited in scope though they may
-be. (For what are the necessary and sufficient conditions for a deck
-of cards composing a house of cards?)
+When we denied the existence of ghosts, we denied also others' beliefs
+in them.  We did not, however, deny that people have beliefs which
+they take to be about ghosts.  But we were able to show that these
+beliefs were not {\em about} ghosts; in most cases they were about
+nothing at all.  Likewise, Unger cannot deny that we have beliefs that
+we take to be about tables, chairs, and all the other things that he
+denies exist.  If our beliefs about tables and chairs are really
+beliefs about nothing at all, there are two questions that must be
+answered: first, what causes us to form these beliefs?\ and second, if
+the utterances containing these empty terms are about nothing at all,
+how do we manage to communicate so effectively using them?
 
-\section{Arbitrariness}
-Where does this leave us? [stuff about realism]
+\subsection{Causes of belief}
+\label{unger-cause}
+People who believe in ghosts probably do so because they have
+unreflectively embraced the superstitions of their culture.  They may
+initially come to believe that ghosts exist on the testimony of other
+people---older siblings, perhaps---or by reading too many ghost
+stories.  Much as Catherine in Jane Austen's {\em Northanger Abbey}
+jumps to the most macabre conclusions as a result of having absorbed
+too many gothic novels, so might our gullible reader of ghost stories
+interpret such innocent phenomena as reflections of the moon as
+ghostly assailants.  Those of us who have not taken our cues from
+fiction would be more likely to recognize such phenomena as tricks of
+the light.  Even if we were to see something that was definitely {\em
+  not} a trick of the light, we would sooner attribute it to an
+hallucination than countenance the possibility of ghosts.  Suppose
+{\em you} saw what you took to be a ghost in an empty, well-lit room.
+Most of us would still, even if presented with such a vision, {\em
+  refuse to believe in ghosts}.  This is because we know that the
+probability of there being such spirits is far less than the
+probability of us experiencing cracks in our sanity.  Undermining my
+belief that ghosts don't exist would require a great deal---for
+example, my friend and I both seeing the {\em same} apparent ghost at
+the same time, and knowing that we were each experiencing the same
+vision.  (Even then, we would want further confirmed sightings to
+convince us that we weren't, in fact, crazy.)
+
+If this is an accurate characterization of our beliefs concerning
+ghosts, it is a very different characterization than one we might give
+of how we learn about and come to believe in chairs.  Chairs are not
+something that children learn about from stories.  A child learns what
+a chair is as an answer to the question, ``What is {\em that?}\,''  Let
+us suppose that the child is pointing at a chair in the center of a
+well-lit room containing no other furniture.  The chair is clearly
+visible.  If someone were to believe they were pointing at a ghost in
+a similarly well-lit situation, we could safely assume that they would
+be experiencing a hallucination.  Hallucinations are not shared
+experiences; if one person is hallucinating a ghost, nobody else can
+see that ghost, not even if they were {\em also} hallucinating a ghost
+(they can't both hallucinate the {\em same} ghost).  Such a ghost
+sighting, therefore, would necessarily be experienced by a single
+person.  A chair, on the other hand, can be sighted by multiple people
+simultaneously.  The parent sees the same chair that the child sees.
+This is what allows the parent to answer the child's question
+(``That's a chair'') and this is how the child learns about chairs.
+We learn about chairs by coming upon them in the world, and being {\em
+  told} what it is we have come upon.  This brings us to
+communication.
+
+\subsection{Communication and incoherence}
+\label{unger-comm}
+A consequence of Peter Unger's thesis is that most of our
+communication is empty of content, if not entirely incoherent.  For me
+to warn my friend of a low-hanging tree branch, I must refer her to
+it.  For her to heed my warning, she must recognize my intention to
+refer to the branch in question, and, as a result of that intention,
+herself come to think of the branch (and then duck).  But according to
+Unger, ``when we are under the impression that we are thinking about
+an object in the world\,\ldots\,our impression is
+mistaken''~(\citeyear[149]{unger1979}).  Unger is denying that I can
+ever possibly warn my friend about a low-hanging branch.
+
+This seems plainly false.  For, after all, my friend ducked.  She
+heard my warning and avoided the low-hanging branch.  Unless we are to
+suppose that it was sheer luck that she moved her head in time to
+dodge the branch, we must conclude that I did, in fact, warn my
+friend.  If I did, in fact, warn my friend, then we both thought of
+the branch.
+
+That ought to be enough to prove Unger wrong.  Just to be thorough,
+however, let's return to our well-lit room.  There is a chair in the
+center of it.  A child and her parent enter.
+
+\stage{Child}{(pointing at the chair)}{What's that?}
+% recognizing the intention vs recognizing the object of the intention
+Now, if the parent is going to be in a position to understand the
+question, she must recognize the intention of the child to refer to
+the chair; recognizing this intention, she comes herself to think of
+the chair.  Only if this process occurs can the parent know what the
+child means by ``that''.  Having performed this feat, the parent can
+then tell the child ``That's a chair''.  If the child was
+hallucinating the chair (if the room was really empty), then the
+parent could not recognize the referential intention of the child.
+She could not recognize a referential intention, because that would
+require her to think of the object that the child is thinking of (and
+intending to refer to).  But as I have argued, the child, if
+hallucinating a chair, has a belief about {\em nothing} in particular.
+The parent cannot come to think {\em of} the child's hallucination, at
+least not as a result of recognizing the child's referential intention
+(she may come to think {\em that} her child is hallucinating, but
+that's a different matter).  Rather, she will look at an empty room
+and say
+
+\stage{Parent}{}{What's what?}
+
+But if the room is not empty, and the child is not hallucinating, then
+the parent {\em will} recognize the child's referential intention.  If
+the child is referring to a chair, then the parent will say ``That's a
+chair''.
+
+How is Unger supposed to explain their communication? The child,
+according to Unger, has no determinate thought; she is certainly not
+thinking of a {\em chair}.  Nor is the parent thinking of a chair.
+Unger might say that, just as people see things (reflections of the
+moon) that they mistakenly take to be of a ghost, so the child and
+parent are seeing something that each mistakenly takes to be a chair.
+
+But now what could they be seeing? This is a well-lit, sparsely
+furnished room.  There is no chance of curious plays of the light or
+visual tricks that might deceive the child and her parent.  If the
+child claimed to be seeing a ghost in such a room, then (as above) we
+should have to say that she is hallucinating.  Is the child then
+hallucinating a chair? If this were the case, then (as above) we
+should not expect the parent to understand the referential intention.
+Yet she apparently does.  Are {\em both} of them hallucinating? That
+would allow us to say that communication appears to succeed when in
+fact it does not.  But for the parent and child to have such similar
+hallucinations is incredibly unlikely.  It may happen on rare
+occasions, but to say that such a coincidence is actually a daily
+occurrence is absurd.  There is clearly {\em something} that the
+parent and child are communicating about.  The default assumption is
+that it is a chair.
+
+\subsection{Loose truth}
+\label{loose-u}
+One sympathetic to Unger's thesis might admit that they are
+communicating about something, but deny that the subject of their
+communication is a chair.  This philosopher would take refuge in the
+notion of `loose truth'.  She would maintain that it is strictly false
+that there is a chair in the room, but that it is loosely true; it is
+close enough to the truth for practical purposes.  These practical
+purposes include the communication we have observed above.  She will
+appeal to such examples as this:
+
+\stage{Countess}{}{Where on earth am I going to find someone to invest
+  in my eel farm?}
+
+\stage{Count}{(pointing)}{There's a millionaire for you.}
+
+\stage{Countess}{(incredulous)}{Henry? A millionaire? He hasn't got
+  above nine hundred ninety-five thousand pounds.}
+
+\stage{Count}{}{Oh? Well, it's close enough.}
+
+We are supposing that there is no millionaire in the room; strictly
+speaking, the count said something false with ``There's a
+millionaire''.  Nonetheless, communication occurred because the term
+`millionaire' made the count's referential intention clear: he
+intended to refer to a person who was {\em almost} a millionaire.
+(The term is regularly used to refer to non-millionaires who have
+relatively great wealth.)  The Ungerian is claiming that this is
+analogous to the case of the parent and child.  Strictly speaking,
+what the parent said (``That's a chair'') was false, but it allowed
+for communication by making the parent's referential intention clear.
+
+Is this a coherent objection?  Without concerning ourselves too much
+with the nature of loose truth, I think it is fair to claim that, just
+as a (strict) truth has a `truthmaker', so a loose truth must have a
+`loose-truthmaker'.  In the example above, the truthmaker for
+``There's a millionaire'' would have been the fact that the count was
+referring to a millionaire.  This fact did not obtain, so the
+statement is, strictly speaking, false.  The loose-truthmaker is
+evidently the fact that the count is referring to someone who is {\em
+  almost} a millionaire.  (What counts as `almost' will no doubt vary
+between contexts, but in this context I am supposing it is true that
+Henry is almost a millionaire.)
+
+The truthmaker for ``That's a chair'' must obviously be the fact that
+the parent is referring to a chair.  According to Unger, there are no
+chairs, so nobody can refer to them.  The parent's statement would
+therefore be, strictly speaking, false.  Now what is the
+loose-truthmaker for the parent's use of ``That's a chair''?  It cannot
+be the fact that there is {\em almost} a chair (a partially built
+chair?), at least not if that entails that there could ever be a
+chair.  Unger maintains that the kind of object picked out by `chair'
+is ``never instanced''~(\citeyear[147]{unger1979}).  Is there,
+perhaps, something closely resembling a chair in the room, and the
+parent is referring to {\em that} thing instead?  This raises two
+objections of its own.  First, what is there in the room that
+``closely resembles'' a chair, other than the chair itself?  Second, if
+we cannot ever have coherent thoughts about chairs (and therefore
+cannot know anything about chairs), how are we supposed to know what
+resembles a chair?
+
+I do not think there are satisfactory answers to these questions.
+Moreover, I do not think Unger ever espoused a `loose-truth' nihilism,
+so we are not slighting him by moving on.
+
+%\stage{Peter Unger}{}{I never said the room was {\em empty}.  It isn't empty.  But that doesn't mean that there is a {\em chair} in the room.  There's something else entirely.}
+%
+%\noindent Now we may ask, ``What {\em is} in the room, if not a chair?'' Unger might walk over to the chair, saying ``There seems to be a concentration of solid matter in this vicinity which, when placed appropriately, may be sat on.'' And now we say, ``Oh, you mean a {\em chair!} That's what it's called, you see.''
+
+\subsection{The moral}
+\label{moral}
+There are limits to what one can resolutely deny the existence of.  We
+can deny that certain things, like ghosts, exist {\em and} deny that
+people have beliefs in them.  We can do this because in each situation
+where a person has a belief about what they take to be a ghost, we can
+show that their belief is really about nothing at all.  If someone
+sees a reflection of the moon or experiences a hallucination, and so
+thinks she is seeing a ghost, we can say that she is afraid of nothing
+at all.  Under no circumstances must we say that her belief is really
+about a ghost.  Moreover, we can explain how people come to believe in
+ghosts---they read too many ghost stories, or believe the lies of
+others.
+
+This is not something we can do with tables, chairs, and other
+``ordinary things'', let alone people.  For one, Unger has no
+explanation of how we come to form our beliefs in these things, if not
+by {\em seeing them}.  Secondly, to deny that our thought and talk
+about such things are really about nothing at all is to deny that
+communication regularly occurs.  Bizarrely, this is a consequence
+Unger appears willing to accept:
+\begin{squote}
+Now, it must of course be admitted that these arguments [for his
+  strain of nihilism] undermine the possibility of any endeavor I
+should try to propose, or even the putative thought that I should
+propose anything, just as all of my putative essay is undermined.  But
+even so, I shall (incoherently) propose that what we have now to do is
+invent new expressions which are not inconsistent ones, and by means
+of which we may, to some significant extent, think coherently about
+concrete reality~(\citeyear[544]{unger1980b}).
+\end{squote}
+If Unger seriously believes this, then he could not expect us even to
+understand his essay ({\em why would he write it?}).  But I think it
+is safe to say that Unger does {\em not} actually believe that there
+are no people or ordinary things.  In a book on ethics, Unger has
+unambiguously expressed his belief in people:
+
+\begin{squote}
+Each year millions of children die from easy to beat disease, from
+malnutrition, and from bad drinking water\,\ldots\,As UNICEF has made
+clear to millions of us well-off American adults at one time or
+another, with a packet of oral rehydration salts that costs 15 cents,
+a child can be saved from dying soon~(\citeyear[3]{unger1996}).
+\end{squote}
+There are only two possibilities: either Unger does believe that
+people (at least children and Americans) do exist, or he takes himself
+to be flat-out lying in the quoted passage.
+
+As far as other ordinary things go, Unger claims to ``often now
+believe that there really are no tables or rocks, and never so firmly
+believe that there are such things as I once
+did''~(\citeyear[543]{unger1980b}).  All I can say is that I don't
+believe him.  (To show that he does believe in these things, we would
+need to spend some time with him, observing his behavior.  We could
+invite him for a walk along a trail with lots of low-hanging branches,
+then warn him about them.)
+
+\section{The problem of the many}
+\label{many}
+In section~\ref{unger} we looked at a version of metaphysical
+nihilism.  Peter Unger attempted to deny that any of the `ordinary
+things' in the world (tables, chairs, apples, people, \&c.) actually
+exist.  His motivation for this claim was drawn from an apparent
+paradox involving the terms for ordinary things.  If we have a stone,
+then removing one atom of matter will not destroy the stone.  Nor will
+removing another atom.  But if we remove enough atoms, there will not
+be a stone.  One solution to this puzzle is to deny that there ever is
+a stone.  But this, we have seen, is not workable.
+
+Another solution is to claim that there are {\em many} stones where we
+once thought there was only one.  The motivation for this claim
+sometimes comes from what Unger calls ``the problem of the many''.
+There are a number of different formulations of this problem.  Van
+Inwagen nicely summarizes one:
+\begin{squote}
+Assume I exist.  Then certain simples compose me.  Call them `M'.
+Now, a single simple is a negligible item indeed.  Let $x$ be one of
+these negligible parts of me---one that is somewhere in my right arm,
+say.  Now consider the simples that compose me {\em other than} $x$
+(`M -- $x$').  Since $x$ is so very negligible, M -- $x$ {\em could}
+[my emphasis] compose a human being just as well as M could.  We may
+say that M and M -- $x$ are ``equally well suited'' to compose human
+beings.  And, of course, for {\em any} simple $y$, ``M -- $y$ will be
+as well suited to compose a human being as M are.  Moreover, it would
+be surprising indeed if there were not a simple $z$ such that ``M +
+$z$'' were as well suited to compose a human being as M are.  It
+would, in fact (if I may once more use this phrase), be intolerably
+arbitrary to say that M composed a human being although M -- $x$ {\em
+  didn't} [my emphasis] and M -- $y$ {\em didn't} [my emphasis] and M
++ $z$ {\em didn't} [my emphasis].  Suppose, therefore, that M -- $x$
+et al.\ {\em do} [my emphasis] compose human
+beings~(\citeyear[215]{inwagen1995}).
+\end{squote}
+
+I think this formulation is problematic.  We are supposing that M does
+compose a human being.  But it does not immediately follow from this
+that M -- $x$ also composes a human being.  As I have pointed out with
+italics, there is a slide from the claim that M -- $x$ {\em could}
+compose a human being to the claim that M -- $x$ {\em does} compose a
+human being.  As an analogy, take a house of blocks.  Suppose that the
+blocks do compose the house.  Is there also something composed by the
+blocks minus one? There {\em could} be; but intuitively, there would
+be only if that one block were removed.  Then we would have a house
+with a missing roof.  But we do not obviously have that second thing
+already, without having removed the block.
+
+Van Inwagen understands there to be a number of additional premises
+required for this argument.  He formulates them thus:
+\begin{enumerate}
+	\item In every situation of which we should ordinarily say
+          that it contained just one man, there are many sets of
+          simples whose members are as suitably arranged to compose
+          men as any simples could be.  \label{many1}
+	\item The members of each of these sets compose
+          something.  \label{many2}
+	\item Each of these ``somethings'' is a man, provided there
+          are any men at all.  \label{many3}
+	\item If I exist, there is a
+          man~(\citeyear[216]{inwagen1995}).  \label{many4}
+\end{enumerate}
+I think only~\ref{many4} is uncontroversially true.  There are many
+difficult questions raised by~\ref{many2}, and I'm not sure how to
+answer them.  I'm quite sure, however, that the first and third
+premises are false.  These two are closely related, so we'll examine
+them together.
+
+\subsection{Problems with the first and third premises}
+\label{many13p}
+Unger begins his presentation of the problem of the many by directing
+our attention to a cloud; looking at the edge of the cloud, ``all that
+is there to be seen is a {\em gradual transition} from the more dense
+[concentration of water molecules] to the less so\,\ldots\,there is no
+natural break, or boundary, or stopping place, for any would-be cloud
+to have''~(\citeyear[415]{unger1980a}).  Therefore any boundary we
+choose for the cloud will be somewhat arbitrary.  A minutely larger or
+smaller boundary would be just as `suitable' for bounding a cloud;
+``if our alleged typical item [the cloud] is indeed a typical cloud,
+then many of these candidates, millions at least, do not fail to be
+clouds altogether but are clouds of some
+sort''~(\citeyear[421]{unger1980a}).  Unger draws the conclusion that
+either there are millions of such things there, or none.  This
+argument can be generalized to chairs, stones, and people.  Regarding
+chairs, at least, we have already shown that the conclusion that there
+are none is false; perhaps then, there are millions of chairs in our
+well-lit room.  But there are two problems with this argument.
+
+\paragraph{An objection regarding communication.}
+First, the idea of there being millions of objects where we supposed
+there was only one poses a problem for referential communication.  In
+fact, it is quite the same problem that Unger's nihilism faced above:
+how is referential communication possible under this hypothesis? When
+we supposed that there was nothing being referred to by `chair', we
+were at a loss to explain how people nonetheless managed to
+communicate using that term.  Now we are supposing there to be
+millions of chairs, each eligible to be referred to by ``that chair''.
+What needs explaining now is how, if there are millions of chairs that
+might be referred to, how two speakers can be sure that they are
+talking about the {\em same} chair.  When the child points and says
+``What's that?'', the parent knows that the child is pointing at {\em
+  a} chair, but how is she to determine {\em which} chair the child is
+referring to? The child did {\em not} say ``What are those?'' because
+she took herself to be referring to {\em one} chair, and expressed her
+referential intention accordingly.
+
+Even if the parent and child got lucky and happened to think of the
+same chair, how would they know it? If there really were millions of
+chairs in the center of the room, it seems implausible to suggest that
+anyone could distinguish between each of them.  There would be nothing
+the parent or child could do to make it clear to the other which of
+the millions of chairs they meant to refer to.  Indeed, they could not
+make it clear to themselves.  If I am holding a rock in my hand,
+``there are millions of ``overlapping stones'' before me\,\ldots\,how
+am I to think of a single one of them, while not then equally thinking
+of so many others''~\citep[456]{unger1980a}?  Unger's brand of
+universalism, like his nihilism, precludes successful communication,
+and so must be rejected.
+
+\paragraph{An objection regarding boundaries.}
+Second, it seems to be simply false that all boundaries drawn about a
+cloud are equally arbitrary.  If a cloud is a concentration of water
+molecules in the air, then the boundary of the cloud is the edge of
+the concentration, beyond which the level of water in the air is
+normal.  There are not millions of clouds with millions of different
+boundaries; any stipulated boundary that falls inside or outside the
+actual boundary is arbitrary because it does not track the
+concentration of water molecules.  For simples to be `suitably
+arranged' so as to compose a cloud, their boundary must be the edge of
+the concentration of water molecules.  I'm not sure, but it may be
+possible to extend this argument to cover most `ordinary
+things'---tables and chairs (and even people) have molecular
+boundaries.
+
+Premise~\ref{many1} is therefore false.  For clouds, at least, it is
+not true that there are ``many sets of simples whose members are as
+suitably arranged'' to compose them.  These closely related sets do
+not have boundaries that track the concentration of water molecules in
+the air, so they are not suitably arranged to compose clouds.  If the
+boundary of the cloud shrunk, then a smaller set of molecules {\em
+  would} be suitably arranged to compose the cloud, and so it would.
+But just as the blocks minus one {\em would} compose a house (but
+don't), so this smaller set {\em would} compose a cloud (but doesn't).
+So premise~\ref{many3} seems false too; at least, if these sets
+compose anything, they compose something other than a cloud.
 
 \ifstandalone
-%\csname standaloneignore\endcsname
-\bibliography{everything}%\endcsname
-\bibliographystyle{ChicagoReedweb}%\endcsname
-\end{spacing}%\endcsname
+\bibliography{everything}
+\bibliographystyle{ChicagoReedweb}
+\end{spacing}
 \fi
-\end{document}%\endcsname
-
-%\onlyifstandalone{\end{spacing} \end{document}}
+\end{document}
