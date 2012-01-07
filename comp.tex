@@ -1,0 +1,78 @@
+\documentclass[11pt]{article}
+\usepackage{standalone}
+\usepackage[left=1.75in, right=1.75in, top=1.25in, bottom=1.25in]{geometry}
+\geometry{letterpaper}
+\usepackage{graphicx}
+%\usepackage{xyling}
+%\usepackage{tipa}
+%\usepackage{exaccent}
+%\usepackage{txfonts}
+%\usepackage{pxfonts}
+\usepackage{enumitem}
+%\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{epstopdf}
+\usepackage{setspace}
+\usepackage{natbib}
+\setcitestyle{aysep={}}
+\usepackage{hyperref}
+\usepackage{url}
+\synctex=1
+
+\DeclareSymbolFont{symbolsC}{U}{txsyc}{m}{n}
+\DeclareMathSymbol{\strictif}{\mathrel}{symbolsC}{74}
+\DeclareMathSymbol{\boxright}{\mathrel}{symbolsC}{128}		
+
+\newcommand{\stager}[4]%
+{%
+	\begin{spacing}{1}%
+	\vspace{0pt}
+		\begin{description}[style=nextline, noitemsep, parsep=0pt, topsep=0pt, leftmargin=15mm, itemindent=-10mm, font=\mdseries]
+			\item[\textsc{#1} \emph{#2}] #3
+			\item[]%
+			\begin{flushright}#4\end{flushright}
+		\end{description}%
+	\end{spacing}%
+}
+
+\newcommand{\stage}[3]%
+{%
+	\begin{spacing}{1}%
+	\vspace{0pt}
+		\begin{description}[style=nextline, parsep=0pt, leftmargin=15mm, itemindent=-10mm, font=\mdseries]
+			\item[\textsc{#1} \emph{#2}] #3
+		\end{description}%
+	\end{spacing}%
+}
+
+\newenvironment{squote}{%
+       \begin{spacing}{1}
+       \begin{list}{}{%
+       \setlength{\labelwidth}{0pt}%
+       \rightmargin\leftmargin%
+       }
+       \item\relax
+       }{%
+       \end{list}%
+       \end{spacing}
+}
+
+\title{Things}
+\author{Alexander A. Dunn}
+\begin{document}
+\maketitle
+\tableofcontents
+\begin{spacing}{1.25}
+
+\input{stroud}
+
+\input{unger}
+
+\input{inwagen}
+
+\input{vague}
+
+\end{spacing}
+\bibliography{everything}
+\bibliographystyle{ChicagoReedweb}
+\end{document}
