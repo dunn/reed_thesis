@@ -1260,7 +1260,7 @@ mere beliefs themselves."
 544: "Now, it must of course be admitted that these arguments
 undermine the possibility of any endeavor I should try to propose, or
 even the putative thought that I should propose anything, just as all
-of my putative essay is undermined. But even so, I shall
+of my putative essay is undermined.  But even so, I shall
 (incoherently) propose that what we have now to do is invent new
 expressions which are not inconsistent ones, and by means of which we
 may, to some significant extent, think coherently about concrete
