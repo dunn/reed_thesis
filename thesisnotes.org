@@ -231,7 +231,7 @@ see [[levels][Levels of organization]]
 2. This might work for ordinary object terms, but it less appropriate
    for color terms.  As Wright points out, we may in fact apply color
    terms inconsistently, but what 'ontological import' does this have?
-   If "'x is red' is true iff x is red" is true, then if we allow
+   If "'x is red' is true iff x is red" is true, then if we allow any
    inconsistency in our (correct) application of "x is red", then we
    may end up committed to some color being red which is closer on the
    color-spectrum to orange than some color which is not red but
