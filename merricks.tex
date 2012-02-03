@@ -1,0 +1,47 @@
+\documentclass[11pt]{standalone} \newif\ifstandlone \standalonetrue
+\usepackage{standalone} 
+\usepackage[left=1.75in, right=1.75in, top=1.25in, bottom=1.25in]{geometry}
+\geometry{letterpaper}
+\usepackage{graphicx}
+\usepackage{enumitem}
+%\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{epstopdf}
+                \usepackage{verbatim}
+\usepackage{setspace}
+\usepackage{natbib}
+\setcitestyle{aysep={}}
+\usepackage{hyperref}
+\usepackage{url}
+\synctex=1
+
+\DeclareSymbolFont{symbolsC}{U}{txsyc}{m}{n}
+\DeclareMathSymbol{\strictif}{\mathrel}{symbolsC}{74}
+\DeclareMathSymbol{\boxright}{\mathrel}{symbolsC}{128}
+
+                \newenvironment{squote}{%
+\begin{spacing}{1}
+       	\begin{list}{}{%
+\setlength{\labelwidth}{0pt}%
+\rightmargin\leftmargin%
+}
+\item\relax
+}{%
+\end{list}%
+\end{spacing}
+}
+
+\title{1.25}
+\author{Alexander A. Dunn}
+\begin{document}
+\ifstandalone
+\maketitle
+\begin{spacing}{1.5}
+\fi
+
+\ifstandalone
+\end{spacing}
+                \bibliography{everything}
+                \bibliographystyle{ChicagoReedweb}
+\fi
+\end{document}
