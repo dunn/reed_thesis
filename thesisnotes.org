@@ -329,6 +329,43 @@ talk.tex
      - just that I claim that if we have a belief *about* something,
        that it exists, but there are apparently cases where we ascribe
        beliefs to people *about* things we know to be nonexistent?
+*** <2012-02-03 Fri>
+**** Unger on Merricks
+- is 'chairwise' incoherent?  not if we're relying on the problem of
+  the many; it is not obviously part of the meaning of 'chairwise
+  arrangement' that there is only one such arrangement in a particular
+  location
+- but the vagueness argument works.  but merricks has some replies
+  - the sorites argument can be used to kill anything! who cares?
+  - ok, I'll make 'chairwise arrangement' precise.  it means anything
+    within this range of dimension and number of simples
+    - now _if_ he holds that our belief that there is a chair is
+      justified only if there is a chairwise arrangement, then he's
+      going to miss cases
+    - if he made his definition too broad, then it would be false that
+      chairwise arrangements cause beliefs that there are chairs
+**** intro
+- reasons that I am aware of as my reasons
+- *causes*
+- that justify (but are 'external')
+
+what kind of reason are we looking for when we ask "why do you believe
+that is a chair you are sitting on?"
+
+1. all philosophers ought to be able to broadly sketch a theory of why
+   (causally) we believe what we do
+2. philosophers who deny there are ordinary things ought to be able to
+   explain why we believe that there are ordinary things
+
+structure: metaphysical theory says that there are no chairs; but if
+there are no chairs, then our beliefs that there are chairs are
+inexplicable; thus we have (more) reason to doubt the metaphysical
+theory
+
+if there are chairs, then we have a simple causal story as to why we
+believe there are chairs: there are chairs, and we see them
+
+if there aren't chairs, then the causal story will be more complicated
 ** Stroud
 *** The Quest for Reality
 <<quest>>
