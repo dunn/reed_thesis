@@ -239,6 +239,13 @@ see [[levels][Levels of organization]]
 
 ***** semantic localism?
 see [[rayo]].
+**** Vague boundaries
+We want to avoid the conclusion that a table has some precise
+boundary.  If we're aiming for this, then it's silly to say that,
+strictly speaking, there is no boundary.  Our project starts from the
+premise that the problem of vagueness will not convince us to say that
+(strictly speaking) there is no chair.  So why should the problem of
+vagueness convince us that (strictly speaking) there is no boundary?
 ** Meeting notes
 *** <2011-09-29 Fri>
 [[file:unger.tex][unger.tex]]: define 'compose' in its technical sense
@@ -1594,7 +1601,7 @@ to be clouds altogether but are clouds of some sort."
   separates the bees? ...  _Insofar_ as we _can_ think of clouds as
   _concrete_, our boundaries for them seem to have a firmer footing
   (431).
-**** Vague objects (433).
+**** Vague objects (433)
 > what can it be for a stone to be constituted of molecules but of no
   number of molecules?  And although in any real situation _we_ may
   have only a _vague idea_ as to what is the number, in any given
