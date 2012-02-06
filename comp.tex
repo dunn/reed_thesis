@@ -1,5 +1,5 @@
 \documentclass[11pt]{article}
-\usepackage{standalone}
+\usepackage{standalone} \newif\ifstandlone \standalonetrue
 \usepackage[left=1.75in, right=1.75in, top=1.25in, bottom=1.25in]{geometry}
 \geometry{letterpaper}
 \usepackage{graphicx}
@@ -56,9 +56,11 @@
 \title{Things}
 \author{Alexander A. Dunn}
 \begin{document}
+\ifstandalone
 \maketitle
 \tableofcontents
 \begin{spacing}{1.25}
+\fi
 
 \input{stroud}
 
@@ -70,7 +72,10 @@
 
 %\input{vague}
 
+\ifstandalone
 \end{spacing}
 \bibliography{everything}
 \bibliographystyle{ChicagoReedweb}
+\fi
+
 \end{document}
