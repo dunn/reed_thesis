@@ -1484,6 +1484,80 @@ unreliable would mean that the _nihilists_ are probably wrong too.
   other revisionary metaphysicians is that it is exceptionally
   difficult to provide any satisfactory explanation of their
   reasonableness (245).
+*** Merricks, _Objects and Persons_
+**** Chapter 1: Explaining Eliminativism
+Saying "chairs don't exist" is (somehow) not like saying "Bigfoot
+doesn't exist":
+
+> when someone claims to have seen a statue, I am not likely to
+> suspect that he has hallucinated, been the victim of a prank, or
+> mistaken something for a statue that, upon further inspection, he
+> would agree was not really a statue after all.  Such occurrences are
+> genuine possibilites...But they are exceptions, not the rule.  The
+> rule is that one's 'seemingly seeing a statue' is caused---in a
+> non-hallucinatory, non-prankish way---by things _arranged
+> statuewise_.  And further inspection of these things would not lead
+> one to deny one has really seen a statue (2).
+
+> Obviously, that there are atoms arranged statuewise does not mean
+> that there are atoms arranged so as to compose a statue.  For if it
+> did, eliminativism about statues would entail that there are no
+> atoms arranged statuewise (3).
+
+> Atoms are _arranged statuewise_ if and only if they both have the
+> properties and also stand in the relations to microscopica upon
+> which, if statues existed, those atoms' _composing a statue_ would
+> non-trivially supervene (4).
+
+> I think that---given eliminativism---the folk concept of _statue_
+> (and so the folk fiction about statues) plays a crucial role in
+> grounding the non-vacuous truth of the relevant counterpossible and
+> so in fixing which atoms are arranged statuewise.  That is, what the
+> folk mean by 'statue' is part of what makes it the case that certain
+> atomic features are those upon which, if there were statues, statue
+> composition would supervene (6--7).
+
+> the folk concept of _statue_ plays a role in determining which
+> atomic arrangements are statuewise.  I would even go so far as to
+> say that if _being arranged statuewise_ were not derivative upon
+> folk-ontological concepts in the ways noted here, something would be
+> amiss.  For the whole point of introducing statuewise arrangements
+> is to show that eliminativism shares important common ground---the
+> existence of atoms arranged statuewise---with folk ontology (8).
+
+> [Consider] the claim that the atoms arranged my-neighbour's-dogwise
+> and the-top-half-of-the-tree-in-my-backyardwise compose an
+> object...it won't so to defend this claim with nothing more than 'I
+> can _just see_ the object composed of the atoms arranged
+> dog-and-treetopwise'.  Part of why this won't do, presumably, is
+> that one's visual evidence would be the same _whether or not_ those
+> atoms composed something (8--9).
+
+Analogy with statues: one's visual evidence would be the same whether
+or not the atoms composed a statue.
+
+Would it?  Is there a sense in which we see the atoms _as a chair_
+while not seeing the dog and tree atoms _as_ anything other than parts
+of a dog and tree?
+
+> everyday sorts of claims like 'there is a statue aboard ship' can be
+> useful and appropriate whether or not there are, in addition to
+> atoms arranged statuewise, statues (10).
+
+17--18: 'slithy tove'---analogous to van Inwagen's bliger (and equally
+a failure)
+**** Chapter 2: Considerations in favor of eliminativism
+***** Sorites Game
+> I deny that there are co-located multiple _David_-candidates.  And I
+> reject metaphysical vagueness.  So I conclude that, if _David_
+> exists at the start of the Game, then there is a point during the
+> Game at which annihilating a single atom takes _David_ from
+> determinate existence to determinate non-existence.  Thus we should
+> conclude that _David_ does not exist at the start of the Game.  For
+> the result that a single annihilation could make 'all the
+> difference' in _David_'s existence is unacceptable (33).
+**** Chapter 7: Belief and Practice
+boink
 ** The problem of the many
 *** SEP Entry
 The paradox arises because in the story as told the following eight
