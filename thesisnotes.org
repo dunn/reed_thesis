@@ -1557,7 +1557,118 @@ a failure)
 > the result that a single annihilation could make 'all the
 > difference' in _David_'s existence is unacceptable (33).
 **** Chapter 7: Belief and Practice
-boink
+> Someone who tries to purchase statues is---in an important
+> sense---like someone who tries to hunt unicorns.  Both are doomed to
+> failure (162).
+
+> the claim that eliminativism is consistent with what all people
+> believe---except for a comparative handful of professional
+> ontologists, and even them only while they are working---does not do
+> justice to its striking and surprising nature (163).
+
+169: existence is univocal
+***** Section 2: Justification
+> the eliminativist who says that ordinary ontological beliefs are
+> false must award such beliefs some sort of 'alethic commendation'.
+> So I must explain the sense in which the belief ordinarily expressed
+> by 'statues exist' is _better than_ the belief expressed by
+> 'unicorns exist', given that both are false (171).
+
+> I commend false folk-ontological beliefs for being---here I
+> introduce a technical expression---'nearly as good as true'.  Any
+> folk-ontological claim of the form 'F exists' is _nearly as good as
+> true_ if and only if (i) 'F exists' is false and (ii) there are
+> things arranged F-wise.  So, for example, 'the statue _David_ exist'
+> is nearly as good as true because (it is false and) there are some
+> things arranged Davidwise.
+
+> People who believe in unicorns are few and far between.  And those
+> few are generally unjustified.  On the other hand, people who
+> believe in statues are legion.  And they are generally justified in
+> so believing.  Given the truth of eliminativism, we might ask _why_
+> the belief in statues is more common, and more commonly justified,
+> than the belief in unicorns.  
+> 
+> The answer is that statue beliefs are nearly as good as true.  For,
+> so I claim here, _atoms arranged statuewise_ often play a key role
+> in producing, and grounding the justification of, the belief that
+> statues exist.  In general, a false belief's being nearly as good as
+> true explains how _reasonable_ people come to hold it.  And,
+> relatedly, its being nearly as good as true can ground its
+> justification.  Because the belief that unicorns exist is not nearly
+> as good as true (i.e. because there are no things arranged
+> unicornwise), there is no similar explanation of its production or
+> similar reason to think it is justified (171--172).
+
+173--174: justification and warrant
+
+> I shall say that---given eliminativism---claims about alleged
+> inanimate macrophysical objects are 'true for practical purposes'
+> just in case they are nearly as good as true (176).
+
+Identity over time:
+
+> Atoms at _t_ are arranged _same-statuewise_ as atoms at _t*_ if and
+> only if (i) the atoms at _t_ are arranged statuewise; (ii) the atoms
+> at _t*_ are arranged statuewise; and (iii) _if_ there were
+> persisting statues, _then_ the atoms arranged statuewise at _t_
+> would compose the same statue as the atoms arranged statuewise at
+> _t*_ (176--177).
+
+177: convention and precisification
+***** Section 4: And Yet I Often Say...
+> When I say 'there is a statue of a Roman emperor', I mean that there
+> are things arranged statue-of-a-Roman-emperorwise.  Generally, when
+> I say 'there is an F', when alleged Fs are supposed to be non-living
+> macroscopica, I mean that there are things arranged F-wise.  In such
+> contexts, I am using 'there is' in a misleading or loose or even
+> wrong way.  I am using 'there is' deviantly (186).
+
+Then Merricks consistently fails to communicate.  He almost sees this:
+
+> ...After all, I can be fairly certain that when I say 'there is a
+> statue of a Roman emperor', most will interpret me
+> folk-ontologically [literally].  I can be fairly certain
+> that---given the truth of eliminativism---when I say such things I
+> promote false beliefs in others.  One might charge that I am like an
+> adulterer who decides to use 'having an affair' to mean flying to
+> the moon.  He does not thereby avoid lying---or at least not its
+> moral equivalent---when he says 'I am not having an affair'.
+> (Compare: 'It all depends on what the meaning of "is" is'.)
+>
+> To answer this charge, I return to the land of the Absolute
+> Ptolemaists.  There it seems that---unless you want to enter into a
+> long discussion about astronomy---the _least misleading_ thing you
+> can say in ordinary contexts is something like 'when the sun moves
+> behind the elms, I'll meet you at the lagoon'.  To say, 'the sun
+> will never move behind the elms' or 'if the sun moves behind the
+> elms, then Russell is Pope' is to breed confusion.
+> Likewise---unless I want to enter into a long discussion about
+> ontology---the least misleading thing to say will often be 'there is
+> a statue over there', even though I know my statement is likely to
+> be misinterpreted as affirming what is only nearly as good as true
+> (187--188).
+
+Still not speaking the truth!
+
+> In Chapter 1 I said that we could not understand what 'arranged
+> statuewise' means without having the concept of _statue_.  The point
+> here is stronger.  It is that many of the facts we grasp and express
+> with the locution 'arranged statuewise' cannot be grasped or
+> described by us unless we have the concept of _statue_.  There are
+> some facts about the world---such as the fact that there are things
+> arranged statuewise---that we can neither express nor grasp without
+> relying upon empty folk concepts (188).
+***** Section 5: Conclusion
+> Folk concepts such as that of _statue_, although empty, are
+> indispensable.  That is, there are important truths about the
+> world---practically important to us---that we could not grasp
+> without them.  Perhaps we could make do without grasping those
+> truths.  Perhaps we could make do without thinking in terms of
+> statues or even in terms of things arranged statuewise.  Perhaps we
+> could abandon the folk-ontological framework, along with any other
+> framework that is parasitic upon it, altogether.  But to do so would
+> be to abandon our way of life (190).
 ** The problem of the many
 *** SEP Entry
 The paradox arises because in the story as told the following eight
