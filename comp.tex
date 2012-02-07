@@ -1,5 +1,6 @@
 \documentclass[11pt]{article}
-\usepackage{standalone} \newif\ifstandlone \standalonetrue
+\usepackage{standalone}%
+%% \newif\ifstandlone \standalonetrue
 \usepackage[left=1.75in, right=1.75in, top=1.25in, bottom=1.25in]{geometry}
 \geometry{letterpaper}
 \usepackage{graphicx}
@@ -23,7 +24,9 @@
 {%
 	\begin{spacing}{1}%
 	\vspace{0pt}
-		\begin{description}[style=nextline, noitemsep, parsep=0pt, topsep=0pt, leftmargin=15mm, itemindent=-10mm, font=\mdseries]
+		\begin{description}[style=nextline, noitemsep,
+                    parsep=0pt, topsep=0pt, leftmargin=15mm,
+                    itemindent=-10mm, font=\mdseries]
 			\item[\textsc{#1} \emph{#2}] #3
 			\item[]%
 			\begin{flushright}#4\end{flushright}
@@ -35,7 +38,8 @@
 {%
 	\begin{spacing}{1}%
 	\vspace{0pt}
-		\begin{description}[style=nextline, parsep=0pt, leftmargin=15mm, itemindent=-10mm, font=\mdseries]
+		\begin{description}[style=nextline, parsep=0pt,
+                    leftmargin=15mm, itemindent=-10mm, font=\mdseries]
 			\item[\textsc{#1} \emph{#2}] #3
 		\end{description}%
 	\end{spacing}%
@@ -53,14 +57,14 @@
        \end{spacing}
 }
 
-\title{Things}
+\title{Why do you think that?}
 \author{Alexander A. Dunn}
 \begin{document}
-\ifstandalone
+%\ifstandalone
 \maketitle
 \tableofcontents
 \begin{spacing}{1.25}
-\fi
+%\fi
 
 \input{stroud}
 
@@ -72,10 +76,10 @@
 
 %\input{vague}
 
-\ifstandalone
+%\ifstandalone
 \end{spacing}
 \bibliography{everything}
 \bibliographystyle{ChicagoReedweb}
-\fi
+%\fi
 
 \end{document}

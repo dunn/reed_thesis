@@ -2308,7 +2308,6 @@ Comparison with two-world and intentional objects models (10)
 waltz cannot exist undanced: in either case, for the "object" of the
 act to exist *is* for the act to take place in a certain way.
 
-* Mereology
 ** Universalism and Four-Dimensionalism
 *** Sider, _Four-Dimensionalism_
 **** Introduction and Chapters 1--2
@@ -3242,8 +3241,20 @@ Unger's presuppositions
 
 4) If I exist, there is a man. (216)
 
+*** Reviews
+**** Rosenberg
+> To me it just seems obvious that the answer to such a question will
+  always depend on what sorts of things one has at one's disposal and
+  what sort of thing one is trying to get them to compose. If the xs
+  are, for example, "a lot of wooden blocks that one may do with as
+  one wills" (31), then to get them to compose, for example, a wall,
+  it may be sufficient to stack them up in the manner we call
+  "building a wall."  To get them to compose a wooden raft,on the
+  other hand,one would surely need to fasten them together more
+  securely, e.g., by gluing them to one another.  And there's nothing
+  at all one could do with them to get them to add up to a fish or a
+  clock or a sports car (705).
 *** Replies to reviewers
-
 > "Let me revert once more to my Copernican analogy. Someone who says,
 'I don't understand what van Inwagen means when he says that trees
 exist but apples don't' corresponds to someone who says, 'I don't
