@@ -142,13 +142,13 @@ Chairs exist.
 	\mainmatter % here the regular arabic numbering starts
 	\pagestyle{fancyplain} % turns page numbering back on
   
-\chapter{Introduction}
+\chapter*{Introduction}
 \chapterpig{Introduction}
-\input{stroud}
+\addcontentsline{toc}{chapter}{Introduction}
+\chaptermark{Introduction}
+\markboth{Introduction}{Introduction}
+\input{verbal}
 
-%\addcontentsline{toc}{chapter}{Introduction}
-%\chaptermark{Introduction}
-%\markboth{Introduction}{Introduction}
 
 % The three lines above are to make sure that the headers are right,
 % that the intro gets included in the table of contents, and that it
@@ -214,7 +214,7 @@ doesn't add an indent there.
 
 % Make my bibliography be called "Bibliography" and not "References" (or "Works Cited" or...):
 % \renewcommand{\bibname}{Works Cited}
-    \bibliographystyle{ChicagoReedweb} % there are a variety of styles available; 
+    \bibliographystyle{chicago} % there are a variety of styles available; 
 % replace ``plainnat'' with the style of choice.  You can refer to files in the bsts or APA 
 % subfolder, e.g.  
 % \bibliographystyle{APA/apa-good}  % or
