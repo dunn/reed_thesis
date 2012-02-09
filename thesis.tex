@@ -212,18 +212,8 @@ doesn't add an indent there.
   \backmatter % backmatter makes the index and bibliography appear
               % properly in the t.o.c...
 
-% Make my bibliography be called "Bibliography" and not "References" (or "Works Cited" or...):
-% \renewcommand{\bibname}{Works Cited}
-    \bibliographystyle{chicago} % there are a variety of styles available; 
-% replace ``plainnat'' with the style of choice.  You can refer to files in the bsts or APA 
-% subfolder, e.g.  
-% \bibliographystyle{APA/apa-good}  % or
-% \bibliographystyle{bsts/mla-good} 
-
-% if you're using bibtex, the next line forces every entry in the bibtex file to be included
-% in your bibliography, regardless of whether or not you've cited it in the thesis.
-    %\nocite{*}
-    \bibliography{everything}
+\bibliographystyle{chicago
+\bibliography{everything}
 
 \end{spacing}
 % Finally, an index would go here\,\ldots\,but it is also optional.
