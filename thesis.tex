@@ -39,7 +39,9 @@
 {%
 	\begin{spacing}{1}%
 	\vspace{0pt}
-		\begin{description}[style=nextline, noitemsep, parsep=0pt, topsep=0pt, leftmargin=15mm, itemindent=-10mm, font=\mdseries]
+		\begin{description}[style=nextline, noitemsep,
+                    parsep=0pt, topsep=0pt, leftmargin=15mm,
+                    itemindent=-10mm, font=\mdseries]
 			\item[\textsc{#1} \emph{#2}] #3
 			\item[]%
 			\begin{flushright}#4\end{flushright}
@@ -51,7 +53,8 @@
 {%
 	\begin{spacing}{1}%
 	\vspace{0pt}
-		\begin{description}[style=nextline, parsep=0pt, leftmargin=15mm, itemindent=-10mm, font=\mdseries]
+		\begin{description}[style=nextline, parsep=0pt,
+                    leftmargin=15mm, itemindent=-10mm, font=\mdseries]
 			\item[\textsc{#1} \emph{#2}] #3
 		\end{description}%
 	\end{spacing}%
@@ -136,17 +139,17 @@
    % \listoffigures
 
 % If your abstract is longer than a page, there may be a formatting issue.
-\chapter*{Abstract}
-Chairs exist.
+%% \chapter*{Abstract}
+%% Chairs exist.
 
-	\mainmatter % here the regular arabic numbering starts
-	\pagestyle{fancyplain} % turns page numbering back on
+\mainmatter % here the regular arabic numbering starts
+\pagestyle{fancyplain} % turns page numbering back on
   
-\chapter*{Introduction}
+\chapter{Introduction: Why do I believe what I believe?}
 \chapterpig{Introduction}
-\addcontentsline{toc}{chapter}{Introduction}
-\chaptermark{Introduction}
-\markboth{Introduction}{Introduction}
+%% \addcontentsline{toc}{chapter}{Introduction}
+%% \chaptermark{Introduction}
+%% \markboth{Introduction}{Introduction}
 \input{verbal}
 
 
@@ -154,9 +157,12 @@ Chairs exist.
 % that the intro gets included in the table of contents, and that it
 % doesn't get numbered 1 so that chapter one is 1.
 
-\chapter{Belief}
-\chapterpig{Belief}
-\input{comp}
+\chapter{Beliefs}
+\chapterpig{Beliefs}
+\input{stroud}
+\input{inwagen}
+\input{merricks}
+\input{unger}
 
 %% \chapter{Paraphrases}
 %% \chapterpig{Paraphrases}
@@ -212,7 +218,7 @@ doesn't add an indent there.
   \backmatter % backmatter makes the index and bibliography appear
               % properly in the t.o.c...
 
-\bibliographystyle{chicago
+\bibliographystyle{chicago}
 \bibliography{everything}
 
 \end{spacing}
