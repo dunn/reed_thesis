@@ -1,6 +1,44 @@
 #+TITLE: Thesis notes
 * The big picture
 ** big plans
+*** <2012-02-11 Sat> outline
+1. No philosophical argument can prove that "there are chairs" is
+   false
+   - it can only show that what makes "there are chairs" true is less
+     than we thought
+   - there is no refuge in Ontologese
+2. Nihilists cannot explain why we believe that there are chairs; this
+   gives us more reason to think that "there are chairs" is true
+   - van Inwagen's failure shows that there is not one univocal answer
+     to the SCQ; what is required for there to be a chair is different
+     from what is required for there to be a person
+   - Merricks shows us that talk of 'composition' can lead us astray
+     - it may not be true that "there is a chair" and "there are
+       simples arranged chairwise" _mean_ the same thing, but they
+       have the same truth-conditions (cf. Sider's Nihilo)
+     - Merricks' example backfires on him.  He attempts to motivate
+       nihilism by showing that "I see a chair!" is not an argument
+       for the conclusion that there are chairs.  His analogy is [I'm
+       adapting] a dog and a tree within 3 meters of each other.
+       Obviously there is nothing composed of them, he says, so
+       someone saying "I see it!" should not do anything for us.
+       Therefore the person saying "I see a chair" shouldn't either.
+       But let's drop the talk of 'composing' and give the thing a
+       name.  A 'dog-bush' is a tree and a dog within three meters of
+       each other.  Now it is much less tempting to say that
+       dog-bushes _don't exist_.  What would that mean?  That dogs
+       never get within three meters of trees?  _Of course_ there are
+       dog-bushes.
+3. If we're trying to maintain that there are chairs, but also trying
+   to develop a consistent theory, then universalism seems obviously
+   true.  But Unger's nihilism and the sorites paradoxes threaten this
+   happy conclusion.
+   - Ordinary terms like 'chair' are currently imprecise.  Unger
+     thinks they are therefore incoherent.
+   - Some think we can simply make them precise.  But not only would
+     this defeat the purpose of such terms, it simply seems impossible
+     to give necessary and sufficient conditions for there being a
+     chair _in terms of simples_ (cf. Welles).
 *** analytic definitions
 # <<analyticity>>
 cf Austin on [[entailment]]
