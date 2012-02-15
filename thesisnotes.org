@@ -4468,3 +4468,8 @@ will have a good time of it.
 ** Semantic localism
 *** Rayo, "Plea"
 # <<rayo>>
+** Referring to the many
+When we refer to "that chair", it is _undecided_, for every thing
+(atom), whether or not that is 'part of' the chair.  So when Unger (or
+whoever is playing the sorites game) asks us "is _that_ atom part of
+the chair?" we _then_ decide whether or not.
