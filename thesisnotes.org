@@ -411,6 +411,29 @@ if there are chairs, then we have a simple causal story as to why we
 believe there are chairs: there are chairs, and we see them
 
 if there aren't chairs, then the causal story will be more complicated
+*** <2012-02-17 Fri>
+**** Merricks on why we believe that there are chairs
+Is there a quote where he says that things arranged chairwise interest
+us (while dogbushes don't)?
+**** Composition
+1. If I introduce 'dogbush', what does it mean to say that the dogbush
+   _is_ the tree and the dog?
+2. Conventionalism; would Markosian think that there are dogbushes if
+   the term gained currency?
+3. Teams; are the members of the team parts of the team?  Do they
+   compose the team?  Is the team therefore a _thing_?
+4. Groups; for every set of people is there a group of them?  Is is
+   only the salient groups that we take to exist?
+5. Technical definions; van Inwagen's composition uses the
+   'un-analysed' notion of parthood.  (see his introduction)
+   - Am I using 'composition' and 'part' in the same sense as van
+     Inwagen, Merricks, Markosian etc.?  If not, are their senses of
+     the notions useful or not?
+**** Sets
+1. Do the members of a set compose the set?
+   - in the loose or technical sense?
+2. Are the members of a set parts of the set?
+   - in the loose or technical sense?
 ** Stroud
 *** The Quest for Reality
 <<quest>>
