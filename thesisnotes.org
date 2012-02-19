@@ -425,7 +425,7 @@ us (while dogbushes don't)?
 4. Groups; for every set of people is there a group of them?  Is is
    only the salient groups that we take to exist?
 5. Technical definions; van Inwagen's composition uses the
-   'un-analysed' notion of parthood.  (see his introduction)
+   'un-analysed' notion of parthood.  (see his [[v-intro][introduction]])
    - Am I using 'composition' and 'part' in the same sense as van
      Inwagen, Merricks, Markosian etc.?  If not, are their senses of
      the notions useful or not?
@@ -2757,7 +2757,6 @@ blue and half red.  How are we to describe this?
   parts through time.
 ** Peter van Inwagen
 *** Material Beings
-
 **** Preface
 
 "There are no tables or chairs or any other visible objects except
@@ -2825,13 +2824,34 @@ compose some larger object does not depend on anything besides the
 spatial and causal relations they bear to one another.' (12)
 
 **** Section 1
-
+<<v-intro>>
 van Inwagenism entails, 'among other things, that there are no
 visible objects but men and women and cats and other living organisms,
 that there are no tables or books or rocks or hands or legs.' (18)
 
----'The metaphysically puzzling features of material objects are connected in deep and essential ways with metaphysically puzzling features of the constitution of material objects by their parts.'
-
+> The metaphysically puzzling features of material objects are
+> connected in deep and essential ways with metaphysically puzzling
+> features of the constitution of material objects by their parts.
+> Parthood will occupy a central place in the present study of
+> material objects.  It is therefore worth noting that the word 'part'
+> is applied to many things besides material objects.  We have already
+> noted that submicroscopic objects like quarks and protons are at
+> least not clear cases of material objects; nevertheless, every
+> material object would seem pretty clearly to have quarks and protons
+> as _parts_, and, it would seem, in exactly the same sense of _part_
+> as that in which a paradigmatic material object might have another
+> paradigmatic material object as a part.  A "part," therefore, need
+> not be a thing that is clearly a material object.  Moreover, the
+> word 'part' is applied to things that are clearly _not_ material
+> objects---or at least it is on the assumption that these things
+> really exist and that apparent reference to them is not a mere
+> manner of speaking.  A stanza is a part of a poem; Botvinnik was in
+> trouble for part of the game; the part of the curve that lies below
+> the x-axis contains two minima; parts of his story are hard to
+> believe...such examples can be multiplied indefinitely.  Does this
+> word 'part' mean the same thing when we speak of parts of cats,
+> parts of poems, parts of games, parts of curves, and parts of
+> stories? (18--19).
 **** Section 2
 
 > 'I have found it helpful to ask not 'In what circumstances is a plank
@@ -3315,7 +3335,6 @@ Unger's presuppositions
 > securely, e.g., by gluing them to one another.  And there's nothing
 > at all one could do with them to get them to add up to a fish or a
 > clock or a sports car (705).
-
 
 *** Replies to reviewers
 > "Let me revert once more to my Copernican analogy. Someone who says,
