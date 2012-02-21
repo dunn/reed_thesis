@@ -434,6 +434,12 @@ us (while dogbushes don't)?
    - in the loose or technical sense?
 2. Are the members of a set parts of the set?
    - in the loose or technical sense?
+**** TODO
+- [X] discuss 'series'-style answers and brutalism re SCQ
+- [X] verbal disputes
+- [X] merricks quote re conventionalism
+- [ ] visual evidence; no dogbushes in the park
+- [ ] parthood
 ** Stroud
 *** The Quest for Reality
 <<quest>>
@@ -3759,6 +3765,67 @@ it and meaning skepticism/interpretationism).
   there's no reason to doubt that 'joint-carving' will pick out the
   joint-carving notion of joint-carving---if there is such a notion. A
   big if!
+** Parthood
+*** Kit Fine, "Toward a theory of part"
+**** Intro
+**** 1. the intuitive notion of part
+> One object may be a part of another---some thunder a part of a
+> storm, for example, or the shell a part of a nut.  When one object
+> is a part of another, there is a sense in which it is in the
+> other—not in the sense of being enclosed by the other, as when a
+> marble is in an urn, but more in the sense of being integral to the
+> other.  When parts are in question, it is also appropriate to talk
+> of a given object being composed of or built up from the objects
+> that it contains.  Thus a storm may be composed of various
+> occurrences of lightning and thunder, while an urn is not
+> composed---even in part---of the marbles that it contains (560).
+
+> Philosophers have often supposed the notion of part only has proper
+> application to material things or the like and that its application
+> to abstract objects such as sets or properties is somehow improper
+> and not sanctioned by ordinary use.  But I suspect that this is
+> something of a philosopher’s myth.  We happily talk of a sentence
+> being composed of words and of the words being composed of
+> letters---and not just the sentence and work tokens, mind, but also
+> the types.  And similarly, a symphony (and not just its performance)
+> will be composed of movements, a play of acts, a proof of steps.  I
+> wonder how many of these philosophers have said such things as
+> ``this paper is in three parts.''  When they have, then I very much
+> doubt that they would have any inclination, as ordinary speakers of
+> the language, to add ``but not, of course, in a strict or literal
+> sense of the term''; and the intended reference here is not
+> primarily---or perhaps not at all---to the tokens of the paper but
+> to the type of which they are the tokens.  The evidence concerning
+> our ordinary talk of part is mixed and complicated, but it does not
+> seem especially to favor taking material things to be the only true
+> relata of the relation (561).
+**** 2. pluralism
+> Now, on the face of it, there would appear to be a wide variety of
+> basic ways in which one object can be a part of another. The letter
+> ‘n’ would appear to be a part of the expression ‘no’, for example,
+> and a particular pint of milk part of a particular quart; and if
+> these two relations of part are not themselves basic (perhaps
+> through being restricted to expressions or quantities), there would
+> appear to be basic relations of part that hold between ‘n’ and ‘no’
+> or the pint and the quart. It is also plausible that the way in
+> which ‘n’ is a part of ‘no’ is different from the way in which the
+> pint is a part of the quart. For if the two ways were the same, then
+> how could it be that two pints were only capable of composing a
+> single quart, while the two letters ‘n’ and ‘o’ were capable of
+> composing two expressions, ‘no’ and ‘on’?  For the same reason, the
+> way in which the letter ‘n’ is a part of the expression ‘no’ would
+> also appear to be different from the way in which it is a part of
+> the set of letters {‘n’, ‘o’}; and the way in which ‘n’ is a part of
+> {‘n’, ‘o’} would appear to be different from the way in which a pint
+> is a part of a quart, since if four quarts compose a gallon the
+> pints which compose the quarts will compose the gallon in the same
+> way in which they compose the quarts, whereas, if four sets compose
+> a further set the members of the sets will not compose the further
+> set in the same way in which they compose the component sets. Thus
+> we would now appear to have three different basic ways in which
+> one object can be a part of another (pint/gallon, letter/word, and
+> member/set); and once these cases have been granted, it is plausible
+> that there will be many more.
 * Language and Reference
 ** Analyticity
 see [[analyticity]] above
