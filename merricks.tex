@@ -347,7 +347,8 @@ these:
 
 \begin{itemize}
   \item At the park, there are six trees, each with a (single) dog
-    sleeping under it.  There are six dogbushes in the park.
+    sleeping under it.  There are six dogbushes in the
+    park. \label{park}
   \item In the above example, if one dog walked away from its tree,
     there would be one less dogbush.
   \item If that dog then walked under another tree (where another dog
@@ -409,6 +410,9 @@ one can supposedly see them'' \citeyearpar[75]{merricks2001a}.  On the
 contrary, I say that once this is pointed out, one is no longer
 justified in believing that dogbushes {\em don't} exist.  For our
 visual evidence would {\em not} be the same if there were none.
+(Recall my sample uses of `dogbush' above, in which there were six,
+and then later five, dogbushes in the park.  If at any point there
+were none, that would be because the dogs had all left their trees.)
 
 Likewise, if there were no chairs, our visual evidence would certainly
 not be the same.  If there were no chairs, there would not be any
@@ -737,10 +741,11 @@ is a singular term that designates a thing---the family.
 
 `The crew' appears to behave like `the Dunn family' and not like `the
 Dunns'.  We say things like ``there is a skeleton crew on board'', or
-``the crew is small for such a large ship''.  Were we to say things
-like ``the crew are abandoning the ship'', this would most likely be a
-case of non-literal speech; `the crew' is being used non-literally to
-refer to the crewmembers.
+``the crew is small for such a large ship'', and ``the crew is
+abandoning the ship''.  Were we to say things like ``the crew {\em
+  are} abandoning the ship'', this would most likely be a case of
+non-literal speech; `the crew' is being used non-literally to refer to
+the crewmembers.
 
 The phenomenon of non-literal talk can lead us astray when thinking
 about terms like `team' as well.  `The Reed College women's rugby
@@ -760,7 +765,9 @@ true) to say that the Badass Sparkle Princesses are rugby players.
 
 I will henceforth assume that terms like `crew', `family', and `team'
 are not plural referring expressions, but rather singular terms that
-designate things---crews, families, and teams.
+designate things---crews, families, and teams.  (Similar
+considerations will convince us that `dogbush' is a singular term too,
+and not a plural referring expression.)
 
 \section{Parthood and the language of composition}
 Things like teams, crews, and families are indeed {\em things}.  They
@@ -781,7 +788,7 @@ parthood.  How I am using the term `part' will therefore influence how
 I construct formal equivalences for propositions like ``there are
 chairs'', ``there are dogbushes'', and ``there are teams''.  Is the
 appropriate formalization for each of these the same?  Can chairs,
-dogbushes, and teams each `fit in' to the schema ``there is a thing
+dogbushes, and teams each `fit in' to the schema ``there is an $x$
 such that it is composed of the $y$s''?  Or is `composition' one of
 many {\em operations} that `produce' things?
 
@@ -903,6 +910,152 @@ two pints were only capable of composing a single quart, while the two
 letters `n' and `o' were capable of composing two expressions, `no'
 and `on' \citeyearpar[562]{fine2010}?
 \end{squote}
+
+The parthood relation for sets is again different.  The set containing
+the only the letters `n' and `o' has the letters as parts.  When the
+letters are parts of a set, their order is irrelevant, but when the
+letters are parts of a word, order matters; hence `no' and `on'.  The
+parthood relation for sets is also different from the parthood
+relation for quantities (of milk):
+
+\begin{squote}
+If four quarts compose a gallon the pints which compose the quarts
+will compose the gallon in the same way in which they compose the
+quarts, whereas, if four sets compose a further set the members of the
+sets will not compose the further set in the same way in which they
+compose the component sets.  Thus we would now appear to have three
+different basic ways in which one object can be a part of another
+(pint/gallon, letter/word, and member/set); and once these cases have
+been granted, it is plausible that there will be many more
+\citeyearpar[562]{fine2010}.
+\end{squote}
+
+If we grant first that things like sets have parts and second that
+the parthood relation for sets differs from that for other things
+(like quantities of milk and words and material objects), then a
+number of questions arise:
+
+\begin{enumerate}[ref=(\arabic*)]
+  \item What ties together all the ways of being a part?  Is there any
+    similarity between the different parthood relations other than
+    some ``analogical resemblance''
+    \citep[19]{inwagen1995}? \label{part1}
+  \item If there is something common to all parthood relations, does
+    this show that a set is a {\em thing} in the same sense as a chair
+    is a thing?  One reason to distinguish different {\em kinds} of
+    thing is the idea that things like sets are {\em abstract}
+    objects.  If I am the only part of my singleton (the set that
+    contains only me), what is the difference between me and my
+    singleton?  Can I {\em see} my singleton?  Or does it have
+    another, abstract, part that is not visible? \label{part2}
+  \item Above I claimed that teams were things.  Are they things in
+    the way that sets are, or are they more like material objects?  It
+    is apparently correct to say that I {\em saw} the team, but is
+    that another non-literal use of the word (do I just mean that I
+    saw the players)?
+\end{enumerate}
+
+\subsection{Questions about parthood}
+\label{part-q}
+Regarding \ref{part1}, I am tempted to say that what is common to all
+parthood relations is that from each set of parts is produced a {\em
+  whole}.  This may simply be metaphorical, but it is nonetheless an
+accurate description of the result of the composition operator.  From
+parts (bits of wood, players, letters) we can `make' something new (a
+chair, a team, a word).  From a number of things we get {\em one}.
+What ties together all the ways of being a part is that they all
+are part (!) of an operation that produces a single thing from a
+number of things:
+
+\begin{squote}
+In formulating the principles of mereology, it has been usual to take
+the relation of part-whole or some associated relation (such as
+overlap) as primitive.  But I believe that, in formulating a more
+general theory, it is important to take the operation of composition
+as primitive rather than the more familar relation of part-whole.  In
+the case of classical mereology, the operation of composition will
+take some objects into the sum or fusion of those objects, while, in
+the set-theoretic case, it will take some objects into the set of
+those objects; and, in general, the operation of composition will be
+the characteristic means (summation, set-builder, and so on) by which
+a given kind of whole is formed from its parts \citep[565]{fine2010}.
+\end{squote}
+
+Fine's theory suggests a way to make sense of the wish sandwich.  We
+may define a special composition operator that accepts as parts any
+kinds of thing---material things like bread, immaterial wishes, groups
+and sets.
+
+There are at least two questions related to \ref{part2}.  One is a
+question about the `vocality' of existence.  Are there difference
+senses of `exist', or is it univocal?  ``Many philosophers,'' says van
+Inwagen, ``have thought that `there is' and `exists' mean one thing
+when they are applied to material objects, and another when they are
+applied to, say, minds, and yet another when they are applied to (or
+withheld from) supernatural beings, and one more thing again when
+applied to abstractions like numbers or possibilities''
+\citeyearpar[236]{inwagen1998}.  Van Inwagen denies this, claiming
+that there one sense of `exist', which is equivalent to the quantifier
+$\exists$.  If van Inwagen is right about this, then, if ``there is a
+chair'' is true, and if ``there is a set'' is true, both can be
+expressed as ``$\exists x$\,\ldots ''
+
+I will not contest this claim by van Inwagen.  That is, I will suppose
+that existence is univocal, and maintain that both chairs and sets
+exist in the very same sense.
+
+The second question related to \ref{part2} has to do with the apparent
+differences between `abstract' and `material' things.  We can try to
+bring out these differences by comparing me with my singleton.  I am a
+human being, which is (probably) a physical thing.  My singleton is a
+set containing only me.  It seem implausible to suppose that I am my
+singleton; what could be more different than a person and a set?  But
+there is a sense in which we are the same: we both have the same
+parts.  I am the only improper part of me, and I am the only member of
+my singleton.
+
+One could object here that, while my hand is a proper part of me, it
+is not a part of my singleton.  But why not?  My hand is a part of me,
+and I am a part of my singleton.  Moreover, parthood is generally
+taken to be transitive.
+
+We can avoid these confusions my accepting Fine's proposed pluraty of
+parthood relations.  I am a part of myself in a different way than I
+am a part of my singleton.  The former is the parthood relation for
+human organisms (which may or may not be the classic mereological
+relation), and the latter is the parthood relation of set membership.
+Additionally, we can account for the feeling that my hand is `part' of
+the singleton.  My hand is part of the set, but only in a {\em hybrid}
+sense:
+
+\begin{squote}
+Given the specific relations of part, we may derive various {\em
+  hybrid} relations of part.  Suppose, for example, that we are given
+the relations of set-theoretic and mereological part---which we may
+designate as \textepsilon -part and $m$-part. We may then take one
+object to be an \textepsilon ,$m$-part of another if it is an
+\textepsilon -part or an $m$-part or an $m$-part of an \textepsilon
+-part or an \textepsilon -part of an $m$-part, or an $m$-part of an
+\textepsilon -part of an $m$-part, and so on. More generally, if $K$
+is a family of specific ways of being a part, we may take an object to
+be a {\em K-part} of another if $x$ and $y$ can be linked by
+relationships of $k$-part for $k$ in $K$ \citeyearpar[579]{fine2010}.
+\end{squote}
+
+My hand might therefore be a \textepsilon ,$m$-part of my singleton,
+but not a part in the set-theoretic sense.
+
+The foregoing should make our answer to \ref{part3} relatively
+straightfoward.  Just as there is a composition operator for sets, and
+an operator for mereological fusions, so is there an operator for
+groups, teams, clubs, etc.  Because teams have their very own
+composition operator, we don't have to worry about their `inheriting'
+properties from either fusions or sets.  Teams are probably less
+abstract than are sets, but it is not quite correct to call them
+material things.  And whereas sets are (almost certainly) not visible
+things, teams may very well be.  Fine's theory allows us to answer
+these questions at our leisure and build them into our definition of
+the team-builder operator.
 
 \subsection{Deflationary metaphysics}
 \label{deflate}

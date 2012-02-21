@@ -438,7 +438,7 @@ us (while dogbushes don't)?
 - [X] discuss 'series'-style answers and brutalism re SCQ
 - [X] verbal disputes
 - [X] merricks quote re conventionalism
-- [ ] visual evidence; no dogbushes in the park
+- [X] visual evidence; no dogbushes in the park
 - [ ] parthood
 ** Stroud
 *** The Quest for Reality
