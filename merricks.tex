@@ -6,6 +6,7 @@
 \usepackage{enumitem}
 %\usepackage{amssymb}
 \usepackage{amsmath}
+\usepackage{tipa}
 \usepackage{epstopdf}
 \usepackage{verbatim}
 \usepackage{setspace}
@@ -410,9 +411,10 @@ one can supposedly see them'' \citeyearpar[75]{merricks2001a}.  On the
 contrary, I say that once this is pointed out, one is no longer
 justified in believing that dogbushes {\em don't} exist.  For our
 visual evidence would {\em not} be the same if there were none.
-(Recall my sample uses of `dogbush' above, in which there were six,
-and then later five, dogbushes in the park.  If at any point there
-were none, that would be because the dogs had all left their trees.)
+(Recall my sample uses of `dogbush' in section \ref{park} above, in
+which there were six, and then later five, dogbushes in the park.  If
+at any point there were none, that would be because the dogs had all
+left their trees.)
 
 Likewise, if there were no chairs, our visual evidence would certainly
 not be the same.  If there were no chairs, there would not be any
@@ -930,7 +932,7 @@ been granted, it is plausible that there will be many more
 \citeyearpar[562]{fine2010}.
 \end{squote}
 
-If we grant first that things like sets have parts and second that
+If we grant, first, that things like sets have parts and, second, that
 the parthood relation for sets differs from that for other things
 (like quantities of milk and words and material objects), then a
 number of questions arise:
@@ -941,18 +943,18 @@ number of questions arise:
     some ``analogical resemblance''
     \citep[19]{inwagen1995}? \label{part1}
   \item If there is something common to all parthood relations, does
-    this show that a set is a {\em thing} in the same sense as a chair
-    is a thing?  One reason to distinguish different {\em kinds} of
-    thing is the idea that things like sets are {\em abstract}
-    objects.  If I am the only part of my singleton (the set that
-    contains only me), what is the difference between me and my
-    singleton?  Can I {\em see} my singleton?  Or does it have
-    another, abstract, part that is not visible? \label{part2}
+    this show that a set is a thing in the same sense as a chair is a
+    thing?  One reason to distinguish different {\em kinds} of thing
+    is the idea that things like sets are {\em abstract} objects.  If
+    I am the only part of my singleton (the set that contains only
+    me), what is the difference between me and my singleton?  Can I
+    {\em see} my singleton?  Or does it have another, abstract, part
+    that is not visible? \label{part2}
   \item Above I claimed that teams were things.  Are they things in
     the way that sets are, or are they more like material objects?  It
     is apparently correct to say that I {\em saw} the team, but is
     that another non-literal use of the word (do I just mean that I
-    saw the players)?
+    saw the players)? \label{part3}
 \end{enumerate}
 
 \subsection{Questions about parthood}
@@ -983,8 +985,8 @@ a given kind of whole is formed from its parts \citep[565]{fine2010}.
 
 Fine's theory suggests a way to make sense of the wish sandwich.  We
 may define a special composition operator that accepts as parts any
-kinds of thing---material things like bread, immaterial wishes, groups
-and sets.
+kinds of thing---material things like bread, immaterial wishes,
+groups, sets, and every other kind of thing.  (More on this below.)
 
 There are at least two questions related to \ref{part2}.  One is a
 question about the `vocality' of existence.  Are there difference
@@ -1010,9 +1012,8 @@ bring out these differences by comparing me with my singleton.  I am a
 human being, which is (probably) a physical thing.  My singleton is a
 set containing only me.  It seem implausible to suppose that I am my
 singleton; what could be more different than a person and a set?  But
-there is a sense in which we are the same: we both have the same
-parts.  I am the only improper part of me, and I am the only member of
-my singleton.
+there is a sense in which we are the same: I am the only improper part
+of me, and I am the only member of my singleton.
 
 One could object here that, while my hand is a proper part of me, it
 is not a part of my singleton.  But why not?  My hand is a part of me,
@@ -1039,11 +1040,28 @@ object to be an \textepsilon ,$m$-part of another if it is an
 \textepsilon -part of an $m$-part, and so on. More generally, if $K$
 is a family of specific ways of being a part, we may take an object to
 be a {\em K-part} of another if $x$ and $y$ can be linked by
-relationships of $k$-part for $k$ in $K$ \citeyearpar[579]{fine2010}.
+relationships of $k$-part for $k$ in $K$ \citep[579]{fine2010}.
 \end{squote}
 
 My hand might therefore be a \textepsilon ,$m$-part of my singleton,
-but not a part in the set-theoretic sense.
+but not a \textepsilon -part.  In the case of the wish sandwich, I
+mentioned above that we might introduce a special composition operator
+that took as parts any kind of thing.  It might then be correct to say
+that the bread and the wish are both $k$-parts of the wish sandwich
+(thus vindicating my hope, mentioned earlier, that such a
+sentence---``the bread and the wish are both parts of the
+sandwich''---is literally true):
+
+\begin{squote}
+Among the hybrid relations of part, of special interest is the
+relation of $K$-part where $K$ is the family of all the specific ways
+of being a part.  This is the relation of $K$-part that holds between
+two objects when they may be linked by relationships of $k$-part
+without restriction on $k$.  We might call it the {\em general}
+relation of part, and it is a relation that holds between $x$ and $y$
+whenever $x$ is in any way whatever a part of $y$
+\citep[580]{fine2010}.
+\end{squote}
 
 The foregoing should make our answer to \ref{part3} relatively
 straightfoward.  Just as there is a composition operator for sets, and
@@ -1057,8 +1075,30 @@ things, teams may very well be.  Fine's theory allows us to answer
 these questions at our leisure and build them into our definition of
 the team-builder operator.
 
-\subsection{Deflationary metaphysics}
+\section{$K$-universalism}
 \label{deflate}
+With Fine's theory in mind, we might reformulate a universalist thesis
+as follows:
+
+\begin{description}
+  \item[$K$-universalism] Necessarily, for any $y$s, there is some
+    $x$ such that the $y$s are $k$-parts of $x$.
+\end{description}
+
+What a given $x$ is---a material object, a set, a group, or something
+else---will depend on {\em how} it is composed.  What composition
+operator produces $x$ will also tell us what kind of parts it has.
+This thesis does not give us that information; it only tells us that
+$x$ has the $y$s as parts in some way or other.
+
+For any given $x$, how should we determine what kind of thing it is?
+Perhaps, as Jay Rosenberg suggested (see section \ref{lessons-v}), we
+must have recourse to the empirical sciences.  For any given $y$s, we
+may suppose that they compose a thing---that is the metaphysical
+lesson we may draw.  But the question of what kind of thing they
+compose is not a metaphysical question.  It is an empirical question.
+
+\subsection{Deflationary metaphysics}
 Kathrin Koslicki has an interesting objection to universalist theses
 such as the one I appear committed to.  Her objection amounts to this:
 if every `collection' of objects (such as the London Bridge, a
@@ -1082,8 +1122,10 @@ simple) is a fusion of {\em its} temporal parts.  Each temporal part
 of the chair is also a thing (a fusion).
 
 I take no stance on whether objects have temporal parts or rather
-`endure' through time.  But Koslicki's comments are relevant
-nonetheless:
+`endure' through time.  Moreover, if we accept Fine's theory of parts
+then we reject the idea that there is just one composition operation;
+the operation that produces fusions is one among many.  But Koslicki's
+comments are relevant nonetheless:
 
 \begin{squote}
 There is room, in Sider's theory, for {\em some} genuine ontological
@@ -1125,13 +1167,13 @@ is not like making a pie.
 
 I agree that the Special Composition Question is, in a sense, the
 wrong question.  But this is not because I think there is no answer to
-is; rather I think there is no {\em interesting} answer.  Once we set
-aside misleading terms like `composition', we see that an answer much
-like universalism is obviously correct.  There may be interesting
-questions in the vicinity---When are we willing to call something a
-chair?  What conditions must be fulfilled?---but these are, as
-Koslicki observes, not ontological questions anymore.  They are
-questions about our ``conceptual household.''
+is; rather I think there is no {\em interesting} answer.  Something
+like $K$-universalism is correct, but it is not interesting.  There
+may, however, be interesting questions in the vicinity---When are we
+willing to call something a chair?  What conditions must be
+fulfilled?---but these are, as Koslicki observes, not ontological
+questions anymore.  They are questions about our ``conceptual
+household.''
 
 \section{Lessons}
 What we have learned from examining Merricks' arguments is not that
