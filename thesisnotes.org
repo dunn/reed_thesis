@@ -440,6 +440,8 @@ us (while dogbushes don't)?
 - [X] merricks quote re conventionalism
 - [X] visual evidence; no dogbushes in the park
 - [X] parthood
+- [X] more examples
+- [ ] art, teams, and convention
 ** Stroud
 *** The Quest for Reality
 <<quest>>
