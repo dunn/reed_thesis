@@ -439,7 +439,7 @@ us (while dogbushes don't)?
 - [X] verbal disputes
 - [X] merricks quote re conventionalism
 - [X] visual evidence; no dogbushes in the park
-- [ ] parthood
+- [X] parthood
 ** Stroud
 *** The Quest for Reality
 <<quest>>
