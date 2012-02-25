@@ -426,7 +426,7 @@ that there are chairs.
 
 Similar examples are readily available:
 
-\paragraph{The accidental art}
+\paragraph{The accidental art} \label{towel}
 Pranksters break into a museum to install joke pieces of art.  One one
 wall they put up a bathroom mirror and towel ring (complete with
 towel).  Under the mirror they put a little sign reading ``Wash your
@@ -446,8 +446,8 @@ Here, the only point at which is it true to say that {\em Wash Your
 who claimed that it was {\em never} in the museum because it doesn't
 exist would be saying something quite clearly false.
 
-\paragraph{The curious archipelago}
-This example is based on something by John Hawthorne
+\paragraph{The curious archipelago} \label{roman}
+This example is based on one by John Hawthorne
 \citeyearpar{hawthorne2008}.  Archipelagos obviously exist.  There are
 many archipelagos in the world.  They are, as one might put it,
 ``scattered objects''.  The archipelago is made up of a number of
@@ -467,17 +467,22 @@ Despite these extraordinary circumstances, it is nonetheless true that
 the Roman archipelago exists.  It just happens to be composed of
 several islands, a Roman ruin, a pile of old bones, and an alien
 spacecraft.  To say the Roman Archipelago does not exist would mean
-that these things are {\em not} sitting in the Mediterranean Sea.  It
+that these things are {\em not} sitting in the Mediterranean Sea.  (It
 so happens that I made this story up, so the Roman Archipelago in fact
-doesn't exist, but it does in the story.
+doesn't exist, but it does in the story.)
+
+\paragraph{The universe} \label{world}
+What would it mean to say that the universe doesn't exist?
 
 \subsection{The meaning and truth-conditions of `chair'}
 \label{meaning}
-I think I know how Merricks would object.  He might take me to be
-accusing him of `linguistic contradiction'.  He might think that I
-think that `there are chairs' means `there are things arranged
-chairwise'; to affirm the one and deny the other would be absurd.  His
-response to this sort of objection is as follows:
+I am claiming that if things like dogbushes and wacky archipelagos did
+not exist, that would mean that there were no dogs near trees or no
+such objects in the (fictional) Mediterranean.  Merricks might
+therefore take me to be accusing him of `linguistic contradiction'.
+He might think that I think that `there are chairs' means `there are
+things arranged chairwise'; to affirm the one and deny the other would
+be absurd.  His response to this sort of objection is as follows:
 
 \begin{squote}
 `There are married bachelors' is no explicitly formally contradictory,
@@ -1185,7 +1190,8 @@ products of a composition operation are identical:
     application conditions are very lax: for any $n$ physical objects
     (where $n$ \textgreater{} 1), there is a thing composed of those
     objects.  The application conditions for the set-builder will be
-    more limited; and other operations will be more restricted still.
+    more limited; and other operations will be more restricted
+    still. \label{fine-app}
   \item[Identity] Setting out identity conditions on Fine's
     operational approach ``is a matter of stating when a whole formed
     in one way by means of the compositional operation is the same as
@@ -1458,12 +1464,172 @@ operation is putatively prior to its parts.
 
 \section{Building groups}
 \label{group}
-[cf. \citet{uzquiano2004a}]
+%[cf. \citet{uzquiano2004a}]
 
-What is the relation between groups and teams?  Are teams groups that
-have been `baptized' in a certain way (through official recognition,
-or some other ritual)?  Or are teams a different kind of entity
-altogether?
+I this section I will attempt to define a composition operator for
+groups.  One might ask why this is necessary.  Groups, it might be
+objected, are really no different than sets.  When we speak of a group
+of people, we are actually referring to the set of which they are
+members.
+
+This is a mistake, however; groups differ from sets in important ways.
+The Supreme Court, for instance, is a group.  It is a special group
+with unique political attributes, but it is a group nonetheless.  And
+any attempt to identify the Supreme Court with the set of the Supreme
+Court justices will not succeed.  It will not succeed because the
+membership of the Supreme Court changes over time, while the members
+of a set do not.  The set containing the 1990 justices is a {\em
+  different} set from the set containing the 2012 justices, but the
+2012 Supreme Court is not a different entity than the 1990 Court.  (We
+may of course say things like ``it's a different court now'', but by
+that we mean only that it is composed of different people, and so may
+rule differently.)
+
+If one grants that groups such as the Supreme Court are not sets, it
+may still be objected that they are therefore simply mereological
+sums.  But 
+
+\begin{squote}
+membership in the Supreme Court is very different from
+the part-whole relation on material objects.  The part-whole relation
+on material objects is a transitive relation.  Thus if one identified
+the Supreme Court with a material object and Justice Breyer with a
+part of it, then one would be forced to conclude that Justice Breyer's
+arm must be a part of the Supreme Court as well.  Yet, it is plain
+that Justice Breyer's arm is neither a part nor a member of the
+Supreme Court \citep[136--137]{uzquiano2004a}.
+\end{squote}
+
+If the Supreme Court were a mereological sum, it would behave very
+strangely.  What its parts would be on a given occasion would depend
+on the appointment decisions of the President.  (If we accept a
+`four-dimensional' version of universalism, then objects have {\em
+  temporal} as well as spatial parts.  There would then be a
+mereological sum of the parts of the justices that existed during
+their appointments.  This would be an object whose existed would not
+depend on the President.)
+
+There is at least some motivation to posit a new {\em kind} of thing
+that is not a set or a sum.  This new kind is the group.
+
+\subsection{The place of the group in Fine's template}
+\label{group-temp}
+In section \ref{classical} above, Kit Fine showed how the summation
+operator relates to four different properties: Collapse, Leveling,
+Absorption, and Permutation.
+
+\begin{description}
+  \item[Absorption] $\sum (\mathellipsis, x, x, \mathellipsis,
+    \mathellipsis, y, y, \mathellipsis, \mathellipsis = \sum (
+    \mathellipsis, x, \mathellipsis, y, \mathellipsis )$;
+\item[Collapse] $\sum (x) = x$;
+\item[Leveling] $\sum (\mathellipsis, \sum (x, y, z, \mathellipsis ),
+  \mathellipsis, \sum (u, v, w, \mathellipsis ), \mathellipsis ) = \sum
+  (\mathellipsis, x, y, z, \mathellipsis, \mathellipsis, u, v, w,
+  \mathellipsis, \mathellipsis )$;
+\item[Permutation] $\sum (x, y, z, \mathellipsis ) = \sum (y, z, x,
+  \mathellipsis )$ (and similarly for all other permutations)
+  \citep[573]{fine2010}.
+\end{description}
+
+Sums have all four properties, while sets have only Permutation and
+Absorption.  We can begin to define our group operator by thinking
+about which of these properties it has.
+
+I tentatively suggest that groups mimick sets with regard to these
+four properties.  Groups possess Absorption due to the fact that one
+cannot be twice a member of the same group.  Groups possess
+Permutation, since there is no `order' with regard to membership of a
+group (there may be {\em temporal} order---I joined the group
+first!---but that is not the same thing).  Groups do not possess
+Collapse, since (I am inclined to think) a group can have a single
+member without thereby {\em being} that member.  If, for example, a
+task force is created and only one individual assigned to it, the
+findings of the task force will be of the {\em task force} and not of
+the individual.  Groups do not possess Leveling either, since there
+can be groups made up of groups.
+
+So far we have seen that groups are quite similar to sets.  But there
+are some differences.  As we have seen, groups can change their
+membership, while sets cannot.  Additionally, I suggest that the
+application conditions (see section \ref{fine-app}) for groups is very
+difference from that of sets.  While sets can have more or less
+anything as members (letters, people, other sets), I propose that {\em
+  groups may be composed only of living things or other groups}.
+
+This claim is made on intuitive grounds.  It simply seems odd to talk
+about a group of rocks, or a group of sets.  Talk of groups implies
+some sort of activity, and so it is more natural to use `group' to
+refer to people and other animals.  Even a `group' of trees is not
+wholly bizarre.
+
+Another point on application conditions: I think that group
+composition is {\em unrestricted} among living things and groups.
+That is, for any set of living things and/or groups, there is a group
+of them.  Any restriction seems arbitrary.
+
+\subsection{Members-at-times}
+Another important difference between sets and groups is that while the
+members of a set are necessarily so, the members of a group may change
+over time.  We should therefore think of the group composition
+operator (the group-builder) as operating {\em not} on (living) things
+but on things-at-times.  (I hope this does not presuppose
+four-dimensionalism.)  The group-builder for the Supreme Court takes
+the various justices during the times of their service and produces
+the group---the Supreme Court---from those people-at-times.
+
+This might presuppose {\em eternalism}.  If the group-builder makes
+the Supreme Court `in one go', then future justices (people-at-times)
+must already exist in some sense.  How else could the group-builder
+operate on them?
+
+One way to avoid presupposing eternalism would be to introduce the
+notion of a {\em dynamic} operator.  A dynamic group operator is in
+some sense constantly building (or re-building) the group.  It could
+thus actively operate only on present things.
+
+\subsection{Identity conditions}
+cf Fine
+
+\subsection{Kinds of groups}
+I said above the Supreme Court is a special kind of group.  What does
+this mean?  The Supreme Court certainly has more power than other
+groups.  Might it be {\em more} than just a group?  I am going to
+argue that the Supreme Court is really just a group, but that we (the
+United States and the world) have ascribed to it various social or
+conventional characteristics which set it apart from other groups.
+
+The best reason I can think of for considering the Supreme Court to be
+simply a group is this: what else could it be?  I have already had to
+argue for the recognition of groups as an `ontological category';
+should I now claim that {\em courts} are yet another category?  What
+about teams, clubs, and mililtias?  There are many different kinds of
+groups, and it seems very strange to suppose that there must be a
+separate ontological category for each.  This is especially so because
+the difference between these groups are largely {\em conventional}.
+The differences have to do with the social role and importance of the
+respective groups, not some deep metaphysical difference.  Whether a
+given group is a team, club, militia, or court depends on {\em us},
+not on the world.  We decide what kind of a group it is.
+
+But now another question arises.  How does a `generic' group {\em
+  become} a team, club, militia or court?  Are groups `baptized' in a
+certain way (through official recognition, or some other ritual)?  Or
+is it a more vague kind of status that depends on how the group is
+perceived, or how its members think of it?
+
+The case of the Supreme Court is, at least, relatively
+straightforward.  The Supreme Court was established by the Consitution
+and so has legal recognition.  It would take a constitutional
+amendment to dissolve the Supreme Court.  Were that to happen, the
+group that was the Supreme Court would be just another group.  (But
+would its membership change?  My first impression is that the
+membership would be `frozen' at the time of dissolution.)
+
+Other kinds of groups can be seen to follow a similar pattern.  Teams
+are instituted more or less officially (professional and college teams
+on one end, neighborhood pick-up teams on the other) but have clear
+enough membership criteria and 
 
 \section{What else is there?}
 [Figure out how, if at all, Fine's theory can be used to explain the

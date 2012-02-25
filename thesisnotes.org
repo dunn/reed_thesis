@@ -441,7 +441,29 @@ us (while dogbushes don't)?
 - [X] visual evidence; no dogbushes in the park
 - [X] parthood
 - [X] more examples
-- [ ] art, teams, and convention
+- [ ] art, teams, and convention (statue and the lump!)
+- [ ] the world exists
+*** <2012-02-24 Fri>
+**** Sider/Hirsch
+Scientists and weird meanings; Hirsch's interpretations of ontologists
+is just as 'weird' as Putnam-esque interpretations of scientists
+***** TODO
+- [ ] drop that criticism
+- [ ] see if the Heerriet argument can stand on its own
+**** Dogbushes
+***** Dommel
+Every dog is a dommel, and every dommel is a mammal
+
+Is 'dogbush' similarly underspecified
+***** TODO
+- [ ] dogbush is a bad example
+- [ ] stipulation is not the most convincing way to motivate
+  universalism
+- [ ] start with the archipelago, then art installation, then lumpkin
+- [ ] Sider's 'mistake' and the Nihilo story
+- [ ] F existence principle
+- [ ] argument structure; start with minions then move to the
+  'two-thing' universe
 ** Stroud
 *** The Quest for Reality
 <<quest>>
