@@ -442,7 +442,11 @@ us (while dogbushes don't)?
 - [X] parthood
 - [X] more examples
 - [ ] art, teams, and convention (statue and the lump!)
-- [ ] the world exists
+  - "that _was_ a statue"
+  - similarly, "that was Sean!"
+    - it isn't that there is some _thing_ that ceases to exist, the
+      body stops being a human and the lump stops being a statue
+- [ ] supreme court (even as a group) ceases to exist if dissolved
 *** <2012-02-24 Fri>
 **** Sider/Hirsch
 Scientists and weird meanings; Hirsch's interpretations of ontologists
@@ -464,6 +468,21 @@ Is 'dogbush' similarly underspecified
 - [ ] F existence principle
 - [ ] argument structure; start with minions then move to the
   'two-thing' universe
+- [ ] does a thing changing its parts over time require temporal
+  parts?
+  - Sandra Day O'Connor _was_ a member of the Supreme Court.  Does
+    this mean that her 1981--2006 part _is_ a member of the Supreme
+    Court, or that _she_ was, but is no longer (at all)?  The latter
+    sounds right.  But how does this square with the composition
+    operator?  If the operator takes _things_ and produces a group,
+    then it can't do it all in one fell swoop unless things have
+    temporal parts.  If Sandra Day O'Connor does not have temporal
+    parts, then the group operator can't take _her_, because she isn't
+    always part of the Supreme Court.  So if we don't want to
+    presuppose temporal parts, the group operator has to be
+    _dynamic_.  It can't just take things, compose them and be
+    done---it has to _add and remove things over time_.  (cf. Thomson
+    on time-relativized fusions.)
 ** Stroud
 *** The Quest for Reality
 <<quest>>
