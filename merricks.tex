@@ -4,7 +4,7 @@
 \geometry{letterpaper}
 \usepackage{graphicx}
 \usepackage{enumitem}
-%\usepackage{amssymb}
+\usepackage{amssymb}
 \usepackage{amsmath}
 \usepackage{tipa}
 \usepackage{epstopdf}
@@ -1483,7 +1483,8 @@ of a set do not.  The set containing the 1990 justices is a {\em
 2012 Supreme Court is not a different entity than the 1990 Court.  (We
 may of course say things like ``it's a different court now'', but by
 that we mean only that it is composed of different people, and so may
-rule differently.)
+rule differently---note that we do {\em not} say ``it's a different
+Court now''.)
 
 If one grants that groups such as the Supreme Court are not sets, it
 may still be objected that they are therefore simply mereological
@@ -1552,44 +1553,82 @@ can be groups made up of groups.
 So far we have seen that groups are quite similar to sets.  But there
 are some differences.  As we have seen, groups can change their
 membership, while sets cannot.  Additionally, I suggest that the
-application conditions (see section \ref{fine-app}) for groups is very
-difference from that of sets.  While sets can have more or less
+application conditions (see section \ref{fine-app}) for groups is
+different from that of sets.  While sets can have more or less
 anything as members (letters, people, other sets), I propose that {\em
-  groups may be composed only of living things or other groups}.
+  groups may be composed only of living things and other groups}.
 
 This claim is made on intuitive grounds.  It simply seems odd to talk
 about a group of rocks, or a group of sets.  Talk of groups implies
 some sort of activity, and so it is more natural to use `group' to
 refer to people and other animals.  Even a `group' of trees is not
-wholly bizarre.
+wholly bizarre.  And a group---for example, the Special Committee on
+Judicial Ethics---might be part of another group---the Committee of
+Ethics Committees \citep[145]{uzquiano2004a}.
 
-Another point on application conditions: I think that group
-composition is {\em unrestricted} among living things and groups.
-That is, for any set of living things and/or groups, there is a group
-of them.  Any restriction seems arbitrary.
+%% Another point on application conditions: I think that group
+%% composition is {\em unrestricted} among living things and groups.
+%% That is, for any set of living things and/or groups, there is a
+%% group of them.  Any restriction seems arbitrary.
 
-\subsection{Members-at-times}
+\subsection{How do groups change their members?}
 Another important difference between sets and groups is that while the
 members of a set are necessarily so, the members of a group may change
-over time.  We should therefore think of the group composition
-operator (the group-builder) as operating {\em not} on (living) things
-but on things-at-times.  (I hope this does not presuppose
-four-dimensionalism.)  The group-builder for the Supreme Court takes
-the various justices during the times of their service and produces
-the group---the Supreme Court---from those people-at-times.
+over time.  How does this work?
 
-This might presuppose {\em eternalism}.  If the group-builder makes
-the Supreme Court `in one go', then future justices (people-at-times)
-must already exist in some sense.  How else could the group-builder
-operate on them?
+We could think of the group composition operator (the group-builder)
+as operating {\em not} on things (living things and groups) but on
+things-at-times.  The group-builder for the Supreme Court takes the
+various justices during the times of their service and produces the
+group---the Supreme Court---from those people-at-times.
 
-One way to avoid presupposing eternalism would be to introduce the
-notion of a {\em dynamic} operator.  A dynamic group operator is in
-some sense constantly building (or re-building) the group.  It could
-thus actively operate only on present things.
+One problem with this proposal is that it appears to presuppose {\em
+  temporal parts}.  For if the group-builder works in similar fashion
+to the set-builder and summation operator, then it operates on {\em
+  things}.  If our group-builder is going to operate on
+people-at-times, then we seem to commit ourselves to the claim that
+people-at-times are {\em things}.  And what things could they be but
+temporal parts of other things?
+
+Thinking of groups as being composed of things-at-times rather than
+things is unintuitive in any case.  Sandra Day O'Connor \emph{was} a
+member of the Supreme Court.  Taking temporal parts seriously would
+require us saying instead that her 1981---2006 part \emph{is} a member
+of the Supreme Court.  But Sandra Day O'Connor is no longer a member
+{\em at all}.
+
+If we don't want to presuppose temporal parts, the group operator has
+to be somehow \emph{dynamic}. It can't just take things, compose them
+and be done---it has to \emph{add and remove things over time}.
+
+Making sense of a dynamic group operator allows us to avoid
+presupposing {\em eternalism} as well.  If the group-builder made the
+Supreme Court `in one go', then future justices would have to already
+exist in some sense.  How else could the group-builder operate on
+them?
+
+The most readily apparent way of making sense of a dynamic operator is
+by relativizing the group-builder to times.  We can think of the
+operator as taking a set at a time and producing a group: $G = \sum
+_{t} \{S\}$.  Following \citet{uzquiano2004a}, we can say that set $S$
+composes group $G$ at time $t$ if and only if:
+
+\begin{enumerate}[label=(\arabic*)]
+  \item $\forall x\ (x \in S \leftrightarrow x\ \text{is a member of}\ G
+  \  @\ t)$
+  \item $\exists x {[} x\ \text{is a member
+      of}\ G\ @\ t\ \wedge\ \square ( x \in S )\ \wedge
+    \\ \diamond\ \exists t^{\prime} ( G\ \text{exists}\ @
+    \ t^{\prime}\ \wedge\ \neg ( x\ \text{is a member
+      of}\ G\ @\ t^{\prime} )) {]}\ \vee \\ \exists x^{\prime} {[}
+    \neg ( x^{\prime}\ \text{is a member of}\ G\ @\ t)\ \wedge \\ \neg
+    \diamond (x^{\prime} \in S ) \wedge \ \diamond \exists t^{\prime
+      \prime} (x^{\prime} \text{is a member of}\ G\ @\ t^{\prime
+      \prime}) {]}$\ \citep[150]{uzquiano2004a}
+\end{enumerate}
 
 \subsection{Identity conditions}
-cf Fine
+
 
 \subsection{Kinds of groups}
 I said above the Supreme Court is a special kind of group.  What does

@@ -446,7 +446,22 @@ us (while dogbushes don't)?
   - similarly, "that was Sean!"
     - it isn't that there is some _thing_ that ceases to exist, the
       body stops being a human and the lump stops being a statue
-- [ ] supreme court (even as a group) ceases to exist if dissolved
+    - three-dimensionalism + mereological essentialism +
+      conventionalism about ordinary things = crazytime?
+- [ ] supreme court (even as a group) ceases to exist if dissolved?
+  - if conventional essentialism (above), then the group that is the
+    court changes over time.  So the group that is the court now is
+    not the same group as then (in one sense, not the same court).  So
+    if one asks "But _what is_ the Supreme Court?" we can just say "a
+    group of people (with such-and-such authority)".  If they then ask
+    "_which_ group?" we just say "well, _now_ it's x but it used to be
+    y."
+- [ ] identity conditions for things over time is whatever we agree
+  they are?  (cf. Merricks)
+- [ ] when we say "that was a statue", what is _that_?  Which sum?
+  What it we are pointing at half the lump after the other half was
+  blown off?  Is this just non-literal speech ("no, not _that_ sum,
+  the one that _USED TO BE HERE_!")
 *** <2012-02-24 Fri>
 **** Sider/Hirsch
 Scientists and weird meanings; Hirsch's interpretations of ontologists
