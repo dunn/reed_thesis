@@ -467,8 +467,8 @@ us (while dogbushes don't)?
 Scientists and weird meanings; Hirsch's interpretations of ontologists
 is just as 'weird' as Putnam-esque interpretations of scientists
 ***** TODO
-- [ ] drop that criticism
-- [ ] see if the Heerriet argument can stand on its own
+- [X] drop that criticism
+- [X] see if the Heerriet argument can stand on its own
 **** Dogbushes
 ***** Dommel
 Every dog is a dommel, and every dommel is a mammal
