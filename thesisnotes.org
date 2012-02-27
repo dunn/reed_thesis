@@ -448,7 +448,7 @@ us (while dogbushes don't)?
       body stops being a human and the lump stops being a statue
     - three-dimensionalism + mereological essentialism +
       conventionalism about ordinary things = crazytime?
-- [ ] supreme court (even as a group) ceases to exist if dissolved?
+- [X] supreme court (even as a group) ceases to exist if dissolved?
   - if conventional essentialism (above), then the group that is the
     court changes over time.  So the group that is the court now is
     not the same group as then (in one sense, not the same court).  So
@@ -475,15 +475,15 @@ Every dog is a dommel, and every dommel is a mammal
 
 Is 'dogbush' similarly underspecified
 ***** TODO
-- [ ] dogbush is a bad example
-- [ ] stipulation is not the most convincing way to motivate
+- [X] dogbush is a bad example
+- [X] stipulation is not the most convincing way to motivate
   universalism
-- [ ] start with the archipelago, then art installation, then lumpkin
+- [X] start with the archipelago, then art installation, then lumpkin
 - [ ] Sider's 'mistake' and the Nihilo story
 - [ ] F existence principle
 - [ ] argument structure; start with minions then move to the
   'two-thing' universe
-- [ ] does a thing changing its parts over time require temporal
+- [X] does a thing changing its parts over time require temporal
   parts?
   - Sandra Day O'Connor _was_ a member of the Supreme Court.  Does
     this mean that her 1981--2006 part _is_ a member of the Supreme
