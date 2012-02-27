@@ -1462,29 +1462,50 @@ is a simple, which is at level 0---the same level as its part
 (itself).  It is not weakly generative because the result of the
 operation is putatively prior to its parts.
 
-\section{Building groups}
+\section{Groups and sets}
 \label{group}
-%[cf. \citet{uzquiano2004a}]
+There are a number of reasons to think that, along with sets, there
+are also groups.  The most salient reason is the apparent fact that
+groups can change their parts, while sets cannot.  If groups are
+distinct from sets, we should be able to define a group-builder that
+is distinct from a set-builder.  However, defining a group-builder
+that allows a group to change its parts requires that we assume {\em
+  eternalism}.  If we wish to remain neutral on the
+presentism/eternalism debate, we have no means of distinguishing
+groups from sets.
 
-I this section I will attempt to define a composition operator for
-groups.  One might ask why this is necessary.  Groups, it might be
-objected, are really no different than sets.  When we speak of a group
-of people, we are actually referring to the set of which they are
+\subsection{Motivating groups}
+The set-builder, on Fine's theory, takes things (such as jurists) and
+produces a set composed of them.  There is a set $S$ composed of the
+2004 Supreme Court justices:
+
+\begin{displaymath}
+S = \sum _{\in} ( \text{Rehnquist, Stevens, O'Connor, Scalia, Kennedy,
+  Souter, Thomas, \\ Ginsburg, Breyer}) = \{\text{Rehnquist, Stevens,
+  O'Connor, Scalia, Kennedy, \\ Souter, Thomas, Ginsburg, Breyer}\}
+\end{displaymath}
+
+But some claim that, in addition to sets, there are also {\em groups}.
+There may, in addition to the set \{Rehnquist, Stevens, O'Connor,
+Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer\}, a group
+containing the very same people.
+
+One might ask why this is necessary.  Groups, it might be objected,
+are really no different than sets.  When we speak of a group of
+people, we are actually referring to the set of which they are
 members.
 
-This is a mistake, however; groups differ from sets in important ways.
-The Supreme Court, for instance, is a group.  It is a special group
-with unique political attributes, but it is a group nonetheless.  And
-any attempt to identify the Supreme Court with the set of the Supreme
-Court justices will not succeed.  It will not succeed because the
-membership of the Supreme Court changes over time, while the members
-of a set do not.  The set containing the 1990 justices is a {\em
-  different} set from the set containing the 2012 justices, but the
-2012 Supreme Court is not a different entity than the 1990 Court.  (We
-may of course say things like ``it's a different court now'', but by
-that we mean only that it is composed of different people, and so may
-rule differently---note that we do {\em not} say ``it's a different
-Court now''.)
+But there are some reasons why it seems incorrect to identify groups
+with sets.  Take the Supreme Court.  It seems that any attempt to
+identify the Supreme Court with the set of the Supreme Court justices
+will not succeed.  This is because the membership of the Supreme Court
+changes over time, while the members of a set do not.  The set
+containing the 1990 justices is a {\em different} set from the set
+containing the 2012 justices, but the 2012 Supreme Court is not a
+different entity than the 1990 Court.  (We may of course say things
+like ``it's a different court now'', but by that we mean only that it
+is composed of different people, and so may rule differently---note
+that we do {\em not} say ``it's a different Court now''.)
 
 If one grants that groups such as the Supreme Court are not sets, it
 may still be objected that they are therefore simply mereological
@@ -1507,11 +1528,14 @@ on the appointment decisions of the President.  (If we accept a
 `four-dimensional' version of universalism, then objects have {\em
   temporal} as well as spatial parts.  There would then be a
 mereological sum of the parts of the justices that existed during
-their appointments.  This would be an object whose existed would not
+their appointments.  This would be an object whose existence would not
 depend on the President.)
 
 There is at least some motivation to posit a new {\em kind} of thing
 that is not a set or a sum.  This new kind is the group.
+Unfortunately, once we try to spell out the identity conditions of
+groups, we will see that, without assuming eternalism, we cannot
+distinguish groups from sets.
 
 \subsection{The place of the group in Fine's template}
 \label{group-temp}
@@ -1537,7 +1561,7 @@ Sums have all four properties, while sets have only Permutation and
 Absorption.  We can begin to define our group operator by thinking
 about which of these properties it has.
 
-I tentatively suggest that groups mimick sets with regard to these
+I tentatively suggest that groups mimic sets with regard to these
 four properties.  Groups possess Absorption due to the fact that one
 cannot be twice a member of the same group.  Groups possess
 Permutation, since there is no `order' with regard to membership of a
@@ -1572,9 +1596,9 @@ Ethics Committees \citep[145]{uzquiano2004a}.
 %% group of them.  Any restriction seems arbitrary.
 
 \subsection{How do groups change their members?}
-Another important difference between sets and groups is that while the
-members of a set are necessarily so, the members of a group may change
-over time.  How does this work?
+The most important apparent difference between sets and groups is that
+while the members of a set are necessarily so, the members of a group
+may change over time.  How does this work?
 
 We could think of the group composition operator (the group-builder)
 as operating {\em not} on things (living things and groups) but on
@@ -1601,16 +1625,16 @@ If we don't want to presuppose temporal parts, the group operator has
 to be somehow \emph{dynamic}. It can't just take things, compose them
 and be done---it has to \emph{add and remove things over time}.
 
-Making sense of a dynamic group operator allows us to avoid
-presupposing {\em eternalism} as well.  If the group-builder made the
-Supreme Court `in one go', then future justices would have to already
-exist in some sense.  How else could the group-builder operate on
-them?
+Making sense of a dynamic group operator might allow us to avoid
+presupposing {\em eternalism} as well (ultimately it will not).  If
+the group-builder made the Supreme Court `in one go', then future
+justices would have to already exist in some sense.  How else could
+the group-builder operate on them?
 
 The most readily apparent way of making sense of a dynamic operator is
 by relativizing the group-builder to times.  We can think of the
 operator as taking a set at a time and producing a group: $G = \sum
-_{t} \{S\}$.  Following \citet{uzquiano2004a}, we can say that set $S$
+_{t} (S)$.  Following \citet{uzquiano2004a}, we can say that set $S$
 composes group $G$ at time $t$ if and only if:
 
 \begin{enumerate}[label=(\arabic*)]
@@ -1624,88 +1648,263 @@ composes group $G$ at time $t$ if and only if:
     \neg ( x^{\prime}\ \text{is a member of}\ G\ @\ t)\ \wedge \\ \neg
     \diamond (x^{\prime} \in S ) \wedge \ \diamond \exists t^{\prime
       \prime} (x^{\prime} \text{is a member of}\ G\ @\ t^{\prime
-      \prime}) {]}$\ \citep[150]{uzquiano2004a}
+      \prime}) {]}$\ \citeyearpar[150]{uzquiano2004a}
 \end{enumerate}
 
+I will assume that group composition is {\em unrestricted}.  That is,
+for any people and/or groups at any time $t$, there is a group
+composed of them at that time.
+
 \subsection{Identity conditions}
+Given that groups can change their parts over time, there will be
+cases in which $G = \sum _{t_1} ( S )$ and $G^{\prime} = \sum _{t_2}
+( S^{\prime} )$ and $G = G^{\prime}$ and $t_1 \neq t_2$ and $S \neq
+S^{\prime}$.  When will this occur?  Under what conditions does $G =
+G^{\prime}$?
 
+For example, $t_1$ might be 2004, $t_2$ might be 2012, $S$ might be
+\{Rehnquist, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas,
+Ginsburg, Breyer\} and $S^{\prime}$ might be \{Roberts, Stevens,
+O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer\}.  If we
+suppose that $G$ is the Supreme Court in 2004 and that $G^{\prime}$
+is the Supreme Court, then we want to be able to say that $G =
+G^{\prime}$.  
 
-\subsection{Kinds of groups}
-I said above the Supreme Court is a special kind of group.  What does
-this mean?  The Supreme Court certainly has more power than other
-groups.  Might it be {\em more} than just a group?  I am going to
-argue that the Supreme Court is really just a group, but that we (the
-United States and the world) have ascribed to it various social or
-conventional characteristics which set it apart from other groups.
+But now we have hit a snag.  For as Uzquiano points out, a set of
+people can compose more than one group at a time.  Suppose that all
+and only the members of the Supreme Court in 2004 are part of the
+Special Committee on Judicial Ethics.  In this case ``the Supreme
+Court share[s] all of its members with the Special Committee on
+Judicial Ethics as of a certain time [2004]''
+\citep[151]{uzquiano2004a}.  It seems false to say that, in 2004, the
+Supreme Court was identical with the Special Committee.  But if the
+Supreme Court, $G$, is $\sum _{t} ( S )$ and the Special Committee,
+$C$, is also $\sum _{t} ( S )$, then how can we deny that $G = C$?
 
-The best reason I can think of for considering the Supreme Court to be
-simply a group is this: what else could it be?  I have already had to
-argue for the recognition of groups as an `ontological category';
-should I now claim that {\em courts} are yet another category?  What
-about teams, clubs, and mililtias?  There are many different kinds of
-groups, and it seems very strange to suppose that there must be a
-separate ontological category for each.  This is especially so because
-the difference between these groups are largely {\em conventional}.
-The differences have to do with the social role and importance of the
-respective groups, not some deep metaphysical difference.  Whether a
-given group is a team, club, militia, or court depends on {\em us},
-not on the world.  We decide what kind of a group it is.
+%% One way is to allow that the group-builder can produce numerically
+%% distinct groups from repeated applications of the same operation.
 
-But now another question arises.  How does a `generic' group {\em
-  become} a team, club, militia or court?  Are groups `baptized' in a
-certain way (through official recognition, or some other ritual)?  Or
-is it a more vague kind of status that depends on how the group is
-perceived, or how its members think of it?
+The obvious solution is to look at the past and future histories of
+$G$ and $C$.  The Supreme Court is composed of $S^{\prime}$ in 2012,
+while the Special Committee has been dissolved.  But I do not see how
+we can appeal to identity across time without assuming eternalism.
+Without assuming eternalism, we seem forced to admit that, in 2004,
+the Supreme Court {\em is} the Special Committee on Judicial Ethics.
 
-The case of the Supreme Court is, at least, relatively
-straightforward.  The Supreme Court was established by the Consitution
-and so has legal recognition.  It would take a constitutional
-amendment to dissolve the Supreme Court.  Were that to happen, the
-group that was the Supreme Court would be just another group.  (But
-would its membership change?  My first impression is that the
-membership would be `frozen' at the time of dissolution.)
+The point of positing the existence of groups in addition to sets was
+to avoid the identity of the Supreme Court with the Special
+Committee.  But positing groups is not sufficient; we also need to
+assume eternalism.  If we do not assume eternalism, then groups do not
+help us.  Therefore, we should reconsider whether the positing of
+groups is necessary.
 
-Other kinds of groups can be seen to follow a similar pattern.  Teams
-are instituted more or less officially (professional and college teams
-on one end, neighborhood pick-up teams on the other) but have clear
-enough membership criteria and 
+\subsection{Re-examining the set identity thesis}
+\label{set-id}
+Given that we cannot seem to distinguish the Supreme Court and the
+Special Committee, we might abandon groups altogether and claim that
+the Supreme Court is not a group, but a set.  This view, of course,
+has difficulties of its own.
 
-\section{What else is there?}
-[Figure out how, if at all, Fine's theory can be used to explain the
-  wish sandwich]
+The primary motivation cited above for positing groups was the fact
+that the Supreme Court changes its members over time.  For example,
+both of the following sentences are true:
 
-If there is a plurality of kinds of composition, then what position
-should we take on the putative results of these composition
-operations?  Should we embrace universal universalism and claim that
-they all exist?  Or should we be more cautious?
+\begin{enumerate}[label=(\arabic*)]
+  \item The Supreme Court ruled on Roe vs.\ Wade in 1973. \label{roe1}
 
+  \item The set of justices now serving as Supreme Court Justices did
+    not rule on Roe vs.\ Wade in 1973
+    \citep[135]{uzquiano2004a}. \label{roe2}
+\end{enumerate}
+
+One way to accommodate these facts is to ``insist that the Supreme
+Court is a set, but to abandon the assumption that there is a single
+set to which the phrase `the Supreme Court' refers in sentences
+\ref{roe1} and \ref{roe2}'' \citep[138]{uzquiano2004a}.  To
+successfully use the term `the Supreme Court' to refer to a set of
+justices, there must be an implicit or explicit temporal reference.
+If an utterance of \ref{roe1} is true it will be true because it the
+speaker intends her audience to recognize her intention to refer to
+the set of justices that was the Supreme Court in 1973.  If her
+audience, for whatever reason, takes her to be referring to the
+current Court, then they will evaluate \ref{roe1} as false.
+
+Considered in this light, `the Supreme Court' is used to express a
+relation between sets and times; ``$x$ is the Supreme Court at $t$''
+\citep[140]{uzquiano2004a}.  There is some precedent for this sort of
+interpretation:
+
+\begin{squote}
+Our use of the phrase `the Supreme Court' to express a relation a set
+of justices bears to a time is much like our use of the phrase `the
+president of the United States' to express a relation an individual
+bears to a time.  Different persons may be the president of the United
+States at different times, but there is at most one person that bears
+that relation to each time \citep[138]{uzquiano2004a}.
+\end{squote}
+
+``But,'' it will be objected, ``there is an important difference here.
+We use both terms---`the Supreme Court' and `the president'---to refer
+to a past, present or future set that `is' the thing, but we also use
+`the Supreme Court' to refer to {\em the Supreme Court}, which has
+changed its membership over time.  If I say, `the Supreme Court has
+become more conservative over the past century', there is no one set I
+am referring to.  I must be referring to something else; the obvious
+candidate is the {\em group} that is the Court.''
+
+One reply here is to claim that all that what ``the Supreme Court has
+become more conservative over the past century'' actually means is
+that the members of the sets that have been the Supreme Court have
+become more conservative.  Another, similar reply is that someone who
+utters ``the Supreme Court has become more conservative over the past
+century'' is saying something literally false (either because there is
+no unique set that is being referred to, or because there is a unique
+set referred to, but one that does not make the proposition true), but
+can generally be understood to mean something else; namely, that the
+members of the sets that have been the Supreme Court have become more
+conservative.
+
+Neither reply is {\em very} unintuitive; there is something attractive
+about a thesis that reserves application of adjectives like
+`conservative' for people, rather than other things like groups.
+
+But there is a more pressing worry for the set identity thesis.
+Recall that the set that is the Supreme Court at a given time might
+also compose the Special Committee on Judicial Ethics.  We must admit
+that the Supreme Court in 2004 is the set \{Rehnquist, Stevens,
+O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer\}, and the
+Special Committee in 2004 is that very same set.  But now we are
+committed to this argument:
+
+\begin{enumerate}[ref=(\arabic*)]
+  \item The Special Committee on Judicial Ethics is one of the
+    committees assembled by the Senate.
+
+  \item The Special Committee on Judicial Ethics is identical with the
+    Supreme Court.
+
+  \item {\em Therefore} the Supreme Court is one of the committees
+    assembled by the
+    Senate. \citep[144]{uzquiano2004a} \label{sup-com}
+\end{enumerate}
+
+And \ref{sup-com} seems false.
+
+But it may be possible to argue that \ref{sup-com} is not false but
+only {\em misleading} (indeed, very misleading).  For it
+(conversationally) implies that future sets referred to by `the
+Supreme Court' will be identical to future sets referred to by `the
+Special Committee'.  And it is {\em this} that is certainly false.
+
+\subsection{Set membership and implicature}
+\label{implicate}
+Suppose we arrive at a meeting of the Special Committee on Judicial
+Ethics.  Rehnquist, Stevens, O'Connor, Scalia, Kennedy, Souter,
+Thomas, Ginsburg, and Breyer are sitting around a center table.  As we
+take our seats you turn to me and say, ``they look rather familiar,
+don't they?''  I say ``that's also the Supreme Court.''
+
+What am I referring to with the demonstrative expression ``that''?  If
+one thinks that I am referring to a {\em group}---the Special
+Committee---that is distinct from the Supreme Court, my utterance will
+have to be interpreted as non-literal.  I will have to be understood
+to mean that the {\em members} of the Special Committee are also the
+members of the Supreme Court.
+
+Suppose instead that you ask me who the members of the Special
+Committee are.  I say ``Rehnquist, Stevens, O'Connor, Scalia, Kennedy,
+Souter, Thomas, Ginsburg, and Breyer.  The Special Committee is just
+the Supreme Court.''  Here again one could argue that I am speaking
+non-literally; what I mean is that the members of the Special
+Committee are just the members of the Supreme Court.
+
+Now suppose that the Special Committee is dissolved in 2004.  In 2005,
+we see the members of the Supreme Court (still Rehnquist, Stevens,
+O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer) out
+to lunch together.  I point and say ``that was the Special Committee
+on Judicial Ethics.''  Now what is the referent of ``that''?  It
+cannot be the Special Committee, for that has ceased to be.  It must
+either be the Supreme Court or the set \{Rehnquist, Stevens, O'Connor,
+Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer\}.  Either way,
+the proponent of groups will have to interpret this utterance as
+non-literal.
+
+Now suppose that the Special Committee is dissolved in 2004 and
+Rehnquist retired before dying in 2005 (let's pretend he retired in
+May).  Now in August we see Rehnquist, Stevens, O'Connor, Scalia,
+Kennedy, Souter, Thomas, Ginsburg, and Breyer out to lunch together.
+I point and say ``that was the Supreme Court {\em and} the Special
+Committee on Judicial Ethics.''  I can only be referring to the set of
+justices.  Why not suppose that I have only {\em ever} been referring
+to the set of justices?  If I am in fact referring to the set
+\{Rehnquist, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas,
+Ginsburg, Breyer\}, then when I say ``that was the Supreme Court {\em
+  and} the Special Committee'', I say something literally true.
+
+I also say something literally true when I say ``the Supreme Court is
+one of the committees assembled by the Senate'' or ``the Supreme Court
+is the Special Committee on Judicial Ethics''.  But it is very
+misleading to say either.  By saying ``the Supreme Court is the
+Special Committee'' I imply that future referents of `the Supreme
+Court' will be identical to future referents of `the Special
+Committee'.  It is less misleading to say ``the current Supreme Court
+is the Special Committee on Judicial Ethics''.  (It is even less
+misleading to say ``the current Supreme Court is also the Special
+Committee''.)
+
+We say above that `the Supreme Court' is sometimes used to refer
+(whether literally or non-literally) to more than one set.  When I say
+``the Supreme Court has become more diverse'' I mean that the members
+of the sets that have been the Supreme Court have become more diverse.
+It may be due to this fact that we so easily misiniterpret uttered
+propositions like ``the Supreme Court is the Special Committee''.  A
+listener might take this to mean that the members of the sets that
+have been the Supreme Court are identical with the members of the sets
+that have been the Special Committee.  They would therefore evaluate
+the utterance as false.
+
+%% This is because it is mutually assumed that the set referred to by
+%% `the Supreme Court' will change; the current set of justices will
+%% not always be the Supreme Court.  It is a contingent fact that one
+%% set---\{Rehnquist, Stevens, O'Connor, Scalia, Kennedy, Souter,
+%% Thomas, Ginsburg, and Breyer\}---is both the Supreme Court and the
+%% Special Committee in 2004, But since the form of the sentence ``the
+%% Supreme Court is the Special Committee'' is that of an identity
+%% statement, and sincethe audience will understandably
+
+\subsection{Conventional identity conditions}
+\label{set-convention}
+Even supposing everything above is right, there is still more to be
+said.  What are the identity conditions for the Supreme Court?  What
+makes it true that one set is the Supreme Court in 2004 and a
+different set is in 2012?
+
+What makes it true that a given set is the Supreme Court at a given
+time is simply our legal conventions.  The Constitution authorizes the
+recognition of a set of justices as `the Supreme Court'.  Which set is
+recognized as the Supreme Court is decided by the legislative and
+executive branches.  The president nominates a set (the sitting
+justices and the nominated justice) and the legislative branch votes.
+The outcome of the vote make it true or false that a given set is the
+Supreme Court.
+
+This is analogous for all `groups'.  Teams, bands, militias---what
+makes it true that a certain set is a team, band or militia is just
+the conventions governing the group.  If I desert my militia and the
+other members of the militia recognize my absence as a desertion, then
+it is understood that I am no longer part of the militia; for that
+reason it is then true that the set containing me is no longer the
+militia.  A smaller set, not containing me, is now the militia.
+
+It seems, then, that {\em identity conditions over time for groups are
+  wholly conventional}.  This is plausible; groups are social
+entities, and it makes sense that their composition should be a matter
+of social convention.  But if this is true, it suggests something more
+radical: that identity conditions over time for physical objects like
+chairs are conventional as well.
+
+%%%%%%
 \begin{comment}
-One is a question about the `vocality' of existence.  Are there
-difference senses of `exist', or is it univocal?  ``Many
-philosophers,'' says van Inwagen, ``have thought that `there is' and
-`exists' mean one thing when they are applied to material objects, and
-another when they are applied to, say, minds, and yet another when
-they are applied to (or withheld from) supernatural beings, and one
-more thing again when applied to abstractions like numbers or
-possibilities'' \citeyearpar[236]{inwagen1998}.  Van Inwagen denies
-this, claiming that there one sense of `exist', which is equivalent to
-the quantifier $\exists$.  If van Inwagen is right about this, then,
-if ``there is a chair'' is true, and if ``there is a set'' is true,
-both can be expressed as ``$\exists x$\,\ldots ''
-
-I will not contest this claim by van Inwagen.  That is, I will suppose
-that existence is univocal, and maintain that both chairs and sets
-exist in the very same sense.
-
-%%%%%%%
-
-Perhaps, as Jay Rosenberg suggested (see section \ref{lessons-v}), we
-must have recourse to the empirical sciences.  For any given $y$s, we
-may suppose that they compose a thing---that is the metaphysical
-lesson we may draw.  But the question of what kind of thing they
-compose is not a metaphysical question.  It is an empirical question.
-\end{comment}
-
 \section{Deflationary metaphysics}
 Kathrin Koslicki has an interesting objection to universalist theses
 such as the one I appear committed to.  Her objection amounts to this:
@@ -1802,7 +2001,7 @@ to call something a chair, and why?  What conditions must be
 fulfilled?---are not ontological questions anymore.  They are
 questions about our ``conceptual household.''
 
-\begin{comment}
+%\begin{comment}
 \section{Lessons}
 What we have learned from examining Merricks' arguments is not that
 there are no chairs.  What we have learned is that the language of
