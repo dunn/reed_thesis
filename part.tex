@@ -1,0 +1,1240 @@
+\documentclass[11pt]{article}
+\usepackage{standalone} \newif\ifstandlone \standalonetrue
+\usepackage[left=1.75in, right=1.75in, top=1.25in, bottom=1.25in]{geometry}
+\geometry{letterpaper}
+\usepackage{graphicx}
+\usepackage{enumitem}
+%\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{epstopdf}
+\usepackage{verbatim}
+\usepackage{setspace}
+\usepackage{natbib}
+\setcitestyle{aysep={}}
+\usepackage{url}
+\usepackage{hyperref}
+\synctex=1
+
+\DeclareSymbolFont{symbolsC}{U}{txsyc}{m}{n}
+\DeclareMathSymbol{\strictif}{\mathrel}{symbolsC}{74}
+\DeclareMathSymbol{\boxright}{\mathrel}{symbolsC}{128}
+
+\newenvironment{squote}{%
+\begin{spacing}{1}
+\begin{list}{}{%
+\setlength{\labelwidth}{0pt}%
+\rightmargin\leftmargin%
+}
+\item\relax
+}{%
+\end{list}%
+\end{spacing}
+}
+
+\title{How do chairs persist over time?}
+\author{Alexander A. Dunn}
+\begin{document}
+\ifstandalone
+\maketitle
+\begin{spacing}{1.5}
+\fi
+
+In the previous section I argued that not only do `material things'
+like chairs exist, but other kinds of things---like teams and
+families---exist as well.  In this section I will adopt Kit Fine's
+theory of parthood, which claims that there are many different ways of
+being a part of something.  However, I will argue that the way in
+which people are members of groups is the way that that things are
+parts of sets, and that teams and other groups are actually identical
+with sets.  Since sets do not change their parts, which set is
+identical with a group at a time is variable and dictated by {\em
+  convention}.  I will argue that the situation is analogous with
+material things: which `mereological sum' is identical with a chair at
+a time is a conventional matter.
+
+\section{Parthood and the language of composition}
+\label{part}
+Things like teams, crews, and families are indeed {\em things}.  They
+are not disguised references to plurals, nor are they ``mere
+collections'' \citep[29]{inwagen2009}.  Moreover, things like teams
+are things with {\em parts}.  The rugby players are each {\em part} of
+the Reed College women's rugby team.  The team is made up of---it is
+composed of---the players.
+
+When I say that the players are part of the team, or that the
+crewmembers are part of the crew, or that I am part of my family, is
+that use of `part' the same as when I say that the tree is part of the
+dogbush, or that the seat is part of the chair?  Are {\em any} of
+these uses of `part' the same?
+
+Technical notions of composition are often defined in terms of
+parthood.  How I am using the term `part' will therefore influence how
+I construct formal equivalences for propositions like ``there are
+chairs'', ``there are dogbushes'', and ``there are teams''.  Is the
+appropriate formalization for each of these the same?  Can chairs,
+dogbushes, and teams each `fit in' to the schema ``there is an $x$
+such that it is composed of the $y$s''?  Or is `composition' one of
+many {\em operations} that `produce' things?
+
+\subsection{Van Inwagen's notion of parthood}
+\label{van-part}
+Van Inwagen defines his technical notion of composition (see section
+\ref{scq}) in terms of a largely intuitive notion of parthood.  Van
+Inwagen's interest, however, is restricted to `material' objects
+(objects made exclusively of quarks and protons, or whatever the basic
+atoms of the physical world turn out to be).  While he goes on to use
+`part' only in reference to material objects, he recognizes that the
+term has much wider application:
+
+\begin{squote}
+Parthood will occupy a central place in the present study of material
+objects.  It is therefore worth noting that the word `part' is applied
+to many things besides material objects.  We have already noted that
+submicroscopic objects like quarks and protons are at least not clear
+cases of material objects; nevertheless, every material object would
+seem pretty clearly to have quarks and protons as \emph{parts}, and,
+it would seem, in exactly the same sense of \emph{part} as that in
+which a paradigmatic material object might have another paradigmatic
+material object as a part.  A ``part,'' therefore, need not be a thing
+that is clearly a material object.  Moreover, the word `part' is
+applied to things that are clearly \emph{not} material objects---or at
+least it is on the assumption that these things really exist and that
+apparent reference to them is not a mere manner of speaking.  A stanza
+is a part of a poem; Botvinnik was in trouble for part of the game;
+the part of the curve that lies below the x-axis contains two minima;
+parts of his story are hard to believe\,\ldots\,such examples can be
+multiplied indefinitely.  Does this word `part' mean the same thing
+when we speak of parts of cats, parts of poems, parts of games, parts
+of curves, and parts of stories \citeyearpar[18--19]{inwagen1995}?
+\end{squote} 
+
+Van Inwagen suggests that `part' does have a number of different
+meanings.  Later he says that ``there is one relation called
+`parthood' whose field comprises material objects\,\ldots\,another
+relation called `parthood' defined on events, another still defined on
+stories, yet another defined on curves, and so on''
+\citeyearpar[19]{inwagen1995}.
+
+One reason why we might resist this conclusion is that it appears to
+rule out the silly example of the wish sandwich.  A wish sandwich,
+recall, is the kind of sandwich where you have two slices of bread and
+wish you had some meat.  The slices of bread and the wish for meat are
+all parts of the wish sandwich.  But if they are parts of the sandwich
+in different ways, then in what sense did I use `part' in the
+preceding sentence?  If it was part$_b$---the parthood relation for
+foodstuffs---then the sentence was false, because a wish does not
+partake in that sort of relation.  If the relation was that of
+parthood$_w$---parthood for wishes---then the sentence would again be
+false, because {\em that} relation does not govern foodstuffs.  I
+could instead say ``the slices of bread are part$_b$ of the sandwich
+and the wish is part$_w$ of the sandwich'', but it still seems to me
+that the original sentence is {\em true}.  Might this suggest that
+there is really just one parthood relation that both foodstuffs and
+wishes partake in?
+
+Moreover, our modified sentence still faces a difficulty.  For the
+notion of composition is generally defined in terms of parthood.
+Since van Inwagen's technical definition of composition is given in
+terms of his notion of parthood, `composition' for van Inwagen can
+only apply to things whose parts are all material things.  Van
+Inwagen's notion of composition cannot make sense of the wish
+sandwich, or any thing with both material and non-material parts.
+(Van Inwagen does not see this as a disadvantage; he finds mysterious
+the idea that there could be something composed of ``you and I and the
+number two'' \citeyearpar[20]{inwagen1995}.)
+
+We could, perhaps, define `composition' in terms of not just one
+parthood relation but all of them.  Composition would take into
+account all possible ways there are of being a part.  Kit Fine has
+proposed a theory of parthood that takes seriously the possibility
+that there are a plurality of different parthood relations.
+
+\section{Fine's theory of part}
+\label{fine}
+Fine agrees with van Inwagen that the notion of parthood should not be
+reserved only for material things:
+
+\begin{squote}
+Philosophers have often supposed the notion of part only has proper
+application to material things or the like and that its application
+to abstract objects such as sets or properties is somehow improper
+and not sanctioned by ordinary use.  But I suspect that this is
+something of a philosopher’s myth.  We happily talk of a sentence
+being composed of words and of the words being composed of
+letters---and not just the sentence and work tokens, mind, but also
+the types.  And similarly, a symphony (and not just its performance)
+will be composed of movements, a play of acts, a proof of steps.  I
+wonder how many of these philosophers have said such things as ``this
+paper is in three parts.''  When they have, then I very much doubt
+that they would have any inclination, as ordinary speakers of the
+language, to add ``but not, of course, in a strict or literal sense of
+the term''; and the intended reference here is not primarily---or
+perhaps not at all---to the tokens of the paper but to the type of
+which they are the tokens.  The evidence concerning our ordinary talk
+of part is mixed and complicated, but it does not seem especially to
+favor taking material things to be the only true relata of the
+relation \citeyearpar[561]{fine2010}.
+\end{squote}
+
+But even if one accepts the idea that there are things other than
+`material things' that have parts, one might object that they are
+still all parts in the same sense.  This might be the parthood
+relation of classical mereology, or it might be some other, general
+relation.  Moreover, one who maintained the univocality of parthood
+can still concede that there are different ways of being a part.  But
+for the believer in the univocality of parthood---the `monist'---these
+are only {\em derivative} kinds of parthood.  For example, for any
+given mereological sum, there are bigger and smaller parts of it. But
+these are bigger and smaller parts of the same {\em kind}.  The
+pluralist goes further and claims that there are parts of different
+kinds. These different kinds are not derivative but \emph{basic}; they
+are ``not definable in terms of other ways of being a part''
+\citep[561]{fine2010}.  Fine gives a number of reasons to think that
+there might be different basic parthood relations:
+
+\begin{squote}
+Now, on the face of it, there would appear to be a wide variety of
+basic ways in which one object can be a part of another.  The letter
+`n' would appear to be a part of the expression `no', for example, and
+a particular pint of milk part of a particular quart; and if these two
+relations of part are not themselves basic (perhaps through being
+restricted to expressions or quantities), there would appear to be
+basic relations of part that hold between `n' and `no' or the pint and
+the quart.  It is also plausible that the way in which `n' is a part
+of `no' is different from the way in which the pint is a part of the
+quart.  For if the two ways were the same, then how could it be that
+two pints were only capable of composing a single quart, while the two
+letters `n' and `o' were capable of composing two expressions, `no'
+and `on' \citeyearpar[562]{fine2010}?
+\end{squote}
+
+The parthood relation for sets is again different.  The set containing
+the only the letters `n' and `o' has the letters as parts.  When the
+letters are parts of a set, their order is irrelevant, but when the
+letters are parts of a word, order matters; hence `no' and `on'.  The
+parthood relation for sets is also different from the parthood
+relation for quantities (of milk):
+
+\begin{squote}
+If four quarts compose a gallon the pints which compose the quarts
+will compose the gallon in the same way in which they compose the
+quarts, whereas, if four sets compose a further set the members of the
+sets will not compose the further set in the same way in which they
+compose the component sets.  Thus we would now appear to have three
+different basic ways in which one object can be a part of another
+(pint/gallon, letter/word, and member/set); and once these cases have
+been granted, it is plausible that there will be many more
+\citeyearpar[562]{fine2010}.
+\end{squote}
+
+One might, of course, refuse to grant these cases.  But one would have
+to refuse them {\em all}; for if it can be established that there are
+even two different (basic) ways of being a part, then the pluralist
+position is established.  Once it is established that there are at
+least two ways of being a part, it becomes much more plausible that
+there might be three ways, or more.  Fine therefore attempts to
+motivate the idea that the members of a set are, quite literally,
+parts of the set.
+
+\subsection{Parts of sets}
+\label{sets}
+The first objection is that while parthood is supposed to be
+transitive, the membership relation of sets is not.  The letter `n' is
+a member of the set \{`n',\{`n',`o'\}\}, but `o' is not.  The
+objection claims that sets have {\em members}, not parts, and that
+Fine has confused the two.
+
+But while it is true that the membership relation is not the parthood
+relation, this is no reason to think that sets do not have parts.  A
+given set will have certain members---the $x$s---and certain
+parts---the $y$s---and only sometimes will the $x$s and the $y$s be
+the very same things.  The set \{`n',\{`n',`o'\}\} has two members
+but three parts.  The parthood relation for sets can even be defined
+in set-theoretic terms:
+
+\begin{squote}
+It may well be thought that the way in which a member is a part of a
+set is given, not by the membership relation itself, but by the
+ancestral of the membership relation, where this is the relation that
+holds between $x$ and $y$ when $x$ is a member of $y$ or a member of a
+member of $y$ or a member of a member of a member of $y$, and so on
+\citep[563]{fine2010}.
+\end{squote}
+
+A second objection is that talk of parthood in connection with things
+like sets is somehow metaphorical or non-literal.  We saw above that
+van Inwagen admits that many different things are said to have parts.
+However, he qualifies this in two ways.  First, he seems to have
+doubts (or at least is sympathetic with those who have doubts) as to
+whether the non-material things that are said to have parts really
+exist:
+
+\begin{squote}
+The word `part' is applied to things that are clearly \emph{not}
+material objects---or at least it is on the assumption that these
+things really exist and that apparent reference to them is not a mere
+manner of speaking \citep[19]{inwagen1995}.
+\end{squote}
+
+If there are no such things as tennis matches or poems or papers, then
+of course they do not have parts.  But I think it is obviously true
+that there are such things.  This being so, what does it mean to say
+that they have parts?  This is where van Inwagen's second
+qualification comes in.  For he suggests not only that the `parts' of
+tennis matches and poems are parts in a different way than are the
+parts of a table, but that these different relations of parthood are
+only tenuously connected.  Van Inwagen says that the various relations
+of parthood (if such there be) are connected only by the ``unity of
+analogy'' \citeyearpar[19]{inwagen1995}.  If the only similarity
+between the parthood relation for poems and the parthood relation for
+chairs is that they share the `analogy' of parthood, then is there
+anything important or interesting about `parts' of poems?  Is the
+parthood relation for sets likewise only interesting because of the
+analogy with the parthood relation for chairs?
+
+At least in the case of parthood for sets, the notion does not appear
+to be wholly metaphorical:
+
+\begin{squote}
+In the case of set-membership, there would appear to be nothing that
+might plausibly be taken to indicate that the talk of part-whole is
+not to be taken literally. A set is indeed composed of or built up
+from its members, and we should add that we may meaningfully
+talk---and in the intended way---of \emph{replacing} one member of a
+set with another.  Thus Aristotle in the set \{Plato, Aristotle\} may
+be replaced with Socrates to obtain the set \{Plato, Socrates\}, with
+the given set becoming a different set from what it was. In the case
+of sets, our conception of members as parts seems to extend all the
+way \citep[564]{fine2010}.
+\end{squote}
+
+But the second worry raised by van Inwagen remains.  Why should we
+think that there is any {\em real} similarity between these different
+parthood relations, other than the fact that we call them all
+`parthood'?
+
+\subsection{Operationalism}
+\label{operation}
+Fine's theory of {\em operationalism} helps answer this worry.
+Various {\em operations} produce different things---mereological
+summation produces mereological sums or fusions, the set-builder
+produces sets, and so forth.  Parts are therefore {\em things} that
+have been `combined', through one or more such operations, into a
+single {\em thing}.  What is common to all parthood relations is that
+from each set of parts is produced a {\em whole}.  This may simply be
+metaphorical, but it is nonetheless an accurate description of the
+result of the composition operator.  From parts (letters, atoms) we
+can `make' something new (a word, a set, a chair).  What ties together
+all the ways of being a part is that they are involved in an operation
+that produces a single thing from a number of things:
+
+\begin{squote}
+In formulating the principles of mereology, it has been usual to take
+the relation of part-whole or some associated relation (such as
+overlap) as primitive.  But I believe that, in formulating a more
+general theory, it is important to take the operation of composition
+as primitive rather than the more familiar relation of part-whole.  In
+the case of classical mereology, the operation of composition will
+take some objects into the sum or fusion of those objects, while, in
+the set-theoretic case, it will take some objects into the set of
+those objects; and, in general, the operation of composition will be
+the characteristic means (summation, set-builder, and so on) by which
+a given kind of whole is formed from its parts \citep[565]{fine2010}.
+\end{squote}
+
+Each way of being a part can then be defined in terms of the related
+composition operation:
+
+\begin{squote}
+Once given a compositional operation, a corresponding relation of part
+may be defined in two steps.  We say first that $x$ is a component of
+$y$ if $y$ is the result of applying $\sum$ to $x$ or to $x$ and some
+other objects.  In other words, $y$ should be of the form $\sum
+(x_{1}, x_{2}, \mathellipsis )$, where at least one of $x_1$, $x_2,
+\mathellipsis$ is $x$.  Thus when $\sum$ is mereological summation the
+components of an object will be mere parts, and where $\sum$ is the
+set-builder the components of an object will be its members.  We may
+then define $x$ to be a part of $y$ if there is a sequence of objects
+$x_1$, $x_2, \mathellipsis x_n$, $n$ \textgreater{} $0$, for which $x
+= x_1$, $y = x_n$, and $x_i$ is a component of $x_{i+1}$ for $i = 1$,
+$2, \mathellipsis, n-1$. The parts of an object are the object itself,
+or its components, or the components of the components, and so on
+\citep[567--568]{fine2010}.
+\end{squote}
+
+The parthood relation for summation can therefore be seen to exhibit
+reflexivity, transitivity and anti-symmetry:
+
+\begin{description}
+\item[Reflexivity] Each object is a part of itself.
+\item[Transitivity] If $x$ is a part of $y$ and $y$ of $z$, then $x$
+  is a part of $z$.
+\item[Anti-symmetry] $x$ is a part of $y$ and $y$ of $x$ only when $x
+  = y$ \citep[568]{fine2010}.
+\end{description}
+
+But not all definitions of parthood that issue from a composition
+operator will exhibit these features:
+
+\begin{squote}
+When the underlying operation is summation, each object will be a part
+of itself, since the unit sum of any object is the object itself, but
+when the underlying operation is the set-builder, no object will be a
+part of itself, since no object is ever an ancestral member of itself
+\citep[569]{fine2010}.
+\end{squote}
+
+\subsection{Principles}
+\label{principle}
+Each composition operation will, according to Fine, be governed by
+various principles:
+
+\begin{squote}
+I believe that the principles governing the basic forms of composition
+will conform to a general template.  Variations in the principles for
+the different forms of composition will then arise from variations in
+how the template is to be filled in.  The template will comprise two
+broad categories of principle---the {\em formal} and the {\em
+  material} (though not quite in the sense of Husserl).  Among the
+formal principles, we may distinguish between those that provide
+conditions of application for the operation and those that provide
+identity conditions; among the material principles, we may distinguish
+between those that provide conditions for the presence of a whole (in
+space and time or at a world) and those that specify the descriptive
+character of the whole.  The presence conditions, in their turn, may
+concern either the existence of the whole or its extension
+\citeyearpar[569--570]{fine2010}.
+\end{squote}
+
+\paragraph{Formal principles}
+The formal principles govern when composition occurs and when two
+products of a composition operation are identical:
+
+\begin{description}
+  \item[Application] The application conditions are ``the conditions
+    under which there are wholes of a given sort---which, on the
+    operational approach, is a matter of stating when the result of
+    applying the compositional operation to various objects will be
+    defined'' \citep[570]{fine2010}.  For the summation operation, the
+    application conditions are very lax: for any $n$ physical objects
+    (where $n$ \textgreater{} 1), there is a thing composed of those
+    objects.  The application conditions for the set-builder will be
+    more limited; and other operations will be more restricted
+    still. \label{fine-app}
+  \item[Identity] Setting out identity conditions on Fine's
+    operational approach ``is a matter of stating when a whole formed
+    in one way by means of the compositional operation is the same as
+    a given object or a whole that has been formed in some other way''
+    \citeyearpar[570]{fine2010}.  For example, suppose $y$ is the
+    result of applying the summation operator to $x$, and suppose
+    $y^\prime$ is the result of applying the set-builder to $x$.  If
+    $y \neq y^\prime$, it will be because of some difference in the
+    respective operations that produced these composites.  As we will
+    see below, the summation operator is defined such that its
+    application to a single thing ($x$) produces that very thing.  The
+    set-builder, however, produces the singleton of $x$, which is not
+    $x$.  And whereas applying the set-builder to nothing produces the
+    null set, the result of applying the summation operator to nothing
+    might be undefined---nothing would result.
+\end{description}
+
+\paragraph{Material principles}
+As above, there are two subcategories:
+
+\begin{description}
+  \item[Presence] Fine claims that ``there are two fundamentally
+    different ways in which an object might be present in space or
+    time; it may \emph{exist} in space or time, or it may be
+    \emph{extended} (or \emph{located}) in space or time. Thus a
+    material thing will exist in time but be extended in space while
+    an event will be extended in both space and time''
+    \citeyearpar[570]{fine2010}.  Whether or not this is actually true
+    seems to depend on whether a `three-dimensional' theory of
+    persistence is correct.  However, that question will remain unasked.
+  \item[Character] ``The character conditions will tend to have a much
+    more ad hoc character than the other conditions that we have
+    considered. The color of a house, for example, is the color of its
+    siding; the color of an egg, the color of its shell; the color of
+    a pencil, the color of its lead. In the case of the `intrinsic'
+    character of a thing---such as its mass or color---the character
+    of the whole will be some sort of function of the character of the
+    parts. But the function in question will vary from case to case''
+    \citep[571]{fine2010}.  What we decide is the color of a house
+    will turn on our concept `house', rather than anything about the
+    house itself (anything beyond its having that color to {\em some}
+    extent).  When the composition operation is summation, interesting
+    questions also arise about weight; is the weight of a sum equal to
+    the combined weights of the parts?  This seems intuitively so, but
+    if someone's parts weight 150 pounds, and therefore they weight
+    150, it does not follow that when they (and their parts) stand on
+    a scale, the scale reads 300 pounds.  Figuring out what to say in
+    these cases may ultimately feel ad hoc.
+\end{description}
+
+\subsection{Fine's pluralist account of classical mereology}
+\label{classical}
+Of the principles sketched above, Fine gives most attention to the
+identity conditions for composition operations.  The composition
+operation used as a paradigm is the summation operation of classical
+mereology.  Fine's exposition of identity conditions for sums relies
+on the notion of `regularity':
+
+\begin{squote}
+Call an identity condition $s = t$ {\em regular} if the variables
+appearing in $s$ and in $t$ are the same.  Thus $\sum (x, y) = \sum
+(y, x)$ is regular while $\sum (x, y) = x$ is not
+\citeyearpar[572]{fine2010}.
+\end{squote}
+
+With this notion in hand, Fine proposes this condition for identity of
+sums:
+
+\begin{description}
+  \item[Summative Identity] $s = t$ whenever `$s = t$' is a regular
+    identity \citeyearpar[572]{fine2010}.
+\end{description}
+
+One particularly interesting aspect of this condition is that it
+entails four more principles of the summation operation:
+
+\begin{description}
+  \item[Absorption] $\sum (\mathellipsis, x, x, \mathellipsis,
+    \mathellipsis, y, y, \mathellipsis, \mathellipsis = \sum (
+    \mathellipsis, x, \mathellipsis, y, \mathellipsis )$;
+\item[Collapse] $\sum (x) = x$;
+\item[Leveling] $\sum (\mathellipsis, \sum (x, y, z, \mathellipsis ),
+  \mathellipsis, \sum (u, v, w, \mathellipsis ), \mathellipsis ) \\ =
+  \sum (\mathellipsis, x, y, z, \mathellipsis, \mathellipsis, u, v, w,
+  \mathellipsis, \mathellipsis )$;
+\item[Permutation] $\sum (x, y, z, \mathellipsis ) = \sum (y, z, x,
+  \mathellipsis )$ (and similarly for all other permutations)
+  \citep[573]{fine2010}.
+\end{description}
+
+We can define other compositional identity criteria (e.g., sequences)
+in terms of which of these principles apply to their compositional
+operation.  But we may also devise new principles by which we may then
+define new types of composition:
+
+\begin{squote}
+We should note that there would appear to be no good reason to require
+that the defining principles for the various operations should be
+limited to the particular principles (C [collapse], L [leveling], A
+[absorption], and P [permutation]) that we used in characterizing
+sums; for any set of regular identities would appear to be equally
+well suited to defining a basic form of composition, so long as they
+conform to Anti-cyclicity.  Indeed, I would conjecture that any such
+set of principles in fact will correspond to a form of composition and
+a corresponding form of whole.  How the resulting forms of composition
+and whole might be organized is an interesting question, but it should
+be apparent that the approach will lead to an infinitude of forms of
+composition, each differing from one another in how exactly the
+identity of the resulting wholes is to be
+determined. \citep[575--576]{fine2010}.
+\end{squote}
+
+It is at this point that the importance of Fine's theory becomes
+obvious.  Above I stressed that things like teams and families are
+really {\em things}; moreover I made this claim as part of an attempt
+to motivate a sort of universalistic outlook on metaphysics.  I argued
+that the term `composition' was potentially misleading, but that it
+was nevertheless correct to say that things like dogbushes, wish
+sandwiches, and teams are composed of their parts.  But now it is
+apparent that `composition' will mean something different when applied
+to each of these things.  Each thing will be the product of a
+different composition operation.
+
+Fine's theory reveals new {\em kinds} of universalism.  One might be
+committed to the existence of dogbushes---and so to unrestricted
+mereological composition---but deny the existence of teams, groups,
+crews, and families.  Or one might defend unrestricted composition of
+groups while claiming a restriction on mereological composition.
+
+Below I will look at how a definition of the composition operator for
+groups might be formulated.  But I will first return to Fine's theory.
+
+\subsection{Hybrid parts}
+\label{hybrid}
+Above, we saw that one objection to the idea of sets having parts was
+that parthood is transitive and set-membership is not.  Moreover it
+was supposed (rather plausibly) that the only reason we think that
+sets have parts is {\em because} they have members; it is the members
+of a set that we are tempted to call parts.  But, the objection goes,
+it is a mistake to think of members as part.  I am the only member of
+my singleton (the singleton of $x$ is the set resulting from applying
+the set-builder to $x$ alone).  My hand, for instance, is not a member
+of my singleton.  But my hand is a part of me.  If I was a part of my
+singleton, then---because parthood is transitive---my hand would be a
+part of my singleton.  And if that means that my hand is a {\em
+  member} of my singleton, that is clearly wrong.
+
+Fine points out, of course, that the objection makes the mistake of
+supposing that something (me, my hand) can be a part in only one way
+(in this case, through set-membership).  Once we recognize that there
+are a plurality of ways of being a part, it becomes clear that my hand
+is part of the set in one way, but not in another:
+
+\begin{squote}
+Given the specific relations of part, we may derive various {\em
+  hybrid} relations of part.  Suppose, for example, that we are given
+the relations of set-theoretic and mereological part---which we may
+designate as \textepsilon -part and $m$-part. We may then take one
+object to be an \textepsilon ,$m$-part of another if it is an
+\textepsilon -part or an $m$-part or an $m$-part of an \textepsilon
+-part or an \textepsilon -part of an $m$-part, or an $m$-part of an
+\textepsilon -part of an $m$-part, and so on. More generally, if $K$
+is a family of specific ways of being a part, we may take an object to
+be a {\em K-part} of another if $x$ and $y$ can be linked by
+relationships of $k$-part for $k$ in $K$ \citep[579]{fine2010}.
+\end{squote}
+
+My hand is a \textepsilon ,$m$-part of my singleton, but not a
+\textepsilon -part.
+
+By conjoining every way of being a part, we arrive at the most general
+notion of part:
+
+\begin{squote}
+Among the hybrid relations of part, of special interest is the
+relation of $K$-part where $K$ is the family of {\em all} the specific
+ways of being a part.  This is the relation of $K$-part that holds
+between two objects when they may be linked by relationships of
+$k$-part without restriction on $k$.  We might call it the {\em
+  general} relation of part, and it is a relation that holds between
+$x$ and $y$ whenever $x$ is in any way whatever a part of $y$
+\citep[580]{fine2010}.
+\end{squote}
+
+\subsection{Generating kinds}
+\label{generate}
+On this theory, what kind a thing is depends on what operation
+produced it.  If a chair or a dogbush is a mereological sum, then this
+is because they are produced by the summation operation.  The Dunn
+family is `produced' by the family operation.  Groups are produced by
+the group operation (see section \ref{group}).
+
+But there is a difficulty to be avoided here.  As we saw in section
+\ref{classical}, the mereological sum of a single thing $x$ is just
+$x$.  Therefore there is a sense in which every physical thing,
+including every simple, is a mereological sum, for the application of
+the summation operation would just produce that thing.  To avoid this
+consequence Fine introduces the notion of a {\em generative}
+application of an operation:
+
+\begin{squote}
+We might say that the application $y = \Gamma (x_1, x_2, x_3,
+\mathellipsis )$ of an operation $\Gamma$ is {\em generative} if there
+is an explanation of the identity of $y$ as $\Gamma (x_1, x_2, x_3,
+\mathellipsis )$; and we might say that the operation $\Gamma$ is
+itself {\em generative} if it permits a generative application. Thus
+both the set-builder and the operation of predication will be
+generative in this sense \citeyearpar[582]{fine2010}.
+\end{squote}
+
+Whether or not the summation operation is generative depends on the
+things it is being applied to.  When summing a dog and a tree, it is
+generative; when summing a dog by itself, it is not.
+
+For any operation, there will be things it applies to that it cannot
+produce.  The summation operator fuses simples, but cannot produce
+them; the set-builder combines many things that it cannot produce
+(like letters).  For any given operation, there is a `level 0'
+consisting of the things that the operator itself cannot produce:
+
+\begin{squote}
+We suppose that certain objects are simply given.  These are the
+objects whose identity does not require an explanation in terms of
+$\Gamma$.  Thus, when $\Gamma$ is the set-builder, they are the
+objects that are not sets and, when $\Gamma$ is summation, they are
+the objects that are not sums or, rather, the objects that do not need
+to be seen as sums.
+
+We now `generate' objects in stages.  At stage 0 are the givens; at
+stage 1, we add the objects that result from a single application of
+the generative operation $\Gamma$ to the givens \citep[583]{fine2010}.
+\end{squote}
+
+An application can now be identified as generative in a strong or a
+weak sense:
+
+\begin{description}
+  \item[Strong generative application] Also called `strict' by Fine, a
+    ``[strong] generative application of $\Gamma$ to the objects $x_1,
+    x_2, \mathellipsis$ can now be defined as one in which $y = \Gamma
+    (x_1, x_2, \mathellipsis )$ is of a higher level than each of
+    $x_1, x_2, \mathellipsis$'' \citeyearpar[584]{fine2010}.  For
+    example, summing the simples $x$ and $y$ to produce the fusion $z$
+    would be a strong generative application of the summation
+    operator; the simples are level 0 and $z$ is level 1.  Summing two
+    composites, or a composite and a simple, would not be strongly
+    generative; one or both of the parts would be the same level (1)
+    as the product.
+  \item[Weak generative application] To illuminate this notion Fine
+    introduces another, that of a {\em putative generative
+      application}: ``Let us say, in the first place, that $y = \Gamma
+    (x_1, x_2, \mathellipsis )$ is a putative generative application
+    of $\Gamma$ if $y$ is of a higher or of the same level as each of
+    $x_1, x_2, \mathellipsis$.  This gives us the notions of a
+    putative prior component and of a putative prior in the usual way.
+    We now say that the application $y = \Gamma (x_1, x_2,
+    \mathellipsis )$ of $\Gamma$ is a {\em weak} generative
+    application if it is the putative generative application and if
+    $y$ is not putatively prior to any of $x1, x2, \mathellipsis$.  We
+    can get from $x_1, x_2, \mathellipsis$ to $y$ without an ascent in
+    level but not from $y$ to any of $x_1, x_2, \mathellipsis$''
+    \citeyearpar[584]{fine2010}.
+\end{description}
+
+Applying the summation operator to a simple is neither strongly nor
+weakly generative.  It is not strongly generative because the result
+is a simple, which is at level 0---the same level as its part
+(itself).  It is not weakly generative because the result of the
+operation is putatively prior to its parts.
+
+\section{Groups and sets}
+\label{group}
+There are a number of reasons to think that, along with sets, there
+are also groups.  The most salient reason is the apparent fact that
+groups can change their parts, while sets cannot.  If groups are
+distinct from sets, we should be able to define a group-builder that
+is distinct from a set-builder.  However, defining a group-builder
+that allows a group to change its parts requires that we assume {\em
+  eternalism}.  If we wish to remain neutral on the
+presentism/eternalism debate, we have no means of distinguishing
+groups from sets.
+
+\subsection{Motivating groups}
+The set-builder, on Fine's theory, takes things (such as jurists) and
+produces a set composed of them.  There is a set $S$ composed of the
+2004 Supreme Court justices:
+
+\begin{squote}
+$S = \sum _{\in}$ (Rehnquist, Stevens, O'Connor, Scalia, Kennedy,
+  Souter, Thomas, \\ Ginsburg, Breyer) $ = $ \{Rehnquist, Stevens,
+  O'Connor, Scalia, Kennedy, \\ Souter, Thomas, Ginsburg, Breyer\}
+\end{squote}
+
+But some claim that, in addition to sets, there are also {\em groups}.
+There may, in addition to the set \{Rehnquist, Stevens, O'Connor,
+Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer\}, a group
+containing the very same people.
+
+One might ask why this is necessary.  Groups, it might be objected,
+are really no different than sets.  When we speak of a group of
+people, we are actually referring to the set of which they are
+members.
+
+But there are some reasons why it seems incorrect to identify groups
+with sets.  Take the Supreme Court.  It seems that any attempt to
+identify the Supreme Court with the set of the Supreme Court justices
+will not succeed.  This is because the membership of the Supreme Court
+changes over time, while the members of a set do not.  The set
+containing the 1990 justices is a {\em different} set from the set
+containing the 2012 justices, but the 2012 Supreme Court is not a
+different entity than the 1990 Court.  (We may of course say things
+like ``it's a different court now'', but by that we mean only that it
+is composed of different people, and so may rule differently---note
+that we do {\em not} say ``it's a different Court now''.)
+
+If one grants that groups such as the Supreme Court are not sets, it
+may still be objected that they are therefore simply mereological
+sums.  But 
+
+\begin{squote}
+membership in the Supreme Court is very different from
+the part-whole relation on material objects.  The part-whole relation
+on material objects is a transitive relation.  Thus if one identified
+the Supreme Court with a material object and Justice Breyer with a
+part of it, then one would be forced to conclude that Justice Breyer's
+arm must be a part of the Supreme Court as well.  Yet, it is plain
+that Justice Breyer's arm is neither a part nor a member of the
+Supreme Court \citep[136--137]{uzquiano2004a}.
+\end{squote}
+
+If the Supreme Court were a mereological sum, it would behave very
+strangely.  What its parts would be on a given occasion would depend
+on the appointment decisions of the President.  (If we accept a
+`four-dimensional' version of universalism, then objects have {\em
+  temporal} as well as spatial parts.  There would then be a
+mereological sum of the parts of the justices that existed during
+their appointments.  This would be an object whose existence would not
+depend on the President.)
+
+There is at least some motivation to posit a new {\em kind} of thing
+that is not a set or a sum.  This new kind is the group.
+Unfortunately, once we try to spell out the identity conditions of
+groups, we will see that, without assuming eternalism, we cannot
+distinguish groups from sets.
+
+\subsection{The place of the group in Fine's template}
+\label{group-temp}
+In section \ref{classical} above, Kit Fine showed how the summation
+operator relates to four different properties: Collapse, Leveling,
+Absorption, and Permutation.
+
+\begin{description}
+  \item[Absorption] $\sum (\mathellipsis, x, x, \mathellipsis,
+    \mathellipsis, y, y, \mathellipsis, \mathellipsis = \sum (
+    \mathellipsis, x, \mathellipsis, y, \mathellipsis )$;
+\item[Collapse] $\sum (x) = x$;
+\item[Leveling] $\sum (\mathellipsis, \sum (x, y, z, \mathellipsis ),
+  \mathellipsis, \sum (u, v, w, \mathellipsis ), \mathellipsis ) \\ =
+  \sum (\mathellipsis, x, y, z, \mathellipsis, \mathellipsis, u, v, w,
+  \mathellipsis, \mathellipsis )$;
+\item[Permutation] $\sum (x, y, z, \mathellipsis ) = \sum (y, z, x,
+  \mathellipsis )$ (and similarly for all other permutations)
+  \citep[573]{fine2010}.
+\end{description}
+
+Sums have all four properties, while sets have only Permutation and
+Absorption.  We can begin to define our group operator by thinking
+about which of these properties it has.
+
+I tentatively suggest that groups mimic sets with regard to these
+four properties.  Groups possess Absorption due to the fact that one
+cannot be twice a member of the same group.  Groups possess
+Permutation, since there is no `order' with regard to membership of a
+group (there may be {\em temporal} order---I joined the group
+first!---but that is not the same thing).  Groups do not possess
+Collapse, since (I am inclined to think) a group can have a single
+member without thereby {\em being} that member.  If, for example, a
+task force is created and only one individual assigned to it, the
+findings of the task force will be of the {\em task force} and not of
+the individual.  Groups do not possess Leveling either, since there
+can be groups made up of groups.
+
+So far we have seen that groups are quite similar to sets.  But there
+are some differences.  As we have seen, groups can change their
+membership, while sets cannot.  Additionally, I suggest that the
+application conditions (see section \ref{fine-app}) for groups is
+different from that of sets.  While sets can have more or less
+anything as members (letters, people, other sets), I propose that {\em
+  groups may be composed only of living things and other groups}.
+
+This claim is made on intuitive grounds.  It simply seems odd to talk
+about a group of rocks, or a group of sets.  Talk of groups implies
+some sort of activity, and so it is more natural to use `group' to
+refer to people and other animals.  Even a `group' of trees is not
+wholly bizarre.  And a group---for example, the Special Committee on
+Judicial Ethics---might be part of another group---the Committee of
+Ethics Committees \citep[145]{uzquiano2004a}.
+
+%% Another point on application conditions: I think that group
+%% composition is {\em unrestricted} among living things and groups.
+%% That is, for any set of living things and/or groups, there is a
+%% group of them.  Any restriction seems arbitrary.
+
+\subsection{How do groups change their members?}
+The most important apparent difference between sets and groups is that
+while the members of a set are necessarily so, the members of a group
+may change over time.  How does this work?
+
+We could think of the group composition operator (the group-builder)
+as operating {\em not} on things (living things and groups) but on
+things-at-times.  The group-builder for the Supreme Court takes the
+various justices during the times of their service and produces the
+group---the Supreme Court---from those people-at-times.
+
+One problem with this proposal is that it appears to presuppose {\em
+  temporal parts}.  For if the group-builder works in similar fashion
+to the set-builder and summation operator, then it operates on {\em
+  things}.  If our group-builder is going to operate on
+people-at-times, then we seem to commit ourselves to the claim that
+people-at-times are {\em things}.  And what things could they be but
+temporal parts of other things?
+
+Thinking of groups as being composed of things-at-times rather than
+things is unintuitive in any case.  Sandra Day O'Connor \emph{was} a
+member of the Supreme Court.  Taking temporal parts seriously would
+require us saying instead that her 1981---2006 part \emph{is} a member
+of the Supreme Court.  But Sandra Day O'Connor is no longer a member
+{\em at all}.
+
+If we don't want to presuppose temporal parts, the group operator has
+to be somehow \emph{dynamic}. It can't just take things, compose them
+and be done---it has to \emph{add and remove things over time}.
+
+Making sense of a dynamic group operator might allow us to avoid
+presupposing {\em eternalism} as well (ultimately it will not).  If
+the group-builder made the Supreme Court `in one go', then future
+justices would have to already exist in some sense.  How else could
+the group-builder operate on them?
+
+The most readily apparent way of making sense of a dynamic operator is
+by relativizing the group-builder to times.  We can think of the
+operator as taking a set at a time and producing a group: $G = \sum
+_{t} (S)$.  Following \citet{uzquiano2004a}, we can say that set $S$
+composes group $G$ at time $t$ if and only if:
+
+\begin{enumerate}[label=(\arabic*)]
+  \item $\forall x\ (x \in S \leftrightarrow x\ \text{is a member of}\ G
+  \  @\ t)$
+  \item $\exists x {[} x\ \text{is a member
+      of}\ G\ @\ t\ \wedge\ \square ( x \in S )\ \wedge
+    \\ \diamond\ \exists t^{\prime} ( G\ \text{exists}\ @
+    \ t^{\prime}\ \wedge\ \neg ( x\ \text{is a member
+      of}\ G\ @\ t^{\prime} )) {]}\ \vee \\ \exists x^{\prime} {[}
+    \neg ( x^{\prime}\ \text{is a member of}\ G\ @\ t)\ \wedge \\ \neg
+    \diamond (x^{\prime} \in S ) \wedge \ \diamond \exists t^{\prime
+      \prime} (x^{\prime} \text{is a member of}\ G\ @\ t^{\prime
+      \prime}) {]}$\ \citeyearpar[150]{uzquiano2004a}
+\end{enumerate}
+
+I will assume that group composition is {\em unrestricted}.  That is,
+for any people and/or groups at any time $t$, there is a group
+composed of them at that time.
+
+\subsection{Identity conditions}
+Given that groups can change their parts over time, there will be
+cases in which $G = \sum _{t_1} ( S )$ and $G^{\prime} = \sum _{t_2}
+( S^{\prime} )$ and $G = G^{\prime}$ and $t_1 \neq t_2$ and $S \neq
+S^{\prime}$.  When will this occur?  Under what conditions does $G =
+G^{\prime}$?
+
+For example, $t_1$ might be 2004, $t_2$ might be 2012, $S$ might be
+\{Rehnquist, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas,
+Ginsburg, Breyer\} and $S^{\prime}$ might be \{Roberts, Stevens,
+O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer\}.  If we
+suppose that $G$ is the Supreme Court in 2004 and that $G^{\prime}$
+is the Supreme Court, then we want to be able to say that $G =
+G^{\prime}$.  
+
+But now we have hit a snag.  For as Uzquiano points out, a set of
+people can compose more than one group at a time.  Suppose that all
+and only the members of the Supreme Court in 2004 are part of the
+Special Committee on Judicial Ethics.  In this case ``the Supreme
+Court share[s] all of its members with the Special Committee on
+Judicial Ethics as of a certain time [2004]''
+\citep[151]{uzquiano2004a}.  It seems false to say that, in 2004, the
+Supreme Court was identical with the Special Committee.  But if the
+Supreme Court, $G$, is $\sum _{t} ( S )$ and the Special Committee,
+$C$, is also $\sum _{t} ( S )$, then how can we deny that $G = C$?
+
+%% One way is to allow that the group-builder can produce numerically
+%% distinct groups from repeated applications of the same operation.
+
+The obvious solution is to look at the past and future histories of
+$G$ and $C$.  The Supreme Court is composed of $S^{\prime}$ in 2012,
+while the Special Committee has been dissolved.  But I do not see how
+we can appeal to identity across time without assuming eternalism.
+Without assuming eternalism, we seem forced to admit that, in 2004,
+the Supreme Court {\em is} the Special Committee on Judicial Ethics.
+
+The point of positing the existence of groups in addition to sets was
+to avoid the identity of the Supreme Court with the Special
+Committee.  But positing groups is not sufficient; we also need to
+assume eternalism.  If we do not assume eternalism, then groups do not
+help us.  Therefore, we should reconsider whether the positing of
+groups is necessary.
+
+\subsection{Re-examining the set identity thesis}
+\label{set-id}
+Given that we cannot seem to distinguish the Supreme Court and the
+Special Committee, we might abandon groups altogether and claim that
+the Supreme Court is not a group, but a set.  This view, of course,
+has difficulties of its own.
+
+The primary motivation cited above for positing groups was the fact
+that the Supreme Court changes its members over time.  For example,
+both of the following sentences are true:
+
+\begin{enumerate}[label=(\arabic*)]
+  \item The Supreme Court ruled on Roe vs.\ Wade in 1973. \label{roe1}
+
+  \item The set of justices now serving as Supreme Court Justices did
+    not rule on Roe vs.\ Wade in 1973
+    \citep[135]{uzquiano2004a}. \label{roe2}
+\end{enumerate}
+
+One way to accommodate these facts is to ``insist that the Supreme
+Court is a set, but to abandon the assumption that there is a single
+set to which the phrase `the Supreme Court' refers in sentences
+\ref{roe1} and \ref{roe2}'' \citep[138]{uzquiano2004a}.  To
+successfully use the term `the Supreme Court' to refer to a set of
+justices, there must be an implicit or explicit temporal reference.
+If an utterance of \ref{roe1} is true it will be true because it the
+speaker intends her audience to recognize her intention to refer to
+the set of justices that was the Supreme Court in 1973.  If her
+audience, for whatever reason, takes her to be referring to the
+current Court, then they will evaluate \ref{roe1} as false.
+
+Considered in this light, `the Supreme Court' is used to express a
+relation between sets and times; ``$x$ is the Supreme Court at $t$''
+\citep[140]{uzquiano2004a}.  There is some precedent for this sort of
+interpretation:
+
+\begin{squote}
+Our use of the phrase `the Supreme Court' to express a relation a set
+of justices bears to a time is much like our use of the phrase `the
+president of the United States' to express a relation an individual
+bears to a time.  Different persons may be the president of the United
+States at different times, but there is at most one person that bears
+that relation to each time \citep[138]{uzquiano2004a}.
+\end{squote}
+
+``But,'' it will be objected, ``there is an important difference here.
+We use both terms---`the Supreme Court' and `the president'---to refer
+to a past, present or future set that `is' the thing, but we also use
+`the Supreme Court' to refer to {\em the Supreme Court}, which has
+changed its membership over time.  If I say, `the Supreme Court has
+become more conservative over the past century', there is no one set I
+am referring to.  I must be referring to something else; the obvious
+candidate is the {\em group} that is the Court.''
+
+One reply here is to claim that all that what ``the Supreme Court has
+become more conservative over the past century'' actually means is
+that the members of the sets that have been the Supreme Court have
+become more conservative.  Another, similar reply is that someone who
+utters ``the Supreme Court has become more conservative over the past
+century'' is saying something literally false (either because there is
+no unique set that is being referred to, or because there is a unique
+set referred to, but one that does not make the proposition true), but
+can generally be understood to mean something else; namely, that the
+members of the sets that have been the Supreme Court have become more
+conservative.
+
+Neither reply is {\em very} unintuitive; there is something attractive
+about a thesis that reserves application of adjectives like
+`conservative' for people, rather than other things like groups.
+
+But there is a more pressing worry for the set identity thesis.
+Recall that the set that is the Supreme Court at a given time might
+also compose the Special Committee on Judicial Ethics.  We must admit
+that the Supreme Court in 2004 is the set \{Rehnquist, Stevens,
+O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer\}, and the
+Special Committee in 2004 is that very same set.  But now we are
+committed to this argument:
+
+\begin{enumerate}[ref=(\arabic*)]
+  \item The Special Committee on Judicial Ethics is one of the
+    committees assembled by the Senate.
+
+  \item The Special Committee on Judicial Ethics is identical with the
+    Supreme Court.
+
+  \item {\em Therefore} the Supreme Court is one of the committees
+    assembled by the
+    Senate. \citep[144]{uzquiano2004a} \label{sup-com}
+\end{enumerate}
+
+And \ref{sup-com} seems false.
+
+But it may be possible to argue that \ref{sup-com} is not false but
+only {\em misleading} (indeed, very misleading).  For it
+(conversationally) implies that future sets referred to by `the
+Supreme Court' will be identical to future sets referred to by `the
+Special Committee'.  And it is {\em this} that is certainly false.
+
+\subsection{Set membership and implicature}
+\label{implicate}
+Suppose we arrive at a meeting of the Special Committee on Judicial
+Ethics.  Rehnquist, Stevens, O'Connor, Scalia, Kennedy, Souter,
+Thomas, Ginsburg, and Breyer are sitting around a center table.  As we
+take our seats you turn to me and say, ``they look rather familiar,
+don't they?''  I say ``that's also the Supreme Court.''
+
+What am I referring to with the demonstrative expression ``that''?  If
+one thinks that I am referring to a {\em group}---the Special
+Committee---that is distinct from the Supreme Court, my utterance will
+have to be interpreted as non-literal.  I will have to be understood
+to mean that the {\em members} of the Special Committee are also the
+members of the Supreme Court.
+
+Suppose instead that you ask me who the members of the Special
+Committee are.  I say ``Rehnquist, Stevens, O'Connor, Scalia, Kennedy,
+Souter, Thomas, Ginsburg, and Breyer.  The Special Committee is just
+the Supreme Court.''  Here again one could argue that I am speaking
+non-literally; what I mean is that the members of the Special
+Committee are just the members of the Supreme Court.
+
+Now suppose that the Special Committee is dissolved in 2004.  In 2005,
+we see the members of the Supreme Court (still Rehnquist, Stevens,
+O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer) out
+to lunch together.  I point and say ``that was the Special Committee
+on Judicial Ethics.''  Now what is the referent of ``that''?  It
+cannot be the Special Committee, for that has ceased to be.  It must
+either be the Supreme Court or the set \{Rehnquist, Stevens, O'Connor,
+Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer\}.  Either way,
+the proponent of groups will have to interpret this utterance as
+non-literal.
+
+Now suppose that the Special Committee is dissolved in 2004 and
+Rehnquist retired before dying in 2005 (let's pretend he retired in
+May).  Now in August we see Rehnquist, Stevens, O'Connor, Scalia,
+Kennedy, Souter, Thomas, Ginsburg, and Breyer out to lunch together.
+I point and say ``that was the Supreme Court {\em and} the Special
+Committee on Judicial Ethics.''  I can only be referring to the set of
+justices.  Why not suppose that I have only {\em ever} been referring
+to the set of justices?  If I am in fact referring to the set
+\{Rehnquist, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas,
+Ginsburg, Breyer\}, then when I say ``that was the Supreme Court {\em
+  and} the Special Committee'', I say something literally true.
+
+I also say something literally true when I say ``the Supreme Court is
+one of the committees assembled by the Senate'' or ``the Supreme Court
+is the Special Committee on Judicial Ethics''.  But it is very
+misleading to say either.  By saying ``the Supreme Court is the
+Special Committee'' I imply that future referents of `the Supreme
+Court' will be identical to future referents of `the Special
+Committee'.  It is less misleading to say ``the current Supreme Court
+is the Special Committee on Judicial Ethics''.  (It is even less
+misleading to say ``the current Supreme Court is also the Special
+Committee''.)
+
+We say above that `the Supreme Court' is sometimes used to refer
+(whether literally or non-literally) to more than one set.  When I say
+``the Supreme Court has become more diverse'' I mean that the members
+of the sets that have been the Supreme Court have become more diverse.
+It may be due to this fact that we so easily misiniterpret uttered
+propositions like ``the Supreme Court is the Special Committee''.  A
+listener might take this to mean that the members of the sets that
+have been the Supreme Court are identical with the members of the sets
+that have been the Special Committee.  They would therefore evaluate
+the utterance as false.
+
+%% This is because it is mutually assumed that the set referred to by
+%% `the Supreme Court' will change; the current set of justices will
+%% not always be the Supreme Court.  It is a contingent fact that one
+%% set---\{Rehnquist, Stevens, O'Connor, Scalia, Kennedy, Souter,
+%% Thomas, Ginsburg, and Breyer\}---is both the Supreme Court and the
+%% Special Committee in 2004, But since the form of the sentence ``the
+%% Supreme Court is the Special Committee'' is that of an identity
+%% statement, and sincethe audience will understandably
+
+\subsection{Conventional identity conditions}
+\label{set-convention}
+Even supposing everything above is right, there is still more to be
+said.  What are the identity conditions for the Supreme Court?  What
+makes it true that one set is the Supreme Court in 2004 and a
+different set is in 2012?
+
+What makes it true that a given set is the Supreme Court at a given
+time is simply our legal conventions.  The Constitution authorizes the
+recognition of a set of justices as `the Supreme Court'.  Which set is
+recognized as the Supreme Court is decided by the legislative and
+executive branches.  The president nominates a set (the sitting
+justices and the nominated justice) and the legislative branch votes.
+The outcome of the vote make it true or false that a given set is the
+Supreme Court.
+
+This is analogous for all `groups'.  Teams, bands, militias---what
+makes it true that a certain set is a team, band or militia is just
+the conventions governing the group.  If I desert my militia and the
+other members of the militia recognize my absence as a desertion, then
+it is understood that I am no longer part of the militia; for that
+reason it is then true that the set containing me is no longer the
+militia.  A smaller set, not containing me, is now the militia.
+
+It seems, then, that {\em identity conditions over time for groups are
+  wholly conventional}.  This is plausible; groups are social
+entities, and it makes sense that their composition should be a matter
+of social convention.  But if this is true, it suggests something more
+radical: that identity conditions over time for physical objects like
+chairs are conventional as well.
+
+%%%%%%
+\begin{comment}
+\section{Deflationary metaphysics}
+Kathrin Koslicki has an interesting objection to universalist theses
+such as the one I appear committed to.  Her objection amounts to this:
+if every `collection' of objects (such as the London Bridge, a
+particle in the moon, and Cal Ripkin, Jr.) is a thing in its own
+right, then metaphysics becomes uninteresting.  There is no longer any
+debate about whether chairs or dogbushes are more `real' or have a
+stronger claim to existence.  They both (obviously) exist, and the
+difference between chairs and dogbushes is not ontological but
+conceptual: `chair' is more embedded in our talk, and so chairs have
+greater importance to {\em us}.  But metaphysically, or ontologically,
+chairs and dogbushes are on the same level.  There is no sense in
+which chairs exist and dogbushes do not.
+
+In the quoted material below, Koslicki is criticizing a version of
+four-dimensionalism that Sider has previously defended.  Sider's
+position was that any collection of objects-at-times is a thing in its
+own right.  Sider calls these things `fusions'.  For example, a chair
+is a fusion of a large number of {\em temporal part} of things (wood
+molecules, or atoms, or simples).  Each thing (wood molecule, atom, or
+simple) is a fusion of {\em its} temporal parts.  Each temporal part
+of the chair is also a thing (a fusion).
+
+I take no stance on whether objects have temporal parts or rather
+`endure' through time.  Moreover, if we accept Fine's theory of parts
+then we reject the idea that there is just one composition operation;
+the operation that produces fusions is one among many.  But Koslicki's
+comments are relevant nonetheless:
+
+\begin{squote}
+There is room, in Sider's theory, for {\em some} genuine ontological
+disagreements: for example, the universalist, the nihilist and the
+holder of the intermediary position genuinely disagree over how many
+and which fusions that exist.  But the only genuine ontological
+disagreements for which there is room, in Sider's world, are ones that
+concern disagreements over `bare' fusions, so to speak.  What has
+happened to the houses, trees, people, and cars, the familiar concrete
+objects of common-sense, whose persistence this account set out to
+analyze?  There are no `deep' ontological facts as to whether a given
+fusion should count as a house or not\,\ldots
+
+[By claiming that there can be genuine ontological disputes,] Sider is
+guilty of a bit of false advertising: his account is really a way of
+saying that, at the end of the day, there is no interesting {\em
+  ontological} story to be told about the persistence of our familiar
+concrete objects of common-sense; whatever there is to say about the
+persistence of houses, trees, people and cars concerns the
+organization of our conceptual household
+\citeyearpar[124--125]{koslicki2003}.
+\end{squote}
+
+Koslicki seems to think that we ought to be able to find some
+ontological difference between ``the familiar concrete objects of
+common-sense'' and things like dogbushes or chairs-at-times.  But as I
+remarked above, why should what interests us (familiar objects like
+chairs) be a guide to what exists?  The conclusion that ``the
+persistence [and other properties] of houses, trees, people and cars
+concerns the organization of our conceptual household'' seems to be a
+most welcome one.
+
+However, there {\em is} an ontological difference between some things,
+if no between chairs and dogbushes.  One lesson of Kit Fine's theory
+of parts is that mereological sums are not the only kind of composite
+thing.  There are sets as well, and groups, and sequences, and perhaps
+infinitely many other types of thing.  The difference between a set
+and a sum is an ontological difference.  Within each type, however,
+we must rely on our own conceptual `scheme' to organize things.
+
+In section \ref{lessons-v} I considered Jay Rosenberg's claim that
+the Special Composition Question is the wrong question to be asking.
+Rosenberg's position seems to be that there is {\em no} answer to the
+Special Composition Question.  Rather, he thinks what it takes to
+`compose' something depends on what that something is---making a chair
+is not like making a pie.
+
+This insight of Rosenberg's can be connected with the insights of
+Fine's theory.  If we understand `composition' in the Special
+Composition Question to mean {\em mereological composition}, then
+Rosenberg was wrong if he held that there is no correct answer to the
+Special Composition Question.  It seems intuitively true that
+mereological composition is unrestricted.  But if take `composition'
+in the Special Composition Question to be $K$-composition---any
+composition operator at all---then Rosenberg was {\em right} that
+there is no answer.  What the application conditions are for a
+composition operator depends on {\em which} composition operation is
+being applied.  
+
+Moreover, determining these application conditions, and determining
+identity conditions, and determining the other properties of these
+various composition operations is a task for metaphysics.  The field
+is not then so barren as Koslicki seems to have feared.  But it is
+true that perhaps the most interesting questions---When are we willing
+to call something a chair, and why?  What conditions must be
+fulfilled?---are not ontological questions anymore.  They are
+questions about our ``conceptual household.''
+
+\end{comment}
+
+\ifstandalone
+\end{spacing}
+\bibliography{everything}
+\bibliographystyle{ChicagoReedweb}
+\fi
+\end{document}
