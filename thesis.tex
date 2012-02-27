@@ -155,17 +155,20 @@ will accept this answer as true. \\ \\ \textsc{W.\,V.\,O.\ Quine
 \mainmatter % here the regular arabic numbering starts
 \pagestyle{fancyplain} % turns page numbering back on
   
-\chapter{Introduction: What do I mean when I say there are chairs?}
+\chapter*{Introduction}
 \chapterpig{Introduction}
-%% \addcontentsline{toc}{chapter}{Introduction}
-%% \chaptermark{Introduction}
-%% \markboth{Introduction}{Introduction}
-\input{verbal}
-
+\addcontentsline{toc}{chapter}{Introduction}
+\chaptermark{Introduction}
+\markboth{Introduction}{Introduction}
+\input{intro}
 
 % The three lines above are to make sure that the headers are right,
 % that the intro gets included in the table of contents, and that it
 % doesn't get numbered 1 so that chapter one is 1.
+
+\chapter{What do I mean when I say there are chairs?}
+\chapterpig{What do I mean when I say there are chairs?}
+\input{verbal}
 
 \chapter{Why do I believe that there are chairs?}
 \chapterpig{Why do I believe that there are chairs?}
