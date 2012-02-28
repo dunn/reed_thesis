@@ -498,6 +498,8 @@ Is 'dogbush' similarly underspecified
     _dynamic_.  It can't just take things, compose them and be
     done---it has to _add and remove things over time_.  (cf. Thomson
     on time-relativized fusions.)
+- [ ] can't we account for the difference of sets and groups-at-times
+  by appeal to their MODAL PROPERTIES?
 ** Stroud
 *** The Quest for Reality
 <<quest>>
