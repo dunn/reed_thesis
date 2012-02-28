@@ -500,6 +500,31 @@ Is 'dogbush' similarly underspecified
     on time-relativized fusions.)
 - [ ] can't we account for the difference of sets and groups-at-times
   by appeal to their MODAL PROPERTIES?
+  - indeed yes, but then we have to specify different _ontological
+    categories_ for every single thing that has a unique modal
+    profile.  The modal properties of a statue, moreover, are
+    determined by _convention_.
+  - this allows us to avoid the 'modal explosion of reality' that
+    Bennett identifies.
+  - but isn't Fine's whole theory of part supposed to motivate such an
+    explosion?
+  - one reason to stick with our conventionalist theory would be to
+    'contain' the explosion.
+  - we have two options: embrace the explosion or go conventionalist.
+    Fine's theory offers us the explosive solution, but we will have
+    to accept that each different composition operator corresponds to
+    a different _kind_ of thing, with different modal properties,
+    persistence conditions, etc.  So the Supreme Court and the Special
+    Committee will not both be groups; they will be different _kinds_
+    of things, things which both happen to be referred to as
+    'groups'.  The conventionalist route allows us to avoid this: the
+    Court and the Committee are both _sets_, and the statue and lump
+    are both _things_.
+#  - and even _with_ the explosion, the 'C = S' problem will _still_
+#    arise.  Just like there could be two things that exist for the
+#    same time, couldn't there also be two things that have the same
+#    modal (and other?) properties _but differ in how long they last_,
+#    or _don't differ at all_ (identity of indiscernibles)?
 ** Stroud
 *** The Quest for Reality
 <<quest>>
