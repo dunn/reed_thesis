@@ -528,16 +528,12 @@ Is 'dogbush' similarly underspecified
 ** Stroud
 *** The Quest for Reality
 <<quest>>
-
 **** Chapter 1
-
 16: "The philosophical quest must start somewhere. It needs a set of
 beliefs about what the world is like. Without some attitudes,
 perceptions, beliefs, or theories to start with, it would have nothing
 to reflect on."
-
 **** Chapter 2: The Philosophical Conception of an Independent Reality
-
 24: "We believe that there are mountains on earth, that there are fish
 in the sea, that human beings believe that there are mountains on
 earth and fish in the sea, that human beings have many different
@@ -727,7 +723,6 @@ world that shows no evident signs of it."
 without some concept or other peculiarity?"
 
 **** Chapter 3
-
 45: "I want to start with a minimal conception of the world that seems
 as "absolute" as any human conception could be..."
 
@@ -786,7 +781,6 @@ true."
 so in _the same_ world in the sense that the world is everything that
 is so, and each of those statements says something that is so. Each of
 them gives part of the world in that sense."
-
 **** Chapter 4
 
 71: "the 'all or nothing' dilemma": reality cannot be simply what we
