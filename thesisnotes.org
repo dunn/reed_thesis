@@ -498,7 +498,7 @@ Is 'dogbush' similarly underspecified
     _dynamic_.  It can't just take things, compose them and be
     done---it has to _add and remove things over time_.  (cf. Thomson
     on time-relativized fusions.)
-- [ ] can't we account for the difference of sets and groups-at-times
+- [X] can't we account for the difference of sets and groups-at-times
   by appeal to their MODAL PROPERTIES?
   - indeed yes, but then we have to specify different _ontological
     categories_ for every single thing that has a unique modal
