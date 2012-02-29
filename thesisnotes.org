@@ -441,7 +441,7 @@ us (while dogbushes don't)?
 - [X] visual evidence; no dogbushes in the park
 - [X] parthood
 - [X] more examples
-- [ ] art, teams, and convention (statue and the lump!)
+- [X] art, teams, and convention (statue and the lump!)
   - "that _was_ a statue"
   - similarly, "that was Sean!"
     - it isn't that there is some _thing_ that ceases to exist, the
@@ -458,7 +458,7 @@ us (while dogbushes don't)?
     y."
 - [ ] identity conditions for things over time is whatever we agree
   they are?  (cf. Merricks)
-- [ ] when we say "that was a statue", what is _that_?  Which sum?
+- [X] when we say "that was a statue", what is _that_?  Which sum?
   What it we are pointing at half the lump after the other half was
   blown off?  Is this just non-literal speech ("no, not _that_ sum,
   the one that _USED TO BE HERE_!")
