@@ -525,6 +525,45 @@ Is 'dogbush' similarly underspecified
 #    same time, couldn't there also be two things that have the same
 #    modal (and other?) properties _but differ in how long they last_,
 #    or _don't differ at all_ (identity of indiscernibles)?
+*** <2012-03-02 Fri>
+**** Bligers and lumpkins
+Bligers
+
+1. it is natural to say 'of course'
+2. there is (almost) a natural kind
+3. there is a common (singular noun) to use (union)
+
+Are any of these conditions satisfied re lumpkins?
+**** TODO Begging the question
+1. there are lumpkins
+2. if lumpkins, then things composed
+3. things composed
+
+- [ ] change to 'archipelagos'
+**** TODO visual evidence and rhetoric
+- [ ] motivate universalism more slowly (structure)
+- [ ] 'if there were no lumpkins...' (necessary universalism)
+- [ ] more examples like the museum
+**** TODO plural referring
+- [ ] do the British say 'Parliament are...'?
+- [ ] is using a team name to refer to members non-literal (doesn't
+  matter; we _do_ use it to refer singly to something that is not the
+  members)
+**** TODO fine
+- [ ] part/whole 'metaphor'?
+- [ ] emphasize the common application of a composition operator
+- [ ] temporal operators (re-apply at times, or different temporally
+  indexed operators)?
+**** TODO sets and groups
+- [ ] Uzquiano's conditions for groups (contingency)
+- [ ] 'the temperature is rising'---does 'is rising' apply to one
+  thing or a series?
+- [ ] the presidency?
+- [ ] 'the committee was formed in 1976'; literally false?
+- [ ] emphasize the disjunction re: groups (either explosion of
+  reality or set-identity thesis)
+- [ ] sider's stage view
+- [ ] chisholm in Person and Object
 ** Stroud
 *** The Quest for Reality
 <<quest>>
