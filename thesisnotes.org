@@ -551,8 +551,8 @@ Are any of these conditions satisfied re lumpkins?
   members)
 **** TODO fine
 - [X] part/whole 'metaphor'?
-- [ ] emphasize the common application of a composition operator
-- [ ] temporal operators (re-apply at times, or different temporally
+- [X] emphasize the common application of a composition operator
+- [X] temporal operators (re-apply at times, or different temporally
   indexed operators)?
 **** TODO sets and groups
 - [ ] Uzquiano's conditions for groups (contingency)
