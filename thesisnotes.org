@@ -535,22 +535,22 @@ Bligers
 
 Are any of these conditions satisfied re lumpkins?
 **** TODO Begging the question
-1. there are lumpkins
-2. if lumpkins, then things composed
-3. things composed
+- there are lumpkins
+- if lumpkins, then things composed
+- things composed
 
-- [ ] change to 'archipelagos'
+- [X] change to 'archipelagos'
 **** TODO visual evidence and rhetoric
-- [ ] motivate universalism more slowly (structure)
+- [X] motivate universalism more slowly (structure)
 - [ ] 'if there were no lumpkins...' (necessary universalism)
 - [ ] more examples like the museum
 **** TODO plural referring
 - [ ] do the British say 'Parliament are...'?
-- [ ] is using a team name to refer to members non-literal (doesn't
+- [X] is using a team name to refer to members non-literal (doesn't
   matter; we _do_ use it to refer singly to something that is not the
   members)
 **** TODO fine
-- [ ] part/whole 'metaphor'?
+- [X] part/whole 'metaphor'?
 - [ ] emphasize the common application of a composition operator
 - [ ] temporal operators (re-apply at times, or different temporally
   indexed operators)?
