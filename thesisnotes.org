@@ -559,7 +559,7 @@ Are any of these conditions satisfied re lumpkins?
 - [ ] 'the temperature is rising'---does 'is rising' apply to one
   thing or a series?
 - [ ] the presidency?
-- [ ] 'the committee was formed in 1976'; literally false?
+- [X] 'the committee was formed in 1976'; literally false?
 - [ ] emphasize the disjunction re: groups (either explosion of
   reality or set-identity thesis)
 - [ ] sider's stage view
