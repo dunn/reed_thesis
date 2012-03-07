@@ -560,8 +560,9 @@ Are any of these conditions satisfied re lumpkins?
   thing or a series?
 - [ ] the presidency?
 - [X] 'the committee was formed in 1976'; literally false?
-- [ ] emphasize the disjunction re: groups (either explosion of
+- [X] emphasize the disjunction re: groups (either explosion of
   reality or set-identity thesis)
+- [ ] summarize bennett on the plurality
 - [ ] sider's stage view
 - [ ] chisholm in Person and Object
 ** Stroud
@@ -3944,6 +3945,94 @@ it and meaning skepticism/interpretationism).
 > one object can be a part of another (pint/gallon, letter/word, and
 > member/set); and once these cases have been granted, it is plausible
 > that there will be many more.
+** Coincident objects
+*** Bennett, "Coincidence and the grounding problem"
+**** 1. the grounding problem
+The question: what grounds the different 'sortalish' properties of
+coincident objects (like the statue and the lump)?  Given that they
+are composed of the same things, _why_ do they have different
+properties?
+
+Sortalish properties are:
+
+1. persistence conditions, particularly modal properties like _being
+   essentially shaped about like so,_
+2. kind or sortal properties, and
+3. properties that things have partially in virtue of their
+   instantiation of properties in categories 1 or 2 (341).
+
+So, "in light of the fact that spatio-temporally coincident things
+have all of their other properties in common, in virtue of what do
+they have the sortalish properties they do?  I think that the
+multi-thinger has to answer, 'in virtue of nothing at all'.  I think
+she has to claim that sortalish properties are primitive" (341--342).
+**** 2. determination by non-sortalish properties
+Can the different sortalist properties be 'grounded' in non-sortalish
+properties?
+
+No:
+
+> Goliath's non-sortalish properties do not suffice for its sortalish
+> properties for the simple reason that Lumpl has just the same
+> non-sortalish properties but does not have the same sortalish ones
+> (343).
+**** 3. concepts and conventions
+Can the different sortalish properties be grounded in our conventions?
+
+Something like "in each place where non-sortalish properties N are
+instantiated, there is a thing x with sortalish properties S1 and
+another thing y with sortalish properties S2" (348)
+
+But what initially instantiates these properties N?  If there is some
+object, then it is something with _no_ sortalish properties, which is
+weird.  If there is no object, then there are properties just
+'floating about' unattached to an object.  Which is weird.
+
+Additionally, this position requires claiming that it is a conceptual
+truth that "where properties N are instantiated..."  And "it is
+neither part of my concept of a lump of clay nor of my concept of a
+statue that wherever such and such non-sortalish properties are
+instantiated, there is a thing that would survive a squashing as well
+as a thing that would not" (350).
+
+(Is Bennett right here?)
+**** 4. how to be a primitivist
+Are the distribution of sortalish properties brute facts?
+
+> the claim that it is primitive that Goliath is essentially shaped
+> that way is compatible with the claim that it is in fact shaped that
+> way in virtue of its low-level microstructural properties, and the
+> claim that it is primitive that I am essentially human is compatible
+> with the claim that I am in fact human in virtue of my genetic
+> structure and evolutionary history (354).
+
+The explosion:
+
+> every region of spacetime that contains an object at all contains a
+> distinct object for every possible way of distributing 'essential'
+> and 'accidental' over the non-sortalish properties actually
+> instantiated there (354).
+
+"_all the modal bases_ are covered" (355).
+
+The dilemma:
+
+> The only live options, then, are to be either a one-thinger or a
+> bazillion-thinger.  We must either think that there is only one
+> thing per spatio-temporal location, or else that there are lots and
+> _lots_ of spatio-temporally coincident things (358).
+*** Fine, "The non-identity of a thing and its matter"
+**** 0. intro
+**** 1. monism
+> _Extreme_ monism may now be taken to be the view that any two
+> material things that are coincident at a time are the same,
+> _moderate_ monism the view that any two material things that are
+> coincident in a world are the same, and _mild_ monism the view that
+> any two material things that are necessarily coincident are the same
+> (or perhaps we should take each form of monism to be the view that
+> it is _necessary_ that the relevant sort of coincidents are the
+> same) (198).
+**** 2. opacity
 * Language and Reference
 ** Analyticity
 see [[analyticity]] above
