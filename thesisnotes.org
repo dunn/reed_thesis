@@ -554,7 +554,7 @@ Are any of these conditions satisfied re lumpkins?
 - [X] emphasize the common application of a composition operator
 - [X] temporal operators (re-apply at times, or different temporally
   indexed operators)?
-**** TODO sets and groups
+**** TODO sets and groups and things
 - [ ] Uzquiano's conditions for groups (contingency)
 - [ ] 'the temperature is rising'---does 'is rising' apply to one
   thing or a series?
@@ -564,7 +564,12 @@ Are any of these conditions satisfied re lumpkins?
   reality or set-identity thesis)
 - [ ] summarize bennett on the plurality
 - [ ] sider's stage view
-- [ ] chisholm in Person and Object
+- [-] chisholm in Person and Object
+  - [ ] persons get the same treatment
+  - [X] Olson on human animals
+- [ ] can each of the theories (plurality and essentialism) explain
+  why we believe that there are chairs?
+- [ ] better structure; case studies
 ** Stroud
 *** The Quest for Reality
 <<quest>>
@@ -4033,6 +4038,35 @@ The dilemma:
 > it is _necessary_ that the relevant sort of coincidents are the
 > same) (198).
 **** 2. opacity
+** Essentialism
+*** Chisholm, _Person and Object_
+**** Chapter 3: Identity through time
+***** 1. the ship of theseus
+Other cases: splitting and joining rivers; the tributaries or branches
+have different names, are they different rivers?
+***** 2. playing loose with the 'is' of identity
+examples of apparent 'loose use':
+
+1. road segments: "route 33 is foothill here but not there"
+2. splitting/fusing: "this thing will be two things"
+3. offices/orgs: "the president is x, will be y"; "the supreme court
+   is S, will be S1"
+4. descriptive identity: "that is the same one I have" (type-token
+   confusion)
+5. anything that denies essentialism (?)
+***** 3. an interpretation of bishop butler's theses
+1. ordinary things have identity over time in a loose sense
+2. people have identity over time in a strict sense
+***** 4. feigning identity
+'logical constructions', or 'fictions'
+***** 5. the persistence of persons through time
+'incoherence' of a materialist-psychological criterion of identity:
+
+> If I am identical with the thinking substance in which I am thus
+> placed, then I cannot be transferred _from_ that substance to
+> another substance (107).
+***** 6. 'will I be he?'
+boink
 * Language and Reference
 ** Analyticity
 see [[analyticity]] above
