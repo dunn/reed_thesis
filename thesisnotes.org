@@ -570,6 +570,10 @@ Are any of these conditions satisfied re lumpkins?
 - [ ] can each of the theories (plurality and essentialism) explain
   why we believe that there are chairs?
 - [ ] better structure; case studies
+*** <2012-03-09 Fri>
+**** TODO visual evidence
+- [ ] if there were no chairs, our visual evidence would be different
+  because there would be none of _those_.
 ** Stroud
 *** The Quest for Reality
 <<quest>>
