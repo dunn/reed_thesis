@@ -571,9 +571,69 @@ Are any of these conditions satisfied re lumpkins?
   why we believe that there are chairs?
 - [ ] better structure; case studies
 *** <2012-03-09 Fri>
+**** TODO outlines
+- [ ] new outline for section merricks
+  1. merricks' argument relies on (a) the existence of things arranged
+     chairwise, which are conceptually linked to chairs and (b) the
+     claim that this conceptual link does not entail the existence of
+     chairs.  This claim relies on the further claim that (c) the
+     meaning of `chair' does not make it (conceptually) true that
+     there are chairs.  (Does Merricks think that it is conceptually
+     true that there are things arranged chairwise?)
+  2. but because the meaning of `chair' is determined ostensively, it
+     _is_ conceptually true that there are chairs.
+- [ ] new outline for fine
+  1. fine's theory
+  2. comparison of finean and classical mereology
+  3. time and change
+     - can sums change their parts?
+     - temporal parts and their finean analogues
+     - eternalism and presentism
+  4. application of fine's theory
+     - groups
+       - four-dimensionalism and group-slices
+       - presentist solution and multiple operators
+     - sums
+       - four-dimensionalism and necessary co-location
+       - presentism and the explosion of reality
+  5. a dilemma?
+- [ ] new outline for essentialism
+  1. reasons to avoid four-dimensionalism
+  2. reasons to avoid the explosion of reality
+     - referring
+     - beliefs
+  3. essentialism: the last option?
+     - application to groups/sets
+     - application to things/sums
+  4. essentialst theory of persons
+     - avoids duplication puzzles
+     - allows conventional indecision in transfer/teleportation cases
 **** TODO visual evidence
 - [ ] if there were no chairs, our visual evidence would be different
   because there would be none of _those_.
+**** TODO dilemmas
+- [ ] a third theory; things are identical with sums that can change
+  their parts (van Inwagen)?
+- [ ] if essentialism, then _either_ we are material things like
+  chairs _or_ we are immaterial
+**** TODO sums
+- [ ] get clear on what I mean by 'sum'
+- [ ] can sums change their parts?
+**** TODO presuppositions
+- [ ] subsection for four-dimensionalism
+- [ ] subsection for eternalism
+- [ ] presentism
+  - [ ] temporal operators, composition operators and definite
+    descriptions
+  - "the supreme court is such that it was the case that it was
+    composed of {}" is true
+**** TODO temporal parts
+- [ ] derivative temporal parts of people
+- [ ] group-slices that then compose groups
+**** TODO read
+- [ ] fine, "things and their parts"
+- [ ] hovda
+- [ ] fine/koslicki, _dialectica_ 2007
 ** Stroud
 *** The Quest for Reality
 <<quest>>
