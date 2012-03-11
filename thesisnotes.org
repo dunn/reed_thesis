@@ -573,15 +573,43 @@ Are any of these conditions satisfied re lumpkins?
 *** <2012-03-09 Fri>
 **** TODO outlines
 - [ ] new outline for section merricks
-  1. merricks' argument relies on (a) the existence of things arranged
-     chairwise, which are conceptually linked to chairs and (b) the
-     claim that this conceptual link does not entail the existence of
-     chairs.  This claim relies on the further claim that (c) the
-     meaning of `chair' does not make it (conceptually) true that
-     there are chairs.  (Does Merricks think that it is conceptually
-     true that there are things arranged chairwise?)
-  2. but because the meaning of `chair' is determined ostensively, it
+  - merricks' argument relies on (a) the existence of things arranged
+    chairwise, which are conceptually linked to chairs and (b) the
+    claim that this conceptual link does not entail the existence of
+    chairs.  This claim relies on the further claim that (c) the
+    meaning of `chair' does not make it (conceptually) true that there
+    are chairs.  (Does Merricks think that it is conceptually true
+    that there are things arranged chairwise?)
+  - but because the meaning of `chair' is determined ostensively, it
      _is_ conceptually true that there are chairs.
+  1. merricks' explanation
+    - 'nearly as good as true'
+    - made possible by the conceptual connection between 'chair' and
+      'chairwise'
+  2. conceptual connections and definitions
+    - 'chairwise' is defined such that 'there are things arranged
+      chairwise' is not synonymous with 'there are chairs'
+    - but that doesn't rule out their being co-extensive
+    - what makes 'there are things arranged chairwise' true?
+      - the existence of things (atoms) arranged in the shape of a
+        chair
+    - what makes 'there are chairs' true?
+      - Merricks claims that it requires something more than does
+        'there are things arranged chairwise'
+      - namely, it being the case that there is some _thing_ composed
+        of the things arranged chairwise
+    - meaning and truth-conditions
+      - the claim that 'there are chairs' just means 'there are things
+        arranged chairwise'
+      - they don't mean the same thing, but that doesn't prevent them
+        from being co-extensive
+      - the meaning of 'there are chairs' is presumably a product of
+        the meanings of the constituents.  so...
+    - what does 'chair' mean?
+      - no necessary and sufficient non-circular definition
+      - meaning determined largely by ostension
+      - 'there are chairs' means 'there are those sorts of things'?
+      - there are those sorts of things
 - [ ] new outline for fine
   1. fine's theory
   2. comparison of finean and classical mereology
@@ -2383,17 +2411,17 @@ seem to see them, or what not. (95)
   doubt about it.
 
 > We learn the word 'pig', as we learn the vast majority of words for
-  ordinary things, ostensively---by being told, in the presence of the
-  animal, '_That_ is a pig'; and thus, though certainly we learn what
-  kind of thing it is to which the word 'pig' can and can't be
-  properly applied, we don't go through any kind of intermediate stage
-  of relating the word 'pig' to a lot of _statements_ about the way
-  things look, or sound, or smell.  The word is just not introduced
-  into our vocabulary in this way.  Thus, though of course we come to
-  have certain expectations as to what will and won't be the case when
-  a pig is in the offing, it is wholly artificial to represent these
-  expectations in the guise of _statements entailed by_ 'That is a
-  pig'. (121)
+> ordinary things, ostensively---by being told, in the presence of the
+> animal, '_That_ is a pig'; and thus, though certainly we learn what
+> kind of thing it is to which the word 'pig' can and can't be
+> properly applied, we don't go through any kind of intermediate stage
+> of relating the word 'pig' to a lot of _statements_ about the way
+> things look, or sound, or smell.  The word is just not introduced
+> into our vocabulary in this way.  Thus, though of course we come to
+> have certain expectations as to what will and won't be the case when
+> a pig is in the offing, it is wholly artificial to represent these
+> expectations in the guise of _statements entailed by_ 'That is a
+> pig'. (121)
 
 # <<entailment>>
 Most words for 'ordinary things' are like this---we don't learn an
