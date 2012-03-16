@@ -612,14 +612,18 @@ Are any of these conditions satisfied re lumpkins?
       - there are those sorts of things
 - [ ] new outline for fine
   1. fine's theory
+     - version 1: forms as parts
+     - version 2: composition operators
   2. comparison of finean and classical mereology
   3. time and change
      - can sums change their parts?
+       - not if we assume universalism (cf van Inwagen)
      - temporal parts and their finean analogues
      - eternalism and presentism
   4. application of fine's theory
      - groups
        - four-dimensionalism and group-slices
+	 - cf Fine above; 'modes' or capacities as parts?  Nah.
        - presentist solution and multiple operators
      - sums
        - four-dimensionalism and necessary co-location
