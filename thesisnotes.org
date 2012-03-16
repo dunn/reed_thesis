@@ -611,16 +611,18 @@ Are any of these conditions satisfied re lumpkins?
       - 'there are chairs' means 'there are those sorts of things'?
       - there are those sorts of things
 - [ ] new outline for fine
-  1. fine's theory
-     - version 1: forms as parts
+  1. explosive theories
+     - version 1: "things and their parts"
      - version 2: composition operators
-  2. comparison of finean and classical mereology
-  3. time and change
+     - version 3: fusions of properties
+       - do they all have a common core?
+     - comparison with classical mereology
+  2. time and change
      - can sums change their parts?
        - not if we assume universalism (cf van Inwagen)
      - temporal parts and their finean analogues
      - eternalism and presentism
-  4. application of fine's theory
+  3. application of fine's theory
      - groups
        - four-dimensionalism and group-slices
 	 - cf Fine above; 'modes' or capacities as parts?  Nah.
@@ -628,7 +630,7 @@ Are any of these conditions satisfied re lumpkins?
      - sums
        - four-dimensionalism and necessary co-location
        - presentism and the explosion of reality
-  5. a dilemma?
+  4. a dilemma?
 - [ ] new outline for essentialism
   1. reasons to avoid four-dimensionalism
   2. reasons to avoid the explosion of reality
@@ -1577,8 +1579,1549 @@ the world without any metaphysical help?"
          _grounded_?
 
 * Objects
-** Nihilism
-*** "Skepticism and nihilism"
+** Mereology
+*** Universalism and Four-Dimensionalism
+**** Sider, _Four-Dimensionalism_
+***** Introduction and Chapters 1--2
+[[file:~/Documents/reed/fall11/backup/phil/notes/sider.text][markdown notes]]
+***** Chapter 3: Three- and Four-Dimensionalism Stated
+****** Four-Dimensionalism
+> four-dimensionalists tend to employ an atemporal notion of
+exemplification of properties and relations...my current temporal part
+is, atemporally, part of the larger spacetime worm that is me (56)
+
+> Intrinsic change is difference between successive temporal parts.
+
+- P@T :: x is part of y at t iff x and y exist at t, and x's
+         instantaneous temporal part at t is part of y's instantaneous
+         temporal part at t (57).
+- PO :: if x and y exist at t, but x is not a part of y at t, then x
+        has some part at t that does not overlap y at t (58).
+
+> x is an _instantaneous temporal part_ of y at instant t =_{df} (1) x
+exists at, but only at, t; (2) x is a part of y at t; and (3) x
+overlaps at t everything that is part of y at t (59).
+
+> Four-dimensionalist may then be formulated as the claim that,
+necessarily, each spatiotemporal object has a temporal part at every
+moment at which it exists.
+
+****** Three-Dimensionalism
+- 3D-3 :: Necessarily, every continuant is _possibly_ strongly wholly
+          present throughout some extended interval (66).
+
+Fails to describe most actual objects.
+
+****** Perdurance, Endurance, Presentism, and Eternalism
+All four combinations are (seem) coherent
+
+Presentist perdurance
+
+***** Chapter 4, Section 9: The argument from vagueness
+> Under what conditions do objects come into and go out of existence?
+  (120)
+
+Sider treats this as a question about conditions on *composition*.  He
+claims that composition is unrestricted---any "class" of objects
+composes another object.
+
+****** 9.1: unrestricted mereological composition
+> If not every class has a fusion then there must be a restriction on
+composition.  Moreover, the only plausible restrictions on composition
+would be vague ones.  But there can be no vague restrictions on
+composition, because that would mean that whether composition occurs
+is sometimes vague.  Therefore, every class has a fusion (p. 121).
+
+- P1 :: If not every class has a fusion, then there must be a pair of
+        cases connected by a continuous series such that in one,
+        composition occurs, but in the other, composition does not
+        occur.
+- P2 :: In no continuous series is there a sharp cut-off in whether
+        composition occurs. (cf. Markosian)
+- P3 :: In any case of composition, either composition definitely
+        occurs, or composition definitely does not occur.
+
+P3 relies on the _linguistic theory of vagueness_ (roughly, the view
+that vagueness is a fact about our language and thought, not about the
+world; it is due to "semantic indecision")
+
+- (F) :: There is some object, x, such that (1) every member of C is
+         part of x, and (2) every part of x shares a part in common
+         with some member of C.
+
+This open sentence says that the class of objects C compose the object
+x.  Sider claims that if some instance of (F) has vague or
+indeterminate truth-conditions, then it is because there is vagueness
+in the terms used to express the sentence.  "(F), however, apparently
+contains no vague singular terms" (126).
+
+(see also Sider's porky-pig sentence, p. 127)
+
+The "crucial assumption" is that "logical words are never a source of
+vagueness" (128).
+
+Another assumption is that there are not multiple equally good
+precisifications of the logical terms---in particular, the
+quantifiers.  (I.e., no quantifier variance.)
+
+> Anyone who accepts that logic is non-vague must also accept
+  unrestricted composition. (132)
+
+****** 9.2: composition questions and temporally indexed parthood
+1. "when a given class has a fusion at a given time" (133)
+
+2. when a fusion occurs between objects existing at different times:
+
+> let us say that an object x is a _diachronic fusion_ of an
+  assignment f iff for every t in f's domain, x is a fusion-at-t of
+  f(t).
+
+3. "when a given assignment has a _minimal_ D-fusion" (i.e., when the
+   object is composed only of the given parts at the given times):
+
+> _Under what conditions do objects begin and cease to exist?_ (134)
+
+****** 9.3: the argument from vagueness for four-dimensionalism
+# <<sider-v>>
+Parallel argument structure as P1--P3 above, replacing composition
+with minimal D-fusions.  This parallel argument is supposed to imply
+
+- U :: every assignment has a minimal D-fusion
+
+which supposedly entails four-dimensionalism (given Sider's
+definitions of fusions and parts).
+
+see [[koslicki]] on Sider's argument
+
+**** Hawthorne, "3D vs 4D"
+***** Spacetime
+"three theses central to the picture at hand:"
+
+- Pointiness :: Every space-time region is composed of point-sized
+                parts.
+- Universality :: Every collection of space-time points composes
+                  something.
+- Uniqueness :: For every collection of space-time points there is
+                exactly one thing that is composed of the space- time
+                points in that collection.
+- Pointy Object Fundamentality :: Points are ontologically more
+     fundamental than extended regions.
+- Pointy Fact Fundamentality :: Facts about points and the relations
+     between them are more fundamental than facts about extended
+     regions.
+
+Most four-dimensionalists accept these theses.
+
+****** Spatiotemporalism
+The thesis that material objects _are_ the spacetime regions they
+occupy.
+
+- Modal objection :: David Lewis might have lived another year, but
+     the space-time region he (actually) occupied could not have
+     lasted longer than it did.
+
+- Ordinary language objection :: Space-time regions don't walk to the
+     grocery.
+
+***** Four-Dimensionalism
+"Physical objects are thought to be built out of simple material parts
+that have zero spatial and temporal extent, and any collection of such
+simples is held to compose one and only one material object.  On such
+a picture, the last of the worries mentioned for spatiotemporalism no
+longer arises: since point-sized material objects are not identified
+with points, then there is no principled difficulty in allowing two of
+them to occupy the same spatiotemporal point."
+
+Adoption of *Uniqueness* causes problems for four-dimensionalists
+(Lumpl and Goliath).
+
+****** Drop Uniqueness?
+"what should we make of a position that embraces Pointiness and
+Universality for material objects (call this combination ‘Plenitude’)?
+The defender of Plenitude holds that everything is made of point sized
+things, and that every collection of point sized things makes up
+something, but allows that there may be a number of things made of the
+very same point sized things.  She is therefore well placed to
+maintain that even when a quantity of steel and a ship made of the
+steel have exactly the same point-sized parts, they are not
+identical."
+
+Motivating the plenitude: If there could be an archipelago made up of
+an island, a rusting ship, and a toppled tower, why shouldn't there be
+arbitrary scattered objects?
+
+***** Fundamentality
+Problems with the relation of things to their points; Kripke et. al.
+
+***** Three-Dimensionalism
+****** "Wholly present"
+According to the 'serious tenser', the claim that I am spread out in
+time has no more merit that the claim that I am spread out across many
+possible worlds: one should no more reconstrue what was and will be as
+a series of additional concrete realities that I inhabit than one
+should reconstrue what might be as a series of additional concrete
+worlds that I inhabit."
+
+Analogues with 'bi-location'.
+
+**** Vagueness arguments
+***** Koslicki on Sider
+<<koslicki>> on [[sider-v][Sider 4.9]]
+
+Summary of the Sider/Lewis argument against vague composition:
+
+> The only acceptable account of vagueness is the account which
+  locates the source of vagueness in language and thought: vagueness
+  is a matter of semantic indecision.  But the question of whether a
+  given plurality of objects compose something can be formulated in a
+  part of language which does not contain any vague vocabulary.
+  Therefore, the question of whether a given plurality of objects
+  compose something can never receive a vague answer. (113)
+
+If we disagree with Sider over the truth-value of a sentence like
+"There exist n objects", what is the source of our disagreement?
+Koslicki believes that it involves the *range* (not the *meaning*) of
+the existential quantifier:
+
+> There is no reason why they should not agree on what '$\exists$'
+  means, but they nevertheless disagree on _what_ exists and _how
+  many_ things exist: in other words, they disagree on what it means
+  to be an _object_. (119)
+
+Whether "There exist n objects" is true therefore depends on how many
+things the quantifier ranges over.  How many things it ranges over
+depends in part on how many fusions occur.  And whether or not it is
+vague whether a given fusion occurs is just what is at issue.
+
+(Sider's reply doesn't make sense.)
+
+****** Problems with the plenitude
+Because of the massive amount of fusions and whatnot,
+four-dimensionalism (and 'promiscuous' three-dimensionalism) lose
+sight of one of the original problems: discovering persistence
+conditions for everyday objects like houses and pizzas.  Because these
+objects have no privileged metaphysical status, questions about their
+persistence are really just questions about our conceptual framework:
+
+> Sider is guilty of a bit of false advertising: his account is really
+  a way of saying that, at the end of the day, there is no interesting
+  ontological story to be told about the persistence of our familiar
+  concrete objects of common-sense; whatever there is to say about the
+  persistence of houses, trees, people and cars concerns the
+  organization of our conceptual household. (125)
+
+(This certainly seems to make things easier.)
+
+'Genidentity' and [[spinning discs]]
+
+*Why* does the trout-turkey exist?  Koslicki thinks existence 'comes
+ too cheaply'.  But why should it be expensive?
+
+**** Spinning discs
+# <<spinning discs>>
+
+What exactly is the thought experiment?
+
+- A completely homogenous spinning disc is qualitatively
+  indistinguishable from a stationary disc if we assume 4D?
+  - But how is this *possible*?  Any superficially homogenous disc is
+    actually composed of atoms and so has a non-homogenous structure.
+    We could _see_ the movement of the atoms in the spinning disc.  So
+    we are apparently supposed to imagine a hunk of matter that is
+    _not composed of atoms_.  This seems impossible.
+  - Another possibility is that at _each instant_ the atoms of the
+    spinning disc are in an identical position as atoms of the
+    stationary disc.  Each 'snapshot' shows that the atoms of the
+    spinning disc have moved far enough to become 'in line with' the
+    atoms of the stationary disc.  But this would assume that space
+    and/or time are discrete, which is a bold empirical hypothesis.
+- Either way, the spinning disc objection to four-dimensionalism makes
+  no sense to me.
+
+If a 'block' of matter is _completely_ homogeneous, then it has no
+structure.  There is no 'natural' way to split it up; it has no
+internal divisions.  In other words, it _has no proper parts_.  What
+things have no proper parts?  Simples!  So the objection to
+four-dimensionalism is really just one about simples.  The objection
+is that four-dimensionalism can't account for the rotation of simples.
+
+Is it still a valid objection?  At the very least, Sider's
+presentation of it becomes problematic:
+
+> Imagine two duplicate, homogeneous, continuous, perfectly circular
+  disks of uniform depth: one stationary, the other rotating.  The
+  genidentity relation must hold in different patterns between the
+  temporal parts of the bits of the two discs: it must hold in
+  straight lines through spacetime in the case of the stationary disc,
+  and in a helical pattern in the case of the rotating disc (225).
+
+Perhaps Sider is being knowingly cagey with his use of 'bits' here;
+the 'bits of the two discs' certainly aren't _parts_; simples don't
+have parts.  And yet:
+
+> The _three_-dimensionalist has an easy answer.  There are no
+  temporal parts, and so no genidentity relation, and so no need for
+  an analysis of genidentity.  The enduring parts of the disc will be
+  located at different places depending on whether the disc rotates
+  (226).
+
+What enduring parts?  The four-dimensionalist does not have to account
+for the temporal parts of the parts of the disc, for there are no such
+parts.  What she _does_ have to do is explain what the rotation of
+simples looks like.  But isn't this a problem for the
+three-dimensionalist as well?
+
+Let's suppose that point-sized simples can't rotate.  They have no
+extension, so there doesn't seem to be any plausible way in which they
+could.  Our problem concerns _extended simples_.
+
+Are these even possible?  A number of questions arise if we
+countenance this possibility:
+
+1. Are they divisible?
+   Presumably, if there are extended simples, then they may come in a
+   variety of sizes.  We've got our disks (spinning and stationary),
+   but why not spheres, cubes, and stars?  McDaniel (I think) even has
+   a lamp-shaped simple on his wish list.  But once we've got all
+   these fancy simples, what happens if we try to break them into
+   pieces?  Can I split the disk into crescent-shaped halves?  Can I
+   pull a point off a star?
+   - If yes, then I seem to have _created_ a piece of the star (or
+     disk).  For the point of the star is part of the star, but the
+     star was supposed to have no (proper) parts.  So perhaps the star
+     is now a scattered simple?  The fact that we can even talk about
+     the parts of the star (its points) is difficult to reconcile with
+     the supposed lack of parts.
+   - If no, then we've got a hunk of matter that is completely
+     indestructible.
+
+2. Are they malleable?
+
+***** Pointing and parts <2011-12-05 Mon>
+****** The problem
+The idea is that the three-dimensionalist can 'point to' (or otherwise
+identify) a section ('bit') of the spinning disc at t1, and then point
+at _that same section_ (re-identifying it) at t2.  She can then say
+"This very same section (bit) was there, and now is here.  Hence,
+motion!"  The four-dimensionalist, on the other hand, is supposed to
+be in trouble.  She apparently has to point at the temporal part of
+the 'section' at t1, and the (numerically distinct!) temporal part of
+the 'section' at t2.  Having pointed out these two 'parts', she then
+needs some criterion of 'genidentity' connecting the two temporal
+parts.  But none seems forthcoming.
+****** What problem?
+But once we recognize that the spinning disc has no proper parts and
+is therefore a simple, this problem doesn't make a lot of sense.
+
+1. Can we really point _at_ the 'sections'?  They are not proper parts
+   of the disc, and so it seems that they do not actually
+   _exist_---they are 'mental' or theoretical divisions.  (Scala on
+   [[point_parts][pointing to 'parts']])
+
+2. Even supposing we could point at these arbitrary areas of the disc,
+   how is the three-dimensionalist (or anyone) supposed to re-identify
+   them?  There can be no question of picking out _numerically the
+   same_ section---these 'sections' are theoretical divisions that
+   correspond to nothing in reality.
+   - If it is an extended simple, then we can of course re-identify
+     the same 'section' if we know the rotation of the disc.  If we
+     know that the disc is spinning at a given RPM, we can 'identify'
+     the matter lying between two degrees and calculate where that
+     matter will be for any other time.  But this technique is
+     available to both three- and four-dimensionalists.
+***** Scala: spinning simples
+> In part, Zimmerman's argument trades on the willingness of some
+temporal-parts theorists to admit the possibility of the homogeneous
+spheres, an admission he lauds.For it is difficult to see any _prima
+facie_ reason to deny their possibility. What's more, a change of mind
+regarding their possibility in light of difficulties they cause for
+one's favored doctrine of persistence betrays bad faith. This
+increases the pressure to abandon the doctrine of temporal parts,
+Zimmerman thinks.
+
+> But perhapsthe situation is not desperate.  Consider another sort of
+thing that, I believe, might exist: an extended simple (393--394).
+
+The spinning sphere/disk _is_ an extended simple.
+
+> the atoms I am envisioning are indivisible in a stronger sense, for
+  they have no proper parts.  A simple, in my sense, occupies a
+  greater than point-size region of space and is indivisible because
+  it does not have, for instance, a right or a left half.  To look at
+  one, you would think you can distinguish a right from a left half,
+  but looks aren't everything. When you think you point to a part of
+  the atom, I say you are pointing at all of it or nothing at all
+  (394).
+# <<point_parts>>
+
+_If_ an extended simple is possible, then presumably it can be half
+blue and half red.  How are we to describe this?
+
+> I will tend to say not that it is partly blue and partly red,
+  because I think that is false, or misleading at best. Instead, I say
+  the atom is red at one region and blue at the other (395).
+
+> Now, suppose that there are two simple, homogeneous spheres, one of
+  which is rotating and the other of which is not. The endurantist
+  obviously cannot apply her strategy for dealing with non-simple,
+  homogeneous spheres, for that strategy relied upon tracing of
+  parts through time.
+*** Peter van Inwagen
+**** Material Beings
+***** Preface
+
+"There are no tables or chairs or any other visible objects except
+living organisms" (1)
+(differentiates paraphrase strategy from subjectivism)
+
+### Presuppositions:
+
+1. absolute identity (3)
+
+2. no four-dimensionalism; 'distinct regions of space-time are in some
+   cases "occupied" by numerically the same three-dimensional object.'
+   (4)
+
+3. classical logic (when possible)
+
+4. no counterpart theories
+
+5. atomism; 'I suppose that questions about whether two objects are
+   composed of or constituted by the same "quantity" or "parcel" of
+   matter---or "the same matter" *tout court*---make sense only in the
+   case of composite objects, and in that case these questions must be
+   understood as asking whether the composite objects are composed of
+   the same ultimate parts.' (5)
+
+6. no materially coextensive objects
+
+7. mental predicates require a subject
+
+8. people are material objects (6)
+
+9. anticonventionalism; 'I suppose that what there is, is never a
+   matter of stipulation or convention.'
+
+> 'By establishing a convention, I bring it about that there exists a
+> convention having certain features, and there's an end on't'. (7)
+
+'One stipulates not facts but meanings for words.' (8)
+
+> but then one at least 'stipulates' semantic facts (produces them)
+
+> 'It is only when one has some sort of grip on what exists
+independently of convention that one can establish conventions that
+regulate one's conceptual dealings with what exists. Lines and
+meridians are "drawn" on the globe by convention to enable navigators
+and cartographers to deal with the globe. But the globe itself is
+there, antecedently to any conventions; if it weren't, there'd be
+nothing to draw the lines on.' (11)
+
+along the lines of this analogy, are countries there prior to the
+drawing of boundaries? we speak of "what is now Turkey", and it
+doesn't seem false to say that Turkey didn't exist 3000 years ago
+(otherwise Ataturk would have had little to do).
+
+are some material objects like countries in this respect? they
+certainly exist as more than verbal conventions or 'political
+entities' (I can *live* in Turkey), but they do seem to be created
+almost *by definition*.
+
+Yugoslavia ceased to exist in 2003
+
+
+10. 'internal' composition; 'Whether certain objects add up to or
+compose some larger object does not depend on anything besides the
+spatial and causal relations they bear to one another.' (12)
+
+***** Section 1
+<<v-intro>>
+van Inwagenism entails, 'among other things, that there are no
+visible objects but men and women and cats and other living organisms,
+that there are no tables or books or rocks or hands or legs.' (18)
+
+> The metaphysically puzzling features of material objects are
+> connected in deep and essential ways with metaphysically puzzling
+> features of the constitution of material objects by their parts.
+> Parthood will occupy a central place in the present study of
+> material objects.  It is therefore worth noting that the word 'part'
+> is applied to many things besides material objects.  We have already
+> noted that submicroscopic objects like quarks and protons are at
+> least not clear cases of material objects; nevertheless, every
+> material object would seem pretty clearly to have quarks and protons
+> as _parts_, and, it would seem, in exactly the same sense of _part_
+> as that in which a paradigmatic material object might have another
+> paradigmatic material object as a part.  A "part," therefore, need
+> not be a thing that is clearly a material object.  Moreover, the
+> word 'part' is applied to things that are clearly _not_ material
+> objects---or at least it is on the assumption that these things
+> really exist and that apparent reference to them is not a mere
+> manner of speaking.  A stanza is a part of a poem; Botvinnik was in
+> trouble for part of the game; the part of the curve that lies below
+> the x-axis contains two minima; parts of his story are hard to
+> believe...such examples can be multiplied indefinitely.  Does this
+> word 'part' mean the same thing when we speak of parts of cats,
+> parts of poems, parts of games, parts of curves, and parts of
+> stories? (18--19).
+***** Section 2
+
+> 'I have found it helpful to ask not 'In what circumstances is a plank
+a part of a ship?' but, rather, 'In what circumstances do planks
+compose (add up to, form) something?' (21)
+
+>> is the first question the better one? (cf Rosenberg)
+
+plural referring expressions (23)
+
+> 'the $x$s compose $y$' = 'the $x$s are all parts of $y$ and no two
+of the $x$s overlap and every part of $y$ overlaps at least one of the
+$x$s' (29)
+
+overlapping; 'a thing *overlaps* a thing---or: they overlap---if they
+have a common part.'
+
+'$y$ is a sum of the $x$s' = 'the $x$s are all parts of $y$ and every
+part of $y$ overlaps at least one of the $x$s'
+
+> 'Suppose one had certain (non-overlapping) objects, the $x$s, at
+one's disposal; what would one have to do---what *could* one do---to
+get the $x$s to compose something?' (31)
+
+Might it depend on what you want to make? (cf Rosenberg)
+
+> 'The question 'In virtue of what do these $n$ blocks compose this
+house of blocks?' is a question about $n + 1$ objects, one of them
+radically different from the others. But the question 'What could we
+do to get these $n$ blocks to compose something?' is a question about
+$n$ rather similar objects.'
+
+***** Section 3
+
+> Answer (i) 'To get the $x$s to compose something, one need only bring
+them into contact; if the $x$s are in contact, they compose something;
+and if they are not in contact, they do not compose anything.' (33)
+
+> 'If I bring two cubes into contact so that a face of one is
+coterminous with a face of the other, have I thereby brought into
+existence a solid that is twice as long as it is wide? Or have I
+merely rearranged the furniture of earth without adding to it?'
+
+***** Section 4
+
+>"an answer to the Special Composition Question tells us nothing about
+the nature of composite objects;\,...\,an answer to this question
+tells us nothing about the nature of composition." (38)
+
+Supposing *Contact* is the answer to SCQ, it still 'tells us nothing
+about things called 'houses'\,' or any other composite object. (39)
+
+it doesn't say *what* we have composed, nor even *how many* things we
+have composed.
+
+But suppose we adopt *Uniqueness*. 'Would *Contact* and *Uniqueness*
+together "tell us what composition was"? No. Not, at any rate, in the
+sense of enabling us to find a sentence containing no mereological
+terms that was necessarily extensionally equivalent to 'the $x$s
+compose $y$'. (Let us say that such a sentence would constitute an
+answer to the _General Composition Question_. As the Special
+Composition Question may be identified with the question, Under what
+conditions does composition occur? so the General Composition Question
+may be identified with the question, What _is_ composition?)
+
+reciprocals (41)
+
+Answers to SCQ let us know _when_ composition has occurred, but not
+_what_ has been composed, or why.
+
+> 'A composition function $f$ would immediately provide us with an
+> answer to the General Composition Question, an answer of the form
+> The $x$s compose $y$ if and only if $y$ has $f($the $x$s)."
+
+> 'Although any answer to the General Composition Question
+automatically provides an answer to the Special Composition Question,
+the answer it provides will not necessarily be the best or most
+interesting or most informative answer' to the SCQ. (47)
+
+Because the General Question is also supposed to answer the Inverse
+SCQ: 'Which objects are composite?'
+
+> 'I am inclined to think that there is no way of answering the
+General Composition Question. I am inclined to think that the concepts
+"part," "sum," and "composition" form what (by analogy to "the modal
+circle" or "the moral circle") one might call 'the mereological
+circle', a closed family of concepts.' (51)
+
+***** Section 5
+
+theses of parthood
+
+1. "Parthood is transitive."
+
+2. "No two things are parts of each other."
+
+3. "If $x$ is a proper part of $y$, there are $z$s (none of which is
+   $x$) such that $x$ and the $z$s compose $y$."
+
+4. "If the $x$s have a sum and the $x$s are among the $y$s, then every
+   sum of the $y$s has a sum of the $x$s as a part."
+
+***** Section 6
+
+- Fastening :: "To get the $x$s to compose something, one need only to
+               cause them to be fastened to one another." (56)
+
+- Cohesion :: "To get the $x$s to compose something, one need only to
+              cause them to cohere." (58)
+
+- Fusion :: "To get the $x$s to compose something, one need only to
+            cause them to fuse." (58--59)
+
+***** Section 7
+
+series-style answers
+
+***** Section 8
+
+'extreme answers'
+
+- nihilism :: "It is impossible for one to bring it about that
+              something is such that the $x$s compose it, because,
+              necessarily (if the $x$s are two or more), nothing is
+              such that the $x$s compose it." (72)
+
+> "$(\exists y$ the $x$s compose $y)$ if and only if there is only one
+of the $x$s" (73)
+
+> "Peter Unger calls himself a nihilist, but his sense of the word is
+different from mine. Unger apparently concedes the existence of
+composite objects; _his_ nihilism consists in a denial that any of
+these composites is the right sort of thing to belong to the extension
+of 'woman' or 'cat' or 'chair' or any of the other count-nouns of
+ordinary language."
+
+(he concedes the _possibility_ of composite objects)
+
+- universalism :: "Is is impossible for one to bring it about that
+                  something is such that the $x$s compose it, because,
+                  necessarily, (if the $x$s are disjoint), something
+                  is such that the $x$s compose it." (74)
+
+- mereological constancy :: VxVyVt (x part of y @ t -> Vt' (if x and y
+exist @ t' -> x is part of y @ t')
+
+- mereological essentialism :: replace times above with worlds
+
+***** Section 9
+
+**the proposed answer**
+
+> "$(\exists y$ the $x$s compose $y$) if and only if the activities of
+the $x$s constitutes a life (or there is only one of the $x$s). (82)
+
+96--97: assimilation, generation, corruption, annihilation
+
+***** Section 10
+> "current physics strongly suggests that quarks and leptons and
+gluons and photons have no proper parts" (99)
+
+> "I want to do what I can to disown a certain apparently almost
+irresistible characterization of my view, or of that part of my view
+that pertains to inanimate objects. Many philosophers, in conversation
+and correspondence, have insisted, despite repeated protests on my
+part, on describing my position in words like these: "Van Inwagen says
+that tables are not real"; "...not true objects"; "...not
+actually _things_"; "...not substances"; "...not unified
+wholes"; "...nothing more than collections of particles." These
+are words that darken counsel. They are, in fact, perfectly
+meaningless. My position vis-\'{a}-vis tables and other inanimate
+objects is simply that there _are_ none."
+
+
+"What it _would_ be true to say is this:
+
+> ...the premises of these arguments, whatever they may be, could not
+be so worthy of belief as the thesis that when English speakers,
+immersed in the ordinary business of life, utter sentences like,
+"There are two very valuable chairs in the next room' or 'There are
+stars larger than the sun', they very often say true things.
+
+But I do not deny this. In fact, I affirm it." (100)
+
+
+> "any of the propositions that an English speaker might express by
+uttering 'There are two very valuable chairs in the next room' on a
+particular occasion---there are, of course, many such propositions,
+owing to the indexical elements in the sentence---is, I would argue,
+consistent with the proposition that I, as metaphysician, express by
+writing the words 'There are no chairs'." (101)
+
+Re: Copernicus, is it even strictly false that the sun moved behind
+the elms?
+
+"'The sun moved behind the elms' is not, even from the point of view
+of the most fanatical astronomical literalist, a report of a
+nonexistent, fabricated, or imaginary even; it is not like, say, 'The
+sun moved rapidly back and forth across the sky'. It may describe an
+actual event in a misleading or loose or even a wrong way, but the
+event it describes is there to be described and
+misdescribed. Something very similar may be said about 'There are two
+very valuable chairs |102| in the next room'. This sentence, when it
+is successfully used to report a fact, does report a fact about the
+existence of _something_. This much is shown by the fact that if the
+next room were wholly empty of matter, then what was expressed by this
+sentence would be false by anyone's standard." (101--102)
+
+van Inwagen's treatment of loose truth and loose-truthmakers requires
+that for an proposition with existential entailment to be loosely
+true, there must be _something_ that does exist.
+
+> "when people say things in the ordinary business of life by uttering
+sentences that start 'There are chairs...' or 'There are stars...',
+they very often say things that are literally true...I can say this
+because I accept certain theses in the philosophy of language. Some
+people, I suppose, would reject these theses. These people would say
+that when I said "It is and it isn't" and "The sun moved behind the
+elms," I said something false. If I agreed with them, I could not
+reply to the Moore-style objection to my ontology in the way I have."
+(102)
+
+- What are these theses? Apparently not the Gricean/Bacchic
+  distinction between saying and stating. According to that thesis,
+  what you _said_ ("It is and it isn't") was false, but what you
+  _meant_ ("It's drizzly") is true.
+
+- So does van Inwagen think that when you say "It is and it isn't",
+  you mean _just that_? If so, anyone ought to agree that you said
+  something false.
+
+- So van Inwagen must think that _what you actually said_ (and so
+  meant) was "It's drizzly".
+
+- Really? Because page 106 ("he really means that there are two
+  valuable chairs in the next room.")
+
+- So what the hell is going on?
+
+
+> "even if I did accept the austere philosophy of language that
+ascribes falsity to typical utterances of 'The sun moved behind the
+elms', I could nevertheless respond to "Moore's gambit" in a way that
+is very much like the way I have responded to it. If someone maintains
+that 'The sun moved behind the elms' expresses a falsehood, he must
+still have some way to distinguish between this sentence and those
+sentences (like 'The sun exploded' and 'The sun turned green') that
+the vulgar would regard as the sentences that expressed falsehoods
+about the sun... |103| [if I took this line,] I should not be willing
+to say that people who uttered things like 'There are two valuable
+chairs in the next room' very often said what was true. I should be
+willing to say only that they very often say what might be treated as
+a truth for all practical purposes."
+
+bligers (they do exist!) (104)
+
+> "a foreign zoological expedition discovered that, _in a way_, there
+were not bligers" (my emphasis)
+
+"(A) The chair-receptacle R..." (105)
+
+kripke (Wittgenstein 65); see also Grice (106)
+
+> "I am not proposing an analysis of common language. I am offering a
+metaphysical theory. The only thing I have to say about what the
+ordinary man really means by 'There are two valuable chairs in the
+next room' is that he really means that there are two valuable chairs
+in the next room. And we all understand him perfectly, since we are
+native speakers of our common language."
+
+"If you were to tell the ordinary man that I thought there were no
+chairs, he would probably think I was mad. But you would have mislead
+him about my thesis [no, we would not have]. He would understand you
+to be saying---given his education and interests, what else could he
+understand you to be saying?---something that implied that whenever
+anyone uttered a sentence like 'There are two valuable chairs in the
+next room', that person was under an illusion of some sort. He would
+think that I regarded utterers of this sentence as he (perhaps) regard
+utterers of the sentence 'There are two horrible ghosts in the next
+house'. But my assertion (and yours and his) that there are no ghosts
+is not like my assertion that in Pluralia there are no bligers. My
+assertion that in Pluralia there are no bligers is not meant to deny
+that reports of bligers are reports of a real and unified set of
+phenomena. My assertion that there are no ghosts is meant to deny that
+reports of ghosts are reports of a real and unified set of
+phenomena. When people say they see ghosts, I believe (and I presume
+you do, too) that either there is nothing there, or, if there is
+something there, it's not the same sort of thing on each occasion."
+(107)
+
+> "My assertion that in Pluralia there are no bligers is not meant to
+deny that reports of bligers are reports of a real and unified set of
+phenomena...When Pluralians say they have seen a bliger, there
+generally is something there, and it's generally the same sort of
+thing [on each sighting]. My assertion that there are no chairs is
+like my assertion that there are no bligers. [---Nope. Because there
+are clearly defined parts of the bliger and it's easily seen how they
+fit together. A bliger is, e.g., 'four monkeys, a sloth, and an owl in
+such-and-such a formation'. There are no such criteria for tables, nor
+tablewise arrangements of simples.] But that is something that you
+will not convey to the ordinary man when you tell him that I think
+that there are no chairs, just as you would not have conveyed to the
+sixteenth-century ordinary man what Copernicus believed about the
+motion of the sun if you told him that, according to Copernicus, the
+sun does not move."
+
+Yes you would! That's what made his thesis so revolutionary.
+
+***** Section 11
+
+> "If I am right, then all facts of the sort that most philosophers
+would say were facts about artifacts, and about nonliving "natural"
+objects like stones, are facts about the arrangement of simples. [???]
+If this position is, as I have been arguing, not absurd, then it
+should be possible to paraphrase the sentences of ordinary language
+that most philosophers would say expressed facts about things like
+chairs in language that refers to no material things but simples."
+(108)
+
+- If facts _about_ $x$ are really _about_ $y$, and we can say
+  (literally true!) things like "there is a red chair in the room"
+  (and mean it!), then presumably van Inwagen is making some appeal to
+  the underlying logical structure of the language. Unbeknownst to us,
+  we are really performing plural reference, rather than singular
+  (just as "the plumber is pernicious" is a general proposition?).
+
+- But classic paraphrases are used to _preserve_ the intuitively
+  correct truth-values. "There is no King of France" becomes $\neg
+  \exists x$ etc etc. "There is a Queen of England" becomes $\exists
+  x$ etc etc. And in the second, positive claim, both the English and
+  notational versions entail the existence of the Queen of France. So,
+  if "There are some chairs\,\... " becomes $\exists xs arranged
+  chairwise$ etc, why should not both entail the existence of chairs?
+
+- Other paraphrases are used to show that the original statement _is_
+  false, but loosely true. For example, "Love exists" might be
+  paraphrased as $\exists x \wedge \exists y and Lyx$. The whole point
+  of this is so that our cynical philosopher can say that, strictly
+  speaking, love doesn't exist (what the romantic said was false). Van
+  Inwagen, on the other hand, wants to still say that strictly
+  speaking, chairs exist. (Doesn't he? At least he wants to say that
+  the ordinary man didn't say anything false.)
+
+  + $\exists x Lx$ entails the existence of love.
+
+  + $\exists x Tx$ entails the existence of a table.
+
+
+
+> "Our answer to the SCQ entails that there are no material objects
+but organisms and simples, and our suggested technique of paraphrasing
+enables us to escape some of the more embarrassing consequences of
+this position. When someone says "Some tables are heavier than some
+chairs," there is obviously something right about what he says. Our
+technique of paraphrasis enables us to capture what it is that is
+right about what he says---or so is my hope." (111)
+
+> "We are now ready to consider a paraphrase of 'Some chairs are
+heavier than some tables': There are $x$s that are arranged chairwise
+and there are $y$ that are arranged tablewise and the $x$s are heavier
+than the $y$s." (109)
+
+> "There are, we suppose, no tables; we philosophers who supposed that
+things sometimes added up to tables were mistaken. There is, we
+maintain, no table over there, but only certain things arranged
+tablewise. But if we are going to refer to those things, in lieu of
+referring to a table, we shall need to call them something---say,
+'those things over there that are arranged tablewise'. And if we are
+going to translate multiply quantified sentences involving
+physical-object common nouns like 'table' into sentences involving no
+physical-object common nouns, or none but 'simple', then we shall have
+to employ some device that allows us to "mimic" the quantificational
+structure of the original sentences---" (110)
+
+> "I shall sometimes make assertions by writing sentences that contain
+terms like 'table' and 'chair'. Whenever I do this, I am to be taken
+as claiming to be able to produce a paraphrase of the sentence I have
+written that, but for considerations of space and English prose style,
+I should be willing to put in its place." (112)
+
+> "paraphrases are not supposed to capture the meanings of their
+originals...When the ordinary man utters the sentence 'Some chairs are
+heavier than some tables' (in an appropriate context, and so on and so
+on), he expresses a certain proposition, and one that is almost
+certainly true. But I do not claim that this proposition _is_ the
+proposition that, for some $x$s, those $x$s are arranged chairwise and
+for some $y$s, those $y$s are arranged tablewise, and the $x$s are
+heavier than the $y$s. If these are two distinct propositions, what is
+the relation between them in virtue of which the latter is a
+"paraphrase" of the former (or the sentence expressing the latter is a
+paraphrase of the sentence expressing the former)? [Copernicus] (112)
+
+(A) The paraphrase describes the same fact as the original.
+
+(B) The paraphrase, unlike the original, does not even appear to imply
+that there are any objects that occupy chair-receptacles.
+
+(C) The paraphrase is neutral with respect to competing metaphysical
+theories, _viz_. the "received" theory, that there are objects that
+occupy chair-receptacles, and the theory I have proposed, according to
+which there are no such objects.
+
+(D) The original, though it doubtless does not express the same
+proposition as the paraphrase, has the feature ascribed to the
+paraphrase in (C): It is neutral with respect to the question whether
+there are objects that fit exactly into chair-receptacles." (113)
+
+Whether or not "The sun moved behind the elms" entails that the sun
+moved (it does), it sure does entail that the sun exists. Likewise,
+"Some chairs..." sure does entail that chairs exist.
+
+***** Section 13
+
+"Pick up a lump of clay and knead it into some complicated and
+arbitrary shape. Call anything of essentially that shape a
+gollyswoggle. Did you bring a gollyswoggle into existence? I should
+think that if our sculptor brought a statue into existence, then you
+brought a gollyswoggle into existence." (126)
+
+Probably!
+
+> "you, presumably, did not intend to produce anything
+gollyswoggle-shaped...if you can make a statue on purpose by kneading
+clay, then you can make a gollyswoggle by accident by kneading clay."
+
+Ca you ou can only make a gollyswoggle by accident after the first
+gollyswoggle has been made?
+
+***** Section 17
+
+the slide from 'would' to 'did' (or 'does'):
+
+> "Assume I exist. Then certain simples compose me. Call them
+'M'. Now, a single simple is a negligible item indeed. Let $x$ be one
+of these negligible parts of me---one that is somewhere in my right
+arm, say. Now consider the simples that compose me _other than_ $x$
+('M -- $x$'). Since $x$ is so very negligible, M -- $x$ _could_ [my
+emphasis] compose a human being just as well as M could. We may say
+that M and M -- $x$ are "equally well suited" to compose human
+beings. And, of course, for _any_ simple $y$, "M -- $y$ will be as
+well suited to compose a human being as M are. Moreover, it would be
+surprising indeed if there were not a simple $z$ such that "M + $z$"
+were as well suited to compose a human being as M are. It would, in
+fact (if I may once more use this phrase), be intolerably arbitrary to
+say that M composed a human being although M -- $x$ _didn't_ [my
+emphasis] and M -- $y$ _didn't_ [my emphasis] and M + $z$ _didn't_ [my
+emphasis]. Suppose, therefore, that M -- $x$ et al.\ _do_ [my
+emphasis] compose human beings." (215)
+
+What would be arbitrary would be to suppose that M -- $x$ etc _would
+not_ compose human beings. And we've agreed to that in the first
+half. All we are therefore entitled to suppose is that M -- $x$ et
+al.\ _would_ compose human beings if $x$ were removed---just as my
+house of blocks -- block A4 _would be_ a house of blocks if I removed
+A4.
+
+Unger's presuppositions
+
+1) In every situation of which we should ordinarily say that it
+   contained just one man, there are many sets of simples whose
+   members are as suitably arranged to compose men as any simples
+   could be. [false]
+
+2) The members of each of these sets compose something. [false]
+
+3) Each of these "somethings" is a man, provided there are any men at
+   all. [false]
+
+4) If I exist, there is a man. (216)
+
+**** Reviews
+***** Rosenberg
+> To me it just seems obvious that the answer to such a question will
+> always depend on what sorts of things one has at one's disposal and
+> what sort of thing one is trying to get them to compose. If the xs
+> are, for example, "a lot of wooden blocks that one may do with as
+> one wills" (31), then to get them to compose, for example, a wall,
+> it may be sufficient to stack them up in the manner we call
+> "building a wall."  To get them to compose a wooden raft,on the
+> other hand,one would surely need to fasten them together more
+> securely, e.g., by gluing them to one another.  And there's nothing
+> at all one could do with them to get them to add up to a fish or a
+> clock or a sports car (705).
+
+**** Replies to reviewers
+> "Let me revert once more to my Copernican analogy. Someone who says,
+'I don't understand what van Inwagen means when he says that trees
+exist but apples don't' corresponds to someone who says, 'I don't
+understand what Copernicus means when he says that clouds move but the
+sun doesn't.' (711--712)
+
+NOPE. Problem is that all the designating terms in the Copernican
+example pick out things in the world, while, ex hypothesi, 'apples'
+does not. There is nothing to understand by the world 'apples' on van
+Inwagen's theory.
+
+"'But you couldn't understand "chairwise" unless you first understood
+"chair".' I think that this statement is false, for reasons that I
+give in the footnote that Rosenberg mentions. But suppose it is
+true. What are its untoward consequences for my metaphysical position?
+It obviously does not entail that I couldn't understand' chairwise'
+unless there were, in the strict and philosophical sense, chairs,
+[cf. Hirch on the coherency of *this*] and I don't see how it can have
+untoward consequences for my metaphysical position if it does not have
+that entailment. (Rosenberg, who as I said, understands "chairwise",
+presumably also understands "golden-mountain-wise"; grant for the sake
+of argument that he could not understand this ungainly adverb unless
+he understood "golden mountain"; it obviously does not follow that he
+could not understand "golden-mountain-wise" if there were no golden
+mountains.) (719)
+
+- golden mountains are not metaphysically impossible (except according
+    to van Inwagen); we do _not_ understand 'round square(-wise)'.
+
+> "It is easy to see how to define 'chairwise' in terms of 'chair'
+without supposing that there are any chairs. Let a "chair" be defined
+as an object that has the properties C_{1}, C_{2},\,\dots\,C_{n}. (I
+am sure that Rosenberg and I could agree on a property-list definition
+of 'chair'.)
+
+1. Suppose we have such a definition: "a chair is an object with four
+sections [legs] 1x1x10" placed each at the corners of a 10x10" square;
+resting on these sections is another section [seat] that is 10x10x1",
+and placed upon one terminal 1" part of this section is another
+section 10x1x10". Each of these sections are glued together."
+
+2. Now how is 'chairwise' defined in terms of this definition?
+
+3. "simples are arranged chairwise iff some of the simples occupy each
+   of four regions of space 1x1x10", these regions placed each at the
+   corners of a 10x10 square; some other of the simples occupy a
+   region of space 10x10x1" that borders the tops of the first four
+   regions; the remainder of the simples occupy a region of space
+   10x1x10" that borders a 1x10" area on the top and at the edge of
+   the 10x10x1" region; the simples in each region that border other
+   regions are bonded [however wood-glue bonds] with the simples in
+   the other region."
+
+*** Ontology and verbal disputes
+**** Paper notes
+Sider's 'backup strategy' for dealing with Hirsch is to stipulate---in
+concert with other metaphysicians---that they use "existence" and
+related terms in a special sense:
+
+> [The philosophers] should stipulate that their quantifiers are to be
+  understood as theoretical terms (and so are not subject to the same
+  level of metasemantic pressure from charity that governs terms like
+  'sofa' and 'game') that stand for whatever joint-carving notion is
+  in the vicinity. (9)
+
+By explicitly _intending_ to mean by 'exists' (and its relatives)
+whatever 'joint-carving' notion is 'closest', Sider hopes to evade
+Hirsch's argument from interpretive charity.  The idea is that one can
+(in special cases) put charity on hold.
+
+But it is not immediately clear why this should be expected to work.
+Recall Hirsch's strategy: in the recent ontological disputes, it is
+possible to interpret each side so that nobody actually disagrees.
+This requires interpreting David Lewis and Peter van Inwagen, for
+example, as meaning different things by their uses of the
+quantifiers.  Roughly, when DL says that there is something composed
+of the table and the eraser, he just means the same as the rest of us
+mean by "there is a table and an eraser".  Likewise, when van Inwagen
+asserts that there are no tables, he just means what we would express
+as "there are no organisms or simples that are also tables".
+
+Obviously, David Lewis and van Inwagen disagree.  Hirsch's
+'interpretations' have the result that our distinguished
+metaphysicians are putting forward truisms, like "everything that is
+an organism or simple is an organism or simple".  When van Inwagen
+said "everything is an organism or simple" he _thought_ he was making
+a bold metaphysical claim.  Not according to Hirsch.
+
+Hirsch's interpretations are therefore _hostile_.  They diverge
+substantially from the intentions of the speakers.  Even if they both
+tell Hirsch "we're _not_ engaged in a verbal dispute", Hirsch will be
+unmoved:
+
+> The presumption of charity is supposed to be an a priori principle
+  that is partially constitutive of linguistic meaning.  Insofar as
+  the disputing ontologists assert the sentence, "We are not engaged
+  in a verbal dispute," this sentence will figure, together with all
+  the other asserted sentences, in arriving at the most charitable
+  interpretation. I would suspect that meta-level, quasi-technical
+  (self-aggrandizing) assertions probably have low priority as
+  supplicants for charity. In any case, it can't be seriously
+  suggested that the charitable presumption in favor of the
+  correctness of this one assertion threatens to trump the presumption
+  in favor of all of the other assertions made by the
+  ontologists. (515)
+
+So why can't Hirsch simply do the same thing when Sider announces the
+introduction of 'Ontologese'?  Suppose each ontologist recites "I
+hereby intend to use the quantifiers $\exists$ and $\forall$ such that
+they correspond with whatever fundamental quantificational notions are
+in the vicinity".  Then presumably Hirsch will interpret each
+ontologist differently, so that their subsequent statements come out
+true.  He could just take each to mean different things by "$\exists$"
+and "$\forall$".  So what's Sider's move?
+
+He claims that in certain local contexts, charity can be suspended.
+When those engaged in a particular sort of talk would rather be wrong
+for the right reason than right for the wrong, they demand that
+charity be withheld from a given term (or terms).  Sider's example is
+from physics:
+
+> Consider a debate amongst some scientists over whether simultaneity
+  is transitive.  Imagine that certain proponents of special
+  relativity say that it's not, on one meaning of 'simultaneity'
+  anyway, on which spacelike separated objects count as simultaneous.
+  Someone in the debate then raises the question of whether it's
+  analytic, given the usual meaning of 'simultaneity', that
+  simultaneity is transitive.  This consideration is clearly
+  irrelevant to the scientific debate, and the scientists recognize it
+  as such.  They don't care about this facet of ordinary usage; what
+  they care about is the structure of the fundamental temporal facts.
+  So they agree to set aside this facet of the ordinary usage of
+  'simultaneous' for the sake of the dispute.
+
+But this does not appear to support Sider's claim.  Here theoretical
+utility and charity go hand in hand.  For here it _would_ be
+charitable to interpret the scientists' uses of 'simultaneous' as
+meaning something other than the 'usual meaning'.  If we did interpret
+them as meaning the 'usual meaning', they would be making (in Hirsch's
+words) 'a priori false assertions'; they would be doubting whether or
+not simultaneity is transitive, when it is part of the meaning of
+'simultaneity' that it is transitive.  It would be like someone
+doubting whether or not all bachelors are unmarried.  So this example
+is not a case of 'trumping' or overriding charity.
+***** Can stipulations ever trump charity?
+In the cases of both the ontologists and the scientists, someone
+listening to them with no background information might take them to be
+saying obviously false things.  "What do they mean, there don't exist
+any chairs"; "What do they mean, is simultaneity transitive?"  To make
+sense of their utterances, our speaker needs to interpret them
+charitably; they shouldn't be taken to mean what our listener means.
+She will perhaps understand the ontologist to mean something special
+by 'exist' and the scientist by 'simultaneity'.  In the latter case
+she would obviously be right in doing so.
+
+So if Sider's gambit is to work, we need an example where the
+stipulated meaning goes _against_ charity.  A listener must initially
+take them to be saying obviously _true_ things, and must be convinced
+that they are saying something else, something which might render what
+they say false.
+****** Aside: charity everywhere?
+Charity does seem pretty ubiquitous.  It plays role in metaphor:
+
+"Love is blind"---well, she can't mean that literally, so she must
+have some metaphorical meaning (charity is closely related to the
+cooperative principle)
+
+Is the cooperative principle a special instance of charity?
+'Conversational charity'?
+***** Back to Sider
+OK, we need some examples.
+
+The problem is that in the normal charity cases, we take what seems
+false and interpret it to be true.  But now we're supposed to take
+something true and interpret it to be true in some other way.
+
+What makes the first type of case possible is the fact that, given
+what the word usually means, the proposition expressed can't be true
+("There are no chairs").  So we cast around for a meaning that will
+make it true ("There are no simples that are chairs").  In the second
+case, the usual meaning works just fine in making the proposition
+true.  The speaker therefore has to explicitly stipulate a new meaning
+that allows us to evaluate the utterance as true or false.  Sider's
+"let $\exists$ mean the closest joint-carving notion" is not
+sufficient.
+
+An example.  "Can two people fall in love?"
+
+"Well, of course."
+
+"Ah, but by 'love' I don't mean the silly infatuations that lead to
+marriage today.  I mean the kind of love that unites two souls in an
+indestructible embrace.  By 'love' I mean total interpenetration of
+our immortal Cartesian minds."
+
+"..."
+
+"So, do you think two people can fall in love?"
+
+"No."
+
+Our imagined idealist will presumably go on to deny that anyone he has
+ever known has fallen in love, that nobody is likely to fall in love
+in these dark times, etc.  
+
+But now it is _charity_ that demands that we interpret him as meaning
+by 'love' exactly what he said he means; if we took him to be using
+'love' in its usual sense, then we would be forced to regard all these
+utterances as false.
+
+Let's run it again:
+
+"Can two people fall in love?"
+
+"Well, of course."
+
+"Oh, but don't take me to be using 'love' in the ordinary sense.
+Rather, I intend to use 'love' to pick out the most _fundamental_
+notion in the vicinity, whatever it may be."
+
+"..."
+
+"So, do you think two people can fall in love?"
+
+"Yes."
+
+Our listener can have no idea what this fundamental notion is supposed
+to be, and is therefore required to rely on the only notion she
+has---that expressed by 'love' in its ordinary sense.
+
+It's possible that she might not say "Yes".  It's possible that
+instead she might simply say "You are no longer making sense.  I do
+not understand what you mean by 'love', if not love---and I do not
+think you understand yourself".
+
+So Hirsch has two options here.  When Sider says
+
+"When I say '$\exists$', do not understand me as using it in the
+ordinary sense.  Rather, I intend to use it to pick out the most
+fundamental notion in the vicinity, whatever that may be.  Now,
+keeping all that in mind, let us ask ourselves: do chairs exist?"
+
+Hirsch may reply "Yes", or he may say "I no longer understand you."
+**** Sider, "Ontological realism"
+> The deflationist must therefore concede a disanalogy between the
+  PVI/DKL dispute and paradigmatic merely verbal disputes.  A merely
+  verbal dispute over whether geese live by the "bank" can be resolved
+  by a shift in vocabulary.  One side will be happy for her word
+  'bank' to be translated as 'river bank', the other for his word
+  'bank' to be translated as 'financial bank'; and each will agree
+  that geese live only by the river bank.  These non-hostile
+  translations are mutually acceptable to the disputants, and the
+  dispute evaporates once they are introduced.
+
+> The fact that the deflationist's translations are hostile certainly
+  means that he cannot use them as an offensive weapon, to force PVI
+  and DKL to concede that they do not genuinely disagree.  But nor
+  does this fact give the realist an offensive weapon against the
+  deflationist.  For it is no part of the deflationist's position that
+  warring ontologists be able to tell "from the inside" that they are
+  talking past one another.  The deflationist thinks, rather, that
+  there simply are no questions like those that the ontologists are
+  trying to ask.  They are trying to fix on a single distinguished
+  quantifier meaning, but the attempt does not succeed.  The
+  translations assign the only sensible contents to the words of the
+  misguided warring parties. (14)
+
+> The central question of metaontology is that of whether there are
+  many equally good quantifier meanings, or whether there is a single
+  best quantifier meaning.  It is a question about nature's joints; it
+  is a question of _how much quantificational structure the world
+  contains_. (15)
+
+> Thus, if *existence* is insufficiently magnetic to trump a poor fit
+  with use, Equivocation, Obviousness, or Indeterminacy might well be
+  _true about the English quantifier 'there exists'_.  But in that
+  case, PVI and DKL can simply recast their dispute directly in terms
+  of *existence*.  They can introduce a _new_ language in which to
+  conduct their debate, using the following performance:
+
+>> Let's give the speakers of ordinary English 'there exists'; let us
+  henceforth conduct our debate using '$\exists$'. We hereby stipulate
+  that '$\exists$' is to express an austere relative of the ordinary
+  English notion of existence. We hereby stipulate that although the
+  meaning of '$\exists$' is to obey the core inferential role of
+  English quantifiers, ordinary, casual use of disputed sentences
+  involving 'there exists' (such as 'Tables exist') are not to affect
+  at all what we mean by '$\exists$'.  We hereby stipulate that if
+  there is a highly natural meaning that satisfies these constraints,
+  then that is what we mean by '$\exists$'.  Perhaps the resulting
+  '$\exists$' has no synonym in English.  Fine---we hereby dub our new
+  language _Ontologese_.
+**** Hirsch, "Language, Ontology, and Structure"
+> I do agree with McGrath’s claim that charity to perception is weaker
+  in the philosophical communities than in ordinary communities in
+  which perceptual judgments about the existence of highly visible
+  macroscopic objects do not appear to be based on conscious
+  inferences from general principles.  But this point must not be
+  overstated.  The distinction between conscious and unconscious
+  inference is notoriously nebulous.  Probably all perception is
+  theory-laden in some ways or to some degree.  The fact is that the
+  philosophical communities do make perceptual judgments, such as,
+  "There is no composite object here," said by members of the
+  O-community in the presence of a table.  Nothing that McGrath has
+  said about the distinctive nature of the philosophical communities
+  seems to undermine the claim that there is an overwhelming
+  presumption in favor of charitably interpreting each side as
+  employing a language in which its assertions, both general and
+  perceptual, come out true. (514--515)
+
+> But why isn't it right for us to criticize their language as being
+  expressively defective, if in their language they are able to
+  express fewer s-facts than we can in ours?  I think this puzzling
+  question may motivate us to reject the restrictive view of s-facts,
+  or even to reject s-facts altogether.  If we hold on to the
+  restrictive view we must say that there is no value as such in
+  expressing s-facts.  We must say that the speech act that in
+  O∗-English is called "expressing an s-fact," even if this act does
+  not constitute (what we call) expressing an s-fact, has no less
+  value than (what we call) expressing an s-fact.  This is why we
+  cannot say that their language is defective, and they cannot say
+  that ours is.  If this formulation seems too paradoxical, then we
+  must give up the restrictive view. (518--519)
+
+> If we do not believe in s-facts we will say that a u-fact is in a
+  sense divided up in different ways by the structures of the
+  sentences that can express it.  We may perhaps consider there to be
+  something of value in being able to express u-facts in structurally
+  different ways (in being able to see the facts under the aspect of
+  different sentential structures).  That value, such as it might be,
+  is all the value that the restricted view can assign to expressing
+  s-facts.  This is why, on that view, the speech act that in
+  O∗-English is called "expressing an s-fact" has no less value than
+  (what we call) expressing an s-fact. (519)
+
+> What Sider evidently wants is that such principles as P and Q should
+  hold in a privileged sense of "existence" (in the sense of
+  _Existence_, with capitals and italics), the sense belonging to the
+  best ontological language.  The trouble is that precisely what the
+  neophyte neo-ontologists need from him is an explanation of what it
+  means for one ontological language to be better than another.  As
+  things stand each ontological camp will have as much reason as any
+  other to regard as privileged the sense of "existence" in its
+  ontological language.  This is why one gets the feeling that Sider
+  is trying to issue his explanations from a position outside any of
+  the ontological languages.  This, however, he cannot do.  The
+  philosophers who enter the neo-room have no alternative but to
+  understand his explanations in terms of the different ontological
+  languages they initially bring with them. (522)
+**** Sider, "Hirsch's attack on ontologese"
+> Second, one might think that there’s an important distinction
+  between ordinary terms and "theoretical terms", terms that have
+  built into their meanings (or at least built into their
+  metasemantics) that they are to stand for joint-carving meanings.
+  The metasemantics of theoretical terms in science, on this view, is
+  less charity-based than is the metasemantics of ordinary terms like
+  'sofa' and 'game'. Theoretical terms pick out whatever joint-carving
+  meanings are in the "vicinity", and are only minimally governed by
+  charity---not because of a global doctrine of reference magnetism, but
+  rather because of something local to theoretical terms. Even Hirsch
+  should admit that _some_ terms, such as certain terms of physics,
+  function in this way. (2)
+
+> The question is not whether one can speak a whole new language
+  simply by announcing the intention to do so, but rather whether one
+  can partially and locally suspend the considerations of charity that
+  govern meaning---whether one can say: "assuming there is a
+  joint-carving quantifier-meaning, if charity is getting in the way
+  of our meaning it then let this aspect of charity be suspended". And
+  I think one can do this. (4)
+
+Sider's example is a scientific dispute over 'simultaneity':
+
+> Consider a debate amongst some scientists over whether simultaneity
+  is transitive.  Imagine that certain proponents of special
+  relativity say that it's not, on one meaning of 'simultaneity'
+  anyway, on which spacelike separated objects count as simultaneous.
+  Someone in the debate then raises the question of whether it's
+  analytic, given the usual meaning of 'simultaneity', that
+  simultaneity is transitive.  This consideration is clearly
+  irrelevant to the scientific debate, and the scientists recognize it
+  as such.  They don't care about this facet of ordinary usage; what
+  they care about is the structure of the fundamental temporal facts.
+  So they agree to set aside this facet of the ordinary usage of
+  'simultaneous' for the sake of the dispute.
+
+But it appears that here it _would_ be charitable to interpret the
+scientists' uses of 'simultaneous' as meaning something other than the
+'usual meaning'.  If we did interpret them as such, they would be
+making (in Hirsch's words) 'a priori false assertions'; they would be
+doubting whether or not simultaneity is transitive, when it is part of
+the meaning of 'simultaneity' that it is transitive.  It would be like
+someone doubting whether or not all bachelors are unmarried.  So this
+example is not a case of 'trumping' or overriding charity.
+
+> I think that we have the ability to use words---whether pre-existing
+  words or new words---in such a way that their metasemantics is not
+  monomaniacally governed by charity.  Theoretical terms in science
+  are commonly, and more or less self-consciously, used in this way.
+  What I propose is that ontologists do the same with quantifiers.
+  They should stipulate that their quantifiers are to be understood as
+  theoretical terms (and so are not subject to the same level of
+  metasemantic pressure from charity that governs terms like 'sofa'
+  and 'game') that stand for whatever joint-carving notion is in the
+  vicinity. (9)
+
+It might be that Hirsch is relying on a 'monomaniacal' version of
+interpretive charity.  He is already willing to perform 'hostile'
+interpretations of other metaphysicians (and see his treatment of
+"We're not engaged in a verbal dispute").  If our words mean whatever
+they have to in order for what we say to be true, then Sider's appeal
+to a special language is useless.  But Hirsch's notion of charity is
+looking increasingly radical (there seems to be a connection between
+it and meaning skepticism/interpretationism).
+
+> I would say that 'joint-carving' is a theoretical term, which is
+  intended to, and in fact does, stand for a meaning that itself
+  carves at the joints.  Joint-carving carves at the joints (Sider
+  2011, section 7.7).  If 'joint-carving' is a theoretical term,
+  there's no reason to doubt that 'joint-carving' will pick out the
+  joint-carving notion of joint-carving---if there is such a notion. A
+  big if!
+*** Parthood
+**** Kit Fine, "Toward a theory of part"
+***** Intro
+***** 1. the intuitive notion of part
+> One object may be a part of another---some thunder a part of a
+> storm, for example, or the shell a part of a nut.  When one object
+> is a part of another, there is a sense in which it is in the
+> other—not in the sense of being enclosed by the other, as when a
+> marble is in an urn, but more in the sense of being integral to the
+> other.  When parts are in question, it is also appropriate to talk
+> of a given object being composed of or built up from the objects
+> that it contains.  Thus a storm may be composed of various
+> occurrences of lightning and thunder, while an urn is not
+> composed---even in part---of the marbles that it contains (560).
+
+> Philosophers have often supposed the notion of part only has proper
+> application to material things or the like and that its application
+> to abstract objects such as sets or properties is somehow improper
+> and not sanctioned by ordinary use.  But I suspect that this is
+> something of a philosopher’s myth.  We happily talk of a sentence
+> being composed of words and of the words being composed of
+> letters---and not just the sentence and work tokens, mind, but also
+> the types.  And similarly, a symphony (and not just its performance)
+> will be composed of movements, a play of acts, a proof of steps.  I
+> wonder how many of these philosophers have said such things as
+> ``this paper is in three parts.''  When they have, then I very much
+> doubt that they would have any inclination, as ordinary speakers of
+> the language, to add ``but not, of course, in a strict or literal
+> sense of the term''; and the intended reference here is not
+> primarily---or perhaps not at all---to the tokens of the paper but
+> to the type of which they are the tokens.  The evidence concerning
+> our ordinary talk of part is mixed and complicated, but it does not
+> seem especially to favor taking material things to be the only true
+> relata of the relation (561).
+***** 2. pluralism
+> Now, on the face of it, there would appear to be a wide variety of
+> basic ways in which one object can be a part of another. The letter
+> ‘n’ would appear to be a part of the expression ‘no’, for example,
+> and a particular pint of milk part of a particular quart; and if
+> these two relations of part are not themselves basic (perhaps
+> through being restricted to expressions or quantities), there would
+> appear to be basic relations of part that hold between ‘n’ and ‘no’
+> or the pint and the quart. It is also plausible that the way in
+> which ‘n’ is a part of ‘no’ is different from the way in which the
+> pint is a part of the quart. For if the two ways were the same, then
+> how could it be that two pints were only capable of composing a
+> single quart, while the two letters ‘n’ and ‘o’ were capable of
+> composing two expressions, ‘no’ and ‘on’?  For the same reason, the
+> way in which the letter ‘n’ is a part of the expression ‘no’ would
+> also appear to be different from the way in which it is a part of
+> the set of letters {‘n’, ‘o’}; and the way in which ‘n’ is a part of
+> {‘n’, ‘o’} would appear to be different from the way in which a pint
+> is a part of a quart, since if four quarts compose a gallon the
+> pints which compose the quarts will compose the gallon in the same
+> way in which they compose the quarts, whereas, if four sets compose
+> a further set the members of the sets will not compose the further
+> set in the same way in which they compose the component sets. Thus
+> we would now appear to have three different basic ways in which
+> one object can be a part of another (pint/gallon, letter/word, and
+> member/set); and once these cases have been granted, it is plausible
+> that there will be many more.
+*** Coincident objects
+**** Bennett, "Coincidence and the grounding problem"
+***** 1. the grounding problem
+The question: what grounds the different 'sortalish' properties of
+coincident objects (like the statue and the lump)?  Given that they
+are composed of the same things, _why_ do they have different
+properties?
+
+Sortalish properties are:
+
+1. persistence conditions, particularly modal properties like _being
+   essentially shaped about like so,_
+2. kind or sortal properties, and
+3. properties that things have partially in virtue of their
+   instantiation of properties in categories 1 or 2 (341).
+
+So, "in light of the fact that spatio-temporally coincident things
+have all of their other properties in common, in virtue of what do
+they have the sortalish properties they do?  I think that the
+multi-thinger has to answer, 'in virtue of nothing at all'.  I think
+she has to claim that sortalish properties are primitive" (341--342).
+***** 2. determination by non-sortalish properties
+Can the different sortalist properties be 'grounded' in non-sortalish
+properties?
+
+No:
+
+> Goliath's non-sortalish properties do not suffice for its sortalish
+> properties for the simple reason that Lumpl has just the same
+> non-sortalish properties but does not have the same sortalish ones
+> (343).
+***** 3. concepts and conventions
+Can the different sortalish properties be grounded in our conventions?
+
+Something like "in each place where non-sortalish properties N are
+instantiated, there is a thing x with sortalish properties S1 and
+another thing y with sortalish properties S2" (348)
+
+But what initially instantiates these properties N?  If there is some
+object, then it is something with _no_ sortalish properties, which is
+weird.  If there is no object, then there are properties just
+'floating about' unattached to an object.  Which is weird.
+
+Additionally, this position requires claiming that it is a conceptual
+truth that "where properties N are instantiated..."  And "it is
+neither part of my concept of a lump of clay nor of my concept of a
+statue that wherever such and such non-sortalish properties are
+instantiated, there is a thing that would survive a squashing as well
+as a thing that would not" (350).
+
+(Is Bennett right here?)
+***** 4. how to be a primitivist
+Are the distribution of sortalish properties brute facts?
+
+> the claim that it is primitive that Goliath is essentially shaped
+> that way is compatible with the claim that it is in fact shaped that
+> way in virtue of its low-level microstructural properties, and the
+> claim that it is primitive that I am essentially human is compatible
+> with the claim that I am in fact human in virtue of my genetic
+> structure and evolutionary history (354).
+
+The explosion:
+
+> every region of spacetime that contains an object at all contains a
+> distinct object for every possible way of distributing 'essential'
+> and 'accidental' over the non-sortalish properties actually
+> instantiated there (354).
+
+"_all the modal bases_ are covered" (355).
+
+The dilemma:
+
+> The only live options, then, are to be either a one-thinger or a
+> bazillion-thinger.  We must either think that there is only one
+> thing per spatio-temporal location, or else that there are lots and
+> _lots_ of spatio-temporally coincident things (358).
+**** Fine, "The non-identity of a thing and its matter"
+***** 0. intro
+***** 1. monism
+> _Extreme_ monism may now be taken to be the view that any two
+> material things that are coincident at a time are the same,
+> _moderate_ monism the view that any two material things that are
+> coincident in a world are the same, and _mild_ monism the view that
+> any two material things that are necessarily coincident are the same
+> (or perhaps we should take each form of monism to be the view that
+> it is _necessary_ that the relevant sort of coincidents are the
+> same) (198).
+***** 2. opacity
+
+*** Nihilism
+**** "Skepticism and nihilism"
 520--521: "And so far as I can discern, there is no sorites which will
 work directly to refute the idea that some _entities_ exist."
 
@@ -1598,7 +3141,7 @@ may, to some significant extent, think coherently about concrete
 reality." 
 # <<incoherent>>
 
-*** "There are no ordinary things"
+**** "There are no ordinary things"
 > Human experience, it may be said, naturally leads us to have a
   certain view of reality (117)
 
@@ -1743,8 +3286,8 @@ may be accepted with equanimity."
 
 They cannot be considered if they cannot be thought of.
 
-*** "Elimitivism and the challenge from folk belief"
-**** The problem
+**** "Elimitivism and the challenge from folk belief"
+***** The problem
 > Why do the folk believe that there are statues?  If eliminativists
   are right, they have never seen a statue (for there are none).  They
   do sometimes see statuewise arrangements of atoms; but, if
@@ -1771,8 +3314,8 @@ unreliable would mean that the _nihilists_ are probably wrong too.
   other revisionary metaphysicians is that it is exceptionally
   difficult to provide any satisfactory explanation of their
   reasonableness (245).
-*** Merricks, _Objects and Persons_
-**** Chapter 1: Explaining Eliminativism
+**** Merricks, _Objects and Persons_
+***** Chapter 1: Explaining Eliminativism
 Saying "chairs don't exist" is (somehow) not like saying "Bigfoot
 doesn't exist":
 
@@ -1833,8 +3376,8 @@ of a dog and tree?
 
 17--18: 'slithy tove'---analogous to van Inwagen's bliger (and equally
 a failure)
-**** Chapter 2: Considerations in favor of eliminativism
-***** Sorites Game
+***** Chapter 2: Considerations in favor of eliminativism
+****** Sorites Game
 > I deny that there are co-located multiple _David_-candidates.  And I
 > reject metaphysical vagueness.  So I conclude that, if _David_
 > exists at the start of the Game, then there is a point during the
@@ -1843,7 +3386,7 @@ a failure)
 > conclude that _David_ does not exist at the start of the Game.  For
 > the result that a single annihilation could make 'all the
 > difference' in _David_'s existence is unacceptable (33).
-**** Chapter 7: Belief and Practice
+***** Chapter 7: Belief and Practice
 > Someone who tries to purchase statues is---in an important
 > sense---like someone who tries to hunt unicorns.  Both are doomed to
 > failure (162).
@@ -1854,7 +3397,7 @@ a failure)
 > justice to its striking and surprising nature (163).
 
 169: existence is univocal
-***** Section 2: Justification
+****** Section 2: Justification
 > the eliminativist who says that ordinary ontological beliefs are
 > false must award such beliefs some sort of 'alethic commendation'.
 > So I must explain the sense in which the belief ordinarily expressed
@@ -1903,7 +3446,7 @@ Identity over time:
 > _t*_ (176--177).
 
 177: convention and precisification
-***** Section 4: And Yet I Often Say...
+****** Section 4: And Yet I Often Say...
 > When I say 'there is a statue of a Roman emperor', I mean that there
 > are things arranged statue-of-a-Roman-emperorwise.  Generally, when
 > I say 'there is an F', when alleged Fs are supposed to be non-living
@@ -1946,7 +3489,7 @@ Still not speaking the truth!
 > some facts about the world---such as the fact that there are things
 > arranged statuewise---that we can neither express nor grasp without
 > relying upon empty folk concepts (188).
-***** Section 5: Conclusion
+****** Section 5: Conclusion
 > Folk concepts such as that of _statue_, although empty, are
 > indispensable.  That is, there are important truths about the
 > world---practically important to us---that we could not grasp
@@ -1956,6 +3499,294 @@ Still not speaking the truth!
 > could abandon the folk-ontological framework, along with any other
 > framework that is parasitic upon it, altogether.  But to do so would
 > be to abandon our way of life (190).
+*** Essentialism
+**** Chisholm, _Person and Object_
+***** Chapter 3: Identity through time
+****** 1. the ship of theseus
+Other cases: splitting and joining rivers; the tributaries or branches
+have different names, are they different rivers?
+****** 2. playing loose with the 'is' of identity
+examples of apparent 'loose use':
+
+1. road segments: "route 33 is foothill here but not there"
+2. splitting/fusing: "this thing will be two things"
+3. offices/orgs: "the president is x, will be y"; "the supreme court
+   is S, will be S1"
+4. descriptive identity: "that is the same one I have" (type-token
+   confusion)
+5. anything that denies essentialism (?)
+****** 3. an interpretation of bishop butler's theses
+1. ordinary things have identity over time in a loose sense
+2. people have identity over time in a strict sense
+****** 4. feigning identity
+'logical constructions', or 'fictions'
+****** 5. the persistence of persons through time
+'incoherence' of a materialist-psychological criterion of identity:
+
+> If I am identical with the thinking substance in which I am thus
+> placed, then I cannot be transferred _from_ that substance to
+> another substance (107).
+****** 6. 'will I be he?'
+boink
+*** Fine
+**** "Things and their parts"
+***** 0. intro
+Two different ways of being a part: timeless or temporary
+***** 1. timeless part
+Criticism of the standard account
+
+How is is that slices of bread and a piece of ham are part of a
+sandwich?  Classical mereology would suggest that the sandwich is
+simply the sum of the three things.  But the problem with this
+suggestion is that, according to classical mereology, the sum of
+(three) things exists whenever those things exist:
+
+> Thus the sum $a + b + c +$ . . . will exist whenever any of its
+> components $a, b, c,$ . . . exists (just as it is located, at any
+> time, wherever any of its components are located).  It follows that,
+> under the proposed analysis of the ham sandwich, it will exist as
+> soon as the piece of ham or either slice of bread exists.  Yet
+> surely this is not so.  Surely the ham sandwich will not exist until
+> the ham is actually placed between the two slices of bread.  After
+> all, one makes a ham sandwich; and to make something is to bring
+> into existence something that formerly did not exist (62).
+
+One could try 'restricting' the parts to the times at which we say the
+sandwhich exists.  It would thus be in an extended sense of 'part'
+that we say 'the ham is part of the sandwich', because it is only the
+'restriction' of the ham that is part of the sandwich. But two
+problems:
+
+1. Strictly speaking, the ham isn't part of the sandwich.
+2. 'Monsters' like the Cleopatra-ham are also part of the sandwich in
+   the extended sense.
+
+He suggests that a necessary component of the sandwich is a manner of
+assembly: "in addition to the slices of bread and piece of ham, the
+sandwich should contain a trope or particularized relation of
+betweenness (or assembly)" (63).  But classical mereology does not
+have the resources to manage tropes; they are not parts in the same
+way that the bread and ham are.
+***** 2. temporal part
+Classical mereology can be adapted to give an account of temporal
+part:
+
+> Given that my car and its carburetor currently exist, there will be
+> a time-slice, or temporal restriction, of each of them to the
+> current time. Armed with this notion of time-slice, we may say that
+> the carburetor is currently a part of my car if the current
+> time-slice of the carburetor is a timeless part of the current
+> time-slice of the car. More generally, given any two objects x and y
+> that exist at a given time t, we may say that x is a part of y at t
+> if the time-slice of x at t is a timeless part of the time-slice of
+> y at t (or, in symbols, x ≤t y = df xt ≤ yt) (64).
+
+But the 'monsters' problem arises again:
+
+> Consider the aggregate of the current time-slice of the carburetor
+> with Cleopatra or, if you like, with all things whatever that do not
+> currently exist. The current time-slice of this monster aggregate is
+> the same as the current time-slice of the carburetor. Given that the
+> carburetor is currently part of the car, it follows, on the present
+> account, then the monster is as well. But surely this is absurd
+> (64).
+
+Does this assume four-dimensionalism?  If it does, we can drop the
+assumption and still have an objection to temporal parts (cf. van
+Inwagen).
+***** 3. rigid embodiment
+Fine's timeless parthood
+
+> I should like to suggest that we take the bold step of recognizing a
+> new kind of whole. Given objects a, b, c, . . . and given a relation
+> R that may hold or fail to hold of those objects at any given time,
+> we suppose that there is a new object—what one may call “the objects
+> a, b, c, . . . in the relation R.” So, for example, given some
+> flowers and given the relation of being bunched, there will be a new
+> object—the flowers in the relation of being bunched (what might
+> ordinarily be called a “bunch of flowers”) (65).
+
+Unlike the 'classical solution', the relation R is not part of the
+bunch in the same way as the flowers are.  It modifies or 'arranged'
+the flowers.
+
+- existence :: The rigid embodiment $a,b,c, ... ⁄R$ exists at a time t
+               iff $R$ holds of a, b, c, ... at t (66).
+- location :: If the rigid embodiment e = a,b,c,... ⁄R exists at time
+              t, then e is located at the point p at t iff at least
+              one of a, b, c, . . . is located at p.
+- identity :: The rigid embodiments a,b,c,... ⁄R and a′,b′,c′,... ⁄R′
+              are the same iff the state of a, b, c, . . . standing in
+              the relation R is the same as the state of a′, b′, c′,
+              . . . standing in the relation R′.
+- part-whole 1 :: The objects a, b, c, . . . are (timeless) parts of
+                  a, b, c, . . . ⁄R.
+- part-whole 2 :: The relation R is a (timeless) part of a, b, c,
+                  . . . ⁄R. In this case, the relation R itself is
+                  taken to be a (constitutive) aspect of the
+                  corresponding rigid embodiment (67).
+- part-whole 3 :: Any timeless part of a,b,c,... ⁄R is a (timeless)
+                  part of one of a,b,c,... (or of R).
+
+Character postulates (cf. 'character conditions' in "Toward a theory
+of part"):
+
+> The character postulates state what descriptive properties a rigid
+> embodiment will have---whether, for example, it is red or heavy or
+> much admired. What these postulates are will depend upon the
+> properties and the sort of rigid embodiment in question.
+
+So whatever relation applies to sandwiches (call it 'B'), the sandwich
+is therefore a, b, c /B.  The bread and ham are timeless parts of the
+sandwich, but the sandwich only exists when B applies to the parts.
+
+There is still something odd about B being _part_ of the sandwich (but
+I think "Toward a theory of part" might solve that).
+
+There is also something odd about 'qua-objects':
+
+> An especially important class of cases are those in which the
+> principle of embodiment is a property P rather than a polyadic
+> relation R.  The rigid embodiment is then of the form “a/P” and may
+> be read as “a qua P” or as “a under the description P.”  An airline
+> passenger, for example, is not the same as the person who is the
+> passenger since, in counting the passengers who pass through an
+> airport on a given weekend, we may legitimately count the same
+> person several times (67--68).
+
+What is the difference?  'Being bunched' is also a property, but one
+that applies to a group or set of flowers.  One could also perhaps say
+that I stand in the relation of 'passengership' to a time.
+
+I think this is ultimately irrelevant because Fine's 'composition
+operators' can account for both 'relations' and 'properties' by
+reference to the different conditions (in "Toward a theory of part").
+***** 4. variable embodiment
+How do things change parts over time?
+
+In the case of a river, there are the various molecules of water and
+impurities, but there is also _the water_, the 'variable' quantity:
+
+> I take it that the water in the river in the second sense---what we
+> may call the variable water---is now constituted by one quantity of
+> water and now by another. But what is the variable water (68)?
+
+> I would like to take the bold step of supposing that there is here a
+> hitherto unrecognized method by which wholes may be formed from
+> parts. In the case of the variable water, there is a function, or
+> “principle,” that determines which quantity of water constitutes the
+> variable water at any given time.
+
+More co-location, of course.  The variable water is another thing,
+riding on top of the water molecules.  And similarly for other
+changing things:
+
+> In general, we will suppose, given any suitable function or
+> principle F (taking times to things), that there is a corresponding
+> object standing in the same relationship to F as the variable water
+> of the river stands to its principle.  We call this object the
+> _variable embodiment_ of F and designate it by ⁄F⁄ (69).
+
+Fine's 'conceptual container' analogue:
+
+> Here is one way of getting an intuitive grip on the notion of a
+> variable embodiment. Imagine a container into and out of which water
+> flows. We may then distinguish between three things: (a) the
+> container itself, (b) the water that is in it at any given time, and
+> (c) the container with the water in it. We may think of (c) as a
+> single object that has different water as a part at different
+> times. Let us now make two modifications to our conception of the
+> container. First, we suppose that it not merely a passive recipient
+> of the water but somehow determines which water is to be in it at
+> any one time. It plays an active role, as it were, in determining
+> what its content is to be over time. Second, we suppose that the
+> container is not another physical object but something of a more
+> abstract or conceptual nature. Thus the varying contents of the
+> container will be determined by conceptual rather than by physical
+> means. With these two modifications in place, we may then obtain a
+> pretty good model for our notion of variable embodiment, with the
+> container being the principle of embodiment F and the
+> container-cum-content being the variable embodiment /F/.
+
+Combining timeless and temporary parthood allows us to account for the
+car:
+
+> It will be helpful, at this point, to combine the two theories of
+> embodiment. I would like to suggest that at each time at which a
+> particular car exists, it is constituted by a certain rigid
+> embodiment. This embodiment will be the various major parts of the
+> car (the engine, the chassis, etc.) arranged in the general manner
+> characteristic of a car. As these parts change or as the general
+> arrangement changes then so will the rigid embodiment. Thus the car
+> will be a variable embodiment /F/ whose principle F picks out
+> various rigid embodiments. And since these rigid embodiments will
+> include the engine and the like as timeless parts, there will be no
+> difficulty in supposing that they are temporary parts of the car
+> (69).
+
+> When we compare the present account of temporary part with the
+> previous account in terms of time-slices, we see two main
+> differences. First, our account is asymmetric in its treatment of
+> temporary part and whole. For whether the object e is a part of f at
+> t depends upon what f is at the time (i.e., upon ft) but depends
+> upon e in its entirety (i.e., upon e itself rather than et or some
+> other part of e). Second, the present account is informed by a very
+> different conception of the “temporary identity” of an object, of
+> what it is at a time. On the earlier account, the temporary identity
+> of an object was its time-slice at the time in question. But for us,
+> it is characteristically a rigid embodiment, something with a “life”
+> and structure of its own.
+
+???
+****** Postulates
+- existence :: The variable embodiment f = /F/ exists at time t iff it
+               has a manifestation at t.
+- location :: If the variable embodiment f = /F/ exists at t, then its
+              location is that of its manifestation ft (assuming that ft has a location).
+- identity :: The variable embodiments /F/ and /G/ are the same iff
+              their principles F and G are the same.
+- temporary part 1 :: Any manifestation of a variable embodiment at a
+     given time is a temporary part of the variable embodiment at that
+     time (in symbols: ft ≤ t f ).
+- temporary part 2 :: If a is a timeless part of b that exists at t
+     and if b is a part of c at t, then a is a part of c at t.
+- temporary part 3 :: If a is a part of b at t and if b is a timeless
+     part of an object c that exists at t, then a is a part of c at t.
+- temporary part 4 :: If a is a temporary part of b at t, then there
+     is a mereological chain at t connecting a to b.
+***** 5. consequences
+1. The first is that the majority of material objects, on our account,
+   will submit to a hierarchical division into parts.
+2. A second consequence of our account is that there will be an
+   intensional or conceptual element to the identity of many material
+   objects. For a rigid embodiment a, b, c, . . . /R is to be
+   understood partly in terms of its material components, but also
+   partly in terms of its relational principle R; and a variable
+   embodiment /F/ is to be understood wholly in terms of its
+   functional principle F. Thus these principles, which are
+   intensional or conceptual in nature, are directly implicated in the
+   identity of the embodiments and hence also in the identity of the
+   material things that are explained by their means (73).
+3. A third consequence of our theory---at least under its most
+   plausible development---is that there will be many more material
+   objects than is commonly supposed. We are familiar with the
+   prodigious ontology of the mereologists, according to which any
+   occupied region of space-time, no matter how scattered or
+   gerrymandered, will determine a material object. But this is
+   nothing compared to the ontology of the present view.
+   - "Of course, this is not to say that there need be any ultimate
+     commitment to these objects. But I would wish to maintain that
+     the objects we ordinarily recognize---chairs and tables and the
+     like---are not ontologically privileged."
+
+> Material things enjoy a hierarchical structure; they can embody a
+> significant intensional element; and they will belong to a vast
+> superstructure, of which the objects we usually recognize are but a
+> small part. Thus, if I am right, it is only by abandoning our usual
+> conception of material things as relatively unstructured, completely
+> unconceptual, and ontologically limited in their nature that we can
+> attain a proper understanding of what they are (74).
+**** "Toward a theory of part"
 ** The problem of the many
 *** SEP Entry
 The paradox arises because in the story as told the following eight
@@ -2595,1574 +4426,6 @@ Comparison with two-world and intentional objects models (10)
 waltz cannot exist undanced: in either case, for the "object" of the
 act to exist *is* for the act to take place in a certain way.
 
-** Universalism and Four-Dimensionalism
-*** Sider, _Four-Dimensionalism_
-**** Introduction and Chapters 1--2
-[[file:~/Documents/reed/fall11/backup/phil/notes/sider.text][markdown notes]]
-**** Chapter 3: Three- and Four-Dimensionalism Stated
-***** Four-Dimensionalism
-> four-dimensionalists tend to employ an atemporal notion of
-exemplification of properties and relations...my current temporal part
-is, atemporally, part of the larger spacetime worm that is me (56)
-
-> Intrinsic change is difference between successive temporal parts.
-
-- P@T :: x is part of y at t iff x and y exist at t, and x's
-         instantaneous temporal part at t is part of y's instantaneous
-         temporal part at t (57).
-- PO :: if x and y exist at t, but x is not a part of y at t, then x
-        has some part at t that does not overlap y at t (58).
-
-> x is an _instantaneous temporal part_ of y at instant t =_{df} (1) x
-exists at, but only at, t; (2) x is a part of y at t; and (3) x
-overlaps at t everything that is part of y at t (59).
-
-> Four-dimensionalist may then be formulated as the claim that,
-necessarily, each spatiotemporal object has a temporal part at every
-moment at which it exists.
-
-***** Three-Dimensionalism
-- 3D-3 :: Necessarily, every continuant is _possibly_ strongly wholly
-          present throughout some extended interval (66).
-
-Fails to describe most actual objects.
-
-***** Perdurance, Endurance, Presentism, and Eternalism
-All four combinations are (seem) coherent
-
-Presentist perdurance
-
-**** Chapter 4, Section 9: The argument from vagueness
-> Under what conditions do objects come into and go out of existence?
-  (120)
-
-Sider treats this as a question about conditions on *composition*.  He
-claims that composition is unrestricted---any "class" of objects
-composes another object.
-
-***** 9.1: unrestricted mereological composition
-> If not every class has a fusion then there must be a restriction on
-composition.  Moreover, the only plausible restrictions on composition
-would be vague ones.  But there can be no vague restrictions on
-composition, because that would mean that whether composition occurs
-is sometimes vague.  Therefore, every class has a fusion (p. 121).
-
-- P1 :: If not every class has a fusion, then there must be a pair of
-        cases connected by a continuous series such that in one,
-        composition occurs, but in the other, composition does not
-        occur.
-- P2 :: In no continuous series is there a sharp cut-off in whether
-        composition occurs. (cf. Markosian)
-- P3 :: In any case of composition, either composition definitely
-        occurs, or composition definitely does not occur.
-
-P3 relies on the _linguistic theory of vagueness_ (roughly, the view
-that vagueness is a fact about our language and thought, not about the
-world; it is due to "semantic indecision")
-
-- (F) :: There is some object, x, such that (1) every member of C is
-         part of x, and (2) every part of x shares a part in common
-         with some member of C.
-
-This open sentence says that the class of objects C compose the object
-x.  Sider claims that if some instance of (F) has vague or
-indeterminate truth-conditions, then it is because there is vagueness
-in the terms used to express the sentence.  "(F), however, apparently
-contains no vague singular terms" (126).
-
-(see also Sider's porky-pig sentence, p. 127)
-
-The "crucial assumption" is that "logical words are never a source of
-vagueness" (128).
-
-Another assumption is that there are not multiple equally good
-precisifications of the logical terms---in particular, the
-quantifiers.  (I.e., no quantifier variance.)
-
-> Anyone who accepts that logic is non-vague must also accept
-  unrestricted composition. (132)
-
-***** 9.2: composition questions and temporally indexed parthood
-1. "when a given class has a fusion at a given time" (133)
-
-2. when a fusion occurs between objects existing at different times:
-
-> let us say that an object x is a _diachronic fusion_ of an
-  assignment f iff for every t in f's domain, x is a fusion-at-t of
-  f(t).
-
-3. "when a given assignment has a _minimal_ D-fusion" (i.e., when the
-   object is composed only of the given parts at the given times):
-
-> _Under what conditions do objects begin and cease to exist?_ (134)
-
-***** 9.3: the argument from vagueness for four-dimensionalism
-# <<sider-v>>
-Parallel argument structure as P1--P3 above, replacing composition
-with minimal D-fusions.  This parallel argument is supposed to imply
-
-- U :: every assignment has a minimal D-fusion
-
-which supposedly entails four-dimensionalism (given Sider's
-definitions of fusions and parts).
-
-see [[koslicki]] on Sider's argument
-
-*** Hawthorne, "3D vs 4D"
-**** Spacetime
-"three theses central to the picture at hand:"
-
-- Pointiness :: Every space-time region is composed of point-sized
-                parts.
-- Universality :: Every collection of space-time points composes
-                  something.
-- Uniqueness :: For every collection of space-time points there is
-                exactly one thing that is composed of the space- time
-                points in that collection.
-- Pointy Object Fundamentality :: Points are ontologically more
-     fundamental than extended regions.
-- Pointy Fact Fundamentality :: Facts about points and the relations
-     between them are more fundamental than facts about extended
-     regions.
-
-Most four-dimensionalists accept these theses.
-
-***** Spatiotemporalism
-The thesis that material objects _are_ the spacetime regions they
-occupy.
-
-- Modal objection :: David Lewis might have lived another year, but
-     the space-time region he (actually) occupied could not have
-     lasted longer than it did.
-
-- Ordinary language objection :: Space-time regions don't walk to the
-     grocery.
-
-**** Four-Dimensionalism
-"Physical objects are thought to be built out of simple material parts
-that have zero spatial and temporal extent, and any collection of such
-simples is held to compose one and only one material object.  On such
-a picture, the last of the worries mentioned for spatiotemporalism no
-longer arises: since point-sized material objects are not identified
-with points, then there is no principled difficulty in allowing two of
-them to occupy the same spatiotemporal point."
-
-Adoption of *Uniqueness* causes problems for four-dimensionalists
-(Lumpl and Goliath).
-
-***** Drop Uniqueness?
-"what should we make of a position that embraces Pointiness and
-Universality for material objects (call this combination ‘Plenitude’)?
-The defender of Plenitude holds that everything is made of point sized
-things, and that every collection of point sized things makes up
-something, but allows that there may be a number of things made of the
-very same point sized things.  She is therefore well placed to
-maintain that even when a quantity of steel and a ship made of the
-steel have exactly the same point-sized parts, they are not
-identical."
-
-Motivating the plenitude: If there could be an archipelago made up of
-an island, a rusting ship, and a toppled tower, why shouldn't there be
-arbitrary scattered objects?
-
-**** Fundamentality
-Problems with the relation of things to their points; Kripke et. al.
-
-**** Three-Dimensionalism
-***** "Wholly present"
-According to the 'serious tenser', the claim that I am spread out in
-time has no more merit that the claim that I am spread out across many
-possible worlds: one should no more reconstrue what was and will be as
-a series of additional concrete realities that I inhabit than one
-should reconstrue what might be as a series of additional concrete
-worlds that I inhabit."
-
-Analogues with 'bi-location'.
-
-*** Vagueness arguments
-**** Koslicki on Sider
-<<koslicki>> on [[sider-v][Sider 4.9]]
-
-Summary of the Sider/Lewis argument against vague composition:
-
-> The only acceptable account of vagueness is the account which
-  locates the source of vagueness in language and thought: vagueness
-  is a matter of semantic indecision.  But the question of whether a
-  given plurality of objects compose something can be formulated in a
-  part of language which does not contain any vague vocabulary.
-  Therefore, the question of whether a given plurality of objects
-  compose something can never receive a vague answer. (113)
-
-If we disagree with Sider over the truth-value of a sentence like
-"There exist n objects", what is the source of our disagreement?
-Koslicki believes that it involves the *range* (not the *meaning*) of
-the existential quantifier:
-
-> There is no reason why they should not agree on what '$\exists$'
-  means, but they nevertheless disagree on _what_ exists and _how
-  many_ things exist: in other words, they disagree on what it means
-  to be an _object_. (119)
-
-Whether "There exist n objects" is true therefore depends on how many
-things the quantifier ranges over.  How many things it ranges over
-depends in part on how many fusions occur.  And whether or not it is
-vague whether a given fusion occurs is just what is at issue.
-
-(Sider's reply doesn't make sense.)
-
-***** Problems with the plenitude
-Because of the massive amount of fusions and whatnot,
-four-dimensionalism (and 'promiscuous' three-dimensionalism) lose
-sight of one of the original problems: discovering persistence
-conditions for everyday objects like houses and pizzas.  Because these
-objects have no privileged metaphysical status, questions about their
-persistence are really just questions about our conceptual framework:
-
-> Sider is guilty of a bit of false advertising: his account is really
-  a way of saying that, at the end of the day, there is no interesting
-  ontological story to be told about the persistence of our familiar
-  concrete objects of common-sense; whatever there is to say about the
-  persistence of houses, trees, people and cars concerns the
-  organization of our conceptual household. (125)
-
-(This certainly seems to make things easier.)
-
-'Genidentity' and [[spinning discs]]
-
-*Why* does the trout-turkey exist?  Koslicki thinks existence 'comes
- too cheaply'.  But why should it be expensive?
-
-*** Spinning discs
-# <<spinning discs>>
-
-What exactly is the thought experiment?
-
-- A completely homogenous spinning disc is qualitatively
-  indistinguishable from a stationary disc if we assume 4D?
-  - But how is this *possible*?  Any superficially homogenous disc is
-    actually composed of atoms and so has a non-homogenous structure.
-    We could _see_ the movement of the atoms in the spinning disc.  So
-    we are apparently supposed to imagine a hunk of matter that is
-    _not composed of atoms_.  This seems impossible.
-  - Another possibility is that at _each instant_ the atoms of the
-    spinning disc are in an identical position as atoms of the
-    stationary disc.  Each 'snapshot' shows that the atoms of the
-    spinning disc have moved far enough to become 'in line with' the
-    atoms of the stationary disc.  But this would assume that space
-    and/or time are discrete, which is a bold empirical hypothesis.
-- Either way, the spinning disc objection to four-dimensionalism makes
-  no sense to me.
-
-If a 'block' of matter is _completely_ homogeneous, then it has no
-structure.  There is no 'natural' way to split it up; it has no
-internal divisions.  In other words, it _has no proper parts_.  What
-things have no proper parts?  Simples!  So the objection to
-four-dimensionalism is really just one about simples.  The objection
-is that four-dimensionalism can't account for the rotation of simples.
-
-Is it still a valid objection?  At the very least, Sider's
-presentation of it becomes problematic:
-
-> Imagine two duplicate, homogeneous, continuous, perfectly circular
-  disks of uniform depth: one stationary, the other rotating.  The
-  genidentity relation must hold in different patterns between the
-  temporal parts of the bits of the two discs: it must hold in
-  straight lines through spacetime in the case of the stationary disc,
-  and in a helical pattern in the case of the rotating disc (225).
-
-Perhaps Sider is being knowingly cagey with his use of 'bits' here;
-the 'bits of the two discs' certainly aren't _parts_; simples don't
-have parts.  And yet:
-
-> The _three_-dimensionalist has an easy answer.  There are no
-  temporal parts, and so no genidentity relation, and so no need for
-  an analysis of genidentity.  The enduring parts of the disc will be
-  located at different places depending on whether the disc rotates
-  (226).
-
-What enduring parts?  The four-dimensionalist does not have to account
-for the temporal parts of the parts of the disc, for there are no such
-parts.  What she _does_ have to do is explain what the rotation of
-simples looks like.  But isn't this a problem for the
-three-dimensionalist as well?
-
-Let's suppose that point-sized simples can't rotate.  They have no
-extension, so there doesn't seem to be any plausible way in which they
-could.  Our problem concerns _extended simples_.
-
-Are these even possible?  A number of questions arise if we
-countenance this possibility:
-
-1. Are they divisible?
-   Presumably, if there are extended simples, then they may come in a
-   variety of sizes.  We've got our disks (spinning and stationary),
-   but why not spheres, cubes, and stars?  McDaniel (I think) even has
-   a lamp-shaped simple on his wish list.  But once we've got all
-   these fancy simples, what happens if we try to break them into
-   pieces?  Can I split the disk into crescent-shaped halves?  Can I
-   pull a point off a star?
-   - If yes, then I seem to have _created_ a piece of the star (or
-     disk).  For the point of the star is part of the star, but the
-     star was supposed to have no (proper) parts.  So perhaps the star
-     is now a scattered simple?  The fact that we can even talk about
-     the parts of the star (its points) is difficult to reconcile with
-     the supposed lack of parts.
-   - If no, then we've got a hunk of matter that is completely
-     indestructible.
-
-2. Are they malleable?
-
-**** Pointing and parts <2011-12-05 Mon>
-***** The problem
-The idea is that the three-dimensionalist can 'point to' (or otherwise
-identify) a section ('bit') of the spinning disc at t1, and then point
-at _that same section_ (re-identifying it) at t2.  She can then say
-"This very same section (bit) was there, and now is here.  Hence,
-motion!"  The four-dimensionalist, on the other hand, is supposed to
-be in trouble.  She apparently has to point at the temporal part of
-the 'section' at t1, and the (numerically distinct!) temporal part of
-the 'section' at t2.  Having pointed out these two 'parts', she then
-needs some criterion of 'genidentity' connecting the two temporal
-parts.  But none seems forthcoming.
-***** What problem?
-But once we recognize that the spinning disc has no proper parts and
-is therefore a simple, this problem doesn't make a lot of sense.
-
-1. Can we really point _at_ the 'sections'?  They are not proper parts
-   of the disc, and so it seems that they do not actually
-   _exist_---they are 'mental' or theoretical divisions.  (Scala on
-   [[point_parts][pointing to 'parts']])
-
-2. Even supposing we could point at these arbitrary areas of the disc,
-   how is the three-dimensionalist (or anyone) supposed to re-identify
-   them?  There can be no question of picking out _numerically the
-   same_ section---these 'sections' are theoretical divisions that
-   correspond to nothing in reality.
-   - If it is an extended simple, then we can of course re-identify
-     the same 'section' if we know the rotation of the disc.  If we
-     know that the disc is spinning at a given RPM, we can 'identify'
-     the matter lying between two degrees and calculate where that
-     matter will be for any other time.  But this technique is
-     available to both three- and four-dimensionalists.
-**** Scala: spinning simples
-> In part, Zimmerman's argument trades on the willingness of some
-temporal-parts theorists to admit the possibility of the homogeneous
-spheres, an admission he lauds.For it is difficult to see any _prima
-facie_ reason to deny their possibility. What's more, a change of mind
-regarding their possibility in light of difficulties they cause for
-one's favored doctrine of persistence betrays bad faith. This
-increases the pressure to abandon the doctrine of temporal parts,
-Zimmerman thinks.
-
-> But perhapsthe situation is not desperate.  Consider another sort of
-thing that, I believe, might exist: an extended simple (393--394).
-
-The spinning sphere/disk _is_ an extended simple.
-
-> the atoms I am envisioning are indivisible in a stronger sense, for
-  they have no proper parts.  A simple, in my sense, occupies a
-  greater than point-size region of space and is indivisible because
-  it does not have, for instance, a right or a left half.  To look at
-  one, you would think you can distinguish a right from a left half,
-  but looks aren't everything. When you think you point to a part of
-  the atom, I say you are pointing at all of it or nothing at all
-  (394).
-# <<point_parts>>
-
-_If_ an extended simple is possible, then presumably it can be half
-blue and half red.  How are we to describe this?
-
-> I will tend to say not that it is partly blue and partly red,
-  because I think that is false, or misleading at best. Instead, I say
-  the atom is red at one region and blue at the other (395).
-
-> Now, suppose that there are two simple, homogeneous spheres, one of
-  which is rotating and the other of which is not. The endurantist
-  obviously cannot apply her strategy for dealing with non-simple,
-  homogeneous spheres, for that strategy relied upon tracing of
-  parts through time.
-** Peter van Inwagen
-*** Material Beings
-**** Preface
-
-"There are no tables or chairs or any other visible objects except
-living organisms" (1)
-(differentiates paraphrase strategy from subjectivism)
-
-### Presuppositions:
-
-1. absolute identity (3)
-
-2. no four-dimensionalism; 'distinct regions of space-time are in some
-   cases "occupied" by numerically the same three-dimensional object.'
-   (4)
-
-3. classical logic (when possible)
-
-4. no counterpart theories
-
-5. atomism; 'I suppose that questions about whether two objects are
-   composed of or constituted by the same "quantity" or "parcel" of
-   matter---or "the same matter" *tout court*---make sense only in the
-   case of composite objects, and in that case these questions must be
-   understood as asking whether the composite objects are composed of
-   the same ultimate parts.' (5)
-
-6. no materially coextensive objects
-
-7. mental predicates require a subject
-
-8. people are material objects (6)
-
-9. anticonventionalism; 'I suppose that what there is, is never a
-   matter of stipulation or convention.'
-
-> 'By establishing a convention, I bring it about that there exists a
-> convention having certain features, and there's an end on't'. (7)
-
-'One stipulates not facts but meanings for words.' (8)
-
-> but then one at least 'stipulates' semantic facts (produces them)
-
-> 'It is only when one has some sort of grip on what exists
-independently of convention that one can establish conventions that
-regulate one's conceptual dealings with what exists. Lines and
-meridians are "drawn" on the globe by convention to enable navigators
-and cartographers to deal with the globe. But the globe itself is
-there, antecedently to any conventions; if it weren't, there'd be
-nothing to draw the lines on.' (11)
-
-along the lines of this analogy, are countries there prior to the
-drawing of boundaries? we speak of "what is now Turkey", and it
-doesn't seem false to say that Turkey didn't exist 3000 years ago
-(otherwise Ataturk would have had little to do).
-
-are some material objects like countries in this respect? they
-certainly exist as more than verbal conventions or 'political
-entities' (I can *live* in Turkey), but they do seem to be created
-almost *by definition*.
-
-Yugoslavia ceased to exist in 2003
-
-
-10. 'internal' composition; 'Whether certain objects add up to or
-compose some larger object does not depend on anything besides the
-spatial and causal relations they bear to one another.' (12)
-
-**** Section 1
-<<v-intro>>
-van Inwagenism entails, 'among other things, that there are no
-visible objects but men and women and cats and other living organisms,
-that there are no tables or books or rocks or hands or legs.' (18)
-
-> The metaphysically puzzling features of material objects are
-> connected in deep and essential ways with metaphysically puzzling
-> features of the constitution of material objects by their parts.
-> Parthood will occupy a central place in the present study of
-> material objects.  It is therefore worth noting that the word 'part'
-> is applied to many things besides material objects.  We have already
-> noted that submicroscopic objects like quarks and protons are at
-> least not clear cases of material objects; nevertheless, every
-> material object would seem pretty clearly to have quarks and protons
-> as _parts_, and, it would seem, in exactly the same sense of _part_
-> as that in which a paradigmatic material object might have another
-> paradigmatic material object as a part.  A "part," therefore, need
-> not be a thing that is clearly a material object.  Moreover, the
-> word 'part' is applied to things that are clearly _not_ material
-> objects---or at least it is on the assumption that these things
-> really exist and that apparent reference to them is not a mere
-> manner of speaking.  A stanza is a part of a poem; Botvinnik was in
-> trouble for part of the game; the part of the curve that lies below
-> the x-axis contains two minima; parts of his story are hard to
-> believe...such examples can be multiplied indefinitely.  Does this
-> word 'part' mean the same thing when we speak of parts of cats,
-> parts of poems, parts of games, parts of curves, and parts of
-> stories? (18--19).
-**** Section 2
-
-> 'I have found it helpful to ask not 'In what circumstances is a plank
-a part of a ship?' but, rather, 'In what circumstances do planks
-compose (add up to, form) something?' (21)
-
->> is the first question the better one? (cf Rosenberg)
-
-plural referring expressions (23)
-
-> 'the $x$s compose $y$' = 'the $x$s are all parts of $y$ and no two
-of the $x$s overlap and every part of $y$ overlaps at least one of the
-$x$s' (29)
-
-overlapping; 'a thing *overlaps* a thing---or: they overlap---if they
-have a common part.'
-
-'$y$ is a sum of the $x$s' = 'the $x$s are all parts of $y$ and every
-part of $y$ overlaps at least one of the $x$s'
-
-> 'Suppose one had certain (non-overlapping) objects, the $x$s, at
-one's disposal; what would one have to do---what *could* one do---to
-get the $x$s to compose something?' (31)
-
-Might it depend on what you want to make? (cf Rosenberg)
-
-> 'The question 'In virtue of what do these $n$ blocks compose this
-house of blocks?' is a question about $n + 1$ objects, one of them
-radically different from the others. But the question 'What could we
-do to get these $n$ blocks to compose something?' is a question about
-$n$ rather similar objects.'
-
-**** Section 3
-
-> Answer (i) 'To get the $x$s to compose something, one need only bring
-them into contact; if the $x$s are in contact, they compose something;
-and if they are not in contact, they do not compose anything.' (33)
-
-> 'If I bring two cubes into contact so that a face of one is
-coterminous with a face of the other, have I thereby brought into
-existence a solid that is twice as long as it is wide? Or have I
-merely rearranged the furniture of earth without adding to it?'
-
-**** Section 4
-
->"an answer to the Special Composition Question tells us nothing about
-the nature of composite objects;\,...\,an answer to this question
-tells us nothing about the nature of composition." (38)
-
-Supposing *Contact* is the answer to SCQ, it still 'tells us nothing
-about things called 'houses'\,' or any other composite object. (39)
-
-it doesn't say *what* we have composed, nor even *how many* things we
-have composed.
-
-But suppose we adopt *Uniqueness*. 'Would *Contact* and *Uniqueness*
-together "tell us what composition was"? No. Not, at any rate, in the
-sense of enabling us to find a sentence containing no mereological
-terms that was necessarily extensionally equivalent to 'the $x$s
-compose $y$'. (Let us say that such a sentence would constitute an
-answer to the _General Composition Question_. As the Special
-Composition Question may be identified with the question, Under what
-conditions does composition occur? so the General Composition Question
-may be identified with the question, What _is_ composition?)
-
-reciprocals (41)
-
-Answers to SCQ let us know _when_ composition has occurred, but not
-_what_ has been composed, or why.
-
-> 'A composition function $f$ would immediately provide us with an
-> answer to the General Composition Question, an answer of the form
-> The $x$s compose $y$ if and only if $y$ has $f($the $x$s)."
-
-> 'Although any answer to the General Composition Question
-automatically provides an answer to the Special Composition Question,
-the answer it provides will not necessarily be the best or most
-interesting or most informative answer' to the SCQ. (47)
-
-Because the General Question is also supposed to answer the Inverse
-SCQ: 'Which objects are composite?'
-
-> 'I am inclined to think that there is no way of answering the
-General Composition Question. I am inclined to think that the concepts
-"part," "sum," and "composition" form what (by analogy to "the modal
-circle" or "the moral circle") one might call 'the mereological
-circle', a closed family of concepts.' (51)
-
-**** Section 5
-
-theses of parthood
-
-1. "Parthood is transitive."
-
-2. "No two things are parts of each other."
-
-3. "If $x$ is a proper part of $y$, there are $z$s (none of which is
-   $x$) such that $x$ and the $z$s compose $y$."
-
-4. "If the $x$s have a sum and the $x$s are among the $y$s, then every
-   sum of the $y$s has a sum of the $x$s as a part."
-
-**** Section 6
-
-- Fastening :: "To get the $x$s to compose something, one need only to
-               cause them to be fastened to one another." (56)
-
-- Cohesion :: "To get the $x$s to compose something, one need only to
-              cause them to cohere." (58)
-
-- Fusion :: "To get the $x$s to compose something, one need only to
-            cause them to fuse." (58--59)
-
-**** Section 7
-
-series-style answers
-
-**** Section 8
-
-'extreme answers'
-
-- nihilism :: "It is impossible for one to bring it about that
-              something is such that the $x$s compose it, because,
-              necessarily (if the $x$s are two or more), nothing is
-              such that the $x$s compose it." (72)
-
-> "$(\exists y$ the $x$s compose $y)$ if and only if there is only one
-of the $x$s" (73)
-
-> "Peter Unger calls himself a nihilist, but his sense of the word is
-different from mine. Unger apparently concedes the existence of
-composite objects; _his_ nihilism consists in a denial that any of
-these composites is the right sort of thing to belong to the extension
-of 'woman' or 'cat' or 'chair' or any of the other count-nouns of
-ordinary language."
-
-(he concedes the _possibility_ of composite objects)
-
-- universalism :: "Is is impossible for one to bring it about that
-                  something is such that the $x$s compose it, because,
-                  necessarily, (if the $x$s are disjoint), something
-                  is such that the $x$s compose it." (74)
-
-- mereological constancy :: VxVyVt (x part of y @ t -> Vt' (if x and y
-exist @ t' -> x is part of y @ t')
-
-- mereological essentialism :: replace times above with worlds
-
-**** Section 9
-
-**the proposed answer**
-
-> "$(\exists y$ the $x$s compose $y$) if and only if the activities of
-the $x$s constitutes a life (or there is only one of the $x$s). (82)
-
-96--97: assimilation, generation, corruption, annihilation
-
-**** Section 10
-> "current physics strongly suggests that quarks and leptons and
-gluons and photons have no proper parts" (99)
-
-> "I want to do what I can to disown a certain apparently almost
-irresistible characterization of my view, or of that part of my view
-that pertains to inanimate objects. Many philosophers, in conversation
-and correspondence, have insisted, despite repeated protests on my
-part, on describing my position in words like these: "Van Inwagen says
-that tables are not real"; "...not true objects"; "...not
-actually _things_"; "...not substances"; "...not unified
-wholes"; "...nothing more than collections of particles." These
-are words that darken counsel. They are, in fact, perfectly
-meaningless. My position vis-\'{a}-vis tables and other inanimate
-objects is simply that there _are_ none."
-
-
-"What it _would_ be true to say is this:
-
-> ...the premises of these arguments, whatever they may be, could not
-be so worthy of belief as the thesis that when English speakers,
-immersed in the ordinary business of life, utter sentences like,
-"There are two very valuable chairs in the next room' or 'There are
-stars larger than the sun', they very often say true things.
-
-But I do not deny this. In fact, I affirm it." (100)
-
-
-> "any of the propositions that an English speaker might express by
-uttering 'There are two very valuable chairs in the next room' on a
-particular occasion---there are, of course, many such propositions,
-owing to the indexical elements in the sentence---is, I would argue,
-consistent with the proposition that I, as metaphysician, express by
-writing the words 'There are no chairs'." (101)
-
-Re: Copernicus, is it even strictly false that the sun moved behind
-the elms?
-
-"'The sun moved behind the elms' is not, even from the point of view
-of the most fanatical astronomical literalist, a report of a
-nonexistent, fabricated, or imaginary even; it is not like, say, 'The
-sun moved rapidly back and forth across the sky'. It may describe an
-actual event in a misleading or loose or even a wrong way, but the
-event it describes is there to be described and
-misdescribed. Something very similar may be said about 'There are two
-very valuable chairs |102| in the next room'. This sentence, when it
-is successfully used to report a fact, does report a fact about the
-existence of _something_. This much is shown by the fact that if the
-next room were wholly empty of matter, then what was expressed by this
-sentence would be false by anyone's standard." (101--102)
-
-van Inwagen's treatment of loose truth and loose-truthmakers requires
-that for an proposition with existential entailment to be loosely
-true, there must be _something_ that does exist.
-
-> "when people say things in the ordinary business of life by uttering
-sentences that start 'There are chairs...' or 'There are stars...',
-they very often say things that are literally true...I can say this
-because I accept certain theses in the philosophy of language. Some
-people, I suppose, would reject these theses. These people would say
-that when I said "It is and it isn't" and "The sun moved behind the
-elms," I said something false. If I agreed with them, I could not
-reply to the Moore-style objection to my ontology in the way I have."
-(102)
-
-- What are these theses? Apparently not the Gricean/Bacchic
-  distinction between saying and stating. According to that thesis,
-  what you _said_ ("It is and it isn't") was false, but what you
-  _meant_ ("It's drizzly") is true.
-
-- So does van Inwagen think that when you say "It is and it isn't",
-  you mean _just that_? If so, anyone ought to agree that you said
-  something false.
-
-- So van Inwagen must think that _what you actually said_ (and so
-  meant) was "It's drizzly".
-
-- Really? Because page 106 ("he really means that there are two
-  valuable chairs in the next room.")
-
-- So what the hell is going on?
-
-
-> "even if I did accept the austere philosophy of language that
-ascribes falsity to typical utterances of 'The sun moved behind the
-elms', I could nevertheless respond to "Moore's gambit" in a way that
-is very much like the way I have responded to it. If someone maintains
-that 'The sun moved behind the elms' expresses a falsehood, he must
-still have some way to distinguish between this sentence and those
-sentences (like 'The sun exploded' and 'The sun turned green') that
-the vulgar would regard as the sentences that expressed falsehoods
-about the sun... |103| [if I took this line,] I should not be willing
-to say that people who uttered things like 'There are two valuable
-chairs in the next room' very often said what was true. I should be
-willing to say only that they very often say what might be treated as
-a truth for all practical purposes."
-
-bligers (they do exist!) (104)
-
-> "a foreign zoological expedition discovered that, _in a way_, there
-were not bligers" (my emphasis)
-
-"(A) The chair-receptacle R..." (105)
-
-kripke (Wittgenstein 65); see also Grice (106)
-
-> "I am not proposing an analysis of common language. I am offering a
-metaphysical theory. The only thing I have to say about what the
-ordinary man really means by 'There are two valuable chairs in the
-next room' is that he really means that there are two valuable chairs
-in the next room. And we all understand him perfectly, since we are
-native speakers of our common language."
-
-"If you were to tell the ordinary man that I thought there were no
-chairs, he would probably think I was mad. But you would have mislead
-him about my thesis [no, we would not have]. He would understand you
-to be saying---given his education and interests, what else could he
-understand you to be saying?---something that implied that whenever
-anyone uttered a sentence like 'There are two valuable chairs in the
-next room', that person was under an illusion of some sort. He would
-think that I regarded utterers of this sentence as he (perhaps) regard
-utterers of the sentence 'There are two horrible ghosts in the next
-house'. But my assertion (and yours and his) that there are no ghosts
-is not like my assertion that in Pluralia there are no bligers. My
-assertion that in Pluralia there are no bligers is not meant to deny
-that reports of bligers are reports of a real and unified set of
-phenomena. My assertion that there are no ghosts is meant to deny that
-reports of ghosts are reports of a real and unified set of
-phenomena. When people say they see ghosts, I believe (and I presume
-you do, too) that either there is nothing there, or, if there is
-something there, it's not the same sort of thing on each occasion."
-(107)
-
-> "My assertion that in Pluralia there are no bligers is not meant to
-deny that reports of bligers are reports of a real and unified set of
-phenomena...When Pluralians say they have seen a bliger, there
-generally is something there, and it's generally the same sort of
-thing [on each sighting]. My assertion that there are no chairs is
-like my assertion that there are no bligers. [---Nope. Because there
-are clearly defined parts of the bliger and it's easily seen how they
-fit together. A bliger is, e.g., 'four monkeys, a sloth, and an owl in
-such-and-such a formation'. There are no such criteria for tables, nor
-tablewise arrangements of simples.] But that is something that you
-will not convey to the ordinary man when you tell him that I think
-that there are no chairs, just as you would not have conveyed to the
-sixteenth-century ordinary man what Copernicus believed about the
-motion of the sun if you told him that, according to Copernicus, the
-sun does not move."
-
-Yes you would! That's what made his thesis so revolutionary.
-
-**** Section 11
-
-> "If I am right, then all facts of the sort that most philosophers
-would say were facts about artifacts, and about nonliving "natural"
-objects like stones, are facts about the arrangement of simples. [???]
-If this position is, as I have been arguing, not absurd, then it
-should be possible to paraphrase the sentences of ordinary language
-that most philosophers would say expressed facts about things like
-chairs in language that refers to no material things but simples."
-(108)
-
-- If facts _about_ $x$ are really _about_ $y$, and we can say
-  (literally true!) things like "there is a red chair in the room"
-  (and mean it!), then presumably van Inwagen is making some appeal to
-  the underlying logical structure of the language. Unbeknownst to us,
-  we are really performing plural reference, rather than singular
-  (just as "the plumber is pernicious" is a general proposition?).
-
-- But classic paraphrases are used to _preserve_ the intuitively
-  correct truth-values. "There is no King of France" becomes $\neg
-  \exists x$ etc etc. "There is a Queen of England" becomes $\exists
-  x$ etc etc. And in the second, positive claim, both the English and
-  notational versions entail the existence of the Queen of France. So,
-  if "There are some chairs\,\... " becomes $\exists xs arranged
-  chairwise$ etc, why should not both entail the existence of chairs?
-
-- Other paraphrases are used to show that the original statement _is_
-  false, but loosely true. For example, "Love exists" might be
-  paraphrased as $\exists x \wedge \exists y and Lyx$. The whole point
-  of this is so that our cynical philosopher can say that, strictly
-  speaking, love doesn't exist (what the romantic said was false). Van
-  Inwagen, on the other hand, wants to still say that strictly
-  speaking, chairs exist. (Doesn't he? At least he wants to say that
-  the ordinary man didn't say anything false.)
-
-  + $\exists x Lx$ entails the existence of love.
-
-  + $\exists x Tx$ entails the existence of a table.
-
-
-
-> "Our answer to the SCQ entails that there are no material objects
-but organisms and simples, and our suggested technique of paraphrasing
-enables us to escape some of the more embarrassing consequences of
-this position. When someone says "Some tables are heavier than some
-chairs," there is obviously something right about what he says. Our
-technique of paraphrasis enables us to capture what it is that is
-right about what he says---or so is my hope." (111)
-
-> "We are now ready to consider a paraphrase of 'Some chairs are
-heavier than some tables': There are $x$s that are arranged chairwise
-and there are $y$ that are arranged tablewise and the $x$s are heavier
-than the $y$s." (109)
-
-> "There are, we suppose, no tables; we philosophers who supposed that
-things sometimes added up to tables were mistaken. There is, we
-maintain, no table over there, but only certain things arranged
-tablewise. But if we are going to refer to those things, in lieu of
-referring to a table, we shall need to call them something---say,
-'those things over there that are arranged tablewise'. And if we are
-going to translate multiply quantified sentences involving
-physical-object common nouns like 'table' into sentences involving no
-physical-object common nouns, or none but 'simple', then we shall have
-to employ some device that allows us to "mimic" the quantificational
-structure of the original sentences---" (110)
-
-> "I shall sometimes make assertions by writing sentences that contain
-terms like 'table' and 'chair'. Whenever I do this, I am to be taken
-as claiming to be able to produce a paraphrase of the sentence I have
-written that, but for considerations of space and English prose style,
-I should be willing to put in its place." (112)
-
-> "paraphrases are not supposed to capture the meanings of their
-originals...When the ordinary man utters the sentence 'Some chairs are
-heavier than some tables' (in an appropriate context, and so on and so
-on), he expresses a certain proposition, and one that is almost
-certainly true. But I do not claim that this proposition _is_ the
-proposition that, for some $x$s, those $x$s are arranged chairwise and
-for some $y$s, those $y$s are arranged tablewise, and the $x$s are
-heavier than the $y$s. If these are two distinct propositions, what is
-the relation between them in virtue of which the latter is a
-"paraphrase" of the former (or the sentence expressing the latter is a
-paraphrase of the sentence expressing the former)? [Copernicus] (112)
-
-(A) The paraphrase describes the same fact as the original.
-
-(B) The paraphrase, unlike the original, does not even appear to imply
-that there are any objects that occupy chair-receptacles.
-
-(C) The paraphrase is neutral with respect to competing metaphysical
-theories, _viz_. the "received" theory, that there are objects that
-occupy chair-receptacles, and the theory I have proposed, according to
-which there are no such objects.
-
-(D) The original, though it doubtless does not express the same
-proposition as the paraphrase, has the feature ascribed to the
-paraphrase in (C): It is neutral with respect to the question whether
-there are objects that fit exactly into chair-receptacles." (113)
-
-Whether or not "The sun moved behind the elms" entails that the sun
-moved (it does), it sure does entail that the sun exists. Likewise,
-"Some chairs..." sure does entail that chairs exist.
-
-**** Section 13
-
-"Pick up a lump of clay and knead it into some complicated and
-arbitrary shape. Call anything of essentially that shape a
-gollyswoggle. Did you bring a gollyswoggle into existence? I should
-think that if our sculptor brought a statue into existence, then you
-brought a gollyswoggle into existence." (126)
-
-Probably!
-
-> "you, presumably, did not intend to produce anything
-gollyswoggle-shaped...if you can make a statue on purpose by kneading
-clay, then you can make a gollyswoggle by accident by kneading clay."
-
-Ca you ou can only make a gollyswoggle by accident after the first
-gollyswoggle has been made?
-
-**** Section 17
-
-the slide from 'would' to 'did' (or 'does'):
-
-> "Assume I exist. Then certain simples compose me. Call them
-'M'. Now, a single simple is a negligible item indeed. Let $x$ be one
-of these negligible parts of me---one that is somewhere in my right
-arm, say. Now consider the simples that compose me _other than_ $x$
-('M -- $x$'). Since $x$ is so very negligible, M -- $x$ _could_ [my
-emphasis] compose a human being just as well as M could. We may say
-that M and M -- $x$ are "equally well suited" to compose human
-beings. And, of course, for _any_ simple $y$, "M -- $y$ will be as
-well suited to compose a human being as M are. Moreover, it would be
-surprising indeed if there were not a simple $z$ such that "M + $z$"
-were as well suited to compose a human being as M are. It would, in
-fact (if I may once more use this phrase), be intolerably arbitrary to
-say that M composed a human being although M -- $x$ _didn't_ [my
-emphasis] and M -- $y$ _didn't_ [my emphasis] and M + $z$ _didn't_ [my
-emphasis]. Suppose, therefore, that M -- $x$ et al.\ _do_ [my
-emphasis] compose human beings." (215)
-
-What would be arbitrary would be to suppose that M -- $x$ etc _would
-not_ compose human beings. And we've agreed to that in the first
-half. All we are therefore entitled to suppose is that M -- $x$ et
-al.\ _would_ compose human beings if $x$ were removed---just as my
-house of blocks -- block A4 _would be_ a house of blocks if I removed
-A4.
-
-Unger's presuppositions
-
-1) In every situation of which we should ordinarily say that it
-   contained just one man, there are many sets of simples whose
-   members are as suitably arranged to compose men as any simples
-   could be. [false]
-
-2) The members of each of these sets compose something. [false]
-
-3) Each of these "somethings" is a man, provided there are any men at
-   all. [false]
-
-4) If I exist, there is a man. (216)
-
-*** Reviews
-**** Rosenberg
-> To me it just seems obvious that the answer to such a question will
-> always depend on what sorts of things one has at one's disposal and
-> what sort of thing one is trying to get them to compose. If the xs
-> are, for example, "a lot of wooden blocks that one may do with as
-> one wills" (31), then to get them to compose, for example, a wall,
-> it may be sufficient to stack them up in the manner we call
-> "building a wall."  To get them to compose a wooden raft,on the
-> other hand,one would surely need to fasten them together more
-> securely, e.g., by gluing them to one another.  And there's nothing
-> at all one could do with them to get them to add up to a fish or a
-> clock or a sports car (705).
-
-*** Replies to reviewers
-> "Let me revert once more to my Copernican analogy. Someone who says,
-'I don't understand what van Inwagen means when he says that trees
-exist but apples don't' corresponds to someone who says, 'I don't
-understand what Copernicus means when he says that clouds move but the
-sun doesn't.' (711--712)
-
-NOPE. Problem is that all the designating terms in the Copernican
-example pick out things in the world, while, ex hypothesi, 'apples'
-does not. There is nothing to understand by the world 'apples' on van
-Inwagen's theory.
-
-"'But you couldn't understand "chairwise" unless you first understood
-"chair".' I think that this statement is false, for reasons that I
-give in the footnote that Rosenberg mentions. But suppose it is
-true. What are its untoward consequences for my metaphysical position?
-It obviously does not entail that I couldn't understand' chairwise'
-unless there were, in the strict and philosophical sense, chairs,
-[cf. Hirch on the coherency of *this*] and I don't see how it can have
-untoward consequences for my metaphysical position if it does not have
-that entailment. (Rosenberg, who as I said, understands "chairwise",
-presumably also understands "golden-mountain-wise"; grant for the sake
-of argument that he could not understand this ungainly adverb unless
-he understood "golden mountain"; it obviously does not follow that he
-could not understand "golden-mountain-wise" if there were no golden
-mountains.) (719)
-
-- golden mountains are not metaphysically impossible (except according
-    to van Inwagen); we do _not_ understand 'round square(-wise)'.
-
-> "It is easy to see how to define 'chairwise' in terms of 'chair'
-without supposing that there are any chairs. Let a "chair" be defined
-as an object that has the properties C_{1}, C_{2},\,\dots\,C_{n}. (I
-am sure that Rosenberg and I could agree on a property-list definition
-of 'chair'.)
-
-1. Suppose we have such a definition: "a chair is an object with four
-sections [legs] 1x1x10" placed each at the corners of a 10x10" square;
-resting on these sections is another section [seat] that is 10x10x1",
-and placed upon one terminal 1" part of this section is another
-section 10x1x10". Each of these sections are glued together."
-
-2. Now how is 'chairwise' defined in terms of this definition?
-
-3. "simples are arranged chairwise iff some of the simples occupy each
-   of four regions of space 1x1x10", these regions placed each at the
-   corners of a 10x10 square; some other of the simples occupy a
-   region of space 10x10x1" that borders the tops of the first four
-   regions; the remainder of the simples occupy a region of space
-   10x1x10" that borders a 1x10" area on the top and at the edge of
-   the 10x10x1" region; the simples in each region that border other
-   regions are bonded [however wood-glue bonds] with the simples in
-   the other region."
-
-** Ontology and verbal disputes
-*** Paper notes
-Sider's 'backup strategy' for dealing with Hirsch is to stipulate---in
-concert with other metaphysicians---that they use "existence" and
-related terms in a special sense:
-
-> [The philosophers] should stipulate that their quantifiers are to be
-  understood as theoretical terms (and so are not subject to the same
-  level of metasemantic pressure from charity that governs terms like
-  'sofa' and 'game') that stand for whatever joint-carving notion is
-  in the vicinity. (9)
-
-By explicitly _intending_ to mean by 'exists' (and its relatives)
-whatever 'joint-carving' notion is 'closest', Sider hopes to evade
-Hirsch's argument from interpretive charity.  The idea is that one can
-(in special cases) put charity on hold.
-
-But it is not immediately clear why this should be expected to work.
-Recall Hirsch's strategy: in the recent ontological disputes, it is
-possible to interpret each side so that nobody actually disagrees.
-This requires interpreting David Lewis and Peter van Inwagen, for
-example, as meaning different things by their uses of the
-quantifiers.  Roughly, when DL says that there is something composed
-of the table and the eraser, he just means the same as the rest of us
-mean by "there is a table and an eraser".  Likewise, when van Inwagen
-asserts that there are no tables, he just means what we would express
-as "there are no organisms or simples that are also tables".
-
-Obviously, David Lewis and van Inwagen disagree.  Hirsch's
-'interpretations' have the result that our distinguished
-metaphysicians are putting forward truisms, like "everything that is
-an organism or simple is an organism or simple".  When van Inwagen
-said "everything is an organism or simple" he _thought_ he was making
-a bold metaphysical claim.  Not according to Hirsch.
-
-Hirsch's interpretations are therefore _hostile_.  They diverge
-substantially from the intentions of the speakers.  Even if they both
-tell Hirsch "we're _not_ engaged in a verbal dispute", Hirsch will be
-unmoved:
-
-> The presumption of charity is supposed to be an a priori principle
-  that is partially constitutive of linguistic meaning.  Insofar as
-  the disputing ontologists assert the sentence, "We are not engaged
-  in a verbal dispute," this sentence will figure, together with all
-  the other asserted sentences, in arriving at the most charitable
-  interpretation. I would suspect that meta-level, quasi-technical
-  (self-aggrandizing) assertions probably have low priority as
-  supplicants for charity. In any case, it can't be seriously
-  suggested that the charitable presumption in favor of the
-  correctness of this one assertion threatens to trump the presumption
-  in favor of all of the other assertions made by the
-  ontologists. (515)
-
-So why can't Hirsch simply do the same thing when Sider announces the
-introduction of 'Ontologese'?  Suppose each ontologist recites "I
-hereby intend to use the quantifiers $\exists$ and $\forall$ such that
-they correspond with whatever fundamental quantificational notions are
-in the vicinity".  Then presumably Hirsch will interpret each
-ontologist differently, so that their subsequent statements come out
-true.  He could just take each to mean different things by "$\exists$"
-and "$\forall$".  So what's Sider's move?
-
-He claims that in certain local contexts, charity can be suspended.
-When those engaged in a particular sort of talk would rather be wrong
-for the right reason than right for the wrong, they demand that
-charity be withheld from a given term (or terms).  Sider's example is
-from physics:
-
-> Consider a debate amongst some scientists over whether simultaneity
-  is transitive.  Imagine that certain proponents of special
-  relativity say that it's not, on one meaning of 'simultaneity'
-  anyway, on which spacelike separated objects count as simultaneous.
-  Someone in the debate then raises the question of whether it's
-  analytic, given the usual meaning of 'simultaneity', that
-  simultaneity is transitive.  This consideration is clearly
-  irrelevant to the scientific debate, and the scientists recognize it
-  as such.  They don't care about this facet of ordinary usage; what
-  they care about is the structure of the fundamental temporal facts.
-  So they agree to set aside this facet of the ordinary usage of
-  'simultaneous' for the sake of the dispute.
-
-But this does not appear to support Sider's claim.  Here theoretical
-utility and charity go hand in hand.  For here it _would_ be
-charitable to interpret the scientists' uses of 'simultaneous' as
-meaning something other than the 'usual meaning'.  If we did interpret
-them as meaning the 'usual meaning', they would be making (in Hirsch's
-words) 'a priori false assertions'; they would be doubting whether or
-not simultaneity is transitive, when it is part of the meaning of
-'simultaneity' that it is transitive.  It would be like someone
-doubting whether or not all bachelors are unmarried.  So this example
-is not a case of 'trumping' or overriding charity.
-**** Can stipulations ever trump charity?
-In the cases of both the ontologists and the scientists, someone
-listening to them with no background information might take them to be
-saying obviously false things.  "What do they mean, there don't exist
-any chairs"; "What do they mean, is simultaneity transitive?"  To make
-sense of their utterances, our speaker needs to interpret them
-charitably; they shouldn't be taken to mean what our listener means.
-She will perhaps understand the ontologist to mean something special
-by 'exist' and the scientist by 'simultaneity'.  In the latter case
-she would obviously be right in doing so.
-
-So if Sider's gambit is to work, we need an example where the
-stipulated meaning goes _against_ charity.  A listener must initially
-take them to be saying obviously _true_ things, and must be convinced
-that they are saying something else, something which might render what
-they say false.
-***** Aside: charity everywhere?
-Charity does seem pretty ubiquitous.  It plays role in metaphor:
-
-"Love is blind"---well, she can't mean that literally, so she must
-have some metaphorical meaning (charity is closely related to the
-cooperative principle)
-
-Is the cooperative principle a special instance of charity?
-'Conversational charity'?
-**** Back to Sider
-OK, we need some examples.
-
-The problem is that in the normal charity cases, we take what seems
-false and interpret it to be true.  But now we're supposed to take
-something true and interpret it to be true in some other way.
-
-What makes the first type of case possible is the fact that, given
-what the word usually means, the proposition expressed can't be true
-("There are no chairs").  So we cast around for a meaning that will
-make it true ("There are no simples that are chairs").  In the second
-case, the usual meaning works just fine in making the proposition
-true.  The speaker therefore has to explicitly stipulate a new meaning
-that allows us to evaluate the utterance as true or false.  Sider's
-"let $\exists$ mean the closest joint-carving notion" is not
-sufficient.
-
-An example.  "Can two people fall in love?"
-
-"Well, of course."
-
-"Ah, but by 'love' I don't mean the silly infatuations that lead to
-marriage today.  I mean the kind of love that unites two souls in an
-indestructible embrace.  By 'love' I mean total interpenetration of
-our immortal Cartesian minds."
-
-"..."
-
-"So, do you think two people can fall in love?"
-
-"No."
-
-Our imagined idealist will presumably go on to deny that anyone he has
-ever known has fallen in love, that nobody is likely to fall in love
-in these dark times, etc.  
-
-But now it is _charity_ that demands that we interpret him as meaning
-by 'love' exactly what he said he means; if we took him to be using
-'love' in its usual sense, then we would be forced to regard all these
-utterances as false.
-
-Let's run it again:
-
-"Can two people fall in love?"
-
-"Well, of course."
-
-"Oh, but don't take me to be using 'love' in the ordinary sense.
-Rather, I intend to use 'love' to pick out the most _fundamental_
-notion in the vicinity, whatever it may be."
-
-"..."
-
-"So, do you think two people can fall in love?"
-
-"Yes."
-
-Our listener can have no idea what this fundamental notion is supposed
-to be, and is therefore required to rely on the only notion she
-has---that expressed by 'love' in its ordinary sense.
-
-It's possible that she might not say "Yes".  It's possible that
-instead she might simply say "You are no longer making sense.  I do
-not understand what you mean by 'love', if not love---and I do not
-think you understand yourself".
-
-So Hirsch has two options here.  When Sider says
-
-"When I say '$\exists$', do not understand me as using it in the
-ordinary sense.  Rather, I intend to use it to pick out the most
-fundamental notion in the vicinity, whatever that may be.  Now,
-keeping all that in mind, let us ask ourselves: do chairs exist?"
-
-Hirsch may reply "Yes", or he may say "I no longer understand you."
-*** Sider, "Ontological realism"
-> The deflationist must therefore concede a disanalogy between the
-  PVI/DKL dispute and paradigmatic merely verbal disputes.  A merely
-  verbal dispute over whether geese live by the "bank" can be resolved
-  by a shift in vocabulary.  One side will be happy for her word
-  'bank' to be translated as 'river bank', the other for his word
-  'bank' to be translated as 'financial bank'; and each will agree
-  that geese live only by the river bank.  These non-hostile
-  translations are mutually acceptable to the disputants, and the
-  dispute evaporates once they are introduced.
-
-> The fact that the deflationist's translations are hostile certainly
-  means that he cannot use them as an offensive weapon, to force PVI
-  and DKL to concede that they do not genuinely disagree.  But nor
-  does this fact give the realist an offensive weapon against the
-  deflationist.  For it is no part of the deflationist's position that
-  warring ontologists be able to tell "from the inside" that they are
-  talking past one another.  The deflationist thinks, rather, that
-  there simply are no questions like those that the ontologists are
-  trying to ask.  They are trying to fix on a single distinguished
-  quantifier meaning, but the attempt does not succeed.  The
-  translations assign the only sensible contents to the words of the
-  misguided warring parties. (14)
-
-> The central question of metaontology is that of whether there are
-  many equally good quantifier meanings, or whether there is a single
-  best quantifier meaning.  It is a question about nature's joints; it
-  is a question of _how much quantificational structure the world
-  contains_. (15)
-
-> Thus, if *existence* is insufficiently magnetic to trump a poor fit
-  with use, Equivocation, Obviousness, or Indeterminacy might well be
-  _true about the English quantifier 'there exists'_.  But in that
-  case, PVI and DKL can simply recast their dispute directly in terms
-  of *existence*.  They can introduce a _new_ language in which to
-  conduct their debate, using the following performance:
-
->> Let's give the speakers of ordinary English 'there exists'; let us
-  henceforth conduct our debate using '$\exists$'. We hereby stipulate
-  that '$\exists$' is to express an austere relative of the ordinary
-  English notion of existence. We hereby stipulate that although the
-  meaning of '$\exists$' is to obey the core inferential role of
-  English quantifiers, ordinary, casual use of disputed sentences
-  involving 'there exists' (such as 'Tables exist') are not to affect
-  at all what we mean by '$\exists$'.  We hereby stipulate that if
-  there is a highly natural meaning that satisfies these constraints,
-  then that is what we mean by '$\exists$'.  Perhaps the resulting
-  '$\exists$' has no synonym in English.  Fine---we hereby dub our new
-  language _Ontologese_.
-*** Hirsch, "Language, Ontology, and Structure"
-> I do agree with McGrath’s claim that charity to perception is weaker
-  in the philosophical communities than in ordinary communities in
-  which perceptual judgments about the existence of highly visible
-  macroscopic objects do not appear to be based on conscious
-  inferences from general principles.  But this point must not be
-  overstated.  The distinction between conscious and unconscious
-  inference is notoriously nebulous.  Probably all perception is
-  theory-laden in some ways or to some degree.  The fact is that the
-  philosophical communities do make perceptual judgments, such as,
-  "There is no composite object here," said by members of the
-  O-community in the presence of a table.  Nothing that McGrath has
-  said about the distinctive nature of the philosophical communities
-  seems to undermine the claim that there is an overwhelming
-  presumption in favor of charitably interpreting each side as
-  employing a language in which its assertions, both general and
-  perceptual, come out true. (514--515)
-
-> But why isn't it right for us to criticize their language as being
-  expressively defective, if in their language they are able to
-  express fewer s-facts than we can in ours?  I think this puzzling
-  question may motivate us to reject the restrictive view of s-facts,
-  or even to reject s-facts altogether.  If we hold on to the
-  restrictive view we must say that there is no value as such in
-  expressing s-facts.  We must say that the speech act that in
-  O∗-English is called "expressing an s-fact," even if this act does
-  not constitute (what we call) expressing an s-fact, has no less
-  value than (what we call) expressing an s-fact.  This is why we
-  cannot say that their language is defective, and they cannot say
-  that ours is.  If this formulation seems too paradoxical, then we
-  must give up the restrictive view. (518--519)
-
-> If we do not believe in s-facts we will say that a u-fact is in a
-  sense divided up in different ways by the structures of the
-  sentences that can express it.  We may perhaps consider there to be
-  something of value in being able to express u-facts in structurally
-  different ways (in being able to see the facts under the aspect of
-  different sentential structures).  That value, such as it might be,
-  is all the value that the restricted view can assign to expressing
-  s-facts.  This is why, on that view, the speech act that in
-  O∗-English is called "expressing an s-fact" has no less value than
-  (what we call) expressing an s-fact. (519)
-
-> What Sider evidently wants is that such principles as P and Q should
-  hold in a privileged sense of "existence" (in the sense of
-  _Existence_, with capitals and italics), the sense belonging to the
-  best ontological language.  The trouble is that precisely what the
-  neophyte neo-ontologists need from him is an explanation of what it
-  means for one ontological language to be better than another.  As
-  things stand each ontological camp will have as much reason as any
-  other to regard as privileged the sense of "existence" in its
-  ontological language.  This is why one gets the feeling that Sider
-  is trying to issue his explanations from a position outside any of
-  the ontological languages.  This, however, he cannot do.  The
-  philosophers who enter the neo-room have no alternative but to
-  understand his explanations in terms of the different ontological
-  languages they initially bring with them. (522)
-*** Sider, "Hirsch's attack on ontologese"
-> Second, one might think that there’s an important distinction
-  between ordinary terms and "theoretical terms", terms that have
-  built into their meanings (or at least built into their
-  metasemantics) that they are to stand for joint-carving meanings.
-  The metasemantics of theoretical terms in science, on this view, is
-  less charity-based than is the metasemantics of ordinary terms like
-  'sofa' and 'game'. Theoretical terms pick out whatever joint-carving
-  meanings are in the "vicinity", and are only minimally governed by
-  charity---not because of a global doctrine of reference magnetism, but
-  rather because of something local to theoretical terms. Even Hirsch
-  should admit that _some_ terms, such as certain terms of physics,
-  function in this way. (2)
-
-> The question is not whether one can speak a whole new language
-  simply by announcing the intention to do so, but rather whether one
-  can partially and locally suspend the considerations of charity that
-  govern meaning---whether one can say: "assuming there is a
-  joint-carving quantifier-meaning, if charity is getting in the way
-  of our meaning it then let this aspect of charity be suspended". And
-  I think one can do this. (4)
-
-Sider's example is a scientific dispute over 'simultaneity':
-
-> Consider a debate amongst some scientists over whether simultaneity
-  is transitive.  Imagine that certain proponents of special
-  relativity say that it's not, on one meaning of 'simultaneity'
-  anyway, on which spacelike separated objects count as simultaneous.
-  Someone in the debate then raises the question of whether it's
-  analytic, given the usual meaning of 'simultaneity', that
-  simultaneity is transitive.  This consideration is clearly
-  irrelevant to the scientific debate, and the scientists recognize it
-  as such.  They don't care about this facet of ordinary usage; what
-  they care about is the structure of the fundamental temporal facts.
-  So they agree to set aside this facet of the ordinary usage of
-  'simultaneous' for the sake of the dispute.
-
-But it appears that here it _would_ be charitable to interpret the
-scientists' uses of 'simultaneous' as meaning something other than the
-'usual meaning'.  If we did interpret them as such, they would be
-making (in Hirsch's words) 'a priori false assertions'; they would be
-doubting whether or not simultaneity is transitive, when it is part of
-the meaning of 'simultaneity' that it is transitive.  It would be like
-someone doubting whether or not all bachelors are unmarried.  So this
-example is not a case of 'trumping' or overriding charity.
-
-> I think that we have the ability to use words---whether pre-existing
-  words or new words---in such a way that their metasemantics is not
-  monomaniacally governed by charity.  Theoretical terms in science
-  are commonly, and more or less self-consciously, used in this way.
-  What I propose is that ontologists do the same with quantifiers.
-  They should stipulate that their quantifiers are to be understood as
-  theoretical terms (and so are not subject to the same level of
-  metasemantic pressure from charity that governs terms like 'sofa'
-  and 'game') that stand for whatever joint-carving notion is in the
-  vicinity. (9)
-
-It might be that Hirsch is relying on a 'monomaniacal' version of
-interpretive charity.  He is already willing to perform 'hostile'
-interpretations of other metaphysicians (and see his treatment of
-"We're not engaged in a verbal dispute").  If our words mean whatever
-they have to in order for what we say to be true, then Sider's appeal
-to a special language is useless.  But Hirsch's notion of charity is
-looking increasingly radical (there seems to be a connection between
-it and meaning skepticism/interpretationism).
-
-> I would say that 'joint-carving' is a theoretical term, which is
-  intended to, and in fact does, stand for a meaning that itself
-  carves at the joints.  Joint-carving carves at the joints (Sider
-  2011, section 7.7).  If 'joint-carving' is a theoretical term,
-  there's no reason to doubt that 'joint-carving' will pick out the
-  joint-carving notion of joint-carving---if there is such a notion. A
-  big if!
-** Parthood
-*** Kit Fine, "Toward a theory of part"
-**** Intro
-**** 1. the intuitive notion of part
-> One object may be a part of another---some thunder a part of a
-> storm, for example, or the shell a part of a nut.  When one object
-> is a part of another, there is a sense in which it is in the
-> other—not in the sense of being enclosed by the other, as when a
-> marble is in an urn, but more in the sense of being integral to the
-> other.  When parts are in question, it is also appropriate to talk
-> of a given object being composed of or built up from the objects
-> that it contains.  Thus a storm may be composed of various
-> occurrences of lightning and thunder, while an urn is not
-> composed---even in part---of the marbles that it contains (560).
-
-> Philosophers have often supposed the notion of part only has proper
-> application to material things or the like and that its application
-> to abstract objects such as sets or properties is somehow improper
-> and not sanctioned by ordinary use.  But I suspect that this is
-> something of a philosopher’s myth.  We happily talk of a sentence
-> being composed of words and of the words being composed of
-> letters---and not just the sentence and work tokens, mind, but also
-> the types.  And similarly, a symphony (and not just its performance)
-> will be composed of movements, a play of acts, a proof of steps.  I
-> wonder how many of these philosophers have said such things as
-> ``this paper is in three parts.''  When they have, then I very much
-> doubt that they would have any inclination, as ordinary speakers of
-> the language, to add ``but not, of course, in a strict or literal
-> sense of the term''; and the intended reference here is not
-> primarily---or perhaps not at all---to the tokens of the paper but
-> to the type of which they are the tokens.  The evidence concerning
-> our ordinary talk of part is mixed and complicated, but it does not
-> seem especially to favor taking material things to be the only true
-> relata of the relation (561).
-**** 2. pluralism
-> Now, on the face of it, there would appear to be a wide variety of
-> basic ways in which one object can be a part of another. The letter
-> ‘n’ would appear to be a part of the expression ‘no’, for example,
-> and a particular pint of milk part of a particular quart; and if
-> these two relations of part are not themselves basic (perhaps
-> through being restricted to expressions or quantities), there would
-> appear to be basic relations of part that hold between ‘n’ and ‘no’
-> or the pint and the quart. It is also plausible that the way in
-> which ‘n’ is a part of ‘no’ is different from the way in which the
-> pint is a part of the quart. For if the two ways were the same, then
-> how could it be that two pints were only capable of composing a
-> single quart, while the two letters ‘n’ and ‘o’ were capable of
-> composing two expressions, ‘no’ and ‘on’?  For the same reason, the
-> way in which the letter ‘n’ is a part of the expression ‘no’ would
-> also appear to be different from the way in which it is a part of
-> the set of letters {‘n’, ‘o’}; and the way in which ‘n’ is a part of
-> {‘n’, ‘o’} would appear to be different from the way in which a pint
-> is a part of a quart, since if four quarts compose a gallon the
-> pints which compose the quarts will compose the gallon in the same
-> way in which they compose the quarts, whereas, if four sets compose
-> a further set the members of the sets will not compose the further
-> set in the same way in which they compose the component sets. Thus
-> we would now appear to have three different basic ways in which
-> one object can be a part of another (pint/gallon, letter/word, and
-> member/set); and once these cases have been granted, it is plausible
-> that there will be many more.
-** Coincident objects
-*** Bennett, "Coincidence and the grounding problem"
-**** 1. the grounding problem
-The question: what grounds the different 'sortalish' properties of
-coincident objects (like the statue and the lump)?  Given that they
-are composed of the same things, _why_ do they have different
-properties?
-
-Sortalish properties are:
-
-1. persistence conditions, particularly modal properties like _being
-   essentially shaped about like so,_
-2. kind or sortal properties, and
-3. properties that things have partially in virtue of their
-   instantiation of properties in categories 1 or 2 (341).
-
-So, "in light of the fact that spatio-temporally coincident things
-have all of their other properties in common, in virtue of what do
-they have the sortalish properties they do?  I think that the
-multi-thinger has to answer, 'in virtue of nothing at all'.  I think
-she has to claim that sortalish properties are primitive" (341--342).
-**** 2. determination by non-sortalish properties
-Can the different sortalist properties be 'grounded' in non-sortalish
-properties?
-
-No:
-
-> Goliath's non-sortalish properties do not suffice for its sortalish
-> properties for the simple reason that Lumpl has just the same
-> non-sortalish properties but does not have the same sortalish ones
-> (343).
-**** 3. concepts and conventions
-Can the different sortalish properties be grounded in our conventions?
-
-Something like "in each place where non-sortalish properties N are
-instantiated, there is a thing x with sortalish properties S1 and
-another thing y with sortalish properties S2" (348)
-
-But what initially instantiates these properties N?  If there is some
-object, then it is something with _no_ sortalish properties, which is
-weird.  If there is no object, then there are properties just
-'floating about' unattached to an object.  Which is weird.
-
-Additionally, this position requires claiming that it is a conceptual
-truth that "where properties N are instantiated..."  And "it is
-neither part of my concept of a lump of clay nor of my concept of a
-statue that wherever such and such non-sortalish properties are
-instantiated, there is a thing that would survive a squashing as well
-as a thing that would not" (350).
-
-(Is Bennett right here?)
-**** 4. how to be a primitivist
-Are the distribution of sortalish properties brute facts?
-
-> the claim that it is primitive that Goliath is essentially shaped
-> that way is compatible with the claim that it is in fact shaped that
-> way in virtue of its low-level microstructural properties, and the
-> claim that it is primitive that I am essentially human is compatible
-> with the claim that I am in fact human in virtue of my genetic
-> structure and evolutionary history (354).
-
-The explosion:
-
-> every region of spacetime that contains an object at all contains a
-> distinct object for every possible way of distributing 'essential'
-> and 'accidental' over the non-sortalish properties actually
-> instantiated there (354).
-
-"_all the modal bases_ are covered" (355).
-
-The dilemma:
-
-> The only live options, then, are to be either a one-thinger or a
-> bazillion-thinger.  We must either think that there is only one
-> thing per spatio-temporal location, or else that there are lots and
-> _lots_ of spatio-temporally coincident things (358).
-*** Fine, "The non-identity of a thing and its matter"
-**** 0. intro
-**** 1. monism
-> _Extreme_ monism may now be taken to be the view that any two
-> material things that are coincident at a time are the same,
-> _moderate_ monism the view that any two material things that are
-> coincident in a world are the same, and _mild_ monism the view that
-> any two material things that are necessarily coincident are the same
-> (or perhaps we should take each form of monism to be the view that
-> it is _necessary_ that the relevant sort of coincidents are the
-> same) (198).
-**** 2. opacity
-** Essentialism
-*** Chisholm, _Person and Object_
-**** Chapter 3: Identity through time
-***** 1. the ship of theseus
-Other cases: splitting and joining rivers; the tributaries or branches
-have different names, are they different rivers?
-***** 2. playing loose with the 'is' of identity
-examples of apparent 'loose use':
-
-1. road segments: "route 33 is foothill here but not there"
-2. splitting/fusing: "this thing will be two things"
-3. offices/orgs: "the president is x, will be y"; "the supreme court
-   is S, will be S1"
-4. descriptive identity: "that is the same one I have" (type-token
-   confusion)
-5. anything that denies essentialism (?)
-***** 3. an interpretation of bishop butler's theses
-1. ordinary things have identity over time in a loose sense
-2. people have identity over time in a strict sense
-***** 4. feigning identity
-'logical constructions', or 'fictions'
-***** 5. the persistence of persons through time
-'incoherence' of a materialist-psychological criterion of identity:
-
-> If I am identical with the thinking substance in which I am thus
-> placed, then I cannot be transferred _from_ that substance to
-> another substance (107).
-***** 6. 'will I be he?'
-boink
 * Language and Reference
 ** Analyticity
 see [[analyticity]] above
