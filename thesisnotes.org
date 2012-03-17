@@ -615,11 +615,15 @@ Are any of these conditions satisfied re lumpkins?
      - version 1: "things and their parts"
      - version 2: composition operators
      - version 3: fusions of properties
-       - do they all have a common core?
+       - do they all have a common core?  version 1 fuses _certain_
+         objects _when_ they satisfy a given relation or property.
+         version 3 fuses _all_ the objects that satisfy a given
+         property.  version 2 fuses all combinations of objects that
+         satisfy certain conditions (which may just be relations or
+         properties).
+       - does version 2 capture the important aspects of 1 and 3?
      - comparison with classical mereology
   2. time and change
-     - can sums change their parts?
-       - not if we assume universalism (cf van Inwagen)
      - temporal parts and their finean analogues
      - eternalism and presentism
   3. application of fine's theory
@@ -636,10 +640,13 @@ Are any of these conditions satisfied re lumpkins?
   2. reasons to avoid the explosion of reality
      - referring
      - beliefs
-  3. essentialism: the last option?
+  3. identifying objects with sums
+     - can sums change their parts?
+       - not if we assume universalism (cf van Inwagen)
+  4. essentialism: the last option?
      - application to groups/sets
      - application to things/sums
-  4. essentialst theory of persons
+  5. essentialst theory of persons
      - avoids duplication puzzles
      - allows conventional indecision in transfer/teleportation cases
 **** TODO visual evidence
@@ -3600,11 +3607,11 @@ Fine's timeless parthood
 > I should like to suggest that we take the bold step of recognizing a
 > new kind of whole. Given objects a, b, c, . . . and given a relation
 > R that may hold or fail to hold of those objects at any given time,
-> we suppose that there is a new object—what one may call “the objects
-> a, b, c, . . . in the relation R.” So, for example, given some
-> flowers and given the relation of being bunched, there will be a new
-> object—the flowers in the relation of being bunched (what might
-> ordinarily be called a “bunch of flowers”) (65).
+> we suppose that there is a new object---what one may call “the
+> objects a, b, c, . . . in the relation R.” So, for example, given
+> some flowers and given the relation of being bunched, there will be
+> a new object—the flowers in the relation of being bunched (what
+> might ordinarily be called a “bunch of flowers”) (65).
 
 Unlike the 'classical solution', the relation R is not part of the
 bunch in the same way as the flowers are.  It modifies or 'arranged'
