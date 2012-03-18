@@ -57,7 +57,7 @@ point at which the justices are located, but it seems odd to say that
 the Supreme Court is a large, scattered object.  It is more natural to
 say that the Court is a {\em group} of physical objects (the
 justices), not a physical object itself.  The same goes for the Reed
-College womens' rugby team, and my family.  There is at least some
+College women's' rugby team, and my family.  There is at least some
 reason to recognize kinds of things in addition to material objects.
 
 How, though, do these new kinds of things differ from material
@@ -117,36 +117,230 @@ these uses of `part' the same?
 \subsection{Parthood and classical mereology}
 \label{tech}
 Technical notions of composition are often defined in terms of
-parthood.  For example, Peter van Inwagen provides the following
-definitions:
+parthood, which is itself left undefined.  Peter van Inwagen provides
+the following definitions:
 
-oink
+\begin{displaymath}
+x\ \text{is a part of}\ y =_{df} x\ \text{is a proper part
+  of}\ y\ \text{or}\ x = y
+\end{displaymath}
+
+It is assumed that everything is a part of itself.  A `proper part' of
+some $x$ is a part that is not $x$ itself.
+
+\begin{displaymath}
+x\ \text{overlaps}\ y =_{df} \text{For some}\ z, z\ \text{is a part
+  of}\ x\ \text{and}\ z\ \text{is a part of}\ y
+\end{displaymath}
+
+Just as everything is a part of itself, everything overlaps itself
+(when $x = y = z$).
+
+\begin{squote}
+$x$ is a mereological sum of the $y$s $=_{df}$ For all $z$ (if $z$ is
+  one of the $y$s, $z$ is a part of $x$) and for all $z$ (if $z$ is a
+  part of $x$, then for some $w$, ($w$ is one of the $y$s and $z$
+  overlaps $w$)) \citeyearpar[618--619]{inwagen2006}.
+\end{squote}
+
+The first part of this definition---``if $z$ is one of the $y$s, $z$
+is a part of $x$''---specifies that all of the $y$s are part of $x$.
+But we want to be able to say that all and {\em only} the $y$s are
+part of $x$.  The second part of the definition---``if $z$ is a part
+of $x$, then for some $w$, $w$ is one of the $y$s and $z$ overlaps
+$w$''---gets us this, by specifying that every part of $x$ overlaps
+one of the $y$s.
+
+%% \begin{squote}
+%% $x$ is a mereological sum $=_{df}$ For some $y$s, $x$ is a
+%%   mereological sum of those $y$s.
+%% \end{squote}
+
+There are at least two limitations to this standard formulation of
+mereology.  First, it entails that everything that has parts is a
+mereological sum.  Second, it does not explain how, if at all,
+mereological sums can change their parts.
+
+\subsection{Is everything a mereological sum?}
+\label{all-sum}
+One problem with the standard formulations of mereology is that---like
+van Inwagen's definitions above---they entail that everything that has
+parts is a mereological sum.  And though it may be an unreflective
+prejudice, I am inclined to believe that mereological sums are {\em
+  physical}, or material, things.  Material things certainly have
+parts, but they are not the only things:
+
+\begin{squote}
+The word `part' is applied to many things besides material objects.
+We have already noted that submicroscopic objects like quarks and
+protons are at least not clear cases of material objects;
+nevertheless, every material object would seem pretty clearly to have
+quarks and protons as \emph{parts}, and, it would seem, in exactly the
+same sense of \emph{part} as that in which a paradigmatic material
+object might have another paradigmatic material object as a part.  A
+``part,'' therefore, need not be a thing that is clearly a material
+object.  Moreover, the word `part' is applied to things that are
+clearly \emph{not} material objects---or at least it is on the
+assumption that these things really exist and that apparent reference
+to them is not a mere manner of speaking.  A stanza is a part of a
+poem; Botvinnik was in trouble for part of the game; the part of the
+curve that lies below the x-axis contains two minima; parts of his
+story are hard to believe\,\ldots\,such examples can be multiplied
+indefinitely \citeyearpar[18--19]{inwagen1995}.
+\end{squote}
+
+Under our current conception of a mereological sum, things like poems
+seem to be included.  For recall van Inwagen's definition:
+
+\begin{squote}
+$x$ is a mereological sum of the $y$s $=_{df}$ For all $z$ (if $z$ is
+  one of the $y$s, $z$ is a part of $x$) and for all $z$ (if $z$ is a
+  part of $x$, then for some $w$, ($w$ is one of the $y$s and $z$
+  overlaps $w$)) \citeyearpar[618--619]{inwagen2006}.
+\end{squote}
+
+Stanzas are parts of the poem, as are lines, words, and letters.  For
+simplicity's sake, though, let us pretend that only words are parts of
+poems.  The $y$s are therefore all the words in a poem $x$.
+
+Suppose $z$ is the word `bear'.  The word `bear' is a word in the
+poem, so it is one of the $y$s.  The first part of van Inwagen's
+definition tells us that `bear' is therefore part of the poem.  Now
+take the second part of the definition.  We have established that $z$
+(`bear') is part of $x$ (the poem), so the antecedent of the
+conditional (``if $z$ is a part of $x$'') is true.  If the poem is a
+mereological sum, then the consequent must also be true.  There must
+be some one of the $y$s that overlaps $z$.  Since $z$ is one of the
+$y$s, and everything overlaps itself, the consequent is true.
+
+We can follow the same steps for every word in the poem.  It seems,
+therefore, that poems are mereological sums.  Is this acceptable?
+
+I can think of no principled reason to deny that poems in particular
+are mereological sums, but there are good reasons to think that not
+{\em everything} is a mereological sum.  This is because there are
+some things that are correctly said to be parts of another thing, but
+are apparently parts in a {\em different way} than are the parts of
+mereological sums:
+
+\begin{squote}
+Now, on the face of it, there would appear to be a wide variety of
+basic ways in which one object can be a part of another.  The letter
+`n' would appear to be a part of the expression `no', for example, and
+a particular pint of milk part of a particular quart; and if these two
+relations of part are not themselves basic (perhaps through being
+restricted to expressions or quantities), there would appear to be
+basic relations of part that hold between `n' and `no' or the pint and
+the quart.  It is also plausible that the way in which `n' is a part
+of `no' is different from the way in which the pint is a part of the
+quart.  For if the two ways were the same, then how could it be that
+two pints were only capable of composing a single quart, while the two
+letters `n' and `o' were capable of composing two expressions, `no'
+and `on' \citep[562]{fine2010}?
+\end{squote}
+
+The parthood relation for sets is again different.  The set containing
+the only the letters `n' and `o' has the letters as parts.  When the
+letters are parts of a set, their order is irrelevant, but when the
+letters are parts of a word, order matters; hence `no' and `on'.  The
+parthood relation for sets is also different from the parthood
+relation for quantities (of milk):
+
+\begin{squote}
+If four quarts compose a gallon the pints which compose the quarts
+will compose the gallon in the same way in which they compose the
+quarts, whereas, if four sets compose a further set the members of the
+sets will not compose the further set in the same way in which they
+compose the component sets.  Thus we would now appear to have three
+different basic ways in which one object can be a part of another
+(pint/gallon, letter/word, and member/set); and once these cases have
+been granted, it is plausible that there will be many more
+\citep[562]{fine2010}.
+\end{squote}
+
+The standard mereology does not appear to be capable of handling the
+parthood relation that applies to sets, or that which applies to
+words.  But if these things (sets, words) have parts, and if they are
+not sums, then the standard mereology is flawed, for it entails that
+everything that has parts is a sum.
 
 \subsection{Can mereological sums change their parts?}
-boink
+\label{change}
+Many philosophers believe that mereological sums cannot change their
+parts.  Since many also believe that chairs and other ordinary things
+{\em can} change their parts, concerns arise about the utility of
+mereological sums.  If chairs and other ordinary things change their
+parts, then they are not sums; what then {\em are} sums?
 
-van inwagen's problem with universalism
+But not all philosophers do believe that sums cannot change their
+parts.  Peter van Inwagen is one.  His argument is very
+straightforward:  just as it follows from the definition of
+`mereological sum' that things like poems are sums, so it follows that
+things like chairs are sums.  Things like chairs can change their
+parts.  Therefore, sums can change their parts.
 
-How I am using the term `part' will therefore influence how
-I construct formal equivalences for propositions like ``there are
-chairs'', ``there are dogbushes'', and ``there are teams''.  Is the
-appropriate formalization for each of these the same?  Can chairs,
-dogbushes, and teams each `fit in' to the schema ``there is an $x$
-such that it is composed of the $y$s''?  Or are there different {\em
-  kinds} of composition, producing different kinds of things?
+This simple argument requires some supplementation, for there is an
+(almost) equally simple argument that purports to show that sums {\em
+  cannot} change their parts:
 
-I will look at three different theories that provide different answers
-to these questions.  Section \ref{fine-h} will discuss Kit Fine's
+\begin{squote}
+Consider an object $\alpha$ that is the mereological sum of $A$, $B$,
+and $C$ (that is $\alpha = A + B + C$).  We suppose that $A$, $B$, and
+$C$ are simples (that they have no proper parts), and that none of
+them overlaps either of the others.  And let us suppose that nothing
+{\em else} exists---that nothing exists besides $A$, $B$, $C$, $A +
+B$, $B + C$, $A + C$, and $A + B + C$.  Now suppose that a little time
+has passed since we supposed this, and that, during this brief
+interval, $C$ has been annihilated (and that nothing has been created
+{\em ex nihilo}).  Can it be that $\alpha$ still exists?  Well, here
+is a complete inventory of the things that now exist: $A$, $B$, and $A
++ B$.  And $\alpha$ is none of these things, for, before the
+annihilation of $C$, they existed and $\alpha$ existed and $\alpha$
+was was not identical with any of them (all three of them were then
+proper parts of $\alpha$).  And nothing can become identical with
+something else: $x \neq y \rightarrow \square\ x \neq y$; a thing and
+another thing cannot become a thing and itself.  We do not, in fact,
+have to appeal to any modal principle to establish this conclusion,
+for if $\alpha$ were (now) identical with, say, $A + B$, that identity
+would constitute a violation of Leibniz's Law, since the object that
+is both $\alpha$ and $A + B$ would both have and lack the property
+``once having had $C$ as a part'' \citep[629]{inwagen2006}.
+\end{squote}
+
+Van Inwagen escapes this conclusion---that mereological sums cannot
+change their parts---by denying that mereological composition is
+unrestricted.  He denies that for any things, there is an object
+composed of them.  In the example above, therefore, van Inwagen might
+deny that, before the annihilation of $C$, there was a sum of $A +
+B$.  He would therefore be able to maintain that $\alpha$ loses a
+part, going from $A + B + C$ to $A + B$.  There would be no
+pre-existing $A + B$ to compete with.
+
+As I have argued in section \ref{universe}, I think unrestricted
+composition---universalism---is true.  Therefore I cannot follow van
+Inwagen's escape route, and I conclude that mereological sums, in
+their standard formulation, cannot change their parts.
+
+\subsection{Expanding classical mereology}
+\label{expand}
+Since not everything that has parts seems to be a mereological sum,
+and since mereological sums cannot change their parts, there is some
+motivation to amend standard mereology to account for these
+divergences.
+
+I will look at three different theories that attempt to provide a more
+satisfactory mereology.  Section \ref{fine-h} will discuss Kit Fine's
 theory of `embodiments'.  Section \ref{hovda} will discuss Paul
 Hovda's tensed theory.  Section \ref{fine-c} will discuss Fine's more
 recent theory of composition operators.  What is common to these three
-theories is that they entail the existence of a plurality of
+theories (and, I suspect, any adequate modification of standard
+mereology) is that they entail the existence of a plurality of
 overlapping objects.  If this consequence is unacceptable, we will
 have to reject all three theories.
 
 \section{First theory: rigid and variable embodiments}
 \label{fine-h}
-An outline of Kit Fine's {\em hylomorphic} theory is presented in his
+An outline of Kit Fine's `hylomorphic' theory is presented in his
 paper ``Things and their parts'' \citeyearpar{fine1999}.  His
 objective in that paper is not to present a framework for talking
 about things like groups and teams, although what he says can be put
@@ -167,7 +361,7 @@ whenever (and wherever) $a, b, c$ exist.
 Now, however, there are some composite objects that do not seem to
 obey these assumptions.  Take a ham sandwich, for example.  It has two
 slices of bread and a piece of ham as parts.  It seems to fit the
-definition of a mereological sum: LKFKLJDFJLKF.  But
+definition of a mereological sum.  But
 
 \begin{squote}
 the sum $a + b + c + \mathellipsis $ will exist {\em whenever} any of
@@ -187,6 +381,7 @@ bread and meat are put together, then the sandwich cannot be a
 mereological sum in the classical sense.  How, then, is it composed?
 
 \subsection{Composition relations}
+\label{rigid}
 Fine's suggestion is that things like the sandwich be seen not merely
 as the sum of the bread and meat, but as an object composed of the
 bread and the meat {\em standing in the relation of `betweenness'}.
@@ -211,7 +406,7 @@ lump of clay.  The statue might be composed of the clay when
 possessing the property of being a statue (or just a work of art).
 The property of being a statue would be understood to {\em not} apply
 to squashed lumps of clay.  This would be a {\em character postulate}
-of the property of being a statue:
+of a statue:
 
 \begin{squote}
 The character postulates state what descriptive properties a [thing]
@@ -232,13 +427,65 @@ less up to us.
 
 \subsection{How things change their parts}
 \label{h-part}
-variable embodiments and conceptual containers
+This proposal by Fine---to think of objects as having parts that stand
+in a certain relation---does not allow for things to change their
+parts over time.  Fine stipulates that a thing $x$ composed of $a, b,
+c$ in relation $R$ exists at a time $t$ if and only if $R$ holds of
+$a, b, c$ at $t$.  If $x$ exists at $t_1$, it is because $a, b, c$ are
+in $R$ at that time.  If at $t_2$, $a, b, c$ are not in $R$---say that
+only $b, c$ are in that relation---then $x$ does not exist.
+
+I am not sure, but I assume that Fine introduces this stipulation
+because he is a universalist and believes that composition is
+unrestricted.  If composition is unrestricted, then for any things
+($z$s) in a relation $R$, there is an object composed of the $z$s in
+that relation.  Suppose, as above, that there is an object $x$
+composed of $a, b, c$ in relation $R$.  If $a, b$ alone also stand in
+$R$, then, {\em if} composition is unrestricted, there is also an
+object $y$ composed of $a, b$ in relation $R$.  Objects $x$ and $y$
+have different parts and are therefore different things.
+
+Now suppose $c$ is destroyed or somehow no longer stands in $R$ with
+$a, b$.  We cannot say that $x$ has lost a part and is now composed of
+$a, b$ in $R$.  There is already an object composed of $a, b$ in
+$R$---the object $y$.  If we said that $x$ has lost a part, we would
+be committed to the claim that $x = y$, even though previously $x \neq
+y$.  If $y$ exists, then we must say that $x$ ceases to exist when it
+loses a part ($c$).  Fine calls things like these---things that cannot
+change their parts---{\em rigid embodiments}.
+
+Therefore Fine has a separate proposal for objects that can change
+their parts.  These things Fine calls {\em variable embodiments}.
+Variable embodiments have, at different times, different {\em rigid}
+embodiments as parts.  What part a variable embodiment has at a given
+time is determined by a function that assigns rigid embodiments to
+times.  Fine illustrates this with the water of a river:
+
+\begin{squote}
+I take it that the water in the river in the second sense---what we may
+call the variable water---is now constituted by one quantity of water
+and now by another. But what is the variable water?\,\ldots
+
+I would like to take the bold step of supposing that there is here a
+hitherto unrecognized method by which wholes may be formed from parts.
+In the case of the variable water, there is a function, or
+``principle,'' that determines which quantity of water constitutes the
+variable water at any given time \citeyearpar[68]{fine1999}.
+\end{squote}
+
+In effect, {\em the water} of the river---the thing that is the
+variable embodiment---is composed of other things---rigid embodiments
+that are in turn composed of water molecules.  The water molecules are
+not `directly' part of {\em the water}, but they are parts of its
+parts.
 
 \subsection{Problems with the first theory}
 \label{problems1}
+Relations are parts of objects
+
 qua objects = explosion
 
-\subsection{Second theory: tensed mereology}
+\section{Second theory: tensed mereology}
 \label{hovda}
 ornk
 
@@ -246,98 +493,24 @@ ornk
 \label{problems2}
 oink
 
-\subsection{Third theory: composition operators}
+\section{Third theory: composition operators}
 \label{fine-c}
-Fine agrees with van Inwagen that the notion of parthood should not be
-reserved only for material things:
+Fine has recently published a theory of parthood that has many
+connections with his theory of {\em rigid embodiments} (see section
+\ref{rigid}).  That theory, while including relations as parts of
+things, did not specify that different things (like words, or sets)
+had their parts in different ways.  But as we saw in section
+\ref{all-sum}, this seems to be the case.  The way that letters are
+parts of words is different from the way members are parts of sets,
+and both are different from the way things are parts of sums.  Fine's
+new theory begins with this `pluralist' claim about parthood.
 
-\begin{squote}
-Philosophers have often supposed the notion of part only has proper
-application to material things or the like and that its application
-to abstract objects such as sets or properties is somehow improper
-and not sanctioned by ordinary use.  But I suspect that this is
-something of a philosopher’s myth.  We happily talk of a sentence
-being composed of words and of the words being composed of
-letters---and not just the sentence and work tokens, mind, but also
-the types.  And similarly, a symphony (and not just its performance)
-will be composed of movements, a play of acts, a proof of steps.  I
-wonder how many of these philosophers have said such things as ``this
-paper is in three parts.''  When they have, then I very much doubt
-that they would have any inclination, as ordinary speakers of the
-language, to add ``but not, of course, in a strict or literal sense of
-the term''; and the intended reference here is not primarily---or
-perhaps not at all---to the tokens of the paper but to the type of
-which they are the tokens.  The evidence concerning our ordinary talk
-of part is mixed and complicated, but it does not seem especially to
-favor taking material things to be the only true relata of the
-relation \citeyearpar[561]{fine2010}.
-\end{squote}
-
-But even if one accepts the idea that there are things other than
-`material things' that have parts, one might object that they are
-still all parts in the same sense.  This might be the parthood
-relation of classical mereology, or it might be some other, general
-relation.  Moreover, one who maintained the univocality of parthood
-can still concede that there are different ways of being a part.  But
-for the believer in the univocality of parthood---the `monist'---these
-are only {\em derivative} kinds of parthood.  For example, for any
-given mereological sum, there are bigger and smaller parts of it. But
-these are bigger and smaller parts of the same {\em kind}.  The
-pluralist goes further and claims that there are parts of different
-kinds. These different kinds are not derivative but \emph{basic}; they
-are ``not definable in terms of other ways of being a part''
-\citep[561]{fine2010}.  Fine gives a number of reasons to think that
-there might be different basic parthood relations:
-
-\begin{squote}
-Now, on the face of it, there would appear to be a wide variety of
-basic ways in which one object can be a part of another.  The letter
-`n' would appear to be a part of the expression `no', for example, and
-a particular pint of milk part of a particular quart; and if these two
-relations of part are not themselves basic (perhaps through being
-restricted to expressions or quantities), there would appear to be
-basic relations of part that hold between `n' and `no' or the pint and
-the quart.  It is also plausible that the way in which `n' is a part
-of `no' is different from the way in which the pint is a part of the
-quart.  For if the two ways were the same, then how could it be that
-two pints were only capable of composing a single quart, while the two
-letters `n' and `o' were capable of composing two expressions, `no'
-and `on' \citeyearpar[562]{fine2010}?
-\end{squote}
-
-The parthood relation for sets is again different.  The set containing
-the only the letters `n' and `o' has the letters as parts.  When the
-letters are parts of a set, their order is irrelevant, but when the
-letters are parts of a word, order matters; hence `no' and `on'.  The
-parthood relation for sets is also different from the parthood
-relation for quantities (of milk):
-
-\begin{squote}
-If four quarts compose a gallon the pints which compose the quarts
-will compose the gallon in the same way in which they compose the
-quarts, whereas, if four sets compose a further set the members of the
-sets will not compose the further set in the same way in which they
-compose the component sets.  Thus we would now appear to have three
-different basic ways in which one object can be a part of another
-(pint/gallon, letter/word, and member/set); and once these cases have
-been granted, it is plausible that there will be many more
-\citeyearpar[562]{fine2010}.
-\end{squote}
-
-One might, of course, refuse to grant these cases.  But one would have
-to refuse them {\em all}; for if it can be established that there are
-even two different (basic) ways of being a part, then the pluralist
-position is established.  Once it is established that there are at
-least two ways of being a part, it becomes much more plausible that
-there might be three ways, or more.  Fine therefore attempts to
-motivate the idea that the members of a set are, quite literally,
-parts of the set.
-
-\subsection{Parts of sets}
+\subsection{Problems for pluralists}
 \label{sets}
-The first objection is that while parthood is supposed to be
-transitive, the membership relation of sets is not.  The letter `n' is
-a member of the set \{`n',\{`n',`o'\}\}, but `o' is not.  The
+There are, however, a number of objections to Fine's pluralism about
+parthood.  The first objection is that while parthood is supposed to
+be transitive, the membership relation of sets is not.  The letter `n'
+is a member of the set \{`n',\{`n',`o'\}\}, but `o' is not.  The
 objection claims that sets have {\em members}, not parts, and that
 Fine has confused the two.
 
@@ -783,18 +956,26 @@ is a simple, which is at level 0---the same level as its part
 (itself).  It is not weakly generative because the result of the
 operation is putatively prior to its parts.
 
+\section{What if we assume four-dimensionalism?}
+\label{4d}
+boink
+
+\subsection{Four-dimensional essentialism}
+\label{4de}
+oink
+
 \section{Groups and sets}
 \label{group}
 Fine's theory gives us the resources to define new composition
 operators, and so new {\em kinds} of things.  But there is no point in
-defining a composition operator for a kind of thing that does appear
-in the world.  For example, suppose that unicorns are a special kind
-of thing.  We could, presumably, define their existence conditions and
-define a `unicorn-builder'---a composition operator for unicorns.  But
-there are no unicorns, so why should we.  If we are to define a kind
-of thing, we should first determine that there are such things.  One
-kind of thing that does seem to have instances, unlike {\em unicorn},
-is {\em group}.
+defining a composition operator for a kind of thing that does not
+appear in the world.  For example, suppose that unicorns are a special
+kind of thing.  We could, presumably, define their existence
+conditions and define a `unicorn-builder'---a composition operator for
+unicorns.  But there are no unicorns, so why should we.  If we are to
+define a kind of thing, we should first determine that there are such
+things.  One kind of thing that does seem to have instances, unlike
+{\em unicorn}, is {\em group}.
 
 Why should we think that there are groups, in addition to sets?  One
 important reason is the apparent fact that groups can change their
