@@ -1,0 +1,970 @@
+\documentclass[11pt]{article}
+\usepackage{standalone} \newif\ifstandlone \standalonetrue
+\usepackage[left=1.75in, right=1.75in, top=1.25in, bottom=1.25in]{geometry}
+\geometry{letterpaper}
+\usepackage{graphicx}
+\usepackage{enumitem}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{epstopdf}
+\usepackage{verbatim}
+\usepackage{setspace}
+\usepackage{natbib}
+\setcitestyle{aysep={}}
+\usepackage{hyperref}
+\usepackage{url}
+\synctex=1
+
+\DeclareSymbolFont{symbolsC}{U}{txsyc}{m}{n}
+\DeclareMathSymbol{\strictif}{\mathrel}{symbolsC}{74}
+\DeclareMathSymbol{\boxright}{\mathrel}{symbolsC}{128}
+
+\newenvironment{squote}{%
+\begin{spacing}{1}
+\begin{list}{}{%
+\setlength{\labelwidth}{0pt}%
+\rightmargin\leftmargin%
+}
+\item\relax
+}{%
+\end{list}%
+\end{spacing}
+}
+
+\title{Essentialism}
+\author{Alexander A. Dunn}
+\begin{document}
+\ifstandalone
+\maketitle
+\begin{spacing}{1.5}
+\fi
+
+\label{essential}
+
+In section \ref{parts} I presented three different theories that
+modified classical mereology.  These modification were made to
+explain, among other things, how objects change their parts over time
+and how co-located objects (like the statue and the lump) have
+different properties.  But each of these theories require us to posit
+an extraordinary plurality of co-located objects.  A theory that posits
+co-located people is, I think, clearly false, but any theory that
+entails the existence of a plurality of overlapping objects is at
+least intuitively objectionable.
+
+In this section, therefore, I will attempt to sketch an {\em
+  essentialist} theory of things.  This theory will allow us to reject
+the `plurality thesis'---that there are pluralities of co-located
+objects---but it will have problems of its own.  The most glaring is
+the consequence that, strictly speaking, things don't change their
+parts.
+
+In section \ref{problem3} I argued that using Fine's theory of
+composition operators to account for groups like the Supreme Court led
+to a plurality of different {\em kinds} of things rather than a
+plurality of a single kind of group.  I suggested that this was a
+drawback of the theory, and that we should re-examine the idea that
+groups like the Supreme Court are actually identical with sets.
+
+\section{Re-examining the set identity thesis}
+\label{set-id}
+The primary motivation cited in section \ref{why-group} for positing
+groups was the fact that the Supreme Court changes its members over
+time.  For example, both of the following sentences are true:
+
+\begin{enumerate}[label=(\arabic*)]
+  \item The Supreme Court ruled on Roe vs.\ Wade in 1973. \label{roe1}
+
+  \item The set of justices now serving as Supreme Court Justices did
+    not rule on Roe vs.\ Wade in 1973
+    \citep[135]{uzquiano2004a}. \label{roe2}
+\end{enumerate}
+
+One way to accommodate these facts is to ``insist that the Supreme
+Court is a set, but to abandon the assumption that there is a single
+set to which the phrase `the Supreme Court' refers in sentences
+\ref{roe1} and \ref{roe2}'' \citep[138]{uzquiano2004a}.  To
+successfully use the term `the Supreme Court' to refer to a set of
+justices, there must be an implicit or explicit temporal reference.
+If an utterance of \ref{roe1} is true it will be true because it the
+speaker intends her audience to recognize her intention to refer to
+the set of justices that was the Supreme Court in 1973.  If her
+audience, for whatever reason, takes her to be referring to the
+current Court, then they will evaluate \ref{roe1} as false.
+
+Considered in this light, `the Supreme Court' is used to express a
+relation between sets and times; ``$x$ is the Supreme Court at $t$''
+\citep[140]{uzquiano2004a}.  There is some precedent for this sort of
+interpretation:
+
+\begin{squote}
+Our use of the phrase `the Supreme Court' to express a relation a set
+of justices bears to a time is much like our use of the phrase `the
+president of the United States' to express a relation an individual
+bears to a time.  Different persons may be the president of the United
+States at different times, but there is at most one person that bears
+that relation to each time \citep[138]{uzquiano2004a}.
+\end{squote}
+
+``But,'' it will be objected, ``there is an important difference here.
+We use both terms---`the Supreme Court' and `the president'---to refer
+to a past, present or future set that `is' the thing, but we also use
+`the Supreme Court' to refer to {\em the Supreme Court}, which has
+changed its membership over time.  If I say, `the Supreme Court has
+become more conservative over the past century', there is no one set I
+am referring to.  I must be referring to something else; the obvious
+candidate is the {\em group} that is the Court.''
+
+One reply here is to claim that all that what ``the Supreme Court has
+become more conservative over the past century'' actually means is
+that the members of the sets that have been the Supreme Court have
+become more conservative.  Another, similar reply is that someone who
+utters ``the Supreme Court has become more conservative over the past
+century'' is saying something literally false (either because there is
+no unique set that is being referred to, or because there is a unique
+set referred to, but one that does not make the proposition true), but
+can generally be understood to mean something else; namely, that the
+members of the sets that have been the Supreme Court have become more
+conservative.
+
+Neither reply is {\em very} unintuitive; indeed, there is something
+attractive about a thesis that reserves application of adjectives like
+`conservative' for people, rather than other things like groups.
+
+But there is a more pressing worry for the set identity thesis.
+Recall that the set that is the Supreme Court at a given time might
+also be the Special Committee on Judicial Ethics.  We must admit that
+the Supreme Court in 2004 is the set \{Rehnquist, Stevens, O'Connor,
+Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer\}, and the Special
+Committee in 2004 is that very same set.  But now we are committed to
+this argument:
+
+\begin{enumerate}[ref=(\arabic*)]
+  \item The Special Committee on Judicial Ethics is one of the
+    committees assembled by the Senate.
+
+  \item The Special Committee on Judicial Ethics is identical with the
+    Supreme Court.
+
+  \item {\em Therefore} the Supreme Court is one of the committees
+    assembled by the
+    Senate. \citep[144]{uzquiano2004a} \label{sup-com}
+\end{enumerate}
+
+And \ref{sup-com} seems false.
+
+But it may be possible to argue that \ref{sup-com} is not false but
+only {\em misleading} (indeed, very misleading).  For it
+(conversationally) implies that future sets referred to by `the
+Supreme Court' will be identical to future sets referred to by `the
+Special Committee'.  And it is {\em this} that is certainly false.
+
+\subsection{Set membership and literal speech}
+\label{implicate}
+Suppose we arrive at a meeting of the Special Committee on Judicial
+Ethics.  Rehnquist, Stevens, O'Connor, Scalia, Kennedy, Souter,
+Thomas, Ginsburg, and Breyer are sitting around a center table.  As we
+take our seats you turn to me and say, ``they look rather familiar,
+don't they?''  I say ``that's also the Supreme Court.''
+
+What am I referring to with the demonstrative expression ``that''?  If
+one thinks that I am referring to a {\em group}---the Special
+Committee---that is distinct from the Supreme Court, my utterance will
+have to be interpreted as non-literal.  I will have to be understood
+to mean that the {\em members} of the Special Committee are also the
+members of the Supreme Court.  (On the other hand, if I am referring
+to the {\em set} of justices, what I said is literally true.)
+
+Suppose instead that you ask me who the members of the Special
+Committee are.  I say ``Rehnquist, Stevens, O'Connor, Scalia, Kennedy,
+Souter, Thomas, Ginsburg, and Breyer.  The Special Committee is just
+the Supreme Court.''  Here again one could argue that I am speaking
+non-literally; what I mean is that the members of the Special
+Committee are just the members of the Supreme Court.  (But if the
+Supreme Court and the Special Committee are just sets---the same
+set---I have again said something literally true.)
+
+Now suppose that the Special Committee is dissolved in 2004.  In 2005,
+we see the members of the Supreme Court (still Rehnquist, Stevens,
+O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer) out
+to lunch together.  I point and say ``that was the Special Committee
+on Judicial Ethics.''  Now what is the referent of ``that''?  It
+cannot be the Special Committee, for that has ceased to be.  It must
+either be the Supreme Court or the set \{Rehnquist, Stevens, O'Connor,
+Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer\}.  Either way,
+the proponent of groups will have to interpret this utterance as
+non-literal.  (The set-identity theorist can interpret this utterance
+as literally true, however; that set was the Special Committee before
+the dissolution.)
+
+Now suppose that the Special Committee is dissolved in 2004 and
+Rehnquist retired before dying in 2005 (let's pretend he retired in
+May).  Now in August we see Rehnquist, Stevens, O'Connor, Scalia,
+Kennedy, Souter, Thomas, Ginsburg, and Breyer out to lunch together.
+I point and say ``that was the Supreme Court {\em and} the Special
+Committee on Judicial Ethics.''  I can only be referring to the set of
+justices.  Why not suppose that I have only {\em ever} been referring
+to the set of justices?  If I am in fact referring to the set
+\{Rehnquist, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas,
+Ginsburg, Breyer\}, then when I say ``that was the Supreme Court {\em
+  and} the Special Committee'', I say something literally true.
+
+I also say something literally true when I say ``the Supreme Court is
+one of the committees assembled by the Senate'' or ``the Supreme Court
+is the Special Committee on Judicial Ethics''.  But it is very
+misleading to say either.  By saying ``the Supreme Court is the
+Special Committee'' I imply that future referents of `the Supreme
+Court' will be identical to future referents of `the Special
+Committee'.  It is less misleading to say ``the current Supreme Court
+is the Special Committee on Judicial Ethics''.  (It is even less
+misleading to say ``the current Supreme Court is also the Special
+Committee''.)
+
+We use `the Supreme Court' sometimes to refer (whether literally or
+non-literally) to more than one set.  When I say ``the Supreme Court
+has become more diverse'' I mean that the members of the sets that
+have been the Supreme Court have become more diverse.  It may be due
+to this fact that we so easily misinterpret uttered propositions like
+``the Supreme Court is the Special Committee''.  A listener might take
+this to mean that the members of the sets that have been the Supreme
+Court are identical with the members of the sets that have been the
+Special Committee.  They would therefore evaluate the utterance as
+false.
+
+I have tried to show here that by identifying groups with sets, we can
+interpret some talk as literal rather than non-literal.  I think this
+is a good thing.  But it will be objected that the set identity thesis
+forces us to interpret a great deal of {\em other} talk as
+non-literal, talk which is commonly thought of as literal.  Take, for
+example, ``the Supreme Court has become more conservative''.  If we
+claim that the Supreme Court is a set, we cannot interpret this
+utterance as literally true; {\em sets} do not have political
+leanings.  Someone who utters this, according to the set identity
+thesis, must be taken to mean that the members of the sets that have
+been the referents of ``the Supreme Court'' have become more
+conservative.
+
+But can the advocate of groups interpret this literally?  Can groups
+{\em literally} have political leanings?  Or must the speaker be
+interpreted as meaning that the members of the group have become more
+conservative?  I think it is plausible that ``the Supreme Court has
+become more conservative'' must be interpreted as non-literal, whether
+the Supreme Court is a group or a set.
+
+What about an utterance such as ``the Supreme Court ruled against the
+defendant''?  If the Supreme Court is a set, this utterance will have
+to be interpreted as non-literal.  Sets don't {\em do} things; we will
+have to interpret the speaker as meaning that the Supreme Court
+justices ruled against the defendant.  But what if the Court was
+divided over the ruling?  If several justices wrote dissenting
+opinions, it seems that {\em they} didn't rule against the defendant.
+Rather, we want to say that the {\em group} ruled against the
+defendant.  The proponent of groups may be in a slightly stronger
+position here.  But if we identify the Supreme Court with a set, we
+can still say that the {\em majority} of the Supreme Court justices
+ruled against the defendant.  And that is more or less what we mean
+when we say ``the Supreme Court ruled against the defendant''.
+
+Whether we identify the Supreme Court with a group or a set, we will
+have to interpret certain talk as non-literal.  This should not worry
+us.  It is likely that much of our talk {\em is} non-literal (see
+\citet{bach1987}).  For example, we may have to interpret ``the chair
+is mine'' as non-literal, because it might be that ``the chair is
+mine'' entails that there is only one chair in the world.  Even
+propositions involving proper names might be non-literal.  If `Alex'
+designates every person named `Alex', then ``Alex is lying down''
+might be literally false because it entails either that there is only
+one `Alex' or that every `Alex' is lying down.
+
+Whether or not we identify the Supreme Court and other groups with
+sets, we will have to interpret some apparently literal speech as
+non-literal.  So the set identity thesis should not be dismissed
+because of considerations about literal speech.
+
+%% This is because it is mutually assumed that the set referred to by
+%% `the Supreme Court' will change; the current set of justices will
+%% not always be the Supreme Court.  It is a contingent fact that one
+%% set---\{Rehnquist, Stevens, O'Connor, Scalia, Kennedy, Souter,
+%% Thomas, Ginsburg, and Breyer\}---is both the Supreme Court and the
+%% Special Committee in 2004, But since the form of the sentence ``the
+%% Supreme Court is the Special Committee'' is that of an identity
+%% statement, and sincethe audience will understandably
+
+\subsection{Conventional identity conditions}
+\label{set-convention}
+Even supposing everything above is right, there is still more to be
+said.  What are the `identity conditions' for the Supreme Court over
+time?  Although the Supreme Court is a set, we use `the Supreme Court'
+to refer to different sets at different times.  What governs this
+shifting reference?  What makes it true that one set is the Supreme
+Court in 2004 and a different set is in 2012?
+
+What makes it true that a given set is the Supreme Court at a given
+time is simply our legal conventions.  The Constitution authorizes the
+recognition of a set of justices as `the Supreme Court'.  Which set is
+recognized as the Supreme Court is decided by the legislative and
+executive branches.  The president nominates a set (the sitting
+justices and the nominated justice) and the legislative branch votes.
+The outcome of the vote make it true or false that a given set is the
+Supreme Court.
+
+(Now what do we mean when we say ``the Supreme Court was established
+in 1789''?  Perhaps that the convention of referring to a set of
+justices as `the Supreme Court'---and the granting of legal powers to
+them---began in 1789.)
+
+This is analogous for all `groups'.  Teams, bands, militias---what
+makes it true that a certain set is a team, band or militia is just
+the conventions governing the group.  If I desert my militia and the
+other members of the militia recognize my absence as a desertion, then
+it is understood that I am no longer part of the militia; for that
+reason it is then true that the set containing me is no longer the
+militia.  A smaller set, not containing me, is now the militia.
+
+It seems, then, that {\em `identity' conditions over time for groups
+  are wholly conventional}.  This is plausible; groups are social
+entities, and it makes sense that their composition should be a matter
+of social convention.  But if this is true, it suggests something more
+radical: that identity conditions over time for physical objects like
+chairs are conventional as well.
+
+\section{The conventions of ordinary things}
+Recall how Fine defined the summation operator of classical
+mereology (section \ref{classical}:
+
+\begin{displaymath}
+\sum _m (\mathellipsis , x, y, z, \mathellipsis )
+\end{displaymath}
+
+The identity conditions for sums is {\em regular}: sums $A$ and $B$
+are identical if and only if the summation operation that produced $A$
+took the same things---{\em other than sums}---as variables
+($\mathellipsis , x, y, z, \mathellipsis $) as did the operation that
+produced $B$.  In other words, if mereological sums are ultimately
+composed of partless atoms (`simples'), then two sums are identical if
+and only if they share all the same simples.
+
+There is an obvious parallel between the current conception of sums
+and that of sets.  Neither sets nor mereological sums, so conceived,
+can change their parts.
+
+Ordinary things like statues, however, {\em can} apparently change
+their parts.  If I break the nose of my statue, I can replace it.  Do
+I thereby have a new statue?  It seems I do not; rather, I have fixed
+my old statue.
+
+At this point one might say that statues are therefore not
+mereological sums, and posit a type of entity that includes statues
+and {\em can} change its parts over time.  Perhaps a statue would then
+be composed by a sum at a time.  We could relativize the composition
+operator for statues to times.  This would be parallel to our
+treatment of groups above (section \ref{group-time}).  The
+`object-builder' would then be an operator that takes sums at times
+and produces an object---in this case, a statue: $O = \sum _{t} ( S
+)$.
+
+But having divorced the statue from the sum that composes it, trouble
+arises.  For seems plausible that a sum (at a time) might compose more
+than one object.  Just as the set \{Rehnquist, Stevens, O'Connor,
+Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer\} composed both the
+Supreme Court and the Special Committee on Judicial Ethics in 2004, so
+the sum $S$ might compose the statue and the lump of clay.  Just as
+the Supreme Court has different powers and a different history than
+the Special Committee, so the statue and the lump have (apparently)
+different properties and histories.  The statue cannot survive a
+squashing; the lump can.  The lump may have been formed on Monday; the
+statue might not have come into being until Tuesday.
+
+We might assume that the lump is also produced by means of the
+object-builder: $O^{\prime} = \sum _{t} ( S )$.  But now we face the
+same problems that plagued the time-relative group operator (section
+\ref{group-id}).  Above, we produced the statue by means of the same
+object-builder operation: $O = \sum _{t} ( S )$.  How can we deny that
+$O = O^{\prime}$, that the statue is identical with the lump?
+
+Just as with the Supreme Court and the Special Committee, the obvious
+way to distinguish the statue and the lump is by reference to their
+different properties (modal and otherwise).  Just as we produced the
+Supreme Court and the Special Committee by means of different
+operators, so we can introduce separate composition operators to build
+the statue and the lump.  The statue will be the product of the
+statue-builder $\sum _{st}$ and the lump the lump-builder $\sum
+_{lump}$.
+
+But the same problems arise.  Having the Supreme Court and the Special
+Committee be the products of different operators means that they are
+different {\em kinds} of things---to say that both are `groups' is
+simply to bring two heterogeneous kinds under one label.  Likewise, the
+statue and the lump are different kinds of things---to say that both
+are `physical objects' is simply to bring two heterogeneous kinds
+under one label.
+
+And just as we faced an `explosion of reality' after allowing the
+proliferation of `groups', so again we face an explosion of `physical
+things' with different properties.  Since we have allowed that the
+statue and the lump may be different things composed of the same sums,
+why stop there?  We can introduce more composition operators that
+produce distinct objects.  Where we see a statue and a lump, why not
+suppose that there is an infinity of objects, each of a different kind
+and with slightly different properties?
+
+This is not a particularly attractive position, but it is not
+indefensible (see \citet[section 4]{bennett2004}).  Since we have
+already allowed a plurality of scattered objects like archipelagos and
+dogbushes, why not allow a plurality of co-located objects?
+
+I do not think I can rule out this possibility, but I think there is
+another option that has some plausibility.  Just as we found a way to
+identify groups with sets, and so shrink the ``mereological
+firmament'', so can we identify ordinary things with sums.
+
+\subsection{Referring to sums}
+\label{chair-ref}
+Just as we identified groups like the Supreme Court with different
+sets at different times, so we can identify things like chairs with
+different sums at different times.  Terms like `chair' will be used to
+express a relation between a sum and a time.
+
+This will have the consequence that, at $t_1$, the statue is identical
+with the lump of clay.  This will be true, since they are both the set
+$S$.  The statue {\em is} the lump of clay.  This seems correct.  If
+someone were to ask ``I see the statue, but where did the lump of clay
+go?'' we would reply, ``the statue {\em is} the lump''.
+
+If we feel tempted to say that the statue is not identical with the
+lump, this is because future (and {\em possible}) utterances of
+`statue' may not be used to refer to the same sum as future utterances
+of `lump'.  (Thus we can account for their apparent modal differences
+as well.)
+
+The identification of statues (and lumps) with sums allows us to
+explain some sorts of talk that would be otherwise problematic.  For
+example, suppose I make a statue out of a lump of clay.  You come
+along and squish the statue (thereby destroying it):
+
+\stage{Alex}{}{That was my statue!}
+
+If we thought that the statue was a distinct thing from the sum (and
+from the lump), we would have to interpret what I say non-literally.
+For if the statue was a distinct thing that has been destroyed, then
+when I use a demonstrative like ``that'' I cannot be referring to the
+non-existence statue.  My audience may interpret me as referring to
+the lump, and meaning that there used to be a statue co-located with
+the lump.  But if we suppose that the statue was not a distinct thing
+from the sum (and from the lump), then what I said is literally true.
+For ``that''---that sum---was a statue, but is no longer.  It is no
+longer a statue because it no longer satisfies our conventional
+criteria for what counts as a statue.  (You could dispute these
+criteria; after I say ``that was my statue'', you could say ``it still
+is your statue; it's just a flatter statue than it was''.)
+
+One objection that may arise here is that, {\em strictly speaking},
+the statue still exists.  Worse, if the statue is just the sum, then
+the statue existed even before it was sculpted!  How can that be?
+
+Suppose I have a lump of clay on Monday:
+
+\stage{Alex}{}{This will be a statue!}
+
+On Tuesday I make a statue out of the clay:
+
+\stage{Alex}{}{Yesterday this was nothing more than a lump of clay!
+  Now look at it!}
+
+On Wednesday you squish the statue:
+
+\stage{Alex}{}{Well, it's not a statue anymore.}
+
+With these examples, I am trying to motivate the idea that we refer to
+the sum when we use terms like `it' and `this'.  The sum referred to
+on Monday is the same (or nearly the same) sum referred to on Tuesday
+and on Wednesday.  When I say ``this will be a statue'', therefore, I
+mean that this sum will meet the criteria for being referred to as a
+statue.  When I say ``this was nothing more than a lump of clay'', I
+mean that this sum previously met only the criteria for being referred
+to as a lump of clay.  When I say ``it's not a statue anymore'', I
+mean that it no longer meets the criteria for being referred to as a
+statue.
+
+But what if I say ``that statue doesn't exist anymore''?  I suggest
+that this should be interpreted in almost all cases as meaning that
+the sum that is understood to have been the referent of `that statue'
+no longer meets the criteria for being the referent of `statue'.  If
+``that statue doesn't exist'' is taken in a more literal sense, then
+it is false.
+
+Peter van Inwagen has a similar objection to the idea that sums cannot
+change their parts (he assumes that ordinary things are sums).
+Suppose that sums cannot change change their parts:
+
+\begin{squote}
+Call the bricks that were piled in the yard last Tuesday the ``Tuesday
+bricks.''  Between last Tuesday and today, the Wise Pig has built a
+house---the ``Brick House''---out of the Tuesday bricks (using them
+all and using no other materials).  The Brick House did not exist last
+Tuesday (that is, it was not then a pile of bricks, a thing that was
+not yet a house but would become a house).  The Brick House is not,
+therefore, a mereological sum; for if it were, it would have been (it
+would have ``existed as'') a pile of bricks last Tuesday
+\citeyearpar[616]{inwagen2006}.
+\end{squote}
+
+But since the Brick House {\em is} a mereological sum, van Inwagen
+concludes that our supposition that sums can't change their parts is
+false; he claims that mereological sums {\em can} change their parts.
+
+However, I suggest that, strictly speaking, the Brick House {\em did}
+exist last Tuesday.  But last Tuesday it (the sum) did not meet the
+criteria for being referred to as a house.  Today I point to the Brick
+House and say ``last Tuesday that was just a pile of bricks.  Now it's
+a house!''  By `that' I mean the Brick House---the sum---which was a
+pile of bricks on Tuesday.  If I say ``the Brick House did not exist
+last Tuesday'' I should be taken to mean just that the Brick House did
+not meet the criteria for being referred to as `the Brick House' last
+Tuesday.
+
+\subsection{Criteria and convention}
+\label{criteria}
+Like the `identity' of groups over time, the `identity' over time of a
+given thing---like my chair---will be conventional.
+
+But this does not mean that {\em I} have the final say over how my
+chair persists through time.  The identity over time of the Supreme
+Court is conventional, but it is not up to me.  There are entrenched
+legal conventions governing the persistence of the Supreme Court.
+Likewise, for different things, different conventions will govern
+their persistence.  Recall Rosenberg's discussion of the problem with
+van Inwagen's Special Composition Question (section \ref{lessons-v}).
+He rejected the idea that there is just one way in which `material
+objects' are composed:
+
+\begin{squote}
+Microphysics explains how protons, neutrons, and electrons compose
+different species of atoms, and physical chemistry, how atoms of
+various species compose different sorts of molecules
+\citep[706]{rosenberg1993}.
+\end{squote}
+
+I think it is plausible to claim that atoms, molecules, animals,
+chairs, statues and lumps are, in fact, identical with sums.  If this
+is correct, then there is really just {\em one} way in which these
+things are composed.  But they {\em persist through time} in very
+different ways; which sum is identical with a given animal, for
+example, depends on the `conventions' of the biological sciences.
+
+\subsection{Essentialism}
+\label{essentialism}
+This theory---the second of the two possible answers I mentioned at
+the beginning of this section---is a version of {\em essentialism}.
+Essentialism is the thesis that, strictly speaking, things don't
+change their parts.  One can endorse or oppose essentialism in various
+domains.  For example, everyone is a set essentialist; nobody (as far
+as I know) claims that sets can change their parts.  But not everyone
+is a {\em mereological} essentialist.
+
+People who deny mereological essentialism are, I think, making one of
+two claims:
+
+\begin{enumerate}
+  \item They may be claiming that ordinary things like chairs are not
+    mereological sums; chairs can change their parts, so essentialism
+    {\em with regard to chairs} is false.  A philosopher who makes
+    this claim might allow that mereological sums, if there are such
+    things, cannot change their parts.
+  \item They may be claiming that mereological sums, whether or not
+    they are identical with ordinary things like chairs, can change
+    their parts.
+\end{enumerate}
+
+The first claim is probably more common (but see \citet{inwagen2006}
+for a defense of the second).  But a philosopher who makes either
+claim will reject the theory I have been building.  They will say that
+my theory flies in the face of common sense (and I made so much of
+common sense in earlier sections!).  They will say things like this:
+
+\begin{squote}
+According to [the essentialist], it is never literally correct to say
+that a thing survives a change in parts.  This is a point of massive
+departure from ordinary belief \citep[184]{sider2001}.
+\end{squote}
+
+This is more or less the argument against essentialism.  You point at
+a chair and say ``I'm supposed to believe that if that chair loses
+{\em one atom}, it's literally a different chair?''
+
+The more emphasis one places on `literally', the more plausible
+essentialism is.  ``Is it {\em literally} the same chair?  Well, it
+lost a part, so it's not {\em exactly} the same chair.''
+
+At this point the antagonist will claim that I am equivocating between
+{\em descriptive} and {\em numerical} sameness.  Of course the chair
+is {\em different}; it has lost a part and so has different
+properties.  But the question is not whether {\em the} chair is
+different; the question is whether there is a {\em different chair} in
+place of the old chair.
+
+Perhaps my intuitions are simply wrong, but I find some plausibility
+in the idea that, {\em strictly speaking}, when a chair loses a part,
+the later chair is descriptively {\em and} numerically distinct from
+the chair that possessed the part.  Even if ``that's the same chair as
+yesterday'' is literally false, the sum that yesterday satisfies the
+criteria for being the referent of ``chair'' no longer satisfies those
+criteria; a different sum that has many of the same parts now
+satisfies those criteria, and so qualifies as `the same chair'.  (How
+similar the two sums has to be is, again, a conventional matter.)
+
+Maybe I am wrong and it is true that (strictly speaking) the chair can
+lose its parts and yet remain the (numerically) same chair.  If so,
+then we must accept the mereological firmament that comes with Fine's
+theory.
+
+\section{Am I a mereological sum?}
+\label{i-sum}
+I have proposed that ordinary things like chairs and statues are
+mereological sums.  Their apparent persistence through change is a
+result of certain conventions---a chair at $t_1$ is the `same' chair
+at $t_2$ if, first, there is a sum at each time that meets our
+criteria for being a referent of `chair' and, second, either the sum
+that is the referent of `chair' at $t_1$ is the same sum that is the
+referent of `chair' at $t_2$, or the sum that was the referent of
+`chair' at $t_1$ does not meet the criteria for being the referent
+of `chair' at $t_2$ and a different sum does meet these criteria at
+$t_2$ and is sufficiently related to the first sum.  What is
+`sufficiently related' is again a conventional matter, but will
+presumably involve causal and spatiotemporal continuity.
+
+If ordinary things are sums, then are other things sums as well?  I
+will suppose that sums are `material things' as opposed to `abstract
+things' (whatever that distinction comes to), but are {\em all}
+material things sums?  If we are material things, are we therefore
+sums?
+
+% all material things are sums
+
+\subsection{All material things are sums}
+\label{material-sum}
+If we think that ordinary things are sums, and that ordinary things
+are material things, I think it is extremely plausible to conclude
+that all material things are sums.  For what else would they be?
+
+What is included under the label `material thing'?  I would include
+things like chairs, and desks, and desk lamps, and doors, and
+doorways, and houses, and gardens, and plants.  I would also include
+minuscule objects like molecules and massive objects like planets and
+galaxies.  What would these things be, if not sums?
+
+I proposed that ordinary things are sums so as to avoid the conclusion
+that there is a plurality of different kinds of ordinary things
+(statues and lumps only scratch the surface) all overlapping each
+other.  This essentialist proposal was made so as to avoid positing
+many different kinds of thing.  So anyone who accepts the essentialist
+theory should be sympathetic to the idea that all material things are
+sums.
+
+I don't have a powerful argument for this conclusion, but I don't see
+the {\em point} of supposing that all and only ordinary things are
+sums, but other material things are some different kind of object.
+
+% we are material things (animals)
+
+\subsection{We are material things}
+\label{material-beings}
+Even if the idea that all material things are sums is (or should be)
+relatively uncontroversial, the idea that {\em we} are material beings
+will not be unanimously accepted.  For it does have some unintuitive
+consequences.  
+
+First, it rules out identifying us with our mental states.  Suppose
+all my psychological characteristics---memory, personality---is
+somehow transferred to another body.  The brain in that body is
+`wiped' before my psychology is transferred, and after the operation
+my old brain is similarly `wiped'.  There is a temptation to say that
+I exist in the new body.  But saying this commits us to the claim that
+I am not a material thing, because I `left' my old material body and
+came to `inhabit' a new one:
+
+\begin{squote}
+ If I am identical with the thinking substance in which I am thus
+ placed, then I cannot be transferred {\em from} that substance to
+ another substance \citep[107]{chisholm1979}.
+\end{squote}
+
+Claiming that we are material things entails that psychological
+continuity is not a criterion of identity.  The body into which my
+psychology is transferred is not me, according to the materialist
+claim.  Psychological continuity is often taken to be {\em the}
+criterion of identity, so one might take this consequence as a
+refutation of the claim that we are material things.
+
+But if we are not material things, what are we?  The only alternative
+I see is to claim that we are immaterial minds or souls.  These
+positions seem, to me, to be more implausible than the claim that we
+are material things.  (More, of course, can be said here.)
+
+Claiming that we are material things gives rise to another question:
+what material things are we?  Are we identical with our brains, or
+with our bodies?
+
+I suggest, though somewhat tentatively, that we are identical with our
+bodies.  I agree with Peter van Inwagen on this much:
+
+\begin{squote}
+I suppose that [the objects of mental predicates]---Descartes, you,
+I---are material objects, in the sense that they are ultimately
+composed entirely of quarks and electrons.  They are, moreover, a very
+special sort of material object.  They are not brains or cerebral
+hemispheres.  They are living animals; being {\em human} animals, they
+are things shaped roughly like statues of human beings
+\citeyearpar[6]{inwagen1995}.
+\end{squote}
+
+Eric Olson has a very plausible argument for the same conclusion:
+
+\begin{enumerate}
+  \item There is a human animal sitting in your chair.
+  \item The human animal sitting in your chair is thinking. (If you
+    like, every human animal sitting there is thinking.)
+  \item You are the thinking being sitting in your chair. The one and
+    only thinking being sitting in your chair is none other than
+    you. Hence, you are that animal \citeyearpar[``8'']{olson2003a}.
+\end{enumerate}
+
+One apparent consequence of the claim that we are material human
+animals is that if my brain is removed from my body and put into
+another body, that new person is not me.  Claiming that we are
+material things required denying that psychological continuity is a
+criterion of identity; claiming that we are material human animals
+requires denying that even brain continuity is a criterion of
+identity.
+
+This may seem to be a troubling consequence, but it is much less
+troubling if we accept the essentialist theory.  If material objects
+are sums, and if we are material objects, then we are sums.  And if
+sums do not, strictly speaking, change their parts over time, then,
+like the `identity' conditions for chairs and other ordinary things,
+the `identity' conditions over time for {\em us} is conventional.
+
+% we are sums
+
+% our persistence conditions are conventional
+
+\subsection{How do I persist over time?}
+\label{person-persist}
+The idea that, strictly speaking, I don't change my parts over time
+seems crazy.  And maybe it is.  But I don't think it is obviously
+false.
+
+Someone who thinks that I do, strictly speaking, persist over time
+might say that it is obvious that I persist.  After all, I engage in
+activities that take long periods of time, I remember things from long
+ago, and I bear unique attitudes toward my past and future selves.  I
+feel pride or regret at past actions, and anticipation or apprehension
+at future ones.  How could these past and future selves not be me?
+
+One reply begins by pointing out that, whether or not we persist in a
+strict sense, the world will look the same.  I will still engage in
+activities that take time; but it will not be I who completes them.  I
+will still remember things from long ago; but it will not be I who
+experienced them.  I will bear attitudes towards past and future
+people, but those people will not, strictly speaking, be me.  But it
+will {\em seem} as if they are me, and they will meet the conventional
+criteria for being the referent of `me'.  As in the case of tables and
+chairs, there are conventional `identity' conditions for people over
+time.  Like tables and chairs, these criteria will involve causal and
+spatiotemporal continuity, but psychological continuity may also play
+a role.  For example, if by some miracle I am vaporized and
+(coincidentally) an qualitatively identical person is summoned into
+existence nearby, that person will not, strictly speaking be me.  But
+it may be agreed that the person meets the criteria for being the
+referent of `Alex'.  If this person meets these criteria, it will be
+on account of the apparent psychological continuity between us.
+
+\section{Can the essentialist theory explain why we believe what we
+  believe?}
+\label{explain-e}
+In section \ref{explain-p} I assessed whether any of the three
+`plurality' theories could explain why we held beliefs that conflicted
+with certain consequences of the theories.  The same assessement may
+be conducted with regard to the essentialist theory I have sketched in
+this section.  If the essentialist thesis is right, why do we believe
+that chairs are literally identical over time?
+
+\subsection{Why do we believe that ordinary things persist?}
+\label{why-persist}
+If we want to defend the essentialist theory, we should try to explain
+why we generally seem to think that things like chairs literally
+persist over time, and can change their parts over time as well.
+
+\section{Lessons}
+\label{lessons-e}
+In section \ref{parts} I examined three different versions of the
+`plurality thesis'; the view that there are pluralities of co-located
+objects.  In this section I offered an alternative.  I am not sure
+whether my theory or one of the plurality theses is correct, but I
+suspect that it is one or the other.  My conclusion is largely the
+same as that of Karen Bennett:
+
+\begin{squote}
+The only live options, then, are to be either a one-thinger or a
+bazillion-thinger.  We must either think that there is only one thing per
+spatio-temporal location, or else that there are lots and \emph{lots} of
+spatio-temporally coincident things \citeyearpar[358]{bennett2004}.
+\end{squote}
+
+I would prefer to be a `one-thinger' because it does not commit me to
+a `bazillion' things all in the same place.  That is not a decisive
+objection, of course.  It may well be that such an explosion is more
+plausible than certain consequences of the `one-thinger' theory.  But
+I think one of the two theories must be right.
+
+\subsection{Do we need Fine's theory at all?}
+\label{need-fine}
+I have argued that we can identify ordinary things like chairs as
+mereological sums, and we can identify things like groups as sets.  It
+is therefore not necessary to use Fine's theory of parthood to
+describe these things.  Do we need Fine's theory at all?
+
+I think the theory is still useful.  For it shows that sums and sets
+both have parts, but in different ways.  There are also sequences,
+strings, and other things produced by various composition operators.
+And there are other things that exist, like words, poems, events, and
+quantities, that have parts in other ways.  Fine's theory may help us
+define composition operators for these things, if they cannot be
+described in terms of sets and sums (which I suspect they cannot be).
+
+Fine's theory also suggests a novel way of describing temporal parts.
+He claims that not all operators are compositional; some are {\em
+  decompositional}.  He introduces the segmentation operation that
+takes partless simples and produces their `parts'---the top and
+bottom, left and right half, etc.  These `parts' are derived from the
+wholes, rather than the wholes being built up from the parts:
+
+\begin{squote}
+Let us suppose that the universe consists of physical atoms which are
+physically indivisible but of finite volume.  We might then
+distinguish between the upper and lower parts of the atom (relative to
+its orientation at a given time); and it is plausible that the atoms
+are to be taken as givens, there being no explanation of their
+identity in more basic terms, while the identity of the upper and
+lower parts of an atom is to be explained in terms of their {\em
+  being} the upper and lower parts of the atom.  Thus the account of
+the part is in terms of the whole rather than the other way around
+\citep[585]{fine2010}.
+\end{squote}
+
+Likewise, if we maintain that objects are not {\em composed} of
+temporal parts, but are `temporally indivisible', we can nonetheless
+have a temporal-segmentation operator that generates temporal `parts'
+from temporally `simple' wholes.  These parts would have theoretical
+utility; we could quantify over them without committing ourselves to
+their existence (in a `basic' sense).  This sort of derived temporal
+part might allow for a form of four-dimensionalism (the conjunction of
+universalism and the doctrine of temporal parts) that avoids the
+`spinning disc' problem, among others.
+
+So whether or not we accept the ``vast mereological firmament'' that
+Fine envisions, his theory of part is useful.
+
+\subsection{Deflationary metaphysics}
+\label{deflate}
+Kathrin Koslicki has an interesting objection to universalist theses
+such as the one I appear committed to.  Her objection amounts to this:
+if every `collection' of objects (such as the London Bridge, a
+particle in the moon, and Cal Ripkin, Jr.) is a thing in its own right
+(a sum), then metaphysics becomes uninteresting.  There is no longer
+any debate about whether chairs or dogbushes are more `real' or have a
+stronger claim to existence.  They both (obviously) exist, and the
+difference between chairs and lumpkins is not ontological but
+conceptual: `chair' is more embedded in our talk, and so chairs have
+greater importance to {\em us}.  But metaphysically, or ontologically,
+chairs and dogbushes are on the same level.  There is no sense in
+which chairs exist and lumpkins do not.
+
+In the quoted material below, Koslicki is criticizing a version of
+four-dimensionalism that Sider has previously defended.  Sider's
+position was that any collection of objects-at-times is a thing in its
+own right.  Sider calls these things `fusions'.  For example, a chair
+is a fusion of a large number of {\em temporal part} of things (wood
+molecules, or atoms, or simples).  Each thing (wood molecule, atom, or
+simple) is a fusion of {\em its} temporal parts.  Each temporal part
+of the chair is also a thing (a fusion).
+
+I take no stance on whether objects have temporal parts or rather
+`endure' through time.  Moreover, if we accept Fine's theory of parts
+then we reject the idea that there is just one composition operation;
+the operation that produces fusions is one among many.  But Koslicki's
+comments are relevant nonetheless:
+
+\begin{squote}
+There is room, in Sider's theory, for {\em some} genuine ontological
+disagreements: for example, the universalist, the nihilist and the
+holder of the intermediary position genuinely disagree over how many
+and which fusions that exist.  But the only genuine ontological
+disagreements for which there is room, in Sider's world, are ones that
+concern disagreements over `bare' fusions, so to speak.  What has
+happened to the houses, trees, people, and cars, the familiar concrete
+objects of common-sense, whose persistence this account set out to
+analyze?  There are no `deep' ontological facts as to whether a given
+fusion should count as a house or not\,\ldots
+
+[By claiming that there can be genuine ontological disputes,] Sider is
+guilty of a bit of false advertising: his account is really a way of
+saying that, at the end of the day, there is no interesting {\em
+  ontological} story to be told about the persistence of our familiar
+concrete objects of common-sense; whatever there is to say about the
+persistence of houses, trees, people and cars concerns the
+organization of our conceptual household
+\citeyearpar[124--125]{koslicki2003}.
+\end{squote}
+
+Koslicki seems to think that we ought to be able to find some
+ontological difference between ``the familiar concrete objects of
+common-sense'' and things like lumpkins or chairs-at-times.  But as I
+remarked above (section \ref{universalism}), why should what interests
+us (familiar objects like chairs) be a guide to what exists?  The
+conclusion that ``the persistence [and other properties] of houses,
+trees, people and cars concerns the organization of our conceptual
+household'' seems to be correct.
+
+However, there {\em is} an ontological difference between some things,
+if not between chairs and dogbushes.  One lesson of Kit Fine's theory
+of parts is that mereological sums are not the only kind of composite
+thing.  There are sets as well, and strings, and sequences, and
+perhaps infinitely many other types of thing.  The difference between
+a set and a sum is an ontological difference.  Within each type,
+however, we must rely on our own conceptual `scheme' to organize
+things.
+
+In section \ref{lessons-v} I considered Jay Rosenberg's claim that
+the Special Composition Question is the wrong question to be asking.
+Rosenberg's position seems to be that there is {\em no} answer to the
+Special Composition Question.  Rather, he thinks what it takes to
+`compose' something depends on what that something is---making a chair
+is not like making a pie.
+
+This insight of Rosenberg's can be connected with the insights of
+Fine's theory.  If we understand `composition' in the Special
+Composition Question to mean {\em mereological composition}, then
+Rosenberg was wrong if he held that there is no correct answer to the
+Special Composition Question.  It seems intuitively true that
+mereological composition is unrestricted.  But if take `composition'
+in the Special Composition Question to be $K$-composition---any
+composition operator at all---then Rosenberg was {\em right} that
+there is no answer.  What the application conditions are for a
+composition operator depends on {\em which} composition operation is
+being applied.  
+
+Moreover, determining the application conditions for these composition
+operators, and determining their identity conditions, and determining
+the other properties of these various operators is a task for
+metaphysics.  The field is not then so barren as Koslicki seems to
+have feared.  But it is true that many interesting questions---When
+are we willing to call something a chair, and why?  What conditions
+must be fulfilled?---are not ontological questions anymore.  They are
+questions about our ``conceptual household.''
+
+\ifstandalone
+\end{spacing}
+\bibliography{everything}
+\bibliographystyle{ChicagoReedweb}
+\fi
+\end{document}
