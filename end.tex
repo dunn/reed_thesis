@@ -1,0 +1,87 @@
+\documentclass[11pt]{article}
+\usepackage{standalone} \newif\ifstandlone \standalonetrue
+\usepackage[left=1.75in, right=1.75in, top=1.25in, bottom=1.25in]{geometry}
+\geometry{letterpaper}
+\usepackage{graphicx}
+\usepackage{enumitem}
+%\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{epstopdf}
+\usepackage{verbatim}
+\usepackage{setspace}
+\usepackage{natbib}
+\setcitestyle{aysep={}}
+\usepackage{hyperref}
+\usepackage{url}
+\synctex=1
+
+\DeclareSymbolFont{symbolsC}{U}{txsyc}{m}{n}
+\DeclareMathSymbol{\strictif}{\mathrel}{symbolsC}{74}
+\DeclareMathSymbol{\boxright}{\mathrel}{symbolsC}{128}
+
+\newenvironment{squote}{%
+\begin{spacing}{1}
+\begin{list}{}{%
+\setlength{\labelwidth}{0pt}%
+\rightmargin\leftmargin%
+}
+\item\relax
+}{%
+\end{list}%
+\end{spacing}
+}
+
+\title{The End: Oh Make it Stop}
+\author{Alexander A. Dunn}
+\begin{document}
+\ifstandalone
+\maketitle
+\begin{spacing}{1.5}
+\fi
+
+I have argued for a number of claims in the previous sections.
+
+First, debates in metaphysics such as the one I have been engaged in
+are conducted in English (or French, or German) and not in
+`Ontologese' or some other pseudo-language.  If it is `really' or
+`fundamentally' the case that there are no chairs, then it is true in
+English that there are no chairs.
+
+Second, philosophers who deny that there are chairs appear unable to
+explain why we nonetheless believe that there are chairs.  Trenton
+Merricks, who denies that there are chairs, has an explanation of why
+we believe nonetheless that there are chairs.  He claims that because
+``things arranged chairwise'' matter to us, we have introduced the
+word `chair' to refer to them; we are fooled by the singular nature of
+the word `chair' and come to think that there is some single {\em
+  thing} that we are referring to, when in fact there is not.  His
+explanation, however, is equally compatible with universalism: the
+claim that for every set of things, there is some other thing they
+compose.  And universalism is a much more plausible thesis than the
+nihilism of Merricks.
+
+Third, if we assume that universalism is true then we have a choice to
+make.  We can either adopt a `plurality' theory that posits a huge
+plurality of things (and different {\em kinds} of things), or we can
+adopt a version of {\em essentialism}, maintaining that, strictly
+speaking, things do not change their parts over time.  I have
+suggested that while both routes are defensible, the essentialist
+theory avoids some of the excesses of co-location that plague the
+plurality theories while offering some neat solutions to problems of
+personal identity over time.  However, neither solution appears to
+offer a ready answer to the mental problem of the many: how it is that
+with many mereological sums that are all equally `suitable' to be
+identified with the one and only thinking thing in a particular
+location, one and only one of those sums is a thinking thing.
+
+This thesis therefore ends with no fully-formed theory.  I have, in
+effect, offered a disjunction: either a plurality theory or an
+essentialist theory is correct.  I have my own sympathies, but I
+recognize that there is plenty of room for disagreement.
+
+\ifstandalone
+\end{spacing}
+\bibliography{everything}
+\bibliographystyle{ChicagoReedweb}
+\fi
+\end{document}

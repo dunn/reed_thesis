@@ -650,29 +650,29 @@ Are any of these conditions satisfied re lumpkins?
      - avoids duplication puzzles
      - allows conventional indecision in transfer/teleportation cases
 **** TODO visual evidence
-- [ ] if there were no chairs, our visual evidence would be different
+- [X] if there were no chairs, our visual evidence would be different
   because there would be none of _those_.
 **** TODO dilemmas
-- [ ] a third theory; things are identical with sums that can change
+- [X] a third theory; things are identical with sums that can change
   their parts (van Inwagen)?
-- [ ] if essentialism, then _either_ we are material things like
+- [X] if essentialism, then _either_ we are material things like
   chairs _or_ we are immaterial
 **** TODO sums
-- [ ] get clear on what I mean by 'sum'
-- [ ] can sums change their parts?
+- [X] get clear on what I mean by 'sum'
+- [X] can sums change their parts?
 **** TODO presuppositions
-- [ ] subsection for four-dimensionalism
+- [X] subsection for four-dimensionalism
 - [ ] subsection for eternalism
 - [ ] presentism
   - [ ] temporal operators, composition operators and definite
     descriptions
   - "the supreme court is such that it was the case that it was
-    composed of {}" is true
+    composed of {}" is true (?)
 **** TODO temporal parts
 - [ ] derivative temporal parts of people
 - [ ] group-slices that then compose groups
 **** TODO read
-- [ ] fine, "things and their parts"
+- [X] fine, "things and their parts"
 - [ ] hovda
 - [ ] fine/koslicki, _dialectica_ 2007
 ** Stroud
