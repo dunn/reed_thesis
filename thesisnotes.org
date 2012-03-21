@@ -2979,6 +2979,7 @@ it and meaning skepticism/interpretationism).
   big if!
 *** Parthood
 **** Kit Fine, "Toward a theory of part"
+# <<theory-part>>
 ***** Intro
 ***** 1. the intuitive notion of part
 > One object may be a part of another---some thunder a part of a
@@ -3038,6 +3039,88 @@ it and meaning skepticism/interpretationism).
 > one object can be a part of another (pint/gallon, letter/word, and
 > member/set); and once these cases have been granted, it is plausible
 > that there will be many more.
+**** Hovda, "Tensed mereology"
+In addition to the standard mereological terms, we are introduced to
+the notion of a "condition":
+
+> we will want a “condition” to be an open sentence that may have more
+> than one free variable, _together with a specification of a target
+> variable_. For example, we will want to consider “conditions” like
+> “y loves x”, with “x” as target. This is because we want to
+> consider, in effect, for each object that might be a value of the
+> variable “y”, the property of being a thing loved by that
+> object. The point of this may be brought out by an example. We want
+> as an instance of the plenitude principle, roughly this: that for
+> every y, if y loves at least one thing, then there is a thing b such
+> that b is a fusion of the condition (with respect to x) “y loves x”
+> (i.e., a fusion of the condition of being loved by y) (n2).
+
+Now we can define a *synchronic fusion* and a *diachronic fusion*:
+
+- synchronic fusion :: "an object b is a “synchronic fusion” of a
+     condition iff: both (1) every x that meets the condition is part
+     of b; and (2) every part of b overlaps something that meets the
+     condition."
+- diachronic fusion :: "an object b is a “diachronic fusion” of a
+     condition iff: it is always the case that b synchronically fuses
+     the condition."
+
+This _will_ get us overlapping thinkers:
+
+> For example, consider the condition of being a sitting cat. Suppose
+> that now, b synchronically fuses that condition, and c
+> diachronically fuses it. Then: we know that everything that is (now)
+> a sitting cat is (now) part of both b and c. We know that (assuming
+> parthood is transitive) every part of b now overlaps c and
+> vice-versa. We also know that if some cat began sitting yesterday,
+> and continued to sit continuously until now, then it was part of c
+> that whole time. We do not know whether it was part of b until now;
+> from what we have assumed about b, it may or may not have
+> been. Similarly, if Tibbles is now a sitting cat, but will stand up
+> in a few minutes, we know that (given that never does a standing cat
+> overlap a sitting cat) Tibbles will then cease to be a part of c. We
+> can’t infer this about b.
+
+> The key existential idea is roughly that _for any condition, it has
+> a fusion_. Intuitively, the fusion for a condition should somehow
+> gather up, but minimize. That is, it should obey these two roughly
+> stated constraints: (1) everything that satisfies the condition is
+> part of the fusion; and (2) the fusion is “the smallest” thing that
+> meets constraint (1).
+
+Diachronic fusions obviously change parts.  But diachronic parts also
+clearly lead to co-located objects (even if only temporarily).
+
+Why can't there be always co-located objects:  by stipulation,
+apparently
+
+> Instead of saying that it is always true that any mutual parts are
+> identical, it will say, roughly, that any things that are always
+> mutual parts are identical.
+
+(e1′) ∀x∀y(Always[∀z(z ≤ x ↔ z ≤ y)]→x=y)
+(e2′) ∀x∀y(Always[∀z(z ◦ x ↔ z ◦ y)]→x=y)
+
+> Thus we retain the idea that different objects must somehow have
+> non-trivial differences in “spread;” but we allow that that
+> difference may show up only in their past or future spreads. This
+> accords nicely, I suggest, with the idea that a fusion for a
+> condition is something that is _always_ spread across reality in a
+> way that matches the condition. Further, it gives us a version of
+> flatness: that no non-empty condition has two distinct diachronic
+> fusions.
+
+Diachronic fusions obviously change parts.  But diachronic parts also
+clearly lead to co-located objects (even if only temporarily).
+
+> (But, as we have seen, on my suggestion, composition is mandated to
+> be flat only with respect to diachronic fusion; synchronic fusion
+> can easily fail to be flat.)
+
+**** Confused
+Is 'condition' used to refer to the _condition_ or the the objects
+satisfying the condition in a phrase like "no non-empty condition has
+two distinct diachronic fusions"?
 *** Coincident objects
 **** Bennett, "Coincidence and the grounding problem"
 ***** 1. the grounding problem
@@ -3794,6 +3877,7 @@ car:
 > unconceptual, and ontologically limited in their nature that we can
 > attain a proper understanding of what they are (74).
 **** "Toward a theory of part"
+[[theory-part]]
 ** The problem of the many
 *** SEP Entry
 The paradox arises because in the story as told the following eight
