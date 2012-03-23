@@ -673,8 +673,18 @@ Are any of these conditions satisfied re lumpkins?
 - [ ] group-slices that then compose groups
 **** TODO read
 - [X] fine, "things and their parts"
-- [ ] hovda
+- [X] hovda
 - [ ] fine/koslicki, _dialectica_ 2007
+*** <2012-03-23 Fri>
+**** TODO pre
+- [ ] does Thomson's P @ T three-dimensionalism lead to co-location
+- [ ] formal problems for Fine; supplementation and symmetry
+- [ ] are only physical things sums?
+  - there are also sets
+  - and also words?
+  - how many kinds?
+- [ ] absolutely general composition operator
+  - does this lead to co-location? (yes)
 ** Stroud
 *** The Quest for Reality
 <<quest>>
@@ -3878,6 +3888,28 @@ car:
 > attain a proper understanding of what they are (74).
 **** "Toward a theory of part"
 [[theory-part]]
+**** Paul's talk
+Fine has to deny supplementation and transitivity (?) for physical
+things; but don't we too, just not for them?
+
+- (Summation operator applies only to physical things)
+  - posit as few operators as possible
+  - just posit the absolutely unrestricted operator?
+
+How does he deal with anti-symmetry?
+***** structuralism
+to believe in Fs (structurally) is to hold that
+- what matters about Fs is their structural relations, not identites
+- what matters is the 'roles they play'
+- either we think of Fs as being roles or we can reduce Fs to some
+  other things that are roles
+***** fine's pluralism
+Problem for Fine if things' parts descend infinitely
+
+If one operator can be reduced to another, should we believe in both?
+(Problems of inter-reducibility; sequences.)
+
+Structuralism about operators, since any one can 'simulate' the others
 ** The problem of the many
 *** SEP Entry
 The paradox arises because in the story as told the following eight
