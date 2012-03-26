@@ -697,11 +697,11 @@ Are any of these conditions satisfied re lumpkins?
 - [ ] application conditions and co-located thinkers
 **** TODO research 
 - [ ] builders and time
+- [ ] connections between new and old Fine
 - [X] n-ary properties and relations (relations as fixed with plural
   variables)
   - problems for polyadic relations and equivalent propositions
   - does Fine think in terms of different fixed polyadic relations
-- [ ] connections between new and old Fine
 - [X] qua objects and 'lifting' or 'type shifting'; ambiguity of
   'passenger', 'judge' etc
   - F*
