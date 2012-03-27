@@ -685,6 +685,10 @@ Are any of these conditions satisfied re lumpkins?
   - how many kinds?
 - [ ] absolutely general composition operator
   - does this lead to co-location? (yes)
+- [X] literal truth
+  - 'restricted quantification' is just false; e.g., "there is no
+    beer"
+  - Sider's 'fundamental quantifier' is just the quantifier
 **** TODO kinds and parts
 - [X] fine's K-parthood relation and its relevance to the co-location
   of kinds of things
