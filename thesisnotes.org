@@ -714,6 +714,10 @@ Are any of these conditions satisfied re lumpkins?
   'passenger', 'judge' etc
   - F*
     - better treatment using definite descriptions?
+- [ ] how _does_ paul's theory deal with co-located thinkers?
+  - because there are no co-located _diachronic_ fusions
+- [ ] why do we need generative applications in the argument for many
+  kinds?
 **** TODO mereology
 - [X] van Inwagen and the essentialist argument; different things as
   the sum of A + B at different times
