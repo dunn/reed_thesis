@@ -2,13 +2,8 @@
 \usepackage[left=1.75in, right=1.75in, top=1.25in, bottom=1.25in]{geometry}
 \geometry{letterpaper}
 \usepackage{graphicx}
-%\usepackage{xyling}
-%\usepackage{tipa}
-%\usepackage{exaccent}
-%\usepackage{txfonts}
-%\usepackage{pxfonts}
 \usepackage{enumitem}
-%\usepackage{amssymb}
+\usepackage{amssymb}
 \usepackage{amsmath}
 \usepackage{epstopdf}
 \usepackage{setspace}
@@ -415,17 +410,15 @@ respect to $x$) ``$y$ loves $x$'' (i.e., a fusion of the condition of
 being loved by $y$) \citeyearpar[??n2]{hovda2011}.
 \end{squote}
 
-With this notion in mind, Hovda provides two kinds of fusions (sums) to
-replace classical mereological fusions (sums):
+With this notion in mind, Hovda replaces classical mereological sums
+with `diachronic fusions':
 
 \begin{description}
-  \item[Synchronic fusion] An object $b$ is a ``synchronic fusion'' of
-    a condition iff: both (1) every $x$ that meets the condition is
-    part of $b$; and (2) every part of $b$ overlaps something that
-    meets the condition.
   \item[Diachronic fusion] An object $b$ is a ``diachronic fusion'' of
-    a condition iff: it is always the case that $b$ synchronically
-    fuses the condition \citeyearpar[??]{hovda2011}.
+    a condition if and only if it is always the case that (1) every
+    $x$ that meets the condition is part of $b$; and (2) every part of
+    $b$ overlaps something that meets the condition
+    \citeyearpar[??]{hovda2011}.
 \end{description}
 
 Like Fine, Hovda takes composition to be unrestricted: ``every
@@ -434,26 +427,42 @@ suitable iff it is not always empty; i.e., it is suitable iff at some
 time, at least one thing satisfies it)'' \citeyearpar[??]{hovda2011}.
 Not only does every suitable condition have a diachronic fusion, but
 ``it is always the case that every suitable condition has a diachronic
-fusion'' \citeyearpar[??]{hovda2011}.
+fusion'' \citeyearpar[??]{hovda2011}.  
 
-\subsection{Synchronic fusions: a tentative gloss}
-\label{synch}
-Fine's theory of embodiments included a postulate that the relation or
-property that holds of the other parts of a thing is itself a part of
-thing.  The sums produced by synchronic and diachronic fusions, on the
-other hand, do not have the condition as a part.  This is an advantage
-of the theory of tensed mereology.  However, if conditions are not
-parts of things, then can we distinguish fusions of different
-conditions if those conditions apply to the same things?  For example,
-when Tibbles the cat is standing up, the synchronic fusion of the
-condition of being Tibbles---call this $x$---and synchronic fusion of
-the condition of being Tibbles standing up---call this $y$---will
-apply to the same things.  It appears, then, that $x$ and $y$ share
-all the same parts.  This may not seem troubling initially, but there
-is a common assumption in mereology to the effect that if everything
-that overlaps one thing overlaps another thing, then the first thing
-is part of the second.  This is formalized as {\em strong
-  supplementation}:
+In other words,
+
+\begin{itemize}
+  \item For every condition $K$,
+  \item if it is ever the case that something satisfies $K$, then
+  \item there is exactly one thing $b$ such that at at any time $t$
+    during which anything satisfies $K$, all and only the things that
+    satisfy $K$ at $t$ are parts of $b$ at $t$.
+\end{itemize}
+
+This has the welcome consequence that there are no two things that are
+{\em always} co-located.  However, it does mean that there will be
+very many things that are co-located at some time or other, and this
+may cause problems.  For
+
+\begin{squote}
+consider a (diachronic) fusion of the condition on $x$ that ``($x$ is
+Socrates and Socrates is sitting) or ($x$ is Plato and Socrates is not
+sitting).''  Suppose $\beta$ is such a fusion.  Then, when Socrates
+and Plato are sitting at dinner, $\beta$ exists and it should hold
+(then) that everything that overlaps Socrates overlaps $\beta$ and
+vice-versa.  By strong supplementation, Socrates and $\beta$ then bear
+$\leq$ to one another.  By anti-symmetry, they are then identical.
+But later, when Socrates stands, $\beta$ will then (by similar
+reasoning) be identical with Plato, yet Socrates won’t be identical
+with Plato, so Socrates and $\beta$ are then non-identical.  I take
+this result to be unacceptable: once identical, always identical,
+certainly if ``both'' exist \citeyearpar[??]{hovda2011}.
+\end{squote}
+
+Strong supplementation is a common assumption in mereology to the
+effect that if everything that overlaps one thing overlaps another
+thing, then the first thing is part of the second.  It may be
+formalized as:
 
 \begin{displaymath}
 \forall x \forall y ( \forall z ( z \circ x \rightarrow z \circ y )
@@ -462,72 +471,15 @@ is part of the second.  This is formalized as {\em strong
 (Here `$x \circ y$' means `$x$ overlaps $y$' and `$x \leq y$' means
 `$x$ is part of $y$'.)
 
-Since everything that overlaps $x$ overlaps $y$ (they share all thier
-parts), $x$ is a part of $y$.  And since everything that overlaps $y$
-overlaps $x$, $y$ is a part of $x$.  Another common assumption is that
-if two things are parts of each other, it follows that they are really
-the {\em same thing}; this is formalized as {\em anti-symmetry}:
+Anti-symmetry is the assumption that if two things are parts of each
+other, it follows that they are really the {\em same thing}:
 
 \begin{displaymath}
 \forall x \forall y ( ( x \leq y \wedge y \leq x ) \rightarrow x = y )
 \end{displaymath}
 
-If we adopt both these assumptions, then $x$ is the fusion of the
-condition of being Tibbles {\em and} the fusion of the condition of
-being Tibbles standing up (as is $y$, since $x = y$).
-
-When discussing in section \ref{change} whether or not mereological
-sums (in the classical sense) can change their parts, I made two
-assumptions.  First, I assumed that if at some time $t$ there is a sum
-of some things $A$ and $B$, then if at any other time $t^{\prime}$
-there is a sum of those same things $A$ and $B$, {\em then} the sum of
-$A$ and $B$ at $t$ is identical to the sum of $A$ and $B$ at
-$t^{\prime}$.  Second, I assumed universalism; that for any (physical)
-things, there is something composed of them.
-
-If these two assumptions are true of synchronic fusions, then it
-follows that synchronic fusions, like classical mereological sums,
-cannot change their parts.  (The assumptions may require a slight
-rewording.  Replace `sum' with `synchronic fusion' and rewrite the
-second assumption to read ``for any condition at any time, there is a
-synchronic fusion of that condition at that time''.)
-
-To see why this is so, suppose that $x$ is the synchronic fusion of
-the condition of being Tibbles at $t_1$.  Now suppose that, also at
-$t_2$, $y$ is the synchronic fusion of the condition of being all of
-Tibbles except for his whiskers.  Since $x$ and $y$ have different
-parts, they are not the same thing ($x \neq y$).
-
-Now imagine that at some later time $t_2$, Tibbles' whiskers fall out.
-Let us use `$z$' to designate the synchronic fusion of the condition
-of being Tibbles at $t_2$.  $z$ does not include Tibbles' whiskers;
-the whiskers are no longer parts of Tibbles.  But notice that there is
-also at $t_2$ the synchronic fusion of the condition of being all of
-Tibbles except for his whiskers; call that `$w$'.  Now we can see that
-$z$ and $w$ have all the same parts, and are therefore identical; $z =
-w$.  Given our first assumption, $z$ ($= w$) is the same thing as $y$;
-$z = w = y$.  Since $y \neq x$, the synchronic fusion of the condition
-of being Tibbles at $t_1$ is {\em not} the synchronic fusion of the
-condition of being Tibbles at $t_2$.  The object $x$ that {\em was}
-the synchronic fusion of the condition of being Tibbles at $t_1$ is
-now a scattered object, composed of Tibbles and the remains of his
-whiskers.
-
-However, if synchronic fusions cannot change their parts, then neither
-can diachronic fusions.  For according to Hovda's definition, a thing
-$b$ is a diachronic fusion of some condition just in case ``it is
-always the case that $b$ synchronically fuses the condition''
-\citeyearpar[??]{hovda2011}.  The theory of tensed mereology, however,
-was developed in part to explain how things {\em can} change their
-parts.  One of the assumptions made above, therfore, must be
-abandoned.
-
-\subsection{Diachronic fusions}
-\label{diach}
-Since diachronic fusions can change their parts over time, one of the
-assumptions made above must be withdrawn.  Hovda chooses to deny {\em
-  anti-symmetry}, the principle that if two things are parts of each
-other, then they are really the same thing:
+One of these assumptions must be withdrawn.  Hovda chooses to deny
+anti-symmetry:
 
 \begin{squote}
 Instead of saying that it is always true that any mutual parts are
@@ -535,6 +487,39 @@ identical, [we] will say, roughly, that any things that are always
 mutual parts are identical \citep[??]{hovda2011}.
 \end{squote}
 
+The rejection of anti-symmetry helps to show why Hovda's theory will
+result in there being, at particular times, many co-located objects.
+Is this a problem?
+
+\subsection{Problems with the third theory}
+\label{problems2}
+Hovda's tensed mereology avoids the conclusion that conditions or
+relations are parts of things, but like Fine's theory of embodiments,
+it produces a huge number of things.
+
+%%%%%%
+
+Fortunately, however, the theory does {\em not} produce co-located (or
+even overlapping) thinkers.  One might object that the object that
+fuses the condition of being a cat surely thinks.  How, then can the
+object that fuses the condition of being a sitting cat {\em not}
+think?  Like Fine in \ref{problems1}, Hovda can reply that since the
+fusion of the condition of being a sitting cat is not the kind of
+thing that can think, since it ceases to exist whenever the cat stands
+up, then re-emerges when the cat sits down.  And since there are no
+diachronic fusions that always share the same parts, the there can be
+no thinkers co-located with the cat.
+
+\subsection{Onward}
+\label{hovda-o}
+These qualms by no means show that these theories are wrong.  But I
+would prefer a theory that does not postulate such a bizarre
+plurality.  
+
+%%%%%%%%%
+
+
+%%%%
 Suppose now that $b$ is the diachronic fusion of the condition of
 being Tibbles.  In other words, it is always the case that $b$
 synchronically fuses the condition of being Tibbles.  At all times
@@ -611,27 +596,3 @@ momentarily.
 %% this set-theoretic formulation, it is assumed that for every set,
 %% there is one and only one thing that fuses that set.
 
-\subsection{Problems with the third theory}
-\label{problems2}
-Hovda's tensed mereology avoids the conclusion that conditions or
-relations are parts of things, but like Fine's theory of embodiments,
-it produces a huge number of things.
-
-%%%%%%
-
-Fortunately, however, the theory does {\em not} produce co-located (or
-even overlapping) thinkers.  One might object that the object that
-fuses the condition of being a cat surely thinks.  How, then can the
-object that fuses the condition of being a sitting cat {\em not}
-think?  Like Fine in \ref{problems1}, Hovda can reply that since the
-fusion of the condition of being a sitting cat is not the kind of
-thing that can think, since it ceases to exist whenever the cat stands
-up, then re-emerges when the cat sits down.  And since there are no
-diachronic fusions that always share the same parts, the there can be
-no thinkers co-located with the cat.
-
-\subsection{Onward}
-\label{hovda-o}
-These qualms by no means show that these theories are wrong.  But I
-would prefer a theory that does not postulate such a bizarre
-plurality.  
