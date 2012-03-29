@@ -698,8 +698,8 @@ Are any of these conditions satisfied re lumpkins?
   - Then (perhaps) for some Eps{i},Eps{j} Eps{i} neq Eps{j} and x =
     Eps{i} and y = Eps{j}  (generative applications?)
   - [X] more at the beginning of 4.5.5
-- [ ] what does Fine think builds us?
-- [ ] application conditions and co-located thinkers
+- [X] what does Fine think builds us?
+- [X] application conditions and co-located thinkers
 **** TODO research 
 - [X] fine, fine, hovda
   - [X] builders and time
@@ -725,6 +725,11 @@ Are any of these conditions satisfied re lumpkins?
 - [X] paul's theory; currently co-located synchronic fusions are
   distinguished by reference to past and future extensions of their
   conditions
+*** <2012-03-30 Fri>
+**** questions for paul
+1. what are synchronic fusions and how do they persist over time?
+2. are diachronic fusions identical to synchronic fusions?  are there
+   _two_ kinds of things, or just one?
 ** Stroud
 *** The Quest for Reality
 <<quest>>
