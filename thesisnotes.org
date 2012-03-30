@@ -726,6 +726,10 @@ Are any of these conditions satisfied re lumpkins?
   distinguished by reference to past and future extensions of their
   conditions
 *** <2012-03-30 Fri>
+**** TODO draft
+- [ ] Fine's 'co-locations' aren't really co-located (either because
+  they have different parts (relations) or because they have parts in
+  different ways)
 **** questions for paul
 1. what are synchronic fusions and how do they persist over time?
 2. are diachronic fusions identical to synchronic fusions?  are there
