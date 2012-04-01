@@ -730,10 +730,39 @@ Are any of these conditions satisfied re lumpkins?
 - [ ] Fine's 'co-locations' aren't really co-located (either because
   they have different parts (relations) or because they have parts in
   different ways)
+- [-] restricted quantifiers
+  - [ ] beer isn't just abducted, it is _destroyed!_
+  - [X] spell out the context-meaning example; "first utterance meant p,
+    last q"
+  - [ ] connection with van inwagen
+  - [ ] implicatures?
+- [ ] K-part and operators
+  - part of the logic of "\sum (...)" that "\sum(...)" refers to at
+    most one thing---like a function symbol in standard first-order
+    logic
+    - theorem: VxVyVz(z=f(z) and y=f(z) -> x=y)
+  - suppose a, b, ... , e are all and only the K-parts of x;
+    it does not follow (?) that for some operator \sum_i x=\sum_i (a,
+    b, ..., e)
+  - for some xs
+  - proper K-part?  Simple K-part?
+  - complete geneology of 'co-located' objects
+    - fusions can have different geneologies
+- [X] paul's paper
+  - all and only -> overlap clause
+- [ ] intro section 4
+  - co-located people vs objects
 **** questions for paul
 1. what are synchronic fusions and how do they persist over time?
 2. are diachronic fusions identical to synchronic fusions?  are there
    _two_ kinds of things, or just one?
+**** TODO essentialism
+- [ ] historical precedent
+- [ ] chisholm's entia successiva
+- [ ] sider's stages
+**** TODO 'new' content
+- [ ] more of an argument for the disjunction (plurality or
+  essentialism)
 ** Stroud
 *** The Quest for Reality
 <<quest>>
