@@ -761,7 +761,7 @@ Are any of these conditions satisfied re lumpkins?
 **** TODO 'new' content
 - [ ] more of an argument for the disjunction (plurality or
   essentialism)
-  - if universalism, then there are things like statues and lumps
+  - if universalism, then do things change their parts?
   - if things change their parts, then either 4D or co-location
   - if neither 4D nor co-location, then essentialism!
 ** Stroud
