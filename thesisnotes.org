@@ -754,7 +754,7 @@ Are any of these conditions satisfied re lumpkins?
 - [X] intro section 4
   - co-located people vs objects
 **** TODO essentialism
-- [ ] historical precedent
+- [X] historical precedent
   - hume dialogues p184
 - [ ] chisholm's entia successiva
 - [ ] sider's stages
