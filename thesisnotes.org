@@ -764,6 +764,26 @@ Are any of these conditions satisfied re lumpkins?
   - if universalism, then do things change their parts?
   - if things change their parts, then either 4D or co-location
   - if neither 4D nor co-location, then essentialism!
+*** <2012-03-09 Mon>
+**** TODO literal
+- [ ] does bach talk about quantifier restriction?
+- [ ] set membership
+  - [ ] temperature rising; make it more precise (x will be referent
+    of 's' and y is referent of 's' and x is greater than y)
+  - [ ] same for supreme court diversity
+**** TODO structure
+- [ ] how can I keep the stuff on the Supreme Court?
+- [ ] run the new arg twice
+  - [ ] groups
+  - [ ] sums
+  - but for groups, co-location is initially more plausible than
+    unrestricted composition; so: if co-location then (?)
+- [ ] whither common sense?
+  - [ ] common sense and systematicity
+**** TODO change parts
+- [ ] van Inwagen's argument against change assumes flatness?
+- [ ] four-dimensional
+- [ ] part-whole bridge from 'no co-location' to 'flatness'
 ** Stroud
 *** The Quest for Reality
 <<quest>>
