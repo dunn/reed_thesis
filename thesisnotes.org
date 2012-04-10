@@ -767,10 +767,10 @@ Are any of these conditions satisfied re lumpkins?
 *** <2012-03-09 Mon>
 **** TODO literal
 - [ ] does bach talk about quantifier restriction?
-- [ ] set membership
-  - [ ] temperature rising; make it more precise (x will be referent
+- [X] set membership
+  - [X] temperature rising; make it more precise (x will be referent
     of 's' and y is referent of 's' and x is greater than y)
-  - [ ] same for supreme court diversity
+  - [X] same for supreme court diversity
 **** TODO structure
 - [ ] how can I keep the stuff on the Supreme Court?
 - [ ] run the new arg twice
@@ -780,10 +780,20 @@ Are any of these conditions satisfied re lumpkins?
     unrestricted composition; so: if co-location then (?)
 - [ ] whither common sense?
   - [ ] common sense and systematicity
+***** new outline?
+- standard mereology
+  - things change parts?
+  - assumptions; which to deny?
+- four-dimensionalism?
+  - problems
+  - is it really change?
+- the co-location theories
+  - their problems
+- do we need change?
 **** TODO change parts
-- [ ] van Inwagen's argument against change assumes flatness?
-- [ ] four-dimensional
-- [ ] part-whole bridge from 'no co-location' to 'flatness'
+- [X] van Inwagen's argument against change assumes flatness?
+- [ ] four-dimensional  (is it really change?)
+- [X] part-whole bridge from 'no co-location' to 'flatness'
 ** Stroud
 *** The Quest for Reality
 <<quest>>
