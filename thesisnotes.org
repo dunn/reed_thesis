@@ -773,11 +773,15 @@ Are any of these conditions satisfied re lumpkins?
   - [X] same for supreme court diversity
 **** TODO structure
 - [ ] how can I keep the stuff on the Supreme Court?
-- [ ] run the new arg twice
+- [-] run the new arg twice
   - [ ] groups
-  - [ ] sums
+  - [X] sums
   - but for groups, co-location is initially more plausible than
     unrestricted composition; so: if co-location then (?)
+  - [ ] how should essentialism.tex be structured?
+    - sums then sets?
+    - or should we re-introduce groups in between part.tex and
+      essential.tex?
 - [ ] whither common sense?
   - [ ] common sense and systematicity
 ***** new outline?
