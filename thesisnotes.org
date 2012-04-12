@@ -772,18 +772,18 @@ Are any of these conditions satisfied re lumpkins?
     of 's' and y is referent of 's' and x is greater than y)
   - [X] same for supreme court diversity
 **** TODO structure
-- [ ] how can I keep the stuff on the Supreme Court?
-- [-] run the new arg twice
-  - [ ] groups
+- [X] how can I keep the stuff on the Supreme Court?
+- [X] run the new arg twice
+  - [X] groups
   - [X] sums
   - but for groups, co-location is initially more plausible than
     unrestricted composition; so: if co-location then (?)
-  - [ ] how should essentialism.tex be structured?
+  - [X] how should essentialism.tex be structured?
     - sums then sets?
     - or should we re-introduce groups in between part.tex and
       essential.tex?
-- [ ] whither common sense?
-  - [ ] common sense and systematicity
+- [X] whither common sense?
+  - [X] common sense and systematicity
 ***** new outline?
 - standard mereology
   - things change parts?
@@ -796,7 +796,7 @@ Are any of these conditions satisfied re lumpkins?
 - do we need change?
 **** TODO change parts
 - [X] van Inwagen's argument against change assumes flatness?
-- [ ] four-dimensional  (is it really change?)
+- [X] four-dimensional  (is it really change?)
 - [X] part-whole bridge from 'no co-location' to 'flatness'
 ** Stroud
 *** The Quest for Reality
