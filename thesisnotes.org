@@ -814,6 +814,14 @@ Are any of these conditions satisfied re lumpkins?
     the function (we don't refer _to_ the function)?
 - [ ] CHISHOLM
 - [ ] temporal operators and hierarchies
+***** outline
+1. set identity
+2. how to talk about sets
+  - sider's counterparts
+  - chisholm's entia successiva
+  - functions!
+3. sum identity
+4. how to talk about sums
 ** Stroud
 *** The Quest for Reality
 <<quest>>
