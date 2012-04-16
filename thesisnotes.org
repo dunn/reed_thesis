@@ -800,9 +800,9 @@ Are any of these conditions satisfied re lumpkins?
 - [X] part-whole bridge from 'no co-location' to 'flatness'
 *** <2012-04-13 Fri>
 **** TODO conventions
-- [ ] sider's temporal counterparts applied to essentialism
-  - [ ] 'chair-counterpart' relation
-  - [ ] names for things and sortal conventions
+- [-] sider's temporal counterparts applied to essentialism
+  - [X] 'chair-counterpart' relation
+  - [X] names for things and sortal conventions
   - [ ] "if 'N' is a name for a chair, then (if 'N' refers to x at t,
     'N is F at t2' is true iff there is exactly one (fission?)
     chair-counterpart of x at t2 and it is F)"
@@ -812,7 +812,7 @@ Are any of these conditions satisfied re lumpkins?
     'persisting chair'
   - [ ] persisting-chair-functions?  what we refer to is determined by
     the function (we don't refer _to_ the function)?
-- [ ] CHISHOLM
+- [X] CHISHOLM
 - [ ] temporal operators and hierarchies
 ***** outline
 1. set identity
