@@ -803,7 +803,7 @@ Are any of these conditions satisfied re lumpkins?
 - [-] sider's temporal counterparts applied to essentialism
   - [X] 'chair-counterpart' relation
   - [X] names for things and sortal conventions
-  - [ ] "if 'N' is a name for a chair, then (if 'N' refers to x at t,
+  - [X] "if 'N' is a name for a chair, then (if 'N' refers to x at t,
     'N is F at t2' is true iff there is exactly one (fission?)
     chair-counterpart of x at t2 and it is F)"
   - [ ] sider's conventionalism and the ship of theseus
