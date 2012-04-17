@@ -679,7 +679,7 @@ Are any of these conditions satisfied re lumpkins?
 **** TODO pre
 - [X] does Thomson's P @ T three-dimensionalism lead to co-location
 - [ ] formal problems for Fine; supplementation and symmetry
-- [ ] are only physical things sums?
+- [X] are only physical things sums?
   - there are also sets
   - and also words?
   - how many kinds?
@@ -727,7 +727,7 @@ Are any of these conditions satisfied re lumpkins?
   conditions
 *** <2012-03-30 Fri>
 **** TODO draft
-- [ ] Fine's 'co-locations' aren't really co-located (either because
+- [X] Fine's 'co-locations' aren't really co-located (either because
   they have different parts (relations) or because they have parts in
   different ways)
 - [-] restricted quantifiers
@@ -756,10 +756,10 @@ Are any of these conditions satisfied re lumpkins?
 **** TODO essentialism
 - [X] historical precedent
   - hume dialogues p184
-- [ ] chisholm's entia successiva
+- [X] chisholm's entia successiva
 - [ ] sider's stages
 **** TODO 'new' content
-- [ ] more of an argument for the disjunction (plurality or
+- [X] more of an argument for the disjunction (plurality or
   essentialism)
   - if universalism, then do things change their parts?
   - if things change their parts, then either 4D or co-location
@@ -807,10 +807,10 @@ Are any of these conditions satisfied re lumpkins?
     'N is F at t2' is true iff there is exactly one (fission?)
     chair-counterpart of x at t2 and it is F)"
   - [ ] sider's conventionalism and the ship of theseus
-- [ ] what does the essentialist _mean_?
+- [-] what does the essentialist _mean_?
   - [ ] what is the relation between x at t and y at t2 (the
     'persisting chair'
-  - [ ] persisting-chair-functions?  what we refer to is determined by
+  - [X] persisting-chair-functions?  what we refer to is determined by
     the function (we don't refer _to_ the function)?
 - [X] CHISHOLM
 - [ ] temporal operators and hierarchies
