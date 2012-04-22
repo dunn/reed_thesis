@@ -824,17 +824,17 @@ Are any of these conditions satisfied re lumpkins?
 4. how to talk about sums
 *** <2012-04-20 Fri>
 **** TODO meaning and truth
-- [ ] Sider's temporal counterpart
-  - [ ] sider's two senses of 'it existed'; stages (as sider himself
+- [X] Sider's temporal counterpart
+  - [X] sider's two senses of 'it existed'; stages (as sider himself
     says) exist only momentarily, but stages 'existed' in virtue of
     past counterparts
     - why should we suppose that 'exist' is ambiguous?  why not
       suppose that sider presents his theory using 'exist' in literal
       sense and uses 'exist' non-literally when doing counterpart
       talk?
-  - [ ] does his truth-condition argument commit him to a claim about
+  - [X] does his truth-condition argument commit him to a claim about
     meaning?
-  - [ ] is that claim "ted was a boy" means "ted has a
+  - [X] is that claim "ted was a boy" means "ted has a
     stage-counterpart..."?
 - [ ] fundamental quantifiers and funny semantics
 - [ ] humphrey objection
@@ -849,6 +849,7 @@ Are any of these conditions satisfied re lumpkins?
     their utterances of the definition
   - [ ] work through chisholm's 'paraphrases' more carefully
   - [ ] equivalence classes?
+  - [ ] can we fit chisholm into a serious presentist framework?
 **** TODO functions
 - [ ] serious presentism; things can only stand in relations if they
   exist
