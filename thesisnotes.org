@@ -841,15 +841,15 @@ Are any of these conditions satisfied re lumpkins?
   - representation
   - me against sider; parallel with kripke against lewis
 **** TODO chisholm
-- [ ] chisholm's definitions seem to suggest that entia successiva are
+- [-] chisholm's definitions seem to suggest that entia successiva are
   _things_
-  - [ ] should we take chisholm to be giving us 'loose' definitions,
+  - [X] should we take chisholm to be giving us 'loose' definitions,
     such that 'x constitutes a successive table...' doesn't actually
     mean the definiendum; we should take _speakers_ to mean it by
     their utterances of the definition
-  - [ ] work through chisholm's 'paraphrases' more carefully
+  - [X] work through chisholm's 'paraphrases' more carefully
   - [ ] equivalence classes?
-  - [ ] can we fit chisholm into a serious presentist framework?
+  - [X] can we fit chisholm into a serious presentist framework?
 **** TODO functions
 - [ ] serious presentism; things can only stand in relations if they
   exist
