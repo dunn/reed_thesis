@@ -856,6 +856,11 @@ Are any of these conditions satisfied re lumpkins?
 - [ ] does the functional approach actually solve the eternalism
   problem?
 - [ ] can chisholm's theory
+*** <2012-04-23 Mon>
+**** TODO leftovers
+- [ ] annotations
+  - [ ] hume
+  - [ ] other marks?
 ** Stroud
 *** The Quest for Reality
 <<quest>>
