@@ -863,7 +863,7 @@ Are any of these conditions satisfied re lumpkins?
   - [X] other marks?
 **** TODO meaning
 - [ ] hirsch and knowledge of meaning
-- [ ] ontologese _is_ intelligible with a truth-conditional theory of
+- [X] ontologese _is_ intelligible with a truth-conditional theory of
   meaning
 **** TODO universalism
 - [ ] discovering that our terms refer to 'loose unities'
