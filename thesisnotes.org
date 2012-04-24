@@ -858,9 +858,30 @@ Are any of these conditions satisfied re lumpkins?
 - [ ] can chisholm's theory
 *** <2012-04-23 Mon>
 **** TODO leftovers
-- [ ] annotations
-  - [ ] hume
-  - [ ] other marks?
+- [X] annotations
+  - [X] hume
+  - [X] other marks?
+**** TODO meaning
+- [ ] hirsch and knowledge of meaning
+- [ ] ontologese _is_ intelligible with a truth-conditional theory of
+  meaning
+**** TODO universalism
+- [ ] discovering that our terms refer to 'loose unities'
+- [ ] we 'chunk' things together and assign them names; we then
+  believe that these things exist; but the things we don't chunk
+  aren't any different
+- [ ] link up to 'metaphysically significant' argument in 2.8
+**** TODO parts
+- [X] rigid embodiments might well be co-located (if relations aren't
+  located in space)
+- [X] conditions do not give the essence of diachronic fusions
+**** TODO presentism
+- [ ] WAS(x is F in 1900) = WAS_1900(x is F)?
+- [ ] timeless truth: 'x is F in 1900' <-> A(x is F in 1900)?
+- [ ] hovda on tenser vs parameterist
+- [ ] A(it is 1900 -> x is F)
+- [ ] chisholm's def 2 and clause (b)
+- [ ] nonserious presentism?
 ** Stroud
 *** The Quest for Reality
 <<quest>>
