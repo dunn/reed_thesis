@@ -870,7 +870,7 @@ Are any of these conditions satisfied re lumpkins?
 - [ ] we 'chunk' things together and assign them names; we then
   believe that these things exist; but the things we don't chunk
   aren't any different
-- [ ] link up to 'metaphysically significant' argument in 2.8
+- [X] link up to 'metaphysically significant' argument in 2.8
 **** TODO parts
 - [X] rigid embodiments might well be co-located (if relations aren't
   located in space)
