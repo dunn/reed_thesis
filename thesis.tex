@@ -209,16 +209,14 @@ objects, or one that denies that things can change their parts.
 %	\setcounter{chapter}{4}
 %	\setcounter{section}{0}
 	
-%  \backmatter % backmatter makes the index and bibliography appear
+  \backmatter % backmatter makes the index and bibliography appear
               % properly in the t.o.c...
 %% \pagestyle{fancy}
-%% \fancyhead[CE]{\textit{References}}
-%% \fancyhead[CO]{\textit{References}}
+\fancyhead[CE]{\textit{References}}
+\fancyhead[CO]{\textit{References}}
 %% \renewcommand{\headrulewidth}{0.0pt}
-
 \bibliographystyle{chicago}
-\bibliography{everything}
+\bibliography{everything}\newpage
 
 \end{spacing}
-% Finally, an index would go here\,\ldots\,but it is also optional.
 \end{document}
