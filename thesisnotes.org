@@ -1,4 +1,116 @@
 #+TITLE: Thesis notes
+* orals
+** questions
+*** who cares?
+at first my aim was simply to show that the nihilist _must_ be wrong.
+I didn't think 'are there chairs?' was even an open question; the only
+reason I was interested in the debate surrounding it was to figure out
+where the nihilists went wrong.  at first it was more of an
+intellectual exercise than anything else.  but since then, and
+especially since thinking more about literal and non-literal truth,
+I've become more sympathetic with the nihilist position.  If it's
+literally false that chairs can change their parts or that the Supreme
+Court was formed in 1789, then it's not a huge stretch to think that
+maybe it's literally false that there are any chairs at all.
+
+but even if there are chairs, this has some very non-obvious
+consequences that are interesting to think through.  at first it's
+easy to think 'there are chairs, and there aren't dogbushes, and
+that's that', but there's no good explanation as to why this might be
+the case.  the benefit of this thesis to me was the way it forced me
+to think through my pre-theoretic committments and try to make them
+coherent.
+*** why not just let physics tell us what there is?
+this is rather close to sider's view.  in his new book he comes out as
+a nihilist and claims that only physical things are the partless
+simples that physics tells us about.  but he also claims that there
+are a few other things, like sets and the logical operators.  his
+rationale for these non-physical things is that they 'carve at the
+joints'.  I'm not sure what exactly that means, except that the terms
+of set theory and a few logical operators allow us to say a lot of
+true things with very little 'ideology'.  Terms of physics presumably
+allow us to say lots of true things too, but not enough; Sider wants
+to be able to quantify over sets of spacetime points (so as to talk
+about things arranged chairwise and so on), and he cannot do that with
+only the resources of physical theory.  but in doing so, Sider has
+already shown that even in a really minimal metaphysical theory,
+physics still isn't enough to tell us what there is.  once we've made
+that break, why not recognize other things outside of physical theory,
+like chairs and people and words?
+** outlines
+*** all
+**** short
+the dispute between nihilists and universalists is a real dispute and
+one that cannot be settled by appeal to an explanatory deficit; both
+theories entail that some of our beliefs are false, but both can
+explain why we believe these falsehoods.  universalism is more
+plausible, however, but it leads to implausible results of its own.
+if universalism is true (and if four-dimensionalism is false), and if
+things can change their parts, then there are tons of co-located
+things.  if there isn't this plurality of things, then it follows that
+things _can't_ change their parts.
+**** long
+the ontological disputes I address (between nihilists, universalists,
+and van inwagen) are genuine.  if ted sider says truthfully "there are
+no chairs" then there aren't any chairs.  that's section 1.
+
+but then why do we believe there are chairs?  one explanation begins
+with the observation that we _don't_ believe there are dogbushes.
+there's no metaphysical difference between things arranged chairwise
+and things arranged dogbushwise.  chairs interest us, though, so we've
+introduced singular terms to talk about them.  as a result we come to
+believe that there are chairs.  but if there's no metaphysical
+difference between chairs and dogbushes, why shouldn't we suppose that
+_both_ exist?  that's section 2.
+
+so it's intuitively more plausible that there are both chairs and
+dogbushes than that there are neither.  but now what are these things
+like?  along with three assumptions, classical mereology entails that
+things can't change their parts.  the only assumption universalists
+can sensibly deny is non-co-location; if we want to maintain that
+things can change their parts, we have to allow a lot of overlapping
+things.  that's section 3.
+
+if we decide that all this co-location is too much, then we as
+universalists will have to deny that things can change their parts.
+what we think of as a single chair persisting through changes is
+really a series of mereological sums.  when we refer to a chair, we
+are referring to a sum.  cross-temporal talk about a 'single chair' is
+therefore very often false.  we can paraphrase such talk to capture
+what is accurate about it, but it is difficult to do so without
+assuming eternalism.  that's section 4.
+**** section 1 long
+Eli Hirsch claims that ontological disputes, like that between a
+nihilist and a universalist, are 'merely verbal'.  they are supposedly
+no more substantive than the dispute over whether a glass is a cup.
+but Hirsch's claim relies on a truth-conditional theory of meaning.
+he assigns equivalent truth-conditions to utterances like 'thing'
+and 'thing that has no parts' and concludes that the utterances
+are synonymous.  if all the nihilist means by 'there are no things
+with parts' is 'there are no thins that have no parts with parts',
+then the nihilist is not contradicting the universalist.  but without
+a truth-conditional theory of meaning, Hirsch cannot move from
+equivalent truth-conditions to equivalent meaning, and cannot
+establish that ontological disputes are 'merely verbal'.
+**** section 2 long
+but if there aren't chairs, then there must be some reason why we
+nonetheless believe there are chairs.  the best explanation I found
+goes something like this: due to our human peculiarities, some things
+interest us more than others, and we introduce singular terms to refer
+to them.  thus while there are really only things arranged chairwise,
+we come to believe that there are also chairs.  this explanation is
+motivated by the fact that we don't believe there are dogbushes.  they
+don't interest us, so we don't introduce singular terms to refer to
+them.  since we don't think there are dogbushes, and since the only
+difference between 'dogbushes' and 'chairs' is that one kind interests
+us, why should we think either exist?
+
+this explanation can explain why we would believe that there are
+chairs if there weren't, but it also explains why we wouldn't believe
+there _are dogbushes_ even if there were.  the argument can be run in
+reverse: since we think there are chairs, and since the only
+difference between chairs and dogbushes is that one kind interests us,
+why shouldn't we think both exist?
 * The big picture
 ** big plans
 *** <2012-02-11 Sat> outline
